@@ -1,0 +1,27 @@
+catalog:
+  abbreviation: EXP
+  counts:
+    candidates: 0
+    canonical: 0
+    entities: 0
+    open_change_requests: 0
+    research_files: 0
+    retired: 0
+  cross_cutting:
+    change_requests: change-requests/
+    classifications: classifications/
+    contributions_queue: contributions/
+    schemas: schemas/
+    validators: scripts/
+  description: 'A bounded, time-boxed test of a Signal''s relevance to the enterprise before committing investment.
+
+    '
+  entities: []
+  id: dea:catalog-experiments
+  metamodel_version: 1.0.0
+  name: Experiment
+  owner: TechNeHub Labs
+  repository: https://github.com/technehub-labs/dea-catalog-experiments.git
+  research_registers: []
+  status: active
+  version: 0.1.0
