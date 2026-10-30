@@ -1,20 +1,32 @@
 # Metamodel Pointer — Experiment
-# Auto-generated from OpenDEAM v0.3.0 (ADR-0003). Do not edit manually.
+#
+# Two consumers, two blocks (see FOUNDATIONS §5):
+#   - the top-level identity keys are consumed by the vendored
+#     regenerate_catalog.py to build CATALOG.yaml's catalog block;
+#   - the `metamodel:` allocation block is validated by
+#     dea-architecture-framework validate-against-model.yml
+#     against the pinned root-model ref (v0.8.0), and asserted
+#     locally by scripts/check_pointer.py.
+#
+# Allocation changes go through the root model, not this file.
+id: dea:catalog-experiments
+name: Experiment
+abbreviation: EXP
+version: 0.1.0
+status: active
+metamodel_version: 1.0.0
+owner: TechNeHub Labs
+description: |
+  A bounded, time-boxed test of a Signal's relevance to the enterprise before committing investment.
 metamodel:
-  version: v0.3.0
-  entity_id: dea:entity-experiment
-  class_alias: EXP
-  layer: L2
   building_block: L2-innovation-foresight
-  viewer_url: "https://technehub-labs.github.io/metamodel/?entity=EXP"
-
-catalog:
-  name: Experiment
-  repo: technehub-labs/dea-catalog-experiments
-  status: proposed
-
+  class_alias: EXP
+  entity_id: dea:entity-experiment
+  layer: L2
+  version: v0.8.0
+  viewer_url: https://technehub-labs.github.io/metamodel/?entity=EXP
 links:
   metamodel_repo: https://github.com/technehub-labs/dea-metamodel
   root_model: https://github.com/technehub-labs/dea-architecture-framework
-  viewer: "https://technehub-labs.github.io/metamodel/?entity=EXP"
+  viewer: https://technehub-labs.github.io/metamodel/?entity=EXP
   github: https://github.com/technehub-labs/dea-catalog-experiments
