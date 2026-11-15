@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00896246
+name: NCT00896246 — Scintigraphic Assessment Following Klean-Prep® or Moviprep®
+description: This was a phase 1, open-label, randomized study, designed to assess the impact of Moviprep®
+  or Klean-Prep® on gastrointestinal transit. It was performed in two parallel groups with Part A in two
+  groups of four subjects preceding Part B, which was performed in two groups of 12 subjects. Subjects
+  attended a pre-study medical within 28 days of dosing and a post-study medical 5-10 days after the final
+  dose. Within both Part A and Part B, subjects were required to attend the clinical unit for 2 study
+  periods. Part A consisted of a baseline period to determine individual reference times for gastrointestinal
+  transit. Part B was the test period in which gastrointestinal transit following the administration of
+  the test preparations was assessed. (NCT NCT00896246; status COMPLETED).
+hypothesis: This was a phase 1, open-label, randomized study, designed to assess the impact of Moviprep®
+  or Klean-Prep® on gastrointestinal transit. It was performed in two parallel groups with Part A in two
+  grou
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00896246 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00896246-scintigraphic-assessment-following-k

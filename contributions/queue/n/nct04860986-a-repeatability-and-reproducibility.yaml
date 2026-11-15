@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04860986
+name: NCT04860986 — A Repeatability and Reproducibility Study of the EarliPoint™ Device
+description: The study is a prospective randomized repeatability and reproducibility (R\&R) study of the
+  EarliPoint DeviceTM in pediatric subjects 16-30 months of age. The study will enroll subjects who are
+  both clinically-positive and clinically-negative for ASD. The study will be conducted at a single center
+  in the US. The Study consists of a screening period in order to review the subject's medical history
+  to determine subject eligibility, followed by a device administration period during which subjects will
+  undergo testing with the EarliPoint Devices and Expert Clinician Diagnosis (ECD) procedures to determine
+  if they are clinically-positive or clinically-negative for ASD. (NCT NCT04860986; status COMPLETED).
+hypothesis: The study is a prospective randomized repeatability and reproducibility (R\&R) study of the
+  EarliPoint DeviceTM in pediatric subjects 16-30 months of age. The study will enroll subjects who are
+  both c
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04860986 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04860986-a-repeatability-and-reproducibility

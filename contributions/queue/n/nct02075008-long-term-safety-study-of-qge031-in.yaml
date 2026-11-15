@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02075008
+name: NCT02075008 — Long-term Safety Study of QGE031 in Patients With Allergic Asthma Who Completed Study
+  CQGE031B2201
+description: This study planned to assess long-term safety of QGE031 during 12 months treatment in asthma
+  patients who completed study CQGE031B2201. (NCT NCT02075008; status TERMINATED).
+hypothesis: This study planned to assess long-term safety of QGE031 during 12 months treatment in asthma
+  patients who completed study CQGE031B2201.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02075008 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct02075008-long-term-safety-study-of-qge031-in

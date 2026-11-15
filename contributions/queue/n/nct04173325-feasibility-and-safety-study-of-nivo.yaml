@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04173325
+name: NCT04173325 — Feasibility and Safety Study of Nivolumab With Irinotecan for Small Cell Lung Cancer
+description: This study will determine the frequency of adverse events (side effects) in patients with
+  relapsed or refractory small cell lung cancer (SCLC) when given nivolumab and irinotecan together followed
+  by nivolumab maintenance. This study will test the safety of the study treatments when given together
+  and see what effect (good or bad) it has on participants and their cancer. (NCT NCT04173325; status
+  TERMINATED).
+hypothesis: 'This study will determine the frequency of adverse events (side effects) in patients with
+  relapsed or refractory small cell lung cancer (SCLC) when given nivolumab and irinotecan together followed
+  by '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04173325 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct04173325-feasibility-and-safety-study-of-nivo

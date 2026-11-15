@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00121940
+name: 'NCT00121940 — Guided Care: Integrating High Tech and High Touch'
+description: 'The purpose of the study is to evaluate the effect of a Guided Care nurse on the quality
+  of the health and well-being of the frail elderly. A specially trained registered nurse will work closely
+  with 1-3 primary care physicians to provide the most complex older patients (and their unpaid caregivers)
+  with health care that is comprehensive, coordinated, patient-centered, and proactive. The study will
+  evaluate the effects of Guided Care on: * older persons'' physical and mental health, health services
+  utilization, quality of care, self-efficacy, and satisfaction with care; * older persons'' unpaid caregivers''
+  burden; and * primary care physicians'' satisfaction with their care of chronically ill patients. (NCT
+  NCT00121940; status COMPLETED).'
+hypothesis: 'The purpose of the study is to evaluate the effect of a Guided Care nurse on the quality
+  of the health and well-being of the frail elderly. A specially trained registered nurse will work closely
+  with '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00121940 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00121940-guided-care-integrating-high-tech-an

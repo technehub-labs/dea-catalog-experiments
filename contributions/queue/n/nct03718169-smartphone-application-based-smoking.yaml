@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03718169
+name: NCT03718169 — Smartphone Application-based Smoking Cessation Programme Among Female Smokers
+description: This project aims to develop a smartphone application to deliver a gender-specific programme
+  for female smokers in Hong Kong. Through the smartphone application, we expect that our gender-specific
+  smoking cessation programme can reach more female smokers in Hong Kong. The objectives is to promote
+  smoking cessation among female smokers in Hong Kong. (NCT NCT03718169; status COMPLETED).
+hypothesis: This project aims to develop a smartphone application to deliver a gender-specific programme
+  for female smokers in Hong Kong. Through the smartphone application, we expect that our gender-specific
+  smo
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03718169 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03718169-smartphone-application-based-smoking

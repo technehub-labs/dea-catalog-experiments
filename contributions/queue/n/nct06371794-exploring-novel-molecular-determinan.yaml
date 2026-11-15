@@ -1,0 +1,41 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06371794
+name: NCT06371794 — EXploring novEl Molecular Determinants of DRAvet Syndrome Phenotype Heterogeneity
+description: Dravet syndrome is characterized as a developmental encephalopathy resulting from mutations
+  of SCN1A, the gene encoding the alpha subunit of the voltage-gated sodium channel Nav1.1. The syndrome
+  typically presents with drug-resistant epilepsy and varying degrees of cognitive disorders. Current
+  treatment efficacy may be hindered by insufficient knowledge of undiscovered molecular determinants
+  of the disease and its heterogeneous nature. Utilizing induced pluripotent stem cells (iPSCs) derived
+  from skin biopsies, accessibility to patients' brain neurons has enabled successful modeling of various
+  genetic neurological diseases. Neurons and brain organoids will be obtained from Dravet syndrome patients
+  exhibiting diverse phenotypic severities, encompassing behavioral and developmental delays, to discern
+  the molecular determinants of phenotypic diversity. Specifically, emphasis will be placed on investigating
+  cellular and molecular mechanisms linking altered neuronal excitability with synaptic dysfunction.The
+  study will focus on exploring the expression of newly identified modifiers potentially associated with
+  neuronal excitability and synaptic function in iPSC-derived human neurons. This aims to establish correlations
+  between the severity of epileptic and cognitive phenotypes and the altered expression of these proteins,
+  whose functions are not fully understood.In the mid to long term, efforts will be directed towards overcoming
+  the limitations of conventional therapeutic approaches for Dravet syndrome. This will involve attempting
+  to reverse the observed morphological and functional alterations in Dravet syndrome neurons using viral
+  vectors to promote overexpression/downregulation of identified modifiers correlated with disease severity.
+  The anticipated outcomes of this project are expected to unveil novel molecular mechanisms underlying
+  the pathophysiology of this severe neurogenetic disease, characterized by varying degrees of cognitive
+  impairment. Moreover, these fin
+hypothesis: Dravet syndrome is characterized as a developmental encephalopathy resulting from mutations
+  of SCN1A, the gene encoding the alpha subunit of the voltage-gated sodium channel Nav1.1. The syndrome
+  typic
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06371794 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct06371794-exploring-novel-molecular-determinan

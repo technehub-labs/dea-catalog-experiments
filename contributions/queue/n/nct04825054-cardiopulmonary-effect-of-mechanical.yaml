@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04825054
+name: NCT04825054 — Cardiopulmonary Effect of Mechanical Ventilation in Children With Right Ventricular
+  Hypertrophy
+description: Neurally adjusted ventilatory assist (NAVA) is a new mode of mechanical ventilation that
+  delivers ventilatory assist in proportion to neural effort. The investigators hope to compare the hemodynamic
+  and pulmonary effect in children after surgical repair of congenital heart disease with right ventricular
+  hypertrophic ventilated with Pressure control ventilation (PCV), Pressure support ventilation (PSV),
+  and NAVA by a crossover study. (NCT NCT04825054; status UNKNOWN).
+hypothesis: Neurally adjusted ventilatory assist (NAVA) is a new mode of mechanical ventilation that delivers
+  ventilatory assist in proportion to neural effort. The investigators hope to compare the hemodynamic
+  a
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04825054 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct04825054-cardiopulmonary-effect-of-mechanical

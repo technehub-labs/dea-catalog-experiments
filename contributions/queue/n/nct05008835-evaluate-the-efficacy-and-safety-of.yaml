@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05008835
+name: NCT05008835 — Evaluate the Efficacy and Safety of ACP-044 in Subjects With Pain Associated With
+  Osteoarthritis of the Knee
+description: To evaluate the efficacy of ACP-044 compared with placebo in the treatment of pain associated
+  with osteoarthritis of the knee (NCT NCT05008835; status TERMINATED).
+hypothesis: To evaluate the efficacy of ACP-044 compared with placebo in the treatment of pain associated
+  with osteoarthritis of the knee
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05008835 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct05008835-evaluate-the-efficacy-and-safety-of

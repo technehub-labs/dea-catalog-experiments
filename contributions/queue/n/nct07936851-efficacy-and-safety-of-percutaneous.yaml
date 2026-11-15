@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07936851
+name: 'NCT07936851 — Efficacy and Safety of Percutaneous Nephrostomy Versus Double J Stent Insertion in
+  Pregnant Patients With Symptomatic Right-sided Hydronephrosis: A Randomized Trial.'
+description: This study is to evaluate the efficacy and safety of pcn versus Dj stent in pregnant patients
+  with systematic right-sided hydronephrosis requiring surgical intervention. (NCT NCT07936851; status
+  ACTIVE_NOT_RECRUITING).
+hypothesis: This study is to evaluate the efficacy and safety of pcn versus Dj stent in pregnant patients
+  with systematic right-sided hydronephrosis requiring surgical intervention.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07936851 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct07936851-efficacy-and-safety-of-percutaneous

@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02756624
+name: NCT02756624 — A Multi-Center, Vehicle-Controlled, Parallel-Group Study Evaluating the Safety of
+  AC-170 Ophthalmic Solution
+description: This is study is evaluating the safety and tolerability of AC-170 Ophthalmic Solution (NCT
+  NCT02756624; status COMPLETED).
+hypothesis: This is study is evaluating the safety and tolerability of AC-170 Ophthalmic Solution
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02756624 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02756624-a-multi-center-vehicle-controlled-pa

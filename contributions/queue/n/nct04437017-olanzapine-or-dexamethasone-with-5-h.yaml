@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04437017
+name: NCT04437017 — Olanzapine or Dexamethasone, With 5-HT3 RA and NK-1 RA, to Prevent CINV
+description: 'Chemotherapy-induced nausea and vomiting is a common side effect of cancer treatments, and
+  dexamethasone offers a clear advantage over placebo for protection against chemotherapy-induced emesis
+  in both acute and delayed phases. However, its side effects such as moderate to severe insomnia, hyperglycemia,
+  dyspepsia, upper abdominal discomfort, irritability, increased appetite, weight gain and acne are gathering
+  increasing concerns. Several clinical trials have shown that olanzapine plays an important role in treating
+  delayed, refractory, breakthrough nausea and vomiting. Its side effects mainly include sedation and
+  weight gaining. At present, the NCCN guidelines have recommended olanzapine-containing three-drug regimen
+  for Highly Emetogenic Chemotherapy (HEC) and moderate emetic chemotherapy (MEC) to prevent vomiting,
+  but its data in the Chinese population is limited. Hence, we initiated this prospective, multi-center,
+  phase III study to validate the dexamethasone-free protocol: applying olanzapine to prevent CINV instead
+  of dexamethasone. (NCT NCT04437017; status COMPLETED).'
+hypothesis: Chemotherapy-induced nausea and vomiting is a common side effect of cancer treatments, and
+  dexamethasone offers a clear advantage over placebo for protection against chemotherapy-induced emesis
+  in bot
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04437017 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04437017-olanzapine-or-dexamethasone-with-5-h

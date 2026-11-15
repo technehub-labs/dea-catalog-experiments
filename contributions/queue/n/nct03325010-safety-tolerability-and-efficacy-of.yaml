@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03325010
+name: NCT03325010 — Safety, Tolerability, and Efficacy of NBI-98854 for the Treatment of Pediatric Subjects
+  With Tourette Syndrome
+description: This is a Phase 2b, randomized, double-blind, placebo-controlled, dose-optimization study
+  to evaluate the efficacy, safety, and tolerability of NBI-98854 titrated to the subject's optimal dose
+  administered once daily (qd) for a total of 12 weeks of treatment in pediatric subjects with TS. (NCT
+  NCT03325010; status COMPLETED).
+hypothesis: This is a Phase 2b, randomized, double-blind, placebo-controlled, dose-optimization study
+  to evaluate the efficacy, safety, and tolerability of NBI-98854 titrated to the subject's optimal dose
+  adminis
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03325010 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03325010-safety-tolerability-and-efficacy-of

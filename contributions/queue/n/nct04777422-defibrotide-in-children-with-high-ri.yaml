@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04777422
+name: NCT04777422 — Defibrotide in Children With High Risk Kawasaki Disease
+description: This study evaluates the safety of defibrotide with IVIG in children with high risk Kawasaki
+  disease. (NCT NCT04777422; status UNKNOWN).
+hypothesis: This study evaluates the safety of defibrotide with IVIG in children with high risk Kawasaki
+  disease.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04777422 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct04777422-defibrotide-in-children-with-high-ri

@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02008370
+name: NCT02008370 — Exparel in Minimally Invasive Cardiac Surgery
+description: 'The investigators are presently using Exparel, a slow released local anesthestic, in patients
+  undergoing minimally invasive cardiac surgery. The primary objective of this study is to assess the
+  efficacy of EXPAREL when delivered into the thoracotomy and chest tube sites to provide prolonged postoperative
+  analgesia in patients undergoing minimally invasive cardiac surgery. Efficacy will be assessed by: the
+  effectiveness of analgesia as measured by the subject''s overall postoperative pain scores and postsurgical
+  analgesic use. (NCT NCT02008370; status TERMINATED).'
+hypothesis: The investigators are presently using Exparel, a slow released local anesthestic, in patients
+  undergoing minimally invasive cardiac surgery. The primary objective of this study is to assess the
+  effica
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02008370 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct02008370-exparel-in-minimally-invasive-cardia

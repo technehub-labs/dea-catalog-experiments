@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02704702
+name: NCT02704702 — A Clinical Trial to Evaluate the Pharmacokinetics and Safety of Fimasartan and Rosuvastatin
+  in Healthy Male Subjects
+description: The purpose of this study is to evaluate the pharmacokinetics and safety of Fimasartan and
+  rosuvastatin when coadministered or administered alone as a single dose or as multiple doses to healthy
+  male subjects. (NCT NCT02704702; status COMPLETED).
+hypothesis: 'The purpose of this study is to evaluate the pharmacokinetics and safety of Fimasartan and
+  rosuvastatin when coadministered or administered alone as a single dose or as multiple doses to healthy
+  male '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02704702 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02704702-a-clinical-trial-to-evaluate-the-pha

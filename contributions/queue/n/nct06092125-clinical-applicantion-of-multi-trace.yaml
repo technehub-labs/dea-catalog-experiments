@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06092125
+name: NCT06092125 — Clinical Applicantion of Multi-Tracer PET/MR Imaging in Neurological Disorders/Disease
+description: 'The goal of this clinical trial is to learn about the application of domestic PET/MR in
+  major brain diseases. The main questions it aims to answer are: * Overcome the bottleneck of early accurate
+  diagnosis and treatment in major brain diseases clinical practice. * Promote the clinical application
+  of domestic PET/MR, enhance international competitiveness. Participants will have a PET/MR scan of the
+  brain. (NCT NCT06092125; status RECRUITING).'
+hypothesis: 'The goal of this clinical trial is to learn about the application of domestic PET/MR in major
+  brain diseases. The main questions it aims to answer are: * Overcome the bottleneck of early accurate
+  diag'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06092125 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06092125-clinical-applicantion-of-multi-trace

@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00001053
+name: NCT00001053 — A Phase I Safety and Immunogenicity Study of HIV p17/p24:Ty-VLP in HIV-1 Seronegative
+  Subjects
+description: To evaluate the safety and immunogenicity of HIV p17/p24:Ty-VLP (virus-like particles) vaccine
+  in uninfected volunteers. Specifically, to determine whether the vaccine formulated with and without
+  alum induces CD8+ cytotoxic T lymphocytes ( CTLs ) that may be cross-reactive against multiple HIV-1
+  stains. Also, to determine whether boosting with the vaccine orally or rectally will help induce mucosal
+  antibody responses. Induction of CD8+ CTL activity is considered a critical property for a candidate
+  vaccine. Additionally, since the majority of HIV-1 infections occur after inoculation of a mucosal surface,
+  it is desirable to induce mucosal immunity as well as systemic immunity. The HIV p17/p24:Ty-VLP vaccine
+  may potentially induce both CTL and mucosal antibody responses against HIV-1. (NCT NCT00001053; status
+  COMPLETED).
+hypothesis: To evaluate the safety and immunogenicity of HIV p17/p24:Ty-VLP (virus-like particles) vaccine
+  in uninfected volunteers. Specifically, to determine whether the vaccine formulated with and without
+  alum
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00001053 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00001053-a-phase-i-safety-and-immunogenicity

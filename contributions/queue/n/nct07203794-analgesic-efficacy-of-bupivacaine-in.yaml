@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07203794
+name: NCT07203794 — Analgesic Efficacy of Bupivacaine Infiltration, Erector Spinae Plane Block, and Intrathecal
+  Morphine in Laparoscopic Cholecystectomy
+description: 'This study is designed to compare three different methods of pain control after laparoscopic
+  gallbladder surgery (laparoscopic cholecystectomy). Although this surgery is minimally invasive, participants
+  often experience different types of pain after the operation, such as pain at the incision site, pain
+  inside the abdomen, and shoulder pain caused by the gas used during surgery. The investigators will
+  compare three commonly used pain relief techniques: Local infiltration - injecting a numbing medicine
+  (bupivacaine) into the gallbladder bed and at the sites where the surgical instruments are placed. Erector
+  spinae plane (ESP) block - an ultrasound-guided nerve block performed in the back to reduce both abdominal
+  and incisional pain. Intrathecal morphine - a very small dose of morphine given into the spinal fluid
+  before surgery to provide long-lasting pain relief. The goal is to determine which method provides the
+  best pain control, reduces the need for opioid medications, and improves recovery after surgery. (NCT
+  NCT07203794; status NOT_YET_RECRUITING).'
+hypothesis: This study is designed to compare three different methods of pain control after laparoscopic
+  gallbladder surgery (laparoscopic cholecystectomy). Although this surgery is minimally invasive, participan
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07203794 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07203794-analgesic-efficacy-of-bupivacaine-in

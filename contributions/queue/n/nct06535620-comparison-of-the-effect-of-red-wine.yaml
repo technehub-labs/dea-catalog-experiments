@@ -1,0 +1,33 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06535620
+name: NCT06535620 — Comparison of the Effect of Red Wine With Alcohol on Flow-mediated Dilation Versus
+  Red Wine Without Alcohol
+description: 'Introduction: Cardiovascular diseases (CVDs) are the leading cause of global mortality,
+  despite being preventable. Moderate wine consumption has been associated with one of the preventative
+  approaches due to its benefits on cardiovascular health, including endothelial protection and antioxidant
+  effects, attributed to its chemical composition, such as flavonoids. Objective: To assess endothelial
+  function through flow-mediated dilation after the consumption of red wine compared to non-alcoholic
+  wine. Methodology: A parallel, randomized, placebo-controlled clinical trial with a blinded evaluator
+  will be conducted with 20 healthy participants, evaluated at two distinct time points. Participants
+  will be selected to receive either red wine or non-alcoholic wine and will be crossed over after 7 days
+  to receive the opposite beverage from the initial one. The primary outcome will be the change in flow-mediated
+  dilation of the brachial artery pre- and post-intervention in both groups. The secondary outcomes will
+  include the flow-mediated dilation values, brachial artery diameter after the intervention, and measurements
+  of systolic blood pressure (SBP) and diastolic blood pressure (DBP). (NCT NCT06535620; status UNKNOWN).'
+hypothesis: 'Introduction: Cardiovascular diseases (CVDs) are the leading cause of global mortality, despite
+  being preventable. Moderate wine consumption has been associated with one of the preventative approaches'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06535620 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct06535620-comparison-of-the-effect-of-red-wine

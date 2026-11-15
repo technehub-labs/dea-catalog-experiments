@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03426280
+name: NCT03426280 — Activity Therapy After Kidney Transplant
+description: To combat post-transplant weight gain, we seek to expand Stanford Kidney Transplant's multidisciplinary
+  platform to include physical activity monitoring and coaching using the Apple Watch. (NCT NCT03426280;
+  status TERMINATED).
+hypothesis: To combat post-transplant weight gain, we seek to expand Stanford Kidney Transplant's multidisciplinary
+  platform to include physical activity monitoring and coaching using the Apple Watch.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03426280 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct03426280-activity-therapy-after-kidney-transp

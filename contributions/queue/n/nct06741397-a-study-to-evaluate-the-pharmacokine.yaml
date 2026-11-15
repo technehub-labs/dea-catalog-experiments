@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06741397
+name: NCT06741397 — A Study to Evaluate the Pharmacokinetics, Safety, and Tolerability of a New Formulation
+  of Cabotegravir Long-Acting Administered Intramuscularly in a 4-month Dosing Interval (Q4M)
+description: This study will evaluate the pharmacokinetics (PK), safety, and tolerability of a new formulation
+  of Cabotegravir (CAB) dosed every 4-months (Q4M) for pre-exposure prophylaxis (PrEP) in participants
+  at risk of HIV-1 acquisition. (NCT NCT06741397; status ACTIVE_NOT_RECRUITING).
+hypothesis: This study will evaluate the pharmacokinetics (PK), safety, and tolerability of a new formulation
+  of Cabotegravir (CAB) dosed every 4-months (Q4M) for pre-exposure prophylaxis (PrEP) in participants
+  a
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06741397 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct06741397-a-study-to-evaluate-the-pharmacokine

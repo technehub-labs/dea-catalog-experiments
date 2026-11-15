@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07260708
+name: NCT07260708 — Clinical Trial of TQB2922 Injection (Subcutaneous Injection) in Patients With Advanced
+  Cancers
+description: This is a Phase I clinical study aimed at evaluating the safety and pharmacokinetics of TQB2922
+  subcutaneous injection in patients with advanced cancers. (NCT NCT07260708; status RECRUITING).
+hypothesis: This is a Phase I clinical study aimed at evaluating the safety and pharmacokinetics of TQB2922
+  subcutaneous injection in patients with advanced cancers.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07260708 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07260708-clinical-trial-of-tqb2922-injection

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07212062
+name: NCT07212062 — The Purpose of This Study is to Evaluate the Safety and Tolerability of X/T+X-EC in
+  Participants With Alzheimer's Disease Who Are Currently Treated With Lecanemab.
+description: The goal of the trial is to see if the Safety and Tolerability of X/T+X/T-EC combined with
+  currently treated Lecanemab participants with Alzheimer's Disease compared with placebo. This is a 32
+  week study (4 weeks of screening,24 weeks of treatment and 4 weeks of safety follow up) (NCT NCT07212062;
+  status NOT_YET_RECRUITING).
+hypothesis: The goal of the trial is to see if the Safety and Tolerability of X/T+X/T-EC combined with
+  currently treated Lecanemab participants with Alzheimer's Disease compared with placebo. This is a 32
+  week st
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07212062 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07212062-the-purpose-of-this-study-is-to-eval

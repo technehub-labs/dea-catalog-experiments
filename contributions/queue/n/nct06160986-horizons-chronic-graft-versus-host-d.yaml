@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06160986
+name: NCT06160986 — Horizons Chronic Graft-Versus-Host-Disease Study
+description: This research is being done to evaluate the feasibility of the Horizons Program, a group-based
+  behavioral intervention, to enhance quality of life in patients with chronic graft-versus-host disease.
+  (NCT NCT06160986; status ACTIVE_NOT_RECRUITING).
+hypothesis: This research is being done to evaluate the feasibility of the Horizons Program, a group-based
+  behavioral intervention, to enhance quality of life in patients with chronic graft-versus-host disease.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06160986 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct06160986-horizons-chronic-graft-versus-host-d

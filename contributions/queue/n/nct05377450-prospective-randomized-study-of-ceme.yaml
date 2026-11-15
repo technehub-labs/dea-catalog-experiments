@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05377450
+name: NCT05377450 — Prospective Randomized Study of Cementless vs Cemented UKA
+description: To evaluate the non-inferiority of the cementless Engage Partial Knee System compared to
+  cemented Engage Partial knee System. (NCT NCT05377450; status ACTIVE_NOT_RECRUITING).
+hypothesis: To evaluate the non-inferiority of the cementless Engage Partial Knee System compared to cemented
+  Engage Partial knee System.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05377450 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct05377450-prospective-randomized-study-of-ceme

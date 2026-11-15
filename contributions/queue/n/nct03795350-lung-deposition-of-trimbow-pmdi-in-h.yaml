@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03795350
+name: NCT03795350 — Lung Deposition of TRIMBOW® pMDI in Healthy Volunteers, Asthmatic and COPD Patients
+description: The purpose of this study is to investigate the lung deposition and distribution pattern
+  of TRIMBOW using a Gamma-scintigraphic technique after inhalation of a single dose of 99mTc radiolabelled
+  TRIMBOW administered via pMDI in healthy volunteers, asthmatic and COPD patients (NCT NCT03795350; status
+  TERMINATED).
+hypothesis: The purpose of this study is to investigate the lung deposition and distribution pattern of
+  TRIMBOW using a Gamma-scintigraphic technique after inhalation of a single dose of 99mTc radiolabelled
+  TRIMB
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03795350 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct03795350-lung-deposition-of-trimbow-pmdi-in-h

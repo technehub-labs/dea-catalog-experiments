@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02624960
+name: NCT02624960 — Safety and Performance of the AccuCinch® System
+description: This is a single-arm, multi-center, open-label controlled study that will assess the safety
+  and performance of the Accucinch System to induce left ventricular reverse remodeling and reduce the
+  severity of functional mitral regurgitation in symptomatic adult patients with mitral regurgitation
+  and left ventricular remodeling due to dilated cardiomyopathy (ischemic or non-ischemic etiology), who
+  are of high operative risk. (NCT NCT02624960; status WITHDRAWN).
+hypothesis: This is a single-arm, multi-center, open-label controlled study that will assess the safety
+  and performance of the Accucinch System to induce left ventricular reverse remodeling and reduce the
+  severit
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02624960 (ClinicalTrials.gov; status WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withdrawn
+slug: nct02624960-safety-and-performance-of-the-accuci

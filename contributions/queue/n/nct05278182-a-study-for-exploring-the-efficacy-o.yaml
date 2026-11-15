@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05278182
+name: 'NCT05278182 — A Study for Exploring the Efficacy of Naoxintong Capsules in the Treatment of Coronary
+  Atherosclerotic Plaque on the Basis of Optimal Medical Therapy (Aspirin,Statins,Clopidogrel, Etc.):'
+description: To evaluate and compare the change of plaque composition by VH-IVUS imaging in subjects who
+  take NXT and placebo in post-PCI of AMI patients during 12 months follow-up. (NCT NCT05278182; status
+  UNKNOWN).
+hypothesis: To evaluate and compare the change of plaque composition by VH-IVUS imaging in subjects who
+  take NXT and placebo in post-PCI of AMI patients during 12 months follow-up.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05278182 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05278182-a-study-for-exploring-the-efficacy-o

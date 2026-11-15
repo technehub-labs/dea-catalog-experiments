@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01853579
+name: NCT01853579 — The TRUST Study - Depression Substudy
+description: Mild thyroid failure is a common condition among older adults and has been associated with
+  numerous adverse effects on health, such as cardiovascular disease, cognition disturbances and muscular
+  problems. Mild thyroid failure has also been associated with an increased risk of developing depression.
+  To date, only few studies have investigated the effect of thyroid hormone replacement on depression
+  in patients with mild thyroid failure. This study therefore aims to assess whether thyroid hormone replacement
+  in older adults with mild thyroid failure is associated with a decrease in the presence of depressive
+  symptoms. This study forms a substudy of a large international study on thyroid hormone replacement
+  in older adults with mild thyroid failure (the TRUST study). (NCT NCT01853579; status COMPLETED).
+hypothesis: Mild thyroid failure is a common condition among older adults and has been associated with
+  numerous adverse effects on health, such as cardiovascular disease, cognition disturbances and muscular
+  probl
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01853579 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01853579-the-trust-study-depression-substudy

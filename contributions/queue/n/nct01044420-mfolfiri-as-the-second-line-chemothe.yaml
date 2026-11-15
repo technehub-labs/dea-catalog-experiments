@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01044420
+name: 'NCT01044420 — mFOLFIRI as the Second Line Chemotherapy for Advanced Esophageal Carcinoma After
+  Failure of 1st Line Treatment of Paclitaxel/DDP : a Phase II Single Center Prospective Clinical Trial'
+description: There are few studies about 2nd line treatment in advanced esophageal carcinoma(AEC), some
+  showed that irinotecan may be effective. The investigators previous study has shown the efficacy and
+  safety of paclitaxel/cisplatin as 1st line treatment, so in this phase II study, the investigators would
+  like to observe the efficacy and safety of Irinotecan/5FU/leucovorin as 2nd line treatment if AEC after
+  failure to 1st treatment of PTX/DDP. (NCT NCT01044420; status UNKNOWN).
+hypothesis: There are few studies about 2nd line treatment in advanced esophageal carcinoma(AEC), some
+  showed that irinotecan may be effective. The investigators previous study has shown the efficacy and
+  safety o
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01044420 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct01044420-mfolfiri-as-the-second-line-chemothe

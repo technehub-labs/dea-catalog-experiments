@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02663024
+name: NCT02663024 — Study of Idursulfase-beta (GC1111) in Hunter Syndrome
+description: This study evaluates the efficacy and safety of three doses of GC1111 in patients with Hunter
+  Syndrome. Participants will be randomized to one of three doses of GC1111 or comparator. (NCT NCT02663024;
+  status UNKNOWN).
+hypothesis: This study evaluates the efficacy and safety of three doses of GC1111 in patients with Hunter
+  Syndrome. Participants will be randomized to one of three doses of GC1111 or comparator.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02663024 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct02663024-study-of-idursulfase-beta-gc1111-in

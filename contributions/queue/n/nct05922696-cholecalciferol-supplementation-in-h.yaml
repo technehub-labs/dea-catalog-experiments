@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05922696
+name: NCT05922696 — Cholecalciferol Supplementation in Hemodialysis Patients
+description: This is prospective single-blind randomized study, in Ain Shams University hospital) in Egypt,
+  to assess the impact of Cholecalciferol on Anemia status in regular hemodialysis outpatients (NCT NCT05922696;
+  status COMPLETED).
+hypothesis: This is prospective single-blind randomized study, in Ain Shams University hospital) in Egypt,
+  to assess the impact of Cholecalciferol on Anemia status in regular hemodialysis outpatients
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05922696 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05922696-cholecalciferol-supplementation-in-h

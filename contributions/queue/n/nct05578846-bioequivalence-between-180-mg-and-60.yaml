@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05578846
+name: NCT05578846 — Bioequivalence Between 180 mg and 60 mg ALXN2050 Tablets and Food Effect on ALXN2050
+  Pharmacokinetics
+description: This study will assess the Bioequivalence between 180 mg and 60 mg ALXN2050 Tablets and the
+  Effect of Food on ALXN2050 Pharmacokinetics. (NCT NCT05578846; status COMPLETED).
+hypothesis: This study will assess the Bioequivalence between 180 mg and 60 mg ALXN2050 Tablets and the
+  Effect of Food on ALXN2050 Pharmacokinetics.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05578846 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05578846-bioequivalence-between-180-mg-and-60

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03600922
+name: NCT03600922 — Clinical Study of Patellar Resurfacing and Non-resurfacing in Total Knee Arthroplasty
+description: The literature regarding resurfacing of the patella in total knee arthroplasty has conflicting
+  conclusions. This study assesses medium-term clinical results of total knee arthroplasties performed
+  with and without the patellar resurfacing in patients undergoing single-staged bilateral total knee
+  arthroplasty in a randomized controlled, clinical study at a minimum of 5 years follow-up. (NCT NCT03600922;
+  status COMPLETED).
+hypothesis: The literature regarding resurfacing of the patella in total knee arthroplasty has conflicting
+  conclusions. This study assesses medium-term clinical results of total knee arthroplasties performed
+  with
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03600922 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03600922-clinical-study-of-patellar-resurfaci

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07107373
+name: NCT07107373 — A Study to Assess the Treatment of Obstructive Hypertrophic Cardiomyopathy (oHCM)
+  With Mavacamten in the US
+description: The purpose of this study is to evaluate the real-world safety and effectiveness of patients
+  with symptomatic obstructive hypertrophic cardiomyopathy (oHCM) initiated on mavacamten at certain high
+  volume HCM centers in the US (NCT NCT07107373; status ACTIVE_NOT_RECRUITING).
+hypothesis: The purpose of this study is to evaluate the real-world safety and effectiveness of patients
+  with symptomatic obstructive hypertrophic cardiomyopathy (oHCM) initiated on mavacamten at certain high
+  vol
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07107373 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct07107373-a-study-to-assess-the-treatment-of-o

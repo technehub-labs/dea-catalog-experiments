@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02410070
+name: NCT02410070 — A Comparison of Minimal Approach With Conventional Approach for Distal Radial Fractures
+description: The objective of this study is to compare a minimal invasive approach with the conventional
+  flexor carpi radialis approach for volar plating of distal radial fractures. (NCT NCT02410070; status
+  COMPLETED).
+hypothesis: The objective of this study is to compare a minimal invasive approach with the conventional
+  flexor carpi radialis approach for volar plating of distal radial fractures.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02410070 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02410070-a-comparison-of-minimal-approach-wit

@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01934231
+name: NCT01934231 — Study to Assess the Efficacy and Safety of Potassium Clavulanate/Amoxicillin in Children
+  With Acute Bacterial Rhinosinusitis
+description: Acute Bacterial Rhinosinusitis (ABRS) is a respiratory inflammation commonly seen in clinical
+  practice, which has with respiratory symptoms including nasal congestion, rhinorrhoea, postnasal discharge
+  and cough and is associated with headache, cheek pain, facial pressure and other conditions. The principal
+  bacterial pathogens in causing ABRS include Streptococcus pneumoniae, Haemophilus influenzae and Moraxella
+  (Branhamella) catarrhalis. These three bacteria account for approximately 90% of ABRS in children less
+  than or equal to 5 years of age. Combination of Potassium Clavulanate (CVA) and Amoxicillin (AMPC) produces
+  higher antibiotic activity against beta-lactamase-producing bacteria. The present study is designed
+  to assess the clinical efficacy, bacteriological efficacy and safety of CVA/AMPC (1:14) administered
+  in children aged from 3 months to less than 15 years with ABRS. It is an open-label study consisting
+  of a 7-day treatment phase and a post-treatment follow-up phase for 7 to 14 days. (NCT NCT01934231;
+  status COMPLETED).
+hypothesis: Acute Bacterial Rhinosinusitis (ABRS) is a respiratory inflammation commonly seen in clinical
+  practice, which has with respiratory symptoms including nasal congestion, rhinorrhoea, postnasal discharge
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01934231 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01934231-study-to-assess-the-efficacy-and-saf

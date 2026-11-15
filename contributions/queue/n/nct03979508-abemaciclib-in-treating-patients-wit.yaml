@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03979508
+name: NCT03979508 — Abemaciclib in Treating Patients With Surgically Resectable, Chemotherapy Resistant,
+  Triple Negative Breast Cancer
+description: This phase II trial studies how well abemaciclib works in treating patients with triple negative
+  breast cancer that can be removed by surgery (resectable) and does not respond to treatment with chemotherapy
+  alone, or in combination with pembrolizumab. Abemaciclib may stop the growth of cancer cells by blocking
+  some of the enzymes needed for cell growth. (NCT NCT03979508; status TERMINATED).
+hypothesis: This phase II trial studies how well abemaciclib works in treating patients with triple negative
+  breast cancer that can be removed by surgery (resectable) and does not respond to treatment with chemot
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03979508 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct03979508-abemaciclib-in-treating-patients-wit

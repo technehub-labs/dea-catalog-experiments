@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03952754
+name: NCT03952754 — Effect of Hip Hop Nutrition-Math Curriculum
+description: 'This study is testing the efficacy of the integrative approach to: 1. teach 5th grade children
+  menu board calorie literacy as measured by our novel recently validated menu board calorie literacy
+  (MBCL) instrument; 2. provide strategies designed to improve food purchasing behaviors; and 3. facilitate
+  the transmission of core lesson messages from children to parents via a procedure that we have termed
+  "Child Mediated Health Communication (CMHC)". (NCT NCT03952754; status SUSPENDED).'
+hypothesis: 'This study is testing the efficacy of the integrative approach to: 1. teach 5th grade children
+  menu board calorie literacy as measured by our novel recently validated menu board calorie literacy
+  (MBCL'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03952754 (ClinicalTrials.gov; status SUSPENDED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- suspended
+slug: nct03952754-effect-of-hip-hop-nutrition-math-cur

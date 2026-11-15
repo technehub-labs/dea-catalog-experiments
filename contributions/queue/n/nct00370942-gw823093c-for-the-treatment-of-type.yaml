@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00370942
+name: NCT00370942 — GW823093C For The Treatment Of Type 2 Diabetes Mellitus
+description: This study was designed to find dose response and as extension in treatment of GW823093C.
+  (NCT NCT00370942; status TERMINATED).
+hypothesis: This study was designed to find dose response and as extension in treatment of GW823093C.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00370942 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct00370942-gw823093c-for-the-treatment-of-type

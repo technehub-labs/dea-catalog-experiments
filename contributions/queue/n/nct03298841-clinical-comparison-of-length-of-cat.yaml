@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03298841
+name: NCT03298841 — Clinical Comparison of Length of Cataract Procedures With Zeiss Lumera Versus Older
+  Zeiss Microscope
+description: Study design will be a mix of retrospective (older Zeiss microscope previously in use at
+  our surgery center) and prospective data collection with the Lumera and Callisto software. The Lumera
+  and Callisto software system will be used for all cataract surgeries including toric analyses and lens
+  placement. (NCT NCT03298841; status COMPLETED).
+hypothesis: Study design will be a mix of retrospective (older Zeiss microscope previously in use at our
+  surgery center) and prospective data collection with the Lumera and Callisto software. The Lumera and
+  Calli
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03298841 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03298841-clinical-comparison-of-length-of-cat

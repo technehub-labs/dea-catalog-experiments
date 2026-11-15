@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04243486
+name: NCT04243486 — A Study of the Safety and Efficacy of UHE-105 Shampoo in Subjects With Scalp Psoriasis
+description: This study is to compare the safety and efficacy of UHE-105 Shampoo with that of the vehicle
+  (VEH) Shampoo in subjects with scalp psoriasis. Half of the subjects will receive the UHE-105 Shampoo,
+  while the other half will receive the VEH Shampoo with no active drug. (NCT NCT04243486; status COMPLETED).
+hypothesis: This study is to compare the safety and efficacy of UHE-105 Shampoo with that of the vehicle
+  (VEH) Shampoo in subjects with scalp psoriasis. Half of the subjects will receive the UHE-105 Shampoo,
+  whil
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04243486 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04243486-a-study-of-the-safety-and-efficacy-o

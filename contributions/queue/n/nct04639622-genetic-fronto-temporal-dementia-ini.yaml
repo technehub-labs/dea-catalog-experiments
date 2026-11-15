@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04639622
+name: NCT04639622 — GENetic Fronto Temporal Dementia Initiative in Lille
+description: GENFI Lille is a French cohort that belongs to the international initiative GENFI2, a five
+  year longitudinal biomarker cohort study of genetic FTD and its associated disorders (including MND/ALS)
+  investigating members of families with a known mutation in GRN or MAPT or an expansion in C9orf72 (including
+  those affected with the disorder as well as at-risk members of families). (NCT NCT04639622; status RECRUITING).
+hypothesis: GENFI Lille is a French cohort that belongs to the international initiative GENFI2, a five
+  year longitudinal biomarker cohort study of genetic FTD and its associated disorders (including MND/ALS)
+  inve
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04639622 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct04639622-genetic-fronto-temporal-dementia-ini

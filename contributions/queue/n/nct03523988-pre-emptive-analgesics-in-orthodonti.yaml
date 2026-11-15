@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03523988
+name: NCT03523988 — Pre-emptive Analgesics in Orthodontic Treatment
+description: This study is designed to determine if the preemptive use of a combination of acetaminophen
+  and ibuprofen is more effective in reducing pain following orthodontic tooth movement when compared
+  to the use of acetaminophen and ibuprofen alone. (NCT NCT03523988; status COMPLETED).
+hypothesis: This study is designed to determine if the preemptive use of a combination of acetaminophen
+  and ibuprofen is more effective in reducing pain following orthodontic tooth movement when compared
+  to the u
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03523988 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03523988-pre-emptive-analgesics-in-orthodonti

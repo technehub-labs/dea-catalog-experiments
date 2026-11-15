@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03510429
+name: NCT03510429 — Clinical Validation of Nutritional Supplements("Ketogenic Plus") Developed for Pancreaticobiliary
+  Cancer Patients
+description: Decreased bowel function and loss of appetite in patients who underwent pancreaticobiliary
+  surgery contribute impaired nutritional status in postoperative period. It can also affect perioperative
+  and oncologic outcomes negatively. Therefore it is important to improve nutritional status in postoperative
+  period by supply tailor-made optimal diets. The investigators have developed customized postoperative
+  diets and products for pancreaticobiliary cancer patients. This time, newly developed ketogenic drink
+  contain beefsteak mint. The investigators expect that nutritional supplement for pancreaticobiliary
+  patients will increase the food intake rate and contribute a improvement of perioperative outcomes and
+  even oncologic outcomes. (NCT NCT03510429; status UNKNOWN).
+hypothesis: 'Decreased bowel function and loss of appetite in patients who underwent pancreaticobiliary
+  surgery contribute impaired nutritional status in postoperative period. It can also affect perioperative
+  and '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03510429 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct03510429-clinical-validation-of-nutritional-s

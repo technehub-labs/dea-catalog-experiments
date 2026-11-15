@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05171556
+name: NCT05171556 — IN-USE TOLERANCE STUDY UNDER DERMATOLOGICAL AND OPHTHALMOLOGICAL CONTROLS AND EFFICACY
+  ASSESSMENT (Face Balm)
+description: 'The aim of this study is to assess the dermatological and ophthalmological tolerance of
+  the investigational product Baume visage / Face balm RV4942A - RY1985 after 21 days of twice daily use
+  on the study areas, under normal conditions of use. The aim of this study is also to: * evaluate the
+  cutaneous sensitivity by a stinging test at D1 T0 and D22. * evaluate the cutaneous sensitivity by a
+  sensitive scale at D1 T0, D1 Timm\*, D8 and D22. * evaluate the soothing efficacy by an efficacy questionnaire
+  at D1 Timm\*, D8 and D22. * evaluate the cosmetic acceptability by a questionnaire at D22. This study
+  is conducted as a national, monocentric, non-randomized open trial. The 33 subjects in this study (31
+  subjects on D22) present hypersensitive, reactive and intolerant skin on face. They are stinger subjects,
+  with a dry to very dry skin. Timm\*: 10 to 30 minutes after first application (NCT NCT05171556; status
+  COMPLETED).'
+hypothesis: The aim of this study is to assess the dermatological and ophthalmological tolerance of the
+  investigational product Baume visage / Face balm RV4942A - RY1985 after 21 days of twice daily use on
+  the st
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05171556 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05171556-in-use-tolerance-study-under-dermato

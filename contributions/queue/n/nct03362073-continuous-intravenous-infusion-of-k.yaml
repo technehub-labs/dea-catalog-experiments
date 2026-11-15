@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03362073
+name: NCT03362073 — Continuous IntraVenous Infusion of Ketamine in Terminally Ill Cancer Patients
+description: To establish the role of ketamine in hospitalized terminally ill cancer patients with refractory
+  cancer pain, using continuous intravenous infusion of ketamine (NCT NCT03362073; status TERMINATED).
+hypothesis: To establish the role of ketamine in hospitalized terminally ill cancer patients with refractory
+  cancer pain, using continuous intravenous infusion of ketamine
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03362073 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct03362073-continuous-intravenous-infusion-of-k

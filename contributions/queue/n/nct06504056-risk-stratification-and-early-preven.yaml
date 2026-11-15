@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06504056
+name: NCT06504056 — Risk Stratification and Early Prevention Strategies for Non-compaction of Ventricular
+  Myocardium (CAPTAIN)
+description: This study intends to retrospectively-prospectively enroll NVM patients from multiple centers
+  to establish a natural population cohort of NVM patients. By collecting clinical data and biological
+  samples from surgical patients, the investigators will construct a prognosis prediction system for NVM,
+  optimize risk stratification, explore new strategies for the early prevention and treatment of NVM,
+  and improve the efficiency of clinical treatment of NVM patients. (NCT NCT06504056; status NOT_YET_RECRUITING).
+hypothesis: This study intends to retrospectively-prospectively enroll NVM patients from multiple centers
+  to establish a natural population cohort of NVM patients. By collecting clinical data and biological
+  sampl
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06504056 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct06504056-risk-stratification-and-early-preven

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01828424
+name: NCT01828424 — Prediction of Postoperative Pain by Measuring Nociception at the End of Surgery
+description: There is a large variability of postoperative pain intensity and of the drug doses necessary
+  to alleviate this pain. The investigators hypothesis is that a measurement of nociception at the end
+  of surgery, using either the RIII reflex threshold, measures of heart rate variability or the pupil
+  dilatation reflex measured by pupillometry, in relation to the doses of opioids used intraoperatively
+  will yield a prediction of postoperative pain. (NCT NCT01828424; status COMPLETED).
+hypothesis: There is a large variability of postoperative pain intensity and of the drug doses necessary
+  to alleviate this pain. The investigators hypothesis is that a measurement of nociception at the end
+  of sur
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01828424 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01828424-prediction-of-postoperative-pain-by

@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01211496
+name: NCT01211496 — The Effect of Velocity Training in Functionally Limited Elderly
+description: We are exploring a unique weight-training program for men and women 65 years or older that
+  emphasizes high speed training. We believe that the speed at which muscles move may be more important
+  to the performance of functional tasks than how strong the muscles are. We are comparing velocity training
+  with traditional strength training to determine which method has the greatest effects on muscle strength,
+  speed of movement, functional performance and physical disability. We believe that higher speed training
+  will improve these measures to a greater extent than simply training for increased muscle strength.
+  Aging also results in loss of bone mass, which increases the risk for falls and fractures. Strength
+  training also has been shown to maintain bone mass in the elderly, but no studies have examined high
+  velocity resistance training and maintenance of bone mass. We believe it is important to examine this
+  aspect of velocity training before recommendations can be made. (NCT NCT01211496; status COMPLETED).
+hypothesis: 'We are exploring a unique weight-training program for men and women 65 years or older that
+  emphasizes high speed training. We believe that the speed at which muscles move may be more important
+  to the '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01211496 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01211496-the-effect-of-velocity-training-in-f

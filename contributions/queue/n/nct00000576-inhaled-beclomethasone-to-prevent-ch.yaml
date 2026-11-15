@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00000576
+name: NCT00000576 — Inhaled Beclomethasone to Prevent Chronic Lung Disease
+description: To test if inhaled glucocorticoids, early in the course of respiratory failure in premature
+  infants, permit normal lung growth and differentiation, thus preventing development of bronchopulmonary
+  dysplasia. (NCT NCT00000576; status COMPLETED).
+hypothesis: To test if inhaled glucocorticoids, early in the course of respiratory failure in premature
+  infants, permit normal lung growth and differentiation, thus preventing development of bronchopulmonary
+  dysp
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00000576 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00000576-inhaled-beclomethasone-to-prevent-ch

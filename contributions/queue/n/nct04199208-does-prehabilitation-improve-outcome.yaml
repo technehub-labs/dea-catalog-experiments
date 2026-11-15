@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04199208
+name: NCT04199208 — Does Prehabilitation Improve Outcome in Coloncancer Surgery?
+description: The study aims to find out if complications after surgery for large bowel (colon) cancer
+  can be reduced or avoided in the most frail and elderly by letting them go through an exercise- and
+  diet regime prior to the surgical procedure. (NCT NCT04199208; status NOT_YET_RECRUITING).
+hypothesis: The study aims to find out if complications after surgery for large bowel (colon) cancer can
+  be reduced or avoided in the most frail and elderly by letting them go through an exercise- and diet
+  regime
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04199208 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct04199208-does-prehabilitation-improve-outcome

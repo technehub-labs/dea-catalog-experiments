@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02123290
+name: NCT02123290 — DSM265 Phase IIa Investigation Treating Plasmodium Falciparum or Vivax
+description: This will be a Proof-of-concept / Phase IIa, open label study to examine the efficacy of
+  DSM265 in uncomplicated Plasmodium vivax and Plasmodium falciparum blood-stage malaria in adult patients.
+  A minimum of two cohorts (20 patients) and a maximum of 6 cohorts (60 patients, 3 dose levels) will
+  be tested. The starting dose of DSM265 for the first P. vivax and P. falciparum cohorts will be 400
+  mg. This dose is expected to show complete clearance of parasites by microscopy by Day 7 and a decrease
+  in recrudescence rate assessed at Day 14 (success criteria for dose de-escalation and continuation of
+  the study). (NCT NCT02123290; status COMPLETED).
+hypothesis: This will be a Proof-of-concept / Phase IIa, open label study to examine the efficacy of DSM265
+  in uncomplicated Plasmodium vivax and Plasmodium falciparum blood-stage malaria in adult patients. A
+  min
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02123290 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02123290-dsm265-phase-iia-investigation-treat

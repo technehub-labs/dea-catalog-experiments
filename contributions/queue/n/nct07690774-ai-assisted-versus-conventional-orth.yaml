@@ -1,0 +1,34 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07690774
+name: NCT07690774 — AI-Assisted Versus Conventional Orthodontic Diagnosis and Treatment Planning
+description: This study compared an artificial intelligence-assisted orthodontic diagnostic workflow using
+  WebCeph with a conventional clinician-based workflow. The study included 120 new orthodontic patients
+  treated at Ben Hafeed Dental Center in Sana'a, Yemen, between March 2024 and March 2026. For each participant,
+  the researchers prepared a de-identified package of routine pretreatment records, including clinical
+  findings, extraoral and intraoral photographs, panoramic and lateral cephalometric radiographs, and
+  dental models or digital scans. The same case package was independently assessed using both the artificial
+  intelligence-assisted and conventional workflows. An independent panel of five expert orthodontists
+  reviewed the cases and established the reference standard. The main outcome was agreement with the expert
+  panel for skeletal sagittal classification as Class I, Class II, or Class III. Other outcomes included
+  orthodontic treatment-need grades, premolar extraction decisions, anchorage planning, appliance selection,
+  and the time required to complete each diagnostic workflow. Participation did not alter the routine
+  orthodontic care provided to patients, and final clinical decisions remained the responsibility of the
+  treating orthodontist. (NCT NCT07690774; status COMPLETED).
+hypothesis: This study compared an artificial intelligence-assisted orthodontic diagnostic workflow using
+  WebCeph with a conventional clinician-based workflow. The study included 120 new orthodontic patients
+  trea
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07690774 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct07690774-ai-assisted-versus-conventional-orth

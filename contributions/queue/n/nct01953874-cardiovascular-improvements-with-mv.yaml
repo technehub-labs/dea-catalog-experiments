@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01953874
+name: NCT01953874 — Cardiovascular Improvements With MV ASV Therapy in Heart Failure
+description: The aim of the study is to compare the effects of MV targeted ASV in addition to optimized
+  medical therapy versus optimized medical therapy alone at 6 months in patients with acute decompensated
+  HF. The study will also assess changes in functional parameters, biomarkers, quality of life (QOL),
+  and sleep. (NCT NCT01953874; status TERMINATED).
+hypothesis: The aim of the study is to compare the effects of MV targeted ASV in addition to optimized
+  medical therapy versus optimized medical therapy alone at 6 months in patients with acute decompensated
+  HF. T
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01953874 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct01953874-cardiovascular-improvements-with-mv

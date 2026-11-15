@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03437161
+name: NCT03437161 — A Prospective Trial to Compare Deep Inspiratory Breath Hold (DIBH) With Prone Breast
+  Irradiation
+description: This phase II trial studies how well deep inspiratory breath hold or prone breast radiation
+  therapy works in reducing cardiac dose in patients with breast cancer or ductal carcinoma in situ. Deep
+  inspiratory breath hold is a technique that involves a patient holding their breath during radiation
+  to move the heart away from the breast to minimize radiation to the heart. Prone breast radiation therapy
+  is a technique in which a patient receives treatment "face-down" to minimize the radiation to the rest
+  of the body, including the heart and lungs. Comparing deep inspiratory breath hold to prone breast radiation
+  therapy may help doctors improve radiation to the target while reducing radiation to healthy tissues
+  surrounding the target. (NCT NCT03437161; status COMPLETED).
+hypothesis: This phase II trial studies how well deep inspiratory breath hold or prone breast radiation
+  therapy works in reducing cardiac dose in patients with breast cancer or ductal carcinoma in situ. Deep
+  insp
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03437161 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03437161-a-prospective-trial-to-compare-deep

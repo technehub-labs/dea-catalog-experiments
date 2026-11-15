@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03452670
+name: NCT03452670 — Contemplative Well-being Apps for the Workplace
+description: The study will examine the use and impact of a meditation app delivered to adult workforce
+  populations facing extreme time demands. Enrollees will be randomized to either app or a wait-list group,
+  and will be assessed in terms of job and daily functioning, well-being, and biomarkers of immune function
+  and stress physiology, and neural structure and function prior to randomization and again at multiple
+  time points after participants commence app engagement. In order to assess efficacy, we will examine
+  the longitudinal changes in all measures in both the mindfulness group, compared to wait-list control
+  group. (NCT NCT03452670; status COMPLETED).
+hypothesis: The study will examine the use and impact of a meditation app delivered to adult workforce
+  populations facing extreme time demands. Enrollees will be randomized to either app or a wait-list group,
+  and
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03452670 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03452670-contemplative-well-being-apps-for-th

@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07741929
+name: NCT07741929 — Patient and Provider Perspectives on Genetic Risk Profiling
+description: A qualitative interview study exploring the patient and provider perspectives on the clinical
+  utility of genetic risk profiling in routine clinical practice. The findings from the study may contribute
+  towards future research and informing clinical practice. (NCT NCT07741929; status RECRUITING).
+hypothesis: A qualitative interview study exploring the patient and provider perspectives on the clinical
+  utility of genetic risk profiling in routine clinical practice. The findings from the study may contribute
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07741929 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07741929-patient-and-provider-perspectives-on

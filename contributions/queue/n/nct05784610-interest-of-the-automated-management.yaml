@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05784610
+name: NCT05784610 — Interest of the Automated Management of Deep Neuromuscular Blockade Monitoring (CURATP)
+description: Neuromuscular blockade (NMB) recommendations updated in 2018 by the Société Française d'Anesthésie
+  et Réanimation (SFAR) recommend the use of NMB agents to facilitate surgical procedure during abdominal
+  surgery by laparotomy or laparoscopy. This study aims to evaluate deep NMB monitoring with automated
+  management of NMB depth measurement (ATP mode) versus non-automated monitoring (PTC/TOF), in order to
+  improve the maintenance of deep NMB during abdominal surgery. (NCT NCT05784610; status UNKNOWN).
+hypothesis: Neuromuscular blockade (NMB) recommendations updated in 2018 by the Société Française d'Anesthésie
+  et Réanimation (SFAR) recommend the use of NMB agents to facilitate surgical procedure during abdomin
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05784610 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05784610-interest-of-the-automated-management

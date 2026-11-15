@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05897918
+name: NCT05897918 — Tranexamic Acid in Treatment of Facial Erythema
+description: Our aim is to evaluate the efficacy of 10% topical tranexamic acid with microneedling in
+  treatment of facial erythema (NCT NCT05897918; status COMPLETED).
+hypothesis: Our aim is to evaluate the efficacy of 10% topical tranexamic acid with microneedling in treatment
+  of facial erythema
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05897918 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05897918-tranexamic-acid-in-treatment-of-faci

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03995082
+name: NCT03995082 — Breast Cancer Patient Engagement With Patient Reported Outcome Measure Survey
+description: The purpose of this research protocol is to measure Patient Reported Outcome Measures (PROMs)
+  in breast cancer patients. PROM results will be provided to patients and providers and the investigators
+  will evaluate the relationship between patient engagement with PROM results and patient and clinicopathologic
+  variables, utilization of supportive and hospital services, and patient satisfaction with patient-provider
+  communication. (NCT NCT03995082; status ACTIVE_NOT_RECRUITING).
+hypothesis: The purpose of this research protocol is to measure Patient Reported Outcome Measures (PROMs)
+  in breast cancer patients. PROM results will be provided to patients and providers and the investigators
+  w
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03995082 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct03995082-breast-cancer-patient-engagement-wit

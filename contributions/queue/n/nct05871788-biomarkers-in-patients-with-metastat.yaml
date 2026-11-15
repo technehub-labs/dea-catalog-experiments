@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05871788
+name: NCT05871788 — Biomarkers in Patients With Metastatic Breast Cancer
+description: 'In order to allow Tunisian patients with breast cancer to access immunotherapies, and innovative
+  treatments to extend life expectancy of patients with breast cancer with a poor prognosis, it is important
+  to study the epidemiological profile of Tunisian cancers breast, in terms of PD-L1 expression, tumor
+  mutational burden (TMB), microsatellite instability status (MSI) and rate of TILs, in metastatic and
+  locally advanced cases, in Tunis, over a one-year follow-up period. It is also important to study other
+  inflammatory and tumor biomarkers which would have a prognostic or even therapeutic value: * serum dosage
+  of LDH (lactate dehydrogenase) * IL-6 (interleukin 6) * CRP (C-reactive protein) * absolute count of
+  lymphocytes (CLA) and eosinophils * quantification of circulating tumor DNA before treatment and under
+  treatment. The primary objective id to identify the epidemiological profile of the biological signature
+  (PD-L1 / TMB / MSI/HRD/ TILs) of patients with locally advanced or metastatic breast carcinoma before
+  and during the systemic treatment. (NCT NCT05871788; status NOT_YET_RECRUITING).'
+hypothesis: In order to allow Tunisian patients with breast cancer to access immunotherapies, and innovative
+  treatments to extend life expectancy of patients with breast cancer with a poor prognosis, it is import
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05871788 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct05871788-biomarkers-in-patients-with-metastat

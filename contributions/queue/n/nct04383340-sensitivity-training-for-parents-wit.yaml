@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04383340
+name: NCT04383340 — Sensitivity Training for Parents With Premature Infants
+description: This study evaluated the effectiveness of a culturally adapted version of the Mother-Infant
+  Transaction Program (MITP) among Chinese mothers with premature infants in public hospitals in Hong
+  Kong. (NCT NCT04383340; status COMPLETED).
+hypothesis: This study evaluated the effectiveness of a culturally adapted version of the Mother-Infant
+  Transaction Program (MITP) among Chinese mothers with premature infants in public hospitals in Hong
+  Kong.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04383340 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04383340-sensitivity-training-for-parents-wit

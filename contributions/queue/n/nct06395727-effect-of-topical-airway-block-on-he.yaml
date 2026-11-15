@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06395727
+name: NCT06395727 — Effect of Topical Airway Block on Hemodynamic Stability Post Induction of Anaesthesia
+  in Cardiac Surgeries
+description: Opioids have always been the mainstay in management of patients during cardiac surgeries.
+  Mega doses are often used to relieve stress of surgeries in highly labile patients with narrow hemodynamic
+  threshold to keep the balance between oxygen demand and supply. Unfortunately, this is associated with
+  hemodynamic instability and affect the fast-track pathway for extubation. Most of these doses are given
+  in induction, so by blocking airway by non-invasive technique, this will help in the reduction in opioid
+  doses and preventing risky hemodynamic instability during induction of anesthesia in these patients.
+  (NCT NCT06395727; status COMPLETED).
+hypothesis: Opioids have always been the mainstay in management of patients during cardiac surgeries.
+  Mega doses are often used to relieve stress of surgeries in highly labile patients with narrow hemodynamic
+  thr
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06395727 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06395727-effect-of-topical-airway-block-on-he

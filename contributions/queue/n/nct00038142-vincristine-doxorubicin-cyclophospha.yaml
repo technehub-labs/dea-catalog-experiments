@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00038142
+name: NCT00038142 — Vincristine, Doxorubicin, Cyclophosphamide and Dexrazoxane (VACdxr) in High Risk Ewing's
+  Sarcoma Patients
+description: 'Objectives: 1. To determine if dose intensive Vincristine, Doxorubicin, Cyclophosphamide
+  and Dexrazoxane (VACdxr) with or without ImmTherTM can improve the 2-year disease-free survival seen
+  with standard VAC therapy. 2. To evaluate the feasibility and describe the toxicity associated with
+  VACdxr. 3. To evaluate the feasibility and describe the toxicity of administering ImmTherTM on a weekly
+  basis for 50- 52 weeks. 4. To determine which therapy (VACdxr+ or VACdxr-) is worthy of further evaluation.
+  (NCT NCT00038142; status TERMINATED).'
+hypothesis: 'Objectives: 1. To determine if dose intensive Vincristine, Doxorubicin, Cyclophosphamide
+  and Dexrazoxane (VACdxr) with or without ImmTherTM can improve the 2-year disease-free survival seen
+  with stand'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00038142 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct00038142-vincristine-doxorubicin-cyclophospha

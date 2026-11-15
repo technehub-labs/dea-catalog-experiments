@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02095496
+name: NCT02095496 — Efficacy of Closed-loop Ventilation to Reduced Sleep Disorders
+description: Sleep's deficiencies are very common in intensive care. Mechanical ventilation is a known
+  factor in this deterioration.The investigators hypothesize that close-loop ventilation mode (Intellivent-ASV)
+  is able to minimize sleep deterioration, adjusting ventilation to the patient needs. (NCT NCT02095496;
+  status COMPLETED).
+hypothesis: 'Sleep''s deficiencies are very common in intensive care. Mechanical ventilation is a known
+  factor in this deterioration.The investigators hypothesize that close-loop ventilation mode (Intellivent-ASV) '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02095496 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02095496-efficacy-of-closed-loop-ventilation

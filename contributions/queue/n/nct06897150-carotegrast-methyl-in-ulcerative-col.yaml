@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06897150
+name: NCT06897150 — Carotegrast Methyl in Ulcerative Colitis
+description: Carotegrast methyl, an oral α4-integrin inhibitor, was recently approved in Japan for the
+  treatment of active ulcerative colitis (UC). However, real-world data regarding its efficacy and safety
+  remain scarce. This study aimed to assess the clinical effectiveness and safety profile of carotegrast
+  methyl in patients with active UC. (NCT NCT06897150; status COMPLETED).
+hypothesis: Carotegrast methyl, an oral α4-integrin inhibitor, was recently approved in Japan for the
+  treatment of active ulcerative colitis (UC). However, real-world data regarding its efficacy and safety
+  remain
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06897150 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06897150-carotegrast-methyl-in-ulcerative-col

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01370746
+name: NCT01370746 — Perceived Barriers to Patient Adherence After Pediatric Solid Organ Transplantation
+description: In this study, doctors will observe how and when pediatric patients who have received a solid
+  organ transplant take their prescribed medication, and determining if there are reasons that keep these
+  patients from taking all of their medicine. (NCT NCT01370746; status COMPLETED).
+hypothesis: In this study, doctors will observe how and when pediatric patients who have received a solid
+  organ transplant take their prescribed medication, and determining if there are reasons that keep these
+  pa
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01370746 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01370746-perceived-barriers-to-patient-adhere

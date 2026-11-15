@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01425242
+name: NCT01425242 — Study on Anti-inflammatory Effect of Anti-hypertensive Treatment in Patients With
+  Small AAA's and Mild Hypertension
+description: Inflammation of the blood vessel plays an important role in the development and growth of
+  a dilated abdominal aorta. An elevated blood pressure leads to an increase in inflammation, therefore
+  blood pressure lowering is an important part of the treatment of patients with a dilated abdominal aorta
+  who also have an elevated blood pressure. In the investigators study the investigators compare the anti-inflammatory
+  effects of 2 different blood pressure lowering strategies. The investigators hypothesize that both strategies
+  will decrease inflammation, however the investigators believe the total decrease of inflammation depends
+  on the type of blood pressure lowering medication used. (NCT NCT01425242; status TERMINATED).
+hypothesis: Inflammation of the blood vessel plays an important role in the development and growth of
+  a dilated abdominal aorta. An elevated blood pressure leads to an increase in inflammation, therefore
+  blood pr
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01425242 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct01425242-study-on-anti-inflammatory-effect-of

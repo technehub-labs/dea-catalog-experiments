@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05472961
+name: NCT05472961 — Eye Movements in Visual Search
+description: Using a noninvasive eye tracker, the investigators will measure how participants move their
+  eyes to objects arrayed on a computer screen. Participants will be asked to find one element among many.
+  (NCT NCT05472961; status WITHDRAWN).
+hypothesis: Using a noninvasive eye tracker, the investigators will measure how participants move their
+  eyes to objects arrayed on a computer screen. Participants will be asked to find one element among many.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05472961 (ClinicalTrials.gov; status WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withdrawn
+slug: nct05472961-eye-movements-in-visual-search

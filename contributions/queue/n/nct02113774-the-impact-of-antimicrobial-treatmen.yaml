@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02113774
+name: NCT02113774 — The Impact of Antimicrobial Treatment for Asymptomatic Bacteriuria in Renal Transplant
+  Patients
+description: The investigators hypothesize that antibiotic therapy for asymptomatic bacteriuria in renal
+  transplant patients does not have impact on the development of symptomatic urinary tract infection (UTI)
+  or progression of renal impairment in patients during the first year after transplantation. (NCT NCT02113774;
+  status UNKNOWN).
+hypothesis: 'The investigators hypothesize that antibiotic therapy for asymptomatic bacteriuria in renal
+  transplant patients does not have impact on the development of symptomatic urinary tract infection (UTI)
+  or '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02113774 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct02113774-the-impact-of-antimicrobial-treatmen

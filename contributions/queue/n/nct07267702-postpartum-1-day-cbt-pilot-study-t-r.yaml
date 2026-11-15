@@ -1,0 +1,37 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07267702
+name: NCT07267702 — Postpartum 1-Day CBT Pilot Study (Türkiye)
+description: This pilot randomized controlled trial aims to evaluate the feasibility, acceptability, and
+  preliminary effects of a culturally adapted, one-day online Cognitive Behavioral Therapy (CBT)-based
+  group workshop for women with postpartum depression in Türkiye. The intervention was adapted from a
+  validated model developed in Ontario, Canada, using Bernal's cultural adaptation framework. Participants
+  will be randomly assigned in a 1:1 ratio to either a workshop group, who will receive the one-day online
+  CBT-based workshop within the first month after enrollment, or a control group who will continue to
+  receive usual postpartum care throughout the study period. Data will be collected at baseline and at
+  the 3-month follow-up using the Edinburgh Postnatal Depression Scale (EPDS), Patient Health Questionnaire-9
+  (PHQ-9), Generalized Anxiety Disorder-7 (GAD-7), the Frequency of Actions and Thoughts Scale (FATS),
+  and the TÜRBAD Satisfaction Questionnaire (TÜRBAD-SQ). The study will assess feasibility indicators
+  including recruitment, randomization procedures, completion of study questionnaires, retention through
+  the 3-month follow-up, and adherence to the one-day workshop. Acceptability and preliminary changes
+  in depressive, anxiety, and cognitive-behavioral outcomes will also be explored. This pilot trial represents
+  the first culturally adapted, one-day online CBT-based group intervention for postpartum depression
+  in Türkiye and will inform the design of a future large-scale randomized controlled trial. (NCT NCT07267702;
+  status NOT_YET_RECRUITING).
+hypothesis: This pilot randomized controlled trial aims to evaluate the feasibility, acceptability, and
+  preliminary effects of a culturally adapted, one-day online Cognitive Behavioral Therapy (CBT)-based
+  group w
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07267702 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07267702-postpartum-1-day-cbt-pilot-study-t-r

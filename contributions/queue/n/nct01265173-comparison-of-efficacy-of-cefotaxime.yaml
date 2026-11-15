@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01265173
+name: NCT01265173 — Comparison of Efficacy of Cefotaxime, Ceftriaxone, and Ciprofloxacin for the Treatment
+  of SBP in Patients With LC
+description: Spontaneous bacterial peritonitis (SBP) is one of the most serious complications of liver
+  cirrhosis. Mainstay of treatment for SBP is use of proper antibiotics. Although, several antibiotics
+  including cefotaxime, ceftriaxone, or ciprofloxacin are being used, it is unclear which drug is most
+  effective. Our aim of study is to compare the efficacy of the three current antibiotics for the treatment
+  of SBP in patients with liver cirrhosis. The primary hypothesis is that the efficacy of all the antibiotics
+  will not significantly different. This is non-inferiority trial. (NCT NCT01265173; status COMPLETED).
+hypothesis: Spontaneous bacterial peritonitis (SBP) is one of the most serious complications of liver
+  cirrhosis. Mainstay of treatment for SBP is use of proper antibiotics. Although, several antibiotics
+  including
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01265173 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01265173-comparison-of-efficacy-of-cefotaxime

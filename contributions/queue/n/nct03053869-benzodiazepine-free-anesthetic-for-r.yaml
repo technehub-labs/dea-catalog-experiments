@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03053869
+name: NCT03053869 — Benzodiazepine-free Anesthetic for Reduction of Delirium (B-Free)
+description: The purpose of this two-centre pilot research study is to establish the feasibility of conducting
+  a full trial that seeks to determine if a cardiac anesthesia policy that uses alternatives to benzodiazepine
+  medications is better at preventing delirium after cardiac surgery when compared with a cardiac anesthesia
+  policy that uses benzodiazepine medications. (NCT NCT03053869; status COMPLETED).
+hypothesis: The purpose of this two-centre pilot research study is to establish the feasibility of conducting
+  a full trial that seeks to determine if a cardiac anesthesia policy that uses alternatives to benzodia
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03053869 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03053869-benzodiazepine-free-anesthetic-for-r

@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07864805
+name: NCT07864805 — Electromagnetic Therapy, Peripheral Vascular Diseases, Diabetes
+description: 'The goal of this clinical trial was to investigate the efficacy of Low frequency pulsed
+  electromagnetic therapy (LFPEMT) in improving vascular-related quality of life (VQ) and spatiotemporal
+  gait parameters in individuals with Type 2 Diabetes mellitus (T2DM) and Peripheral arterial disease
+  (PAD). The main questions it aimed to answer are: * Is the LFPEMT effective in improving VQ in patients
+  with T2DM and PAD? * Is the LFPEMT effective in improving spatiotemporal gait parameters in patients
+  with T2DM and PAD? Researchers compared group A (received LFPEMT plus interval exercise training program)
+  to group B (received placebo LFPEMT plus the same interval exercise training program) to see if LFPEMT
+  is effective in improving gait parameters and vascular related quality of life in patients with T2DM
+  and PAD. Participants in group A received LFPEMT plus moderate intensity interval training, while participants
+  in group B received placebo LFPEMT plus the same moderate intensity interval training. (NCT NCT07864805;
+  status COMPLETED).'
+hypothesis: The goal of this clinical trial was to investigate the efficacy of Low frequency pulsed electromagnetic
+  therapy (LFPEMT) in improving vascular-related quality of life (VQ) and spatiotemporal gait para
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07864805 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct07864805-electromagnetic-therapy-peripheral-v

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01612156
+name: NCT01612156 — Lubricant Versus Lidocaine Gel for Pain Control During Urodynamics
+description: The purpose of this study is to determine a difference in patient reported pain levels before,
+  during, and after multichannel urodynamics in patients treated with 2% lidocaine gel or water based
+  lubricant. We hypothesize that lidocaine gel will decrease pain levels when compared to lubricant gel.
+  (NCT NCT01612156; status COMPLETED).
+hypothesis: The purpose of this study is to determine a difference in patient reported pain levels before,
+  during, and after multichannel urodynamics in patients treated with 2% lidocaine gel or water based
+  lubri
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01612156 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01612156-lubricant-versus-lidocaine-gel-for-p

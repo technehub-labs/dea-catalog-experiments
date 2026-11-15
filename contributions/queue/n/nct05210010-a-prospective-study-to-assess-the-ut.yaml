@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05210010
+name: NCT05210010 — A Prospective Study to Assess the Utility of CA-4F in a Canadian Cardiology Setting
+description: This study will assess whether CA-4F can improve diagnosis of ATTR-CM in a community cardiology
+  setting when used to screen electronic medical record data for patients suitable for follow-up investigations.
+  (NCT NCT05210010; status UNKNOWN).
+hypothesis: This study will assess whether CA-4F can improve diagnosis of ATTR-CM in a community cardiology
+  setting when used to screen electronic medical record data for patients suitable for follow-up investiga
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05210010 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05210010-a-prospective-study-to-assess-the-ut

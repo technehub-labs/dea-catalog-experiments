@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04966208
+name: NCT04966208 — Gingival Recession Treatment Using Two Different Surgical Techniques
+description: Coronally the advanced flap is considered a predictable treatment of gingival recession but
+  in certain situations, it needs a filler like subperiosteal connective tissue graft (CTG) which is considered
+  as the gold standard treatment approach. This randomized controlled trial compares the clinical benefits
+  and effectiveness of a xenogenic collagen matrix (mucoderm, botiss, dental, Berlin, Germany) as a filler
+  to the subperiosteal connective tissue graft (CTG). (NCT NCT04966208; status COMPLETED).
+hypothesis: Coronally the advanced flap is considered a predictable treatment of gingival recession but
+  in certain situations, it needs a filler like subperiosteal connective tissue graft (CTG) which is considere
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04966208 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04966208-gingival-recession-treatment-using-t

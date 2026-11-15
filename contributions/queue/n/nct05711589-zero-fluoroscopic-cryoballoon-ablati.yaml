@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05711589
+name: NCT05711589 — Zero-fluoroscopic Cryoballoon Ablation
+description: This study aimed to investigate safety and efficacy of intracardiac echocardiography (ICE)-guided
+  zero-fluoroscopic cryoballoon ablation (CBA) in patients with paroxysmal atrial fibrillation. (NCT NCT05711589;
+  status COMPLETED).
+hypothesis: This study aimed to investigate safety and efficacy of intracardiac echocardiography (ICE)-guided
+  zero-fluoroscopic cryoballoon ablation (CBA) in patients with paroxysmal atrial fibrillation.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05711589 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05711589-zero-fluoroscopic-cryoballoon-ablati

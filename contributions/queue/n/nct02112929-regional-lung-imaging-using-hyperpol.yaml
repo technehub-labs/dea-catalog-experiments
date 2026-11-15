@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02112929
+name: NCT02112929 — Regional Lung Imaging Using Hyperpolarized Xenon Gas
+description: The investigators aim to use hyperpolarized xenon gas magnetic resonance imaging (MRI) and
+  computed tomography to develop a new technique capable of objectively and quantitatively describing
+  regional and structural lung abnormality. Since this is a relatively novel technique, the investigators
+  first need to acquire imaging and clinical data from a group of participants with normal lungs. The
+  investigators hope to generate an "atlas" of normality, which will form the foundation of future studies
+  to compare with patients suffering from chronic respiratory disease. The investigators also aim to validate
+  the new technique in terms of intra-subject reproducibility. (NCT NCT02112929; status COMPLETED).
+hypothesis: 'The investigators aim to use hyperpolarized xenon gas magnetic resonance imaging (MRI) and
+  computed tomography to develop a new technique capable of objectively and quantitatively describing
+  regional '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02112929 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02112929-regional-lung-imaging-using-hyperpol

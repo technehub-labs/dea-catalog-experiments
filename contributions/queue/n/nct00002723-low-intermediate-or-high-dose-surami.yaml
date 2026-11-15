@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00002723
+name: NCT00002723 — Low, Intermediate, or High Dose Suramin in Treating Patients With Hormone-Refractory
+  Prostate Cancer
+description: Randomized phase III trial to compare the effectiveness of low, intermediate, and high dose
+  suramin in treating men with stage IV prostate cancer that is refractory to hormone therapy. Drugs used
+  in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. It
+  is not yet known which regimen of suramin is more effective for prostate cancer. (NCT NCT00002723; status
+  COMPLETED).
+hypothesis: Randomized phase III trial to compare the effectiveness of low, intermediate, and high dose
+  suramin in treating men with stage IV prostate cancer that is refractory to hormone therapy. Drugs used
+  in c
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00002723 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00002723-low-intermediate-or-high-dose-surami

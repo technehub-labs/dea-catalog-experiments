@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02198846
+name: NCT02198846 — A Study to Compare Insulin Pump With Conventional Treatment in Type 2 Diabetes
+description: Insulin deficiency resulted from progressive beta cell failure and insulin resistance in
+  type 2 diabetes requires exogenous insulin therapy, escaping from oral antihyperglycemic agents. Previous
+  data have been suggested that continuous subcutaneous insulin infusion (CSII) does not only have efficacy
+  in glucose control but also restore beta cell failure. The investigators plan to compare the efficacy/safety
+  and beta cell function between insulin pump treatment and the intensification of conventional treatment
+  in patients with uncontrolled type 2 diabetes. (NCT NCT02198846; status UNKNOWN).
+hypothesis: 'Insulin deficiency resulted from progressive beta cell failure and insulin resistance in
+  type 2 diabetes requires exogenous insulin therapy, escaping from oral antihyperglycemic agents. Previous
+  data '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02198846 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct02198846-a-study-to-compare-insulin-pump-with

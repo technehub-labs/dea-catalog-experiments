@@ -1,0 +1,34 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02698761
+name: NCT02698761 — A Comprehensive Care Plan for Pediatric Patients With Vaso-Occlusive Crises
+description: Sickle cell disease (SCD) is the most common inherited blood disorder affecting 80,000 to
+  90,000 individuals in the United States.\[10\] There are 13,000 hospital admissions for a sickle cell
+  crises, costing $448 million dollars annually.\[10\] In our hospital, the sickle cell population is
+  known to have some of the longest length of stays. Between October 2014 and September 2015, there were
+  89 admissions for a vaso-occlusive crisis with an average length of stay of 6 days and 12 admissions
+  greater than 10 days and 5 admissions greater than 20 days. We propose to evaluate the feasibility of
+  the new CPP in a pilot randomized control trial to determine if pain and length of stay can be reduced
+  in patients with sickle cell disease. We also propose to evaluate a sleep regimen to determine if this
+  can reduce the hospital stay and help with pain. We hypothesize increased physical activity and proper
+  sleep, as implemented in the CPP, are correlated with decreased hospital length of stay and decreased
+  pain. Additionally, we believe that creating a standardized nighttime environment at the hospital will
+  help the children stay in their circadian rhythm thus promoting improved sleep and a more effective
+  inpatient disease management. (NCT NCT02698761; status TERMINATED).
+hypothesis: 'Sickle cell disease (SCD) is the most common inherited blood disorder affecting 80,000 to
+  90,000 individuals in the United States.\[10\] There are 13,000 hospital admissions for a sickle cell
+  crises, '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02698761 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct02698761-a-comprehensive-care-plan-for-pediat

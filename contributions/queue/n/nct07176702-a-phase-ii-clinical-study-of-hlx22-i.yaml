@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07176702
+name: NCT07176702 — A Phase II Clinical Study of HLX22 in Combination With Trastuzumab and Chemotherapy
+description: Pancreatic cancer is an extremely high-mortality malignancy. The chemotherapy regimen of
+  gemcitabine combined with nab-paclitaxel (GEM-NABP) serves as one of the first-line standard therapies
+  for metastatic pancreatic cancer. Given that traditional dual HER2 blockade (pertuzumab + trastuzumab)
+  has demonstrated preliminary efficacy in HER2-expressing solid tumors, the novel clinical strategy of
+  dual HER2 blockade (HLX22 + trastuzumab) combined with GEM-NAP offers the potential to improve outcomes
+  for patients with HER2-positive pancreatic cancer. (NCT NCT07176702; status ACTIVE_NOT_RECRUITING).
+hypothesis: Pancreatic cancer is an extremely high-mortality malignancy. The chemotherapy regimen of gemcitabine
+  combined with nab-paclitaxel (GEM-NABP) serves as one of the first-line standard therapies for meta
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07176702 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct07176702-a-phase-ii-clinical-study-of-hlx22-i

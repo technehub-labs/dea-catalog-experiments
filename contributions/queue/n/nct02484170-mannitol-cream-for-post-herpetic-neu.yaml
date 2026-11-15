@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02484170
+name: NCT02484170 — Mannitol Cream for Post Herpetic Neuralgia
+description: 30% mannitol cream has shown its ability to reduce the activation of the Capsaicin (TRPV1)
+  (Transient Receptor Potential Vanilloid 1) receptor, a likely cause of the pain of post-herpetic neuralgia
+  (PHN). This randomized placebo-controlled crossover study compares PHN pain one week before, for one
+  week on the randomly assigned mannitol versus placebo cream and, after a three day washout, for one
+  week on the other cream. Following this crossover study, participants receive mannitol cream for three
+  months. Pain levels will be checked to assess whether continued use of this cream significantly reduces
+  the pain levels associated with PHN. If pain persists beyond 3 months, participants will be offered
+  mannitol and menthol cream for one month following which their pain levels will be checked. (NCT NCT02484170;
+  status COMPLETED).
+hypothesis: 30% mannitol cream has shown its ability to reduce the activation of the Capsaicin (TRPV1)
+  (Transient Receptor Potential Vanilloid 1) receptor, a likely cause of the pain of post-herpetic neuralgia
+  (P
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02484170 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02484170-mannitol-cream-for-post-herpetic-neu

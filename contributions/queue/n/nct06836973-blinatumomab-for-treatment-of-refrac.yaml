@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06836973
+name: NCT06836973 — Blinatumomab for Treatment of Refractory Myasthenia Gravis
+description: 'The goal of this clinical trial is to evaluate the efficacy and safety of Blinatumomab in
+  the treatment of refractory myasthenia gravis, with the expectation of offering a new therapeutic option
+  for refractory patients. The main questions it aims to answer are: * Does Blinatumomab improve patients''
+  clinical symptoms? * Is Blinatumomab safe for the treatment of myasthenia gravis? Participants will:
+  * Receive two cycles of intravenous Blinatumomab infusion, each lasting 5 days, with a 1-week interval
+  between cycles. * Visit the clinic once every 4 weeks for checkups and tests. * Keep a diary of their
+  symptoms and the types and dosages of medications. (NCT NCT06836973; status NOT_YET_RECRUITING).'
+hypothesis: The goal of this clinical trial is to evaluate the efficacy and safety of Blinatumomab in
+  the treatment of refractory myasthenia gravis, with the expectation of offering a new therapeutic option
+  for r
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06836973 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct06836973-blinatumomab-for-treatment-of-refrac

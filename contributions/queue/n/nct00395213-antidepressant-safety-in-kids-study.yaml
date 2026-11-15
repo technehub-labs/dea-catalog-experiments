@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00395213
+name: NCT00395213 — Antidepressant Safety in Kids Study
+description: This study will evaluate the risks and benefits of treatment with a selective serotonin reuptake
+  inhibitor or serotonin-norepinephrine reuptake inhibitor in children and adolescents with a pre-specified
+  anxiety disorder, depressive disorder, eating disorder, or obsessive-compulsive disorder. (NCT NCT00395213;
+  status COMPLETED).
+hypothesis: This study will evaluate the risks and benefits of treatment with a selective serotonin reuptake
+  inhibitor or serotonin-norepinephrine reuptake inhibitor in children and adolescents with a pre-specifi
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00395213 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00395213-antidepressant-safety-in-kids-study

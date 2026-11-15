@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07133360
+name: 'NCT07133360 — Combination of Mixed Drugs vs Ibuprofen: a Randomized Clinical Trial'
+description: Combination of vitamins and melatonine compared with the conventional use of ibuprofen after
+  surgical third molar extraction (NCT NCT07133360; status COMPLETED).
+hypothesis: Combination of vitamins and melatonine compared with the conventional use of ibuprofen after
+  surgical third molar extraction
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07133360 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct07133360-combination-of-mixed-drugs-vs-ibupro

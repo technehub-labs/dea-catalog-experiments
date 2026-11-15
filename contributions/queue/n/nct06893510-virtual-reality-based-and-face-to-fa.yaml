@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06893510
+name: NCT06893510 — Virtual Reality-Based and Face-to-Face Relaxation Programs in Pregnant Women With
+  Preeclampsia
+description: Preeclampsia, affecting 2-8% of pregnancies globally, is a leading hypertensive disorder
+  in pregnancy. It is clinically characterized by elevated blood pressure (≥140/90 mmHg) after the 20th
+  gestational week, often accompanied by proteinuria and systemic complications such as thrombocytopenia,
+  liver dysfunction, and cerebral symptoms. This condition poses significant risks for both maternal and
+  fetal health, increasing the likelihood of organ damage, preterm birth, and long-term cardiovascular
+  and neurodevelopmental complications. Non-pharmacological interventions, including relaxation techniques,
+  have been explored for symptom management. Progressive muscle relaxation (PMR) has shown efficacy in
+  reducing stress, anxiety, and blood pressure. Recently, virtual reality (VR)-based relaxation techniques
+  have gained attention for enhancing stress relief and improving health outcomes. This study aims to
+  compare the effects of VR-based PMR with in-person PMR on maternal and fetal outcomes in preeclamptic
+  pregnancies. (NCT NCT06893510; status RECRUITING).
+hypothesis: Preeclampsia, affecting 2-8% of pregnancies globally, is a leading hypertensive disorder in
+  pregnancy. It is clinically characterized by elevated blood pressure (≥140/90 mmHg) after the 20th gestation
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06893510 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06893510-virtual-reality-based-and-face-to-fa

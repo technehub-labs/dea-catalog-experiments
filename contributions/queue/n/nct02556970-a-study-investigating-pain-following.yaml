@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02556970
+name: NCT02556970 — A Study Investigating Pain Following Single-port or Multi-port Video Assisted Thoracoscopic
+  Surgery
+description: This study seeks to establish if thoracoscopic surgery performed through a single port or
+  incision reduces early post-operative pain compared with conventional multiple port thoracoscopic surgery.
+  This initial pilot study is designed to establish whether a trial of the two techniques is acceptable
+  to patients, clinically feasible and can be delivered in a reasonable timescale. (NCT NCT02556970; status
+  WITHDRAWN).
+hypothesis: This study seeks to establish if thoracoscopic surgery performed through a single port or
+  incision reduces early post-operative pain compared with conventional multiple port thoracoscopic surgery.
+  Thi
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02556970 (ClinicalTrials.gov; status WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withdrawn
+slug: nct02556970-a-study-investigating-pain-following

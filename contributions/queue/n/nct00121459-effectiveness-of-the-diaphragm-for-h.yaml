@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00121459
+name: NCT00121459 — Effectiveness of the Diaphragm for HIV Prevention
+description: The purpose of this trial is to determine whether using the diaphragm and a lubricant get
+  can reduce women's risk of acquiring an HIV infection. (NCT NCT00121459; status WITHDRAWN).
+hypothesis: The purpose of this trial is to determine whether using the diaphragm and a lubricant get
+  can reduce women's risk of acquiring an HIV infection.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00121459 (ClinicalTrials.gov; status WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withdrawn
+slug: nct00121459-effectiveness-of-the-diaphragm-for-h

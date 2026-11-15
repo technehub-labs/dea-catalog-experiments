@@ -1,0 +1,42 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04996537
+name: NCT04996537 — Effectiveness of Flipped Learning on Nurses' Knowledge, Attitude, and Self-efficacy
+  in Pressure Injury Prevention
+description: 'The occurrence of pressure injuries mainly comes from disabled patients who are bedridden
+  for a long time. According to a report from the Ministry of Health and Welfare, about one-tenth of chronic
+  patients need to be bedridden for a long time, and pressure injuries account for the most in the comorbidities
+  of bedridden for a long time. The main cause of pressure injury is the natural aging of the patient''s
+  body and long-term bed rest so that it is difficult to detect physical stress and cannot change the
+  posture within an effective time to reduce the pressure, which is prone to pressure injury. The prevalence
+  rates of stress injuries in various countries are 13-23% in the Netherlands, 10-15% in the United States,
+  and 8-23% in Europe. In addition, studies have also shown that the prevalence of stress injuries in
+  the elderly in the UK is 0.31-0.70%. The incidence rate is 0.18-3.36% and these two indicators are increasing
+  year by year; in Taiwan, related surveys show that the prevalence rate of pressure injury in hospitalized
+  patients is 7.53%, and the incidence rate of pressure injury in bedridden patients is 36.8%. According
+  to a National Pressure Ulcer Advisory Panel (NPUAP) survey, the prevalence rate of stress injuries in
+  acute wards ranges from 0.1% to 17%, and the incidence rate is 0.4% to 38%. The prevalence of intensive
+  care units The prevalence rate is higher than 41%, the incidence rate is higher than 33%, the prevalence
+  rate of long-term care is 2.3% -28%, the prevalence rate is 2.2%-23.9%, the prevalence rate of nursing
+  homes is 0% -29%, and the prevalence rate is 0%- 17%. In addition, NPUAP estimates in 1989 show that
+  the average medical cost for each stress injury case ranges from 2,000 to 30,000 US dollars, while the
+  medical cost for each stress injury patient in Taiwan is about NT 7,000 to 80,000. If the knowledge
+  of stress injury prevention can be improved, the number of outpatient visits will be reduced, and the
+  occurrence of stress injury will also '
+hypothesis: The occurrence of pressure injuries mainly comes from disabled patients who are bedridden
+  for a long time. According to a report from the Ministry of Health and Welfare, about one-tenth of chronic
+  pat
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04996537 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct04996537-effectiveness-of-flipped-learning-on

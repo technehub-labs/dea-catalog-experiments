@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03805425
+name: NCT03805425 — PiXL for Correction of Hyperopia
+description: This clinical study aims to investigate the efficacy and safety of PiXL in the refractive
+  correction of low hyperopia. (NCT NCT03805425; status UNKNOWN).
+hypothesis: This clinical study aims to investigate the efficacy and safety of PiXL in the refractive
+  correction of low hyperopia.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03805425 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct03805425-pixl-for-correction-of-hyperopia

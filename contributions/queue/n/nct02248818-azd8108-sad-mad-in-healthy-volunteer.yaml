@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02248818
+name: NCT02248818 — AZD8108 SAD/MAD in Healthy Volunteers
+description: This is a randomized, double-blind, placebo-controlled study of single and multiple ascending
+  dosage levels of AZD8108 in healthy volunteers. The study includes an up to 28-day screening period,
+  an in-house period during which AZD8108 or placebo will be administered orally as a solution, and a
+  4- to 10-day follow-up period after discharge. (NCT NCT02248818; status COMPLETED).
+hypothesis: This is a randomized, double-blind, placebo-controlled study of single and multiple ascending
+  dosage levels of AZD8108 in healthy volunteers. The study includes an up to 28-day screening period,
+  an in
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02248818 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02248818-azd8108-sad-mad-in-healthy-volunteer

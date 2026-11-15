@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01343329
+name: NCT01343329 — Controlling Hyperadrenergic Activity in Neurologic Injury
+description: Traumatic brain injury (TBI) is frequently associated with a hyperadrenergic state accompanied
+  by elevated levels of plasma catecholamines. In its more severe presentation, the hyperadrenergic state
+  presents as dysautonomia, which is characterized by paroxysmal alteration in vital signs, including
+  tachycardia. The investigators hypothesize that intravenous (IV) esmolol is as effective at controlling
+  heart rate in hyperadrenergic states as oral propranolol, which is the standard of care. Our primary
+  endpoint is efficacy of IV esmolol vs a PRN regimen of intermittent B-blockade in controlling heart
+  rate below a pre-specified level (\< 100 bpm) after Traumatic Brain Injury (TBI) or hemorrhagic neurologic
+  injury. Heart rates will be recorded continuously as well as hourly. (NCT NCT01343329; status WITHDRAWN).
+hypothesis: Traumatic brain injury (TBI) is frequently associated with a hyperadrenergic state accompanied
+  by elevated levels of plasma catecholamines. In its more severe presentation, the hyperadrenergic state
+  p
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01343329 (ClinicalTrials.gov; status WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withdrawn
+slug: nct01343329-controlling-hyperadrenergic-activity

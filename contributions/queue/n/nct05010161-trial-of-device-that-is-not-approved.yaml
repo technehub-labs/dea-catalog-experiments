@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05010161
+name: NCT05010161 — [Trial of device that is not approved or cleared by the U.S. FDA]
+description: '[Trial of device that is not approved or cleared by the U.S. FDA] — a registered study in
+  the ClinicalTrials.gov registry (status: WITHHELD). (NCT NCT05010161; status WITHHELD).'
+hypothesis: '[Trial of device that is not approved or cleared by the U.S. FDA]'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05010161 (ClinicalTrials.gov; status WITHHELD)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withheld
+slug: nct05010161-trial-of-device-that-is-not-approved

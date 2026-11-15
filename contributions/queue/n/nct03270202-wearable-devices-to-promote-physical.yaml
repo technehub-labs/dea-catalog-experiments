@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03270202
+name: NCT03270202 — Wearable Devices to Promote Physical Activity
+description: This study evaluates the effect of a new wearable device, that measures physical activity
+  level based on heart rates, on relevant health outcomes including cardiorespiratory fitness. Half of
+  participants will be instructed in using the Mio Slice wristband, while the other half will be requested
+  to follow today's recommendations for physical activity. (NCT NCT03270202; status TERMINATED).
+hypothesis: This study evaluates the effect of a new wearable device, that measures physical activity
+  level based on heart rates, on relevant health outcomes including cardiorespiratory fitness. Half of
+  participa
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03270202 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct03270202-wearable-devices-to-promote-physical

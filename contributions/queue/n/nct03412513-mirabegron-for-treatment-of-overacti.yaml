@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03412513
+name: NCT03412513 — Mirabegron for Treatment of Overactive Bladder Symptoms in Patients With Parkinson's
+  Disease
+description: The purpose of this study is to see the study drug, Mirabegron, is safe and effective in
+  treating symptoms of Overactive Bladder in patients with Parkinson's disease. (NCT NCT03412513; status
+  UNKNOWN).
+hypothesis: The purpose of this study is to see the study drug, Mirabegron, is safe and effective in treating
+  symptoms of Overactive Bladder in patients with Parkinson's disease.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03412513 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct03412513-mirabegron-for-treatment-of-overacti

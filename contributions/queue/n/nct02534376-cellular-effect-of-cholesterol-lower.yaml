@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02534376
+name: NCT02534376 — Cellular Effect of Cholesterol-Lowering Prior to Prostate Removal
+description: There is evidence in human studies as well as animal studies that treatments to lower cholesterol
+  can reduce the risk of dying from prostate cancer.To decide if cholesterol-lowering therapy can slow
+  the growth of prostate cancer, the investigators would like to lower cholesterol prior to surgery and
+  then measure the growth of prostate cancers cells when the prostate has been removed. The investigators
+  will use the combination of two drugs that is approved by the U.S. Food and Drug Administration to lower
+  cholesterol. The drug combination is commercially available with a doctor's prescription and sold as
+  Vytorin®. It is known that maximal cholesterol-lower effects are seen after 2 weeks of treatment with
+  Vytorin®. Therefore, study patients receive at least 2 weeks, but no more than 6 weeks of Vytorin® prior
+  to surgery. (NCT NCT02534376; status COMPLETED).
+hypothesis: There is evidence in human studies as well as animal studies that treatments to lower cholesterol
+  can reduce the risk of dying from prostate cancer.To decide if cholesterol-lowering therapy can slow
+  t
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02534376 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02534376-cellular-effect-of-cholesterol-lower

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04739670
+name: NCT04739670 — Evaluating the Efficacy and Safety of Bevacizumab, Carboplatin, Gemcitabine and Atezolizumab
+  in Breast Cancer
+description: The study hypothesise that the combination of carboplatin, gemcitabine, bevacizumab and atezolizumab
+  may be synergistic and improve outcomes for patients with early relapsed TNBC by overcoming mechanisms
+  of immune resistance and thus potentiating greater and more durable responses to immune checkpoint inhibitor
+  therapy. Early relapsing TNBC represents a high priority, unmet need whereby effective therapeutic strategies
+  are urgently needed. (NCT NCT04739670; status UNKNOWN).
+hypothesis: The study hypothesise that the combination of carboplatin, gemcitabine, bevacizumab and atezolizumab
+  may be synergistic and improve outcomes for patients with early relapsed TNBC by overcoming mechani
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04739670 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct04739670-evaluating-the-efficacy-and-safety-o

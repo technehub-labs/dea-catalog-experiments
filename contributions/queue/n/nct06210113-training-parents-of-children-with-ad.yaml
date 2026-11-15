@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06210113
+name: NCT06210113 — Training Parents of Children With ADHD by Mindfulness-based Stress Reduction for Reducing
+  Stress
+description: The study aimed at comparing the effects of 8-week MBSR programme intervention group with
+  usual care group in reducing parental stress and improving quality of life of parents of children with
+  ADHD in Chinese culture. (NCT NCT06210113; status COMPLETED).
+hypothesis: The study aimed at comparing the effects of 8-week MBSR programme intervention group with
+  usual care group in reducing parental stress and improving quality of life of parents of children with
+  ADHD in
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06210113 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06210113-training-parents-of-children-with-ad

@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00176488
+name: NCT00176488 — Epirubicin and Vinorelbine in Treating Patients With Stage II, Stage III, or Stage
+  IV Breast Cancer
+description: 'RATIONALE: Drugs used in chemotherapy, such as epirubicin and vinorelbine, work in different
+  ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+  Giving epirubicin together with vinorelbine may kill more tumor cells. PURPOSE: This phase II trial
+  is studying how well giving epirubicin together with vinorelbine works in treating patients with stage
+  II, stage III, or stage IV breast cancer. (NCT NCT00176488; status TERMINATED).'
+hypothesis: 'RATIONALE: Drugs used in chemotherapy, such as epirubicin and vinorelbine, work in different
+  ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+  Givi'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00176488 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct00176488-epirubicin-and-vinorelbine-in-treati

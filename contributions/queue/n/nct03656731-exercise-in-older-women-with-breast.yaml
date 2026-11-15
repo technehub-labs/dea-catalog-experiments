@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03656731
+name: NCT03656731 — Exercise in Older Women With Breast Cancer During Systemic Therapy
+description: 'BREACE is a prospective randomized controlled trial. The aim is to investigate the effect
+  of an exercise-based intervention among older participants with breast cancer treated with adjuvant
+  or first-line systemic therapy. The hypotheses: That the intervention will maintain or increase physical
+  function levels, reduce symptoms and side effects, improve quality of life and psychological wellbeing,
+  and prevent weight loss and muscle wasting (NCT NCT03656731; status COMPLETED).'
+hypothesis: BREACE is a prospective randomized controlled trial. The aim is to investigate the effect
+  of an exercise-based intervention among older participants with breast cancer treated with adjuvant
+  or first-l
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03656731 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03656731-exercise-in-older-women-with-breast

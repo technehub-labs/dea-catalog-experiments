@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05588531
+name: NCT05588531 — Study on Tolerance, Pharmacokinetics and Drug Interaction of YK-1169 in Healthy Volunteers
+description: To evaluate the safety and tolerability of multiple doses of YK-1169 in healthy subjects,
+  the pharmacokinetic characteristics of multiple doses in healthy subjects, and the drug interaction
+  between cefepime and avibactam. (NCT NCT05588531; status COMPLETED).
+hypothesis: To evaluate the safety and tolerability of multiple doses of YK-1169 in healthy subjects,
+  the pharmacokinetic characteristics of multiple doses in healthy subjects, and the drug interaction
+  between ce
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05588531 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05588531-study-on-tolerance-pharmacokinetics

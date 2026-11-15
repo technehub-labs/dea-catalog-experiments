@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04608760
+name: NCT04608760 — Prevention of Acute Pancreatitis After Endoscopic Interventions
+description: The aim of the study is to develop a method for the prevention of acute pancreatitis after
+  minimally invasive interventions of the bile ducts using a drug regimen. (NCT NCT04608760; status UNKNOWN).
+hypothesis: The aim of the study is to develop a method for the prevention of acute pancreatitis after
+  minimally invasive interventions of the bile ducts using a drug regimen.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04608760 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct04608760-prevention-of-acute-pancreatitis-aft

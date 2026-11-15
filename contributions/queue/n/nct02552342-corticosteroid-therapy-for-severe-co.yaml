@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02552342
+name: NCT02552342 — Corticosteroid Therapy for Severe Community-Acquired Pneumonia
+description: The purpose of the present study is to assess the efficacy of methylprednisolone as an adjuvant
+  therapy in patients with severe community-acquired pneumonia (CAP) (PSI 4-5). The hypothesis of the
+  study is that methylprednisolone can decrease the mortality of severe CAP without any significant side
+  effects,with reduction of the time to clinical stability and failure rate of treatment. (NCT NCT02552342;
+  status UNKNOWN).
+hypothesis: The purpose of the present study is to assess the efficacy of methylprednisolone as an adjuvant
+  therapy in patients with severe community-acquired pneumonia (CAP) (PSI 4-5). The hypothesis of the
+  stud
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02552342 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct02552342-corticosteroid-therapy-for-severe-co

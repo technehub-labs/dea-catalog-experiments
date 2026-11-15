@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02864966
+name: NCT02864966 — A 24 Hour Occlusive Single Patch Test to Assess Acute Tolerance of Pre Lubricated
+  Condom on a Panel of Healthy Adult Subjects
+description: This is a 24 hour patch test to determine the acute tolerance of 3 variants of condom on
+  a panel of healthy adult subjects. The patches will be affixed to the back and remain under occlusion
+  for 24 hours. They will then be assessed at 30 minutes and 24 hours post patch removal. (NCT NCT02864966;
+  status COMPLETED).
+hypothesis: This is a 24 hour patch test to determine the acute tolerance of 3 variants of condom on a
+  panel of healthy adult subjects. The patches will be affixed to the back and remain under occlusion
+  for 24 ho
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02864966 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02864966-a-24-hour-occlusive-single-patch-tes

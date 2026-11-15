@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03213522
+name: NCT03213522 — Comparison of Craniosacral Therapy vs Pelvic Floor Physical Therapy
+description: The purpose of this study is to determine the efficacy of CST for the treatment of LUTS in
+  patients with MS and evaluate the acute effects compared to PFPT. A. Objectives To examine the effect
+  of CST as compared to PFPT on QOL, SEMG resting biofeedback readings, and PVR ultrasonography measures
+  in patients with MS and LUTS. B. Hypotheses / Research Question(s) It is hypothesized that patients
+  who receive CST will demonstrate improved QOL, bladder control and ability to empty bladder as compared
+  to those who receive PFPT. (NCT NCT03213522; status UNKNOWN).
+hypothesis: 'The purpose of this study is to determine the efficacy of CST for the treatment of LUTS in
+  patients with MS and evaluate the acute effects compared to PFPT. A. Objectives To examine the effect
+  of CST '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03213522 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct03213522-comparison-of-craniosacral-therapy-v

@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05593796
+name: NCT05593796 — Cognitive Behavioral Therapy(CBT) in Treatment of Methamphetamine Use Disorder
+description: The efficacy of cognitive behavioral therapy(CBT) in treatment of methamphetamine use disorder
+  (NCT NCT05593796; status UNKNOWN).
+hypothesis: The efficacy of cognitive behavioral therapy(CBT) in treatment of methamphetamine use disorder
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05593796 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05593796-cognitive-behavioral-therapy-cbt-in

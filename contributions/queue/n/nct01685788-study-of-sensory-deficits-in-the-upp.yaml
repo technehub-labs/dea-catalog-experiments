@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01685788
+name: NCT01685788 — Study of Sensory Deficits in the Upper Limb After Stroke
+description: The overall aim of the project is to gain insight in sensory deficits and recovery patterns
+  in the upper limb post stroke and its association with brain lesion localisation. Furthermore, the investigators
+  will identify associations of deficits in sensory modalities with upper limb impairments, activities
+  and participation at different time points after stroke. Identification of the sensory deficits, along
+  with further insights in their relation with objective neurophysiological and neuroanatomical measures
+  will contribute to the amelioration of goal-setting for the rehabilitation of upper extremity function
+  after stroke. These functions are indispensable during several daily activities as well in different
+  sports and leisure activities. This project is an important step towards a better delineating of treatment
+  interventions for the upper limb and to a better guiding of individual needs for post-stroke treatment
+  in the future. (NCT NCT01685788; status COMPLETED).
+hypothesis: The overall aim of the project is to gain insight in sensory deficits and recovery patterns
+  in the upper limb post stroke and its association with brain lesion localisation. Furthermore, the investiga
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01685788 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01685788-study-of-sensory-deficits-in-the-upp

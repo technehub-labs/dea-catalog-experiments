@@ -1,0 +1,35 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04771637
+name: NCT04771637 — Effect of Dexmedetomidine on Perioperative Internal Environment and Rehabilitation
+  of Patients Undergoing Gastrointestinal Malignant Tumor Resection
+description: Dexmedetomidine is a highly selective alpha2-adrenergic receptor agonist with sedative, analgesic,
+  anti-anxiety, and inhibitory sympathetic nerve excitation properties. It is commonly used in clinical
+  anesthesia and intensive care.Radical gastrectomy for gastrointestinal malignant tumors is a common
+  major operation in clinical practice, with long operation time, great trauma and strong stress response
+  of patients. Dexmedetomidine is often used in general anesthesia during such operations, but its long-term
+  use or large dose may produce certain side effects.Common side effects of dexmedetomidine include bradycardia
+  and hypotension, etc. Previous studies have reported that dexmedetomidine can prolong QT interval and
+  is at risk of causing tip torsion type ventricular tachycardia.Abnormal Potassium may affect myocardial
+  repolarization and increase the risk of tip torsion ventricular tachycardia.The main purpose of this
+  study was to observe the effects of long-term use of dexmedetomidine on perioperative internal environment
+  such as electrolyte and rehabilitation indicators during radical general anesthesia for gastrointestinal
+  malignancy, and the secondary purpose was to explore the optimal dose of dexmedetomidine for general
+  anesthesia for patients undergoing radical general anesthesia for gastrointestinal malignancy. (NCT
+  NCT04771637; status COMPLETED).
+hypothesis: Dexmedetomidine is a highly selective alpha2-adrenergic receptor agonist with sedative, analgesic,
+  anti-anxiety, and inhibitory sympathetic nerve excitation properties. It is commonly used in clinical
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04771637 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04771637-effect-of-dexmedetomidine-on-periope

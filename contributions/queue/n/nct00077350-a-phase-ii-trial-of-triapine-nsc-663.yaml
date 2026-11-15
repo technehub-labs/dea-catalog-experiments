@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00077350
+name: 'NCT00077350 — A Phase II Trial of Triapine (NSC #663249) in Combination With Gemcitabine as Second
+  Line Treatment of Non-Small Cell Lung Cancer'
+description: Drugs used in chemotherapy, such as 3-AP and gemcitabine, work in different ways to stop
+  tumor cells from dividing so they stop growing or die. Giving 3-AP together with gemcitabine may kill
+  more tumor cells. This phase II trial is studying how well giving 3-AP together with gemcitabine works
+  as second-line therapy in treating patients with progressive or recurrent non-small cell lung cancer
+  (NCT NCT00077350; status COMPLETED).
+hypothesis: Drugs used in chemotherapy, such as 3-AP and gemcitabine, work in different ways to stop tumor
+  cells from dividing so they stop growing or die. Giving 3-AP together with gemcitabine may kill more
+  tumo
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00077350 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00077350-a-phase-ii-trial-of-triapine-nsc-663

@@ -1,0 +1,36 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07689825
+name: NCT07689825 — Development of a Risk Prediction Model for Post-Spinal Anesthesia Hypotension During
+  Cesarean Delivery Using Heart Rate, Blood Pressure, Perfusion Index, ECG Waveforms, and SpO₂ Waveform
+description: Spinal anesthesia is the preferred anesthetic technique for patients undergoing cesarean
+  section. Compared with general anesthesia, spinal anesthesia offers multiple advantages. However, a
+  common adverse effect of this technique is hypotension following spinal anesthesia, which is induced
+  by sympathetic blockade and has an incidence rate as high as 70%. Hypotension can lead to maternal nausea
+  and vomiting, reduced fetal Apgar scores, and acidosis, exerting adverse effects on both the mother
+  and the fetus. Furthermore, prolonged duration of hypotension may adversely impact the fetal neurological
+  prognosis. Therefore, predicting which patients are at high risk for developing hypotension facilitates
+  the implementation of preventive measures-such as the administration of vasoactive agents and intensified
+  monitoring through frequent blood pressure measurements-to improve clinical outcomes in these high-risk
+  patients. Patients undergoing cesarean section who met the inclusion criteria were prospectively observed.
+  A standardized anesthesia protocol was uniformly applied to investigate the incidence of hypotension
+  following spinal anesthesia. Based on dynamic changes in preoperative and intraoperative heart rate,
+  blood pressure, perfusion index, and waveform characteristics of electrocardiography and pulse oximetry,
+  a prognostic model was developed to predict the occurrence of hypotension after spinal anesthesia. (NCT
+  NCT07689825; status NOT_YET_RECRUITING).
+hypothesis: Spinal anesthesia is the preferred anesthetic technique for patients undergoing cesarean section.
+  Compared with general anesthesia, spinal anesthesia offers multiple advantages. However, a common adve
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07689825 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07689825-development-of-a-risk-prediction-mod

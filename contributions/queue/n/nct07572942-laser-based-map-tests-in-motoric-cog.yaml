@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07572942
+name: NCT07572942 — Laser-Based Map Tests in Motoric Cognitive Risk Syndrome
+description: This study aims to evaluate the validity and reliability of neuroscience-based visual laser
+  feedback map tests in individuals with Motoric Cognitive Risk Syndrome (MCRS). The developed assessment
+  protocol integrates visuospatial processing, reaction time, and upper extremity motor control within
+  a single task. Construct validity will be examined through correlations with reaction time and proprioception
+  measurements, and test-retest reliability will be assessed to determine measurement consistency. (NCT
+  NCT07572942; status RECRUITING).
+hypothesis: This study aims to evaluate the validity and reliability of neuroscience-based visual laser
+  feedback map tests in individuals with Motoric Cognitive Risk Syndrome (MCRS). The developed assessment
+  prot
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07572942 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07572942-laser-based-map-tests-in-motoric-cog

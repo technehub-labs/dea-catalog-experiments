@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01594866
+name: NCT01594866 — Lexapro®'s Efficacy After Dose Escalation in Remission Study
+description: The purpose of this study is the evaluation of remission rate between escitalopram 20 mg
+  and 30 mg in patients with major depressive disorder. (NCT NCT01594866; status COMPLETED).
+hypothesis: The purpose of this study is the evaluation of remission rate between escitalopram 20 mg and
+  30 mg in patients with major depressive disorder.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01594866 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01594866-lexapro-s-efficacy-after-dose-escala

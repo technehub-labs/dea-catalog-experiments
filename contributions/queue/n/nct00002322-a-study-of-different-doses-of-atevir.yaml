@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00002322
+name: NCT00002322 — A Study of Different Doses of Atevirdine Mesylate Plus Zidovudine in HIV-Positive
+  Patients
+description: To determine the tolerance and antiviral response of two different doses of atevirdine mesylate
+  (U-87201E) in symptomatic HIV-positive patients with CD4 counts of 50-350 cells/mm3, who also take zidovudine
+  (AZT). (NCT NCT00002322; status COMPLETED).
+hypothesis: To determine the tolerance and antiviral response of two different doses of atevirdine mesylate
+  (U-87201E) in symptomatic HIV-positive patients with CD4 counts of 50-350 cells/mm3, who also take zidov
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00002322 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00002322-a-study-of-different-doses-of-atevir

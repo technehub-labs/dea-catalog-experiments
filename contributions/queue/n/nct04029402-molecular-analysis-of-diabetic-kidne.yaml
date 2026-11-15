@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04029402
+name: NCT04029402 — Molecular Analysis of Diabetic Kidney Disease Biopsies
+description: Despite decades of research, the pathogenesis of human diabetic kidney disease remains largely
+  unclear. Our goal is to use archived human kidney biopsy tissue from patients with and with diabetic
+  nephropathy to identify new molecules that drive and/or protect against disease progression. We will
+  use RNA sequencing to identify transcriptomic changes that associate with histologic and functional
+  outcomes. (NCT NCT04029402; status UNKNOWN).
+hypothesis: Despite decades of research, the pathogenesis of human diabetic kidney disease remains largely
+  unclear. Our goal is to use archived human kidney biopsy tissue from patients with and with diabetic
+  neph
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04029402 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct04029402-molecular-analysis-of-diabetic-kidne

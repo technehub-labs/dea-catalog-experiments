@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04219761
+name: NCT04219761 — National Tunisian Registry of Percutaneous Coronary Intervention
+description: The National Tunisian Registry of Percutaneous Coronary Intervention is an observational,
+  prospective and multicenter study aiming to assess coronary intervention strategies in tunisian departments
+  of cardiology. Cardiologists from both sectors (public and private) are participating in the study,
+  with 37 investigational centers. Data will be captured electronically by DACIMA Clinical Suite, according
+  to FDA 21 CFR part 11 (Food and Drug Administration 21 Code of Federal Regulations part 11), HIPAA (Health
+  Insurance Portability and Accountability Act) \& ICH (International Conference on Harmonisation) requirements.
+  (NCT NCT04219761; status COMPLETED).
+hypothesis: The National Tunisian Registry of Percutaneous Coronary Intervention is an observational,
+  prospective and multicenter study aiming to assess coronary intervention strategies in tunisian departments
+  of
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04219761 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04219761-national-tunisian-registry-of-percut

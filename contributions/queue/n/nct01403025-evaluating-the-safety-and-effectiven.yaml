@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01403025
+name: NCT01403025 — Evaluating the Safety and Effectiveness of Liraglutide in Subjects With Type 2 Diabetes
+description: This trial is conducted in Asia. The aim of the trial is to assess the incidence rate and
+  type of SADRs (serious adverse drug reactions). (NCT NCT01403025; status COMPLETED).
+hypothesis: This trial is conducted in Asia. The aim of the trial is to assess the incidence rate and
+  type of SADRs (serious adverse drug reactions).
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01403025 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01403025-evaluating-the-safety-and-effectiven

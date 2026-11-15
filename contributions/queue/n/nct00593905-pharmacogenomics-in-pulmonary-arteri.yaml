@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00593905
+name: NCT00593905 — Pharmacogenomics in Pulmonary Arterial Hypertension
+description: 'Our goal is to determine clinically in Pulmonary Arterial Hypertension patients if associations
+  exist between the efficacy and toxicity of sitaxsentan, bosentan, and ambrisentan and several gene polymorphisms
+  in several key disease-specific and therapy specific genes. Also characterized is the relationship between
+  these polymorphisms and the severity of Pulmonary Arterial Hypertension using either baseline hemodynamic
+  or clinical surrogates for disease severity. Hypothesis: Polymorphisms influence the efficacy and toxicity
+  of specific Pulmonary Arterial Hypertension therapy as well as development/severity of PAH via their
+  effect on PA remodeling, drug response, or metabolism. This study requires a one time 8.5 ml blood sample
+  and clinical data to be obtained at initiation of therapy, 4 months after initiation of therapy and
+  12 months after initiation of therapy. (NCT NCT00593905; status WITHDRAWN).'
+hypothesis: Our goal is to determine clinically in Pulmonary Arterial Hypertension patients if associations
+  exist between the efficacy and toxicity of sitaxsentan, bosentan, and ambrisentan and several gene polym
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00593905 (ClinicalTrials.gov; status WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withdrawn
+slug: nct00593905-pharmacogenomics-in-pulmonary-arteri

@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00514969
+name: NCT00514969 — Protein-Tyrosine Kinase Inhibitor (STI571) for Treatment of Patients With Ph+ Chronic
+  Myeloid Leukemia in Accelerated and Blastic Phase
+description: This is a phase II, multi-center, open-label, non-randomized trial. During Part 1 of the
+  trial, patients will receive once daily oral administration of STI571 at a dose of 600 mg for 24 weeks.
+  After completing 24 weeks of therapy, patients may be eligible to receive additional therapy during
+  Part 2 of the trial provided that, in the opinion of the investigator, the patient has benefited from
+  treatment with STI571 and in the absence of safety concerns. During Part 2 (which is of indefinite duration),
+  patients will continue to receive STI571 on a daily basis until either death, the development of intolerable
+  toxicity or the investigator feels it is no longer in the patient's best interest to continue therapy,
+  whichever comes first. (NCT NCT00514969; status COMPLETED).
+hypothesis: This is a phase II, multi-center, open-label, non-randomized trial. During Part 1 of the trial,
+  patients will receive once daily oral administration of STI571 at a dose of 600 mg for 24 weeks. After
+  c
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00514969 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00514969-protein-tyrosine-kinase-inhibitor-st

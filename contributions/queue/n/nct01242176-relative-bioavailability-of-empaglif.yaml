@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01242176
+name: NCT01242176 — Relative Bioavailability of Empagliflozin (BI 10773) (Final Formulation) Compared
+  to Empagliflozin (BI 10773 XX) (Trial Formulation 2) in Healthy Male and Female Volunteers
+description: The objective of the study is to investigate the relative bioavailability of the final tablet
+  formulation (FF) of BI 10773 in comparison to the tablet formulation 2 (TF2). (NCT NCT01242176; status
+  COMPLETED).
+hypothesis: The objective of the study is to investigate the relative bioavailability of the final tablet
+  formulation (FF) of BI 10773 in comparison to the tablet formulation 2 (TF2).
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01242176 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01242176-relative-bioavailability-of-empaglif

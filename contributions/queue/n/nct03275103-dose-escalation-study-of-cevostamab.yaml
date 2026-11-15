@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03275103
+name: NCT03275103 — Dose-Escalation Study of Cevostamab in Participants With Relapsed or Refractory Multiple
+  Myeloma (R/R MM)
+description: This is a phase I, multicenter, open-label, dose-escalation study of cevostamab administered
+  as a single agent by IV infusion to participants with relapsed or refractory multiple myeloma (R/R MM).
+  (NCT NCT03275103; status COMPLETED).
+hypothesis: This is a phase I, multicenter, open-label, dose-escalation study of cevostamab administered
+  as a single agent by IV infusion to participants with relapsed or refractory multiple myeloma (R/R MM).
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03275103 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03275103-dose-escalation-study-of-cevostamab

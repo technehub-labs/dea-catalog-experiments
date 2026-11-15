@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02904356
+name: NCT02904356 — Repetitive Transcranial Magnetic Stimulation (rTMS) for Obsessive-Compulsive Disorder
+  (OCD)
+description: The study aims to assess the impact of repetitive transcranial magnetic stimulation (rTMS)
+  on brain imaging and neurophysiological measures of cognitive control in patients with Obsessive-Compulsive
+  Disorder (OCD). (NCT NCT02904356; status TERMINATED).
+hypothesis: The study aims to assess the impact of repetitive transcranial magnetic stimulation (rTMS)
+  on brain imaging and neurophysiological measures of cognitive control in patients with Obsessive-Compulsive
+  D
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02904356 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct02904356-repetitive-transcranial-magnetic-sti

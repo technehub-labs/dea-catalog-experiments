@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06742996
+name: NCT06742996 — A Study to Investigate the Efficacy and Safety of Sonrotoclax Plus Zanubrutinib Compared
+  With Placebo Plus Zanubrutinib in Adults With Relapsed/Refractory Mantle Cell Lymphoma (CELESTIAL
+description: The goal of this study is to compare how well sonrotoclax plus zanubrutinib works versus
+  zanubrutinib plus placebo in treating adults with relapsed/refractory (R/R) mantle cell lymphoma (MCL).
+  This study will also look at the safety of sonrotoclax plus zanubrutinib versus zanubrutinib plus placebo.
+  (NCT NCT06742996; status RECRUITING).
+hypothesis: The goal of this study is to compare how well sonrotoclax plus zanubrutinib works versus zanubrutinib
+  plus placebo in treating adults with relapsed/refractory (R/R) mantle cell lymphoma (MCL). This st
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06742996 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06742996-a-study-to-investigate-the-efficacy

@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07922850
+name: NCT07922850 — Tailored Nutrition vs. Exercise Prehabilitation Before Colorectal Cancer Surgery
+description: 'This study will test whether tailored nutritional support before surgery, alone or combined
+  with a structured exercise program, can help adult patients recover better after surgery for colorectal
+  (bowel) cancer. Participants will be randomly assigned to one of three groups: usual care, tailored
+  nutritional support alone, or nutritional support combined with a structured exercise program (multimodal
+  prehabilitation). The main goal is to find out whether either approach improves physical function 30
+  days after surgery, measured by how far participants can walk in 6 minutes (the 6-minute walk test).
+  The study will also look at nutritional intake, physical function, quality of life, complications, hospital
+  readmissions, and length of hospital stay. A total of 140 adult patients scheduled for surgery for colorectal
+  cancer at hospitals in Northern Norway will be enrolled. (NCT NCT07922850; status NOT_YET_RECRUITING).'
+hypothesis: This study will test whether tailored nutritional support before surgery, alone or combined
+  with a structured exercise program, can help adult patients recover better after surgery for colorectal
+  (bow
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07922850 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07922850-tailored-nutrition-vs-exercise-preha

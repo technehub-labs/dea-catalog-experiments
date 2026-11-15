@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00909753
+name: NCT00909753 — Ursodiol 500 mg Tablets Under Fed Conditions
+description: The objective of this study was to evaluate the comparative bioavailability between Ursodiol
+  500 mg Tablets (test) and Urso Forte™ 500 mg Tablets (reference)after a single-dose in healthy subjects
+  under fed conditions. (NCT NCT00909753; status COMPLETED).
+hypothesis: The objective of this study was to evaluate the comparative bioavailability between Ursodiol
+  500 mg Tablets (test) and Urso Forte™ 500 mg Tablets (reference)after a single-dose in healthy subjects
+  und
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00909753 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00909753-ursodiol-500-mg-tablets-under-fed-co
