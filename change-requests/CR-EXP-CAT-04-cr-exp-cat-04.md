@@ -1,6 +1,8 @@
-# CR-EXP-CAT-01: Experiment Candidate Admission Batch 02 (NCT00000576 — Inhaled Beclomethasone to Prevent Chronic Lung Disease … NCT07936851 — Efficacy and Safety of Percutaneous Nephrostomy Versus Double J Stent Insertion in Pregnant Patients With Symptomatic Right-sided Hydronephrosis: A Randomized Trial.)
+# CR-EXP-CAT-04: Experiment Candidate Admission Batch 02 (NCT00000576 — Inhaled Beclomethasone to Prevent Chronic Lung Disease … NCT07936851 — Efficacy and Safety of Percutaneous Nephrostomy Versus Double J Stent Insertion in Pregnant Patients With Symptomatic Right-sided Hydronephrosis: A Randomized Trial.)
 
 **Status**: Landed (this PR)
+
+**Numbering correction**: this CR landed under `CR-EXP-CAT-01`, colliding with the foundation/groundwork CR number of the same series. Renumbered to `CR-EXP-CAT-04` by the naming-correction CR (BC-01A renumbering precedent); content unchanged.
 **Layer**: Catalog content (candidate corpus admission)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15
