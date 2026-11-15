@@ -1,0 +1,39 @@
+id: dea:experiment-nct03275103-dose-escalation-study-of-cevostamab-7v7t68
+type: Experiment
+name: NCT03275103 — Dose-Escalation Study of Cevostamab in Participants With Relapsed
+  or Refractory Multiple Myeloma (R/R MM)
+description: This is a phase I, multicenter, open-label, dose-escalation study of
+  cevostamab administered as a single agent by IV infusion to participants with relapsed
+  or refractory multiple myeloma (R/R MM). (NCT NCT03275103; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This is a phase I, multicenter, open-label, dose-escalation study of cevostamab
+  administered as a single agent by IV infusion to participants with relapsed or refractory
+  multiple myeloma (R/R MM).
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03275103 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

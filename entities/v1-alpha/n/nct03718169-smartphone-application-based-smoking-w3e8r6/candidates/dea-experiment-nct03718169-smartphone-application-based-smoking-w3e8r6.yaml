@@ -1,0 +1,41 @@
+id: dea:experiment-nct03718169-smartphone-application-based-smoking-w3e8r6
+type: Experiment
+name: NCT03718169 — Smartphone Application-based Smoking Cessation Programme Among
+  Female Smokers
+description: This project aims to develop a smartphone application to deliver a gender-specific
+  programme for female smokers in Hong Kong. Through the smartphone application, we
+  expect that our gender-specific smoking cessation programme can reach more female
+  smokers in Hong Kong. The objectives is to promote smoking cessation among female
+  smokers in Hong Kong. (NCT NCT03718169; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This project aims to develop a smartphone application to deliver a gender-specific
+  programme for female smokers in Hong Kong. Through the smartphone application, we
+  expect that our gender-specific smo
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03718169 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

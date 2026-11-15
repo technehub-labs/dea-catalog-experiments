@@ -1,0 +1,37 @@
+id: dea:experiment-nct02232542-tolerability-and-safety-of-duloxetin-mf6xeh
+type: Experiment
+name: NCT02232542 — Tolerability and Safety of Duloxetine BID in Healthy Female Subjects
+description: Study to assess the safety and tolerability of 100 mg of duloxetine BID
+  compared to 40 mg of duloxetine BID or placebo for 7 days (NCT NCT02232542; status
+  COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Study to assess the safety and tolerability of 100 mg of duloxetine BID
+  compared to 40 mg of duloxetine BID or placebo for 7 days
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02232542 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

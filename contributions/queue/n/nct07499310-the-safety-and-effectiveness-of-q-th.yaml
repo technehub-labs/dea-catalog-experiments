@@ -1,31 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07499310
-name: NCT07499310 — The Safety and Effectiveness of Q Therapeutic System, Frequency-tuned Electromagnetic
-  Field Treatment in Facilitating the Recovery of Patients With Chronic Stroke.
-description: 'This trial will test a promising new intervention to promote post-stroke neural reorganization
-  and functional recovery. The overall aim is to identify a systematic, methodological approach to system
-  fitting, training protocols, and optimization of collecting outcome measures. Aim 1: Assess the safety
-  of using the Q Therapeutic (BQ 3.0) System, including in-clinic and at- extremity rehabilitation training
-  for individuals with chronic stroke, as determined by the number of adverse events. Device deficiencies
-  will also be recorded to detect operational reliability. Aim 2: Evaluate the effectiveness of the Q
-  Therapeutic (BQ 3.0) System for individuals with chronic stroke in improving upper extremity function
-  as determined by change in functional outcome measures after 3-month treatment, including in-clinic
-  and at-home sessions. (NCT NCT07499310; status NOT_YET_RECRUITING).'
-hypothesis: This trial will test a promising new intervention to promote post-stroke neural reorganization
-  and functional recovery. The overall aim is to identify a systematic, methodological approach to system
-  f
+name: NCT07499310 — The Safety and Effectiveness of Q Therapeutic System, Frequency-tuned
+  Electromagnetic Field Treatment in Facilitating the Recovery of Patients With Chronic
+  Stroke.
+description: 'This trial will test a promising new intervention to promote post-stroke
+  neural reorganization and functional recovery. The overall aim is to identify a
+  systematic, methodological approach to system fitting, training protocols, and optimization
+  of collecting outcome measures. Aim 1: Assess the safety of using the Q Therapeutic
+  (BQ 3.0) System, including in-clinic and at- extremity rehabilitation training for
+  individuals with chronic stroke, as determined by the number of adverse events.
+  Device deficiencies will also be recorded to detect operational reliability. Aim
+  2: Evaluate the effectiveness of the Q Therapeutic (BQ 3.0) System for individuals
+  with chronic stroke in improving upper extremity function as determined by change
+  in functional outcome measures after 3-month treatment, including in-clinic and
+  at-home sessions. (NCT NCT07499310; status NOT_YET_RECRUITING).'
+hypothesis: This trial will test a promising new intervention to promote post-stroke
+  neural reorganization and functional recovery. The overall aim is to identify a
+  systematic, methodological approach to system f
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07499310 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07499310 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07499310-the-safety-and-effectiveness-of-q-th
+assigned_id: dea:experiment-nct07499310-the-safety-and-effectiveness-of-q-th-jhq3jg
+admitted: '2026-11-15'

@@ -1,0 +1,39 @@
+id: dea:experiment-nct00524966-randomized-controlled-trial-of-bipol-zdaamw
+type: Experiment
+name: NCT00524966 — Randomized Controlled Trial of Bipolar Versus Ultrasonic Hemostasis
+  Techniques in Thyroidectomy
+description: 'RATIONALE: The use of bipolar energy sealing system or ultrasonic coagulation
+  for hemostasis during thyroidectomy may reduce blood loss and hypocalcemia and may
+  be more cost-effective. (NCT NCT00524966; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'RATIONALE: The use of bipolar energy sealing system or ultrasonic coagulation
+  for hemostasis during thyroidectomy may reduce blood loss and hypocalcemia and may
+  be more cost-effective.'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00524966 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

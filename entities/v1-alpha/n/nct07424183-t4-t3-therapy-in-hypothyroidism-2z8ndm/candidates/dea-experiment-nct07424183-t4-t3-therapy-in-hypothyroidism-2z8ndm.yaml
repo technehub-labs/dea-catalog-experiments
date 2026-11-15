@@ -1,0 +1,39 @@
+id: dea:experiment-nct07424183-t4-t3-therapy-in-hypothyroidism-2z8ndm
+type: Experiment
+name: NCT07424183 — T4/T3 Therapy in Hypothyroidism
+description: This study will test whether 6 months of combination therapy with levothyroxine
+  (LT4) plus liothyronine (LT3) is superior to LT4 plus placebo in participants with
+  hypothyroidism who have residual symptoms of hypothyroidism with TSH levels within
+  the reference range. (NCT NCT07424183; status NOT_YET_RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study will test whether 6 months of combination therapy with levothyroxine
+  (LT4) plus liothyronine (LT3) is superior to LT4 plus placebo in participants with
+  hypothyroidism who have residual symp
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07424183 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- not-yet-recruiting

@@ -1,0 +1,31 @@
+# NCT00087802 — Gemcitabine/Oxaliplatin (GEMOX) vs Carboplatin/Paclitaxel (CP) in Non-Small Cell Lung Cancer (NSCLC)
+
+> The purpose of this study is to compare combination treatment of gemcitabine + oxaliplatin (GEMOX) with carboplatin + paclitaxel (CP) to determine if there is a difference in response and safety between the two drug combinations for the treatment of advanced non-small cell lung cancer (NSCLC). (NCT NCT00087802; status COMPLETED).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct00087802-gemcitabine-oxaliplatin-gemox-vs-car-9ue87k`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT00087802 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

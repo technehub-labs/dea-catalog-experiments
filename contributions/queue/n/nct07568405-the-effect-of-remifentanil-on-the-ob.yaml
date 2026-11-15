@@ -1,24 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07568405
-name: NCT07568405 — The Effect of Remifentanil on the Objectively Measured Pressure Pain Threshold
-description: It is a clinical study investigating the relationship between objectively measured pain threshold
-  and the need for escalating doses of remifentanyl opioids. This study is expected to include approximately
-  40 participants. The aim of the study is to objectively measure the analgesic effect of an increasing
-  dose of opioids just before anesthesia. (NCT NCT07568405; status ENROLLING_BY_INVITATION).
-hypothesis: It is a clinical study investigating the relationship between objectively measured pain threshold
-  and the need for escalating doses of remifentanyl opioids. This study is expected to include approxima
+name: NCT07568405 — The Effect of Remifentanil on the Objectively Measured Pressure
+  Pain Threshold
+description: It is a clinical study investigating the relationship between objectively
+  measured pain threshold and the need for escalating doses of remifentanyl opioids.
+  This study is expected to include approximately 40 participants. The aim of the
+  study is to objectively measure the analgesic effect of an increasing dose of opioids
+  just before anesthesia. (NCT NCT07568405; status ENROLLING_BY_INVITATION).
+hypothesis: It is a clinical study investigating the relationship between objectively
+  measured pain threshold and the need for escalating doses of remifentanyl opioids.
+  This study is expected to include approxima
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07568405 (ClinicalTrials.gov; status ENROLLING_BY_INVITATION)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07568405 (ClinicalTrials.gov; status
+      ENROLLING_BY_INVITATION)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - enrolling-by-invitat
 slug: nct07568405-the-effect-of-remifentanil-on-the-ob
+assigned_id: dea:experiment-nct07568405-the-effect-of-remifentanil-on-the-ob-3skq27
+admitted: '2026-11-15'

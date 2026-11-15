@@ -1,0 +1,31 @@
+# NCT01084759 — A Pilot Study of Parenteral Testosterone and Oral Etoposide as Therapy for Men With Castration Resistant Prostate Cancer
+
+> The objective of the study is to determine if men with evidence of progressive prostate cancer while on chronic androgen ablation of ≥ 1 year duration will exhibit a clinical response following administration of parenteral testosterone and oral etoposide. Treatment Plan: Eligible patients will continue on androgen ablative therapy with luteinizing hormone-releasing hormone (LHRH) agonist (i.e. Zoladex or Lupron) if not surgically castrated. Patients will receive intramuscular injection with testosterone cypionate at a dose of 400 mg every month for a total of 3 injections (i.e. 3 months of therapy). This dose was selected based on data demonstrating that it produces an initial supraphysiologic serum level of testosterone (i.e. \> 3-5 times normal level) with eugonadal levels achieved at the end of two weeks. Beginning the day of the testosterone injection, patients will also receive oral etoposide 100 mg/day in divided doses (50 mg q 12h) x 14 days out of 28 days per cycle. After 3 months on therapy, patients will have repeat prostate specific antigen (PSA) and bone/computed tomography (CT) scans to establish the effect of combined testosterone and etoposide treatment on these parameters (i.e. "testosterone effect baseline"). Patients with sustained elevations in PSA ≥ 50% above pre-testosterone treatment PSA levels after the initial three months of testosterone and etoposide therapy will not receive continued therapy and will come off study. Patients with PSA levels less than the peak serum PSA level seen over the three month period (PSA decline) or patients with PSA ≤ 50% of pretreatment baseline will receive a second 3 month course of monthly testosterone and etoposide therapy until evidence of disease progression. Disease progression is defined as a PSA increase above the PSA level obtained after 3 months on testosterone treatment over two successive measurements 2 weeks apart or evidence of new lesions or progression on bone/CT scans compared to baseline studie
+
+## Identity
+
+- **Record id**: `dea:experiment-nct01084759-a-pilot-study-of-parenteral-testoste-a5u444`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT01084759 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

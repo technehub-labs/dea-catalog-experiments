@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03571854
-name: NCT03571854 — The Effect of Pressure-controlled Ventilation-volume Guaranteed Mode
-description: The anesthetized patient is turned to the prone position during lumbar spine surgery. The
-  dynamic compliance of lung usually decreases and peak airway pressure increases during the surgery.
-  A new ventilation mode, pressure-controlled ventilation with volume guaranteed mode (PCV-VG) has been
-  recently introduced. The ventilator compares the tidal volume of the previous breath and automatically
-  regulates the pressure up or down to achieve the set tidal volume. This prospective, randomized study
-  is designed to compare the effect of PCV-VG and volume-controlled ventilation (VCV) on peak airway pressure,
-  lung compliance and hemodynamic variables. (NCT NCT03571854; status UNKNOWN).
-hypothesis: The anesthetized patient is turned to the prone position during lumbar spine surgery. The
-  dynamic compliance of lung usually decreases and peak airway pressure increases during the surgery.
-  A new vent
+name: NCT03571854 — The Effect of Pressure-controlled Ventilation-volume Guaranteed
+  Mode
+description: The anesthetized patient is turned to the prone position during lumbar
+  spine surgery. The dynamic compliance of lung usually decreases and peak airway
+  pressure increases during the surgery. A new ventilation mode, pressure-controlled
+  ventilation with volume guaranteed mode (PCV-VG) has been recently introduced. The
+  ventilator compares the tidal volume of the previous breath and automatically regulates
+  the pressure up or down to achieve the set tidal volume. This prospective, randomized
+  study is designed to compare the effect of PCV-VG and volume-controlled ventilation
+  (VCV) on peak airway pressure, lung compliance and hemodynamic variables. (NCT NCT03571854;
+  status UNKNOWN).
+hypothesis: The anesthetized patient is turned to the prone position during lumbar
+  spine surgery. The dynamic compliance of lung usually decreases and peak airway
+  pressure increases during the surgery. A new vent
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03571854 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03571854 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03571854-the-effect-of-pressure-controlled-ve
+assigned_id: dea:experiment-nct03571854-the-effect-of-pressure-controlled-ve-a9z3k9
+admitted: '2026-11-15'

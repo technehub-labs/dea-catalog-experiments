@@ -1,0 +1,46 @@
+id: dea:experiment-nct01093937-study-of-varenicline-champix-for-smo-vkkbme
+type: Experiment
+name: NCT01093937 — Study of Varenicline (Champix) for Smoking Cessation/Reduction
+  in Patients With Bipolar Disorder
+description: Bipolar Disorder is a chronic relapsing mental disorder characterized
+  by periods of elevated, expansive and irritable mood, often alternating with periods
+  of significant clinical depression. People with Bipolar Disorder are typically heavy
+  smokers who have difficulty quitting, and this is associated with significant tobacco-related
+  medical illness and death. The proposed study will be a double-blind, placebo-controlled
+  10-week clinical trial of the safety and efficacy of varenicline (Champix™) in thirty
+  subjects with Bipolar I Disorder. This medication is the latest first-line pharmacotherapy
+  for smoking cessation and has been shown to be efficacious for smoking cessation,
+  but has not yet been systematically studied in persons with Bipolar Disorder. (NCT
+  NCT01093937; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Bipolar Disorder is a chronic relapsing mental disorder characterized
+  by periods of elevated, expansive and irritable mood, often alternating with periods
+  of significant clinical depression. People wi
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01093937 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

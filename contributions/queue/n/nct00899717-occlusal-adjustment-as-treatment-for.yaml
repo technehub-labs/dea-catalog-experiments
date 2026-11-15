@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00899717
 name: NCT00899717 — Occlusal Adjustment as Treatment for Chronic Orofacial Pain
-description: The purpose of this study is to determine whether occlusal adjustment by selective grinding
-  and/or occlusal addition is an effective treatment of chronic temporomandibular joint disorders. (NCT
-  NCT00899717; status COMPLETED).
-hypothesis: The purpose of this study is to determine whether occlusal adjustment by selective grinding
-  and/or occlusal addition is an effective treatment of chronic temporomandibular joint disorders.
+description: The purpose of this study is to determine whether occlusal adjustment
+  by selective grinding and/or occlusal addition is an effective treatment of chronic
+  temporomandibular joint disorders. (NCT NCT00899717; status COMPLETED).
+hypothesis: The purpose of this study is to determine whether occlusal adjustment
+  by selective grinding and/or occlusal addition is an effective treatment of chronic
+  temporomandibular joint disorders.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00899717 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00899717 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00899717-occlusal-adjustment-as-treatment-for
+assigned_id: dea:experiment-nct00899717-occlusal-adjustment-as-treatment-for-sqxfhg
+admitted: '2026-11-15'

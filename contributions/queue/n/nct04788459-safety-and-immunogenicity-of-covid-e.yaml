@@ -1,30 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04788459
-name: NCT04788459 — Safety and Immunogenicity of COVID-eVax, a Candidate Plasmid DNA Vaccine for COVID-19,
-  in Healthy Adult Volunteers
-description: This is a multicentre, open-label Phase 1/2 study, with a first-in-human (FIH) dose escalation
-  part (Phase 1 study) followed by an open-label single arm (or two-arms, randomized) dose expansion part
-  (Phase 2 study). The vaccine will be administered by intramuscular (IM) injection followed by electroporation
-  (EP) applied to the injection site. The study is aimed at assessing the safety and immunogenicity of
-  COVID-eVax, a DNA plasmid-based vaccine whose target antigen is a portion of the S protein of SARS-CoV-2
-  virus (the Receptor Binding Domain located in the CTD1 of the S1 region of the S protein). In animal
-  models COVID-eVax was safe and induced high immunological humoral and cellular response. (NCT NCT04788459;
-  status TERMINATED).
-hypothesis: This is a multicentre, open-label Phase 1/2 study, with a first-in-human (FIH) dose escalation
-  part (Phase 1 study) followed by an open-label single arm (or two-arms, randomized) dose expansion part
-  (
+name: NCT04788459 — Safety and Immunogenicity of COVID-eVax, a Candidate Plasmid DNA
+  Vaccine for COVID-19, in Healthy Adult Volunteers
+description: This is a multicentre, open-label Phase 1/2 study, with a first-in-human
+  (FIH) dose escalation part (Phase 1 study) followed by an open-label single arm
+  (or two-arms, randomized) dose expansion part (Phase 2 study). The vaccine will
+  be administered by intramuscular (IM) injection followed by electroporation (EP)
+  applied to the injection site. The study is aimed at assessing the safety and immunogenicity
+  of COVID-eVax, a DNA plasmid-based vaccine whose target antigen is a portion of
+  the S protein of SARS-CoV-2 virus (the Receptor Binding Domain located in the CTD1
+  of the S1 region of the S protein). In animal models COVID-eVax was safe and induced
+  high immunological humoral and cellular response. (NCT NCT04788459; status TERMINATED).
+hypothesis: This is a multicentre, open-label Phase 1/2 study, with a first-in-human
+  (FIH) dose escalation part (Phase 1 study) followed by an open-label single arm
+  (or two-arms, randomized) dose expansion part (
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04788459 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04788459 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct04788459-safety-and-immunogenicity-of-covid-e
+assigned_id: dea:experiment-nct04788459-safety-and-immunogenicity-of-covid-e-vehbx2
+admitted: '2026-11-15'

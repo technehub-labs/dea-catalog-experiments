@@ -1,0 +1,47 @@
+id: dea:experiment-nct03968666-compliance-with-enhanced-recovery-af-fz7grp
+type: Experiment
+name: NCT03968666 — Compliance With Enhanced Recovery After Surgery Protocol (ERAS)
+  in Surgical Patients
+description: The concept of "enhanced recovery" was introduced by European anesthesiologists
+  and surgeons who challenged traditional clinical practices involved in peri-operative
+  care in 1990s. The goal of enhanced recovery programs (ERP) is to maintain normal
+  physiology thereby decreasing complications. It focuses on peri-operative optimization
+  of patient care. It was originally created for open colorectal surgeries but now
+  has shown benefit in various surgical specialities including thoracic surgery, vascular
+  surgery, hepatobiliary as well as gynecological surgery. The successful implementation
+  of structured ERAS program requires an ERAS protocol, audit system and a multidisciplinary
+  team. The investigators will evaluate the effect of compliance with the protocol
+  and outcomes such as length of stay, readmissions, morbidity and mortality. (NCT
+  NCT03968666; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The concept of "enhanced recovery" was introduced by European anesthesiologists
+  and surgeons who challenged traditional clinical practices involved in peri-operative
+  care in 1990s. The goal of enhance
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03968666 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

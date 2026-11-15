@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01518140
 name: NCT01518140 — BiPAP-Vapotherm RCT
-description: The goal of this clinical research study is to learn if 3 breathing devices reduce feeling
-  short of breath in cancer patients. Researchers also want to learn if these devices can help to control
-  shortness of breath. (NCT NCT01518140; status WITHDRAWN).
-hypothesis: The goal of this clinical research study is to learn if 3 breathing devices reduce feeling
-  short of breath in cancer patients. Researchers also want to learn if these devices can help to control
-  short
+description: The goal of this clinical research study is to learn if 3 breathing devices
+  reduce feeling short of breath in cancer patients. Researchers also want to learn
+  if these devices can help to control shortness of breath. (NCT NCT01518140; status
+  WITHDRAWN).
+hypothesis: The goal of this clinical research study is to learn if 3 breathing devices
+  reduce feeling short of breath in cancer patients. Researchers also want to learn
+  if these devices can help to control short
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01518140 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01518140 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct01518140-bipap-vapotherm-rct
+assigned_id: dea:experiment-nct01518140-bipap-vapotherm-rct-stsu4m
+admitted: '2026-11-15'

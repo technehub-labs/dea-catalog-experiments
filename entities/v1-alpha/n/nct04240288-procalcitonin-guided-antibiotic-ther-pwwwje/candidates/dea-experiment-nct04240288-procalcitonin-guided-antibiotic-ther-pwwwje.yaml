@@ -1,0 +1,40 @@
+id: dea:experiment-nct04240288-procalcitonin-guided-antibiotic-ther-pwwwje
+type: Experiment
+name: NCT04240288 — Procalcitonin Guided Antibiotic Therapy
+description: The overuse of antibiotics is an enormous problem facing the healthcare
+  system both in the United States and across the world. The investigators plan to
+  test the hypothesis that using procalcitonin levels (blood test) to guide the length
+  of antibiotic therapy in patients with complicated intra-abdominal infections leads
+  to shorter antibiotic treatment courses. (NCT NCT04240288; status WITHDRAWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The overuse of antibiotics is an enormous problem facing the healthcare
+  system both in the United States and across the world. The investigators plan to
+  test the hypothesis that using procalcitonin le
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04240288 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- withdrawn

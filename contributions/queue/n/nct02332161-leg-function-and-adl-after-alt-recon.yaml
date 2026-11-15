@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02332161
-name: NCT02332161 — Leg Function and ADL After ALT Reconstruction for Head and Neck Cancer
-description: Anterolateral thigh (ALT) free flap tissue transfer is a commonly used method of head and
-  neck reconstruction after head and neck cancer removal. The procedure involves removing some muscle,
-  skin, and tissue from the thigh, and this may affect leg function. The purpose of this study is to determine
-  the impact of ALT on ambulation and activities of daily living (ADLs) (NCT NCT02332161; status COMPLETED).
-hypothesis: Anterolateral thigh (ALT) free flap tissue transfer is a commonly used method of head and
-  neck reconstruction after head and neck cancer removal. The procedure involves removing some muscle,
-  skin, and
+name: NCT02332161 — Leg Function and ADL After ALT Reconstruction for Head and Neck
+  Cancer
+description: Anterolateral thigh (ALT) free flap tissue transfer is a commonly used
+  method of head and neck reconstruction after head and neck cancer removal. The procedure
+  involves removing some muscle, skin, and tissue from the thigh, and this may affect
+  leg function. The purpose of this study is to determine the impact of ALT on ambulation
+  and activities of daily living (ADLs) (NCT NCT02332161; status COMPLETED).
+hypothesis: Anterolateral thigh (ALT) free flap tissue transfer is a commonly used
+  method of head and neck reconstruction after head and neck cancer removal. The procedure
+  involves removing some muscle, skin, and
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02332161 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02332161 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02332161-leg-function-and-adl-after-alt-recon
+assigned_id: dea:experiment-nct02332161-leg-function-and-adl-after-alt-recon-n9m2qw
+admitted: '2026-11-15'

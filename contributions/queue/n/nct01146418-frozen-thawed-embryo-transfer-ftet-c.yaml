@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01146418
-name: NCT01146418 — Frozen-thawed Embryo Transfer (FTET) Cycle Follow-up Protocol (P06031)
-description: The purpose of this follow-up study is to collect the outcome and safety of FTET cycles after
-  the embryos are cryopreserved in P06029 (NCT01144416). P06029 was a study in which a single injection
-  of corifollitropin alfa (SCH 900962) was compared with daily recombinant follicle stimulating hormone
-  (recFSH) injections in women aged 35 to 42 years undergoing controlled ovarian stimulation (COS) prior
-  to in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI). (NCT NCT01146418; status
-  COMPLETED).
-hypothesis: The purpose of this follow-up study is to collect the outcome and safety of FTET cycles after
-  the embryos are cryopreserved in P06029 (NCT01144416). P06029 was a study in which a single injection
-  of c
+name: NCT01146418 — Frozen-thawed Embryo Transfer (FTET) Cycle Follow-up Protocol
+  (P06031)
+description: The purpose of this follow-up study is to collect the outcome and safety
+  of FTET cycles after the embryos are cryopreserved in P06029 (NCT01144416). P06029
+  was a study in which a single injection of corifollitropin alfa (SCH 900962) was
+  compared with daily recombinant follicle stimulating hormone (recFSH) injections
+  in women aged 35 to 42 years undergoing controlled ovarian stimulation (COS) prior
+  to in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI). (NCT
+  NCT01146418; status COMPLETED).
+hypothesis: The purpose of this follow-up study is to collect the outcome and safety
+  of FTET cycles after the embryos are cryopreserved in P06029 (NCT01144416). P06029
+  was a study in which a single injection of c
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01146418 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01146418 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01146418-frozen-thawed-embryo-transfer-ftet-c
+assigned_id: dea:experiment-nct01146418-frozen-thawed-embryo-transfer-ftet-c-gxata9
+admitted: '2026-11-15'

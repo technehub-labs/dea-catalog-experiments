@@ -1,0 +1,40 @@
+id: dea:experiment-nct06733194-complications-of-bladder-augmentatio-ex8f5h
+type: Experiment
+name: NCT06733194 — Complications of Bladder Augmentation in Children
+description: 'The goal of this observational study is to describe the complications
+  in participants who underwent enterocystoplasty in childhood. The main question\[s\]
+  it aims to answer are: * what kind of complications are there * the kind of complications
+  depending on the type of enterocystoplasty Participants data will be collected in
+  the medical field. There is no comparison group. (NCT NCT06733194; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'The goal of this observational study is to describe the complications
+  in participants who underwent enterocystoplasty in childhood. The main question\[s\]
+  it aims to answer are: * what kind of complic'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06733194 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

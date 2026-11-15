@@ -1,32 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06900582
-name: 'NCT06900582 — SENTInel Node Mapping Versus Comprehensive Lymphadenectomy in p53-Mutated Endometrial
-  Cancer: A Non-Inferiority Randomized Trial'
-description: This study evaluates surgical strategies for treating patients with FIGO 2023 stage I and
-  II high-risk endometrial cancer (EC) exhibiting p53 mutations. The trial aims to assess whether a less
-  invasive sentinel lymph node (SLN) mapping approach provides non-inferior oncological outcomes compared
-  to the current standard of systematic pelvic and para-aortic lymphadenectomy (PL+PALND). By minimizing
-  surgical morbidity, this study seeks to determine if SLN mapping can safely replace comprehensive lymphadenectomy
-  without compromising disease-free survival (DFS). Eligible patients will be randomized to undergo either
-  sentinel lymph node mapping or complete lymphadenectomy, followed by standard hysterectomy and bilateral
-  salpingo-oophorectomy. The primary outcome is DFS at 36 months, with secondary outcomes including overall
-  survival, disease-specific survival, perioperative complications, and quality of life. (NCT NCT06900582;
-  status NOT_YET_RECRUITING).
-hypothesis: This study evaluates surgical strategies for treating patients with FIGO 2023 stage I and
-  II high-risk endometrial cancer (EC) exhibiting p53 mutations. The trial aims to assess whether a less
-  invasiv
+name: 'NCT06900582 — SENTInel Node Mapping Versus Comprehensive Lymphadenectomy in
+  p53-Mutated Endometrial Cancer: A Non-Inferiority Randomized Trial'
+description: This study evaluates surgical strategies for treating patients with FIGO
+  2023 stage I and II high-risk endometrial cancer (EC) exhibiting p53 mutations.
+  The trial aims to assess whether a less invasive sentinel lymph node (SLN) mapping
+  approach provides non-inferior oncological outcomes compared to the current standard
+  of systematic pelvic and para-aortic lymphadenectomy (PL+PALND). By minimizing surgical
+  morbidity, this study seeks to determine if SLN mapping can safely replace comprehensive
+  lymphadenectomy without compromising disease-free survival (DFS). Eligible patients
+  will be randomized to undergo either sentinel lymph node mapping or complete lymphadenectomy,
+  followed by standard hysterectomy and bilateral salpingo-oophorectomy. The primary
+  outcome is DFS at 36 months, with secondary outcomes including overall survival,
+  disease-specific survival, perioperative complications, and quality of life. (NCT
+  NCT06900582; status NOT_YET_RECRUITING).
+hypothesis: This study evaluates surgical strategies for treating patients with FIGO
+  2023 stage I and II high-risk endometrial cancer (EC) exhibiting p53 mutations.
+  The trial aims to assess whether a less invasiv
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06900582 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06900582 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct06900582-sentinel-node-mapping-versus-compreh
+assigned_id: dea:experiment-nct06900582-sentinel-node-mapping-versus-compreh-nfycnm
+admitted: '2026-11-15'

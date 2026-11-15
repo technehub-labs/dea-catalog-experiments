@@ -1,0 +1,60 @@
+id: dea:experiment-nct07922876-study-of-psychoeducation-and-reading-zf3khc
+type: Experiment
+name: NCT07922876 — Study of Psychoeducation and Reading for Kids (SPARK)
+description: The Study of Psychoeducation and Reading for Kids (SPARK) is a trial
+  of a broad-spectrum psychoeducational tutoring intervention. The goal of the study
+  is to assess how much the intervention affects reading skills and psychological
+  functioning. Children ages 6 through 10 who are in need of improvement in reading
+  skills and/or psychological skills will be recruited. The intervention consists
+  of 30 minute telephone sessions delivered 5 or 6 times a week, for at least a year,
+  by trained tutors, who are not therapists, counselors, or other licensed health
+  care providers. The intervention makes use of manuals to be read aloud (in "alternate
+  reading") by tutors and students, psychological skills exercises carried out by
+  tutor and student together, and social conversation between tutor and student. The
+  curriculum covers psychological health skills, such as productivity, joyousness,
+  kindness, fortitude, decision-making, conflict-resolution, friendship-building,
+  self-discipline, courage, and others. The psychological skills approach is a "strength-based"
+  approach to mental health. This approach emphasizes the positive patterns that are
+  the opposites of the maladaptive patterns that lead to psychiatric diagnoses. Children's
+  reading about these skills furnishes practice in reading, which in itself is seen
+  as a psychological competence that increases a child's positive experience of school,
+  and therefore of life. For children not ready to practice by reading text, the intervention
+  also includes a curriculum for teaching reading, including, if necessary, phonemic
+  and spatial awareness, which are important foundation skills. Once the students
+  are capable of reading connected text, all the readings in the curriculum are meant
+  to teach them psychological skills as well as to provide reading practice. Every
+  six months, measures will be taken of the child's behavioral and emotional well-being
+  and of reading skill. This is a single-arm study, meaning that all research participants
+  wil
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The Study of Psychoeducation and Reading for Kids (SPARK) is a trial of
+  a broad-spectrum psychoeducational tutoring intervention. The goal of the study
+  is to assess how much the intervention affects r
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07922876 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- not-yet-recruiting

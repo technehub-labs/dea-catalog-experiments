@@ -1,25 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07405866
-name: NCT07405866 — A Prospective Analysis To Assess The Potential Use Of ECGio In Clinical Practice
-description: 'The goal of this observational study is to learn if an ai-assistive algorithm would be useful
-  in patients who are under suspicion of coronary disease. The main question it aims to answer: What proportion
-  of patients would clinicians see fit to order an ai-assistive algorithm if available for clinical use?
-  Participants will be asked to use clinical judgement as to whether a patient fits a predetermined criteria
-  for use and select them for ai-assistive analysis. (NCT NCT07405866; status NOT_YET_RECRUITING).'
-hypothesis: 'The goal of this observational study is to learn if an ai-assistive algorithm would be useful
-  in patients who are under suspicion of coronary disease. The main question it aims to answer: What proport'
+name: NCT07405866 — A Prospective Analysis To Assess The Potential Use Of ECGio In
+  Clinical Practice
+description: 'The goal of this observational study is to learn if an ai-assistive
+  algorithm would be useful in patients who are under suspicion of coronary disease.
+  The main question it aims to answer: What proportion of patients would clinicians
+  see fit to order an ai-assistive algorithm if available for clinical use? Participants
+  will be asked to use clinical judgement as to whether a patient fits a predetermined
+  criteria for use and select them for ai-assistive analysis. (NCT NCT07405866; status
+  NOT_YET_RECRUITING).'
+hypothesis: 'The goal of this observational study is to learn if an ai-assistive algorithm
+  would be useful in patients who are under suspicion of coronary disease. The main
+  question it aims to answer: What proport'
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07405866 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07405866 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07405866-a-prospective-analysis-to-assess-the
+assigned_id: dea:experiment-nct07405866-a-prospective-analysis-to-assess-the-fftsem
+admitted: '2026-11-15'

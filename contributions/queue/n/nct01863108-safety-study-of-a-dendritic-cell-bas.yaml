@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01863108
 name: NCT01863108 — Safety Study of a Dendritic Cell-based Cancer Vaccine in Melanoma
-description: The primary objective of this study is to evaluate the safety and tolerability of multiple
-  sub-cutaneous injections of GeniusVac-Mel4, a dendritic cell-based cancer vaccine, in patients with
-  melanoma. The secondary objectives are to determine immune response and clinical efficacy of such injections
-  in patients with melanoma. (NCT NCT01863108; status COMPLETED).
-hypothesis: The primary objective of this study is to evaluate the safety and tolerability of multiple
-  sub-cutaneous injections of GeniusVac-Mel4, a dendritic cell-based cancer vaccine, in patients with
-  melanoma.
+description: The primary objective of this study is to evaluate the safety and tolerability
+  of multiple sub-cutaneous injections of GeniusVac-Mel4, a dendritic cell-based cancer
+  vaccine, in patients with melanoma. The secondary objectives are to determine immune
+  response and clinical efficacy of such injections in patients with melanoma. (NCT
+  NCT01863108; status COMPLETED).
+hypothesis: The primary objective of this study is to evaluate the safety and tolerability
+  of multiple sub-cutaneous injections of GeniusVac-Mel4, a dendritic cell-based cancer
+  vaccine, in patients with melanoma.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01863108 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01863108 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01863108-safety-study-of-a-dendritic-cell-bas
+assigned_id: dea:experiment-nct01863108-safety-study-of-a-dendritic-cell-bas-f8cxkr
+admitted: '2026-11-15'

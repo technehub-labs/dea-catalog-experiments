@@ -1,0 +1,42 @@
+id: dea:experiment-nct02770586-comparison-of-positron-emission-mamm-2tje4u
+type: Experiment
+name: NCT02770586 — Comparison of Positron Emission Mammography and Contrast-enhanced
+  Breast MRI
+description: The hypothesis of this study is that positron emission mammography will
+  provide comparable sensitivity to contrast-enhanced breast MRI in women with a high
+  suspicion of breast cancer. The aim of this study is to determine the sensitivity
+  of Positron Emission Mammography (PEM) relative to that of Contrast-enhanced breast
+  MRI (CE-MRI) in women with a high suspicion of breast cancer (NCT NCT02770586; status
+  COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'The hypothesis of this study is that positron emission mammography will
+  provide comparable sensitivity to contrast-enhanced breast MRI in women with a high
+  suspicion of breast cancer. The aim of this '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02770586 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

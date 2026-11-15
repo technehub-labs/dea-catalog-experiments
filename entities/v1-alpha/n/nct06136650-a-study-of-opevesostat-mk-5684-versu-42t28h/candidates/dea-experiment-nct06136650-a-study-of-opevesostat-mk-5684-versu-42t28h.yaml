@@ -1,0 +1,44 @@
+id: dea:experiment-nct06136650-a-study-of-opevesostat-mk-5684-versu-42t28h
+type: Experiment
+name: NCT06136650 — A Study of Opevesostat (MK-5684) Versus Alternative Next-generation
+  Hormonal Agent (NHA) in Metastatic Castration-resistant Prostate Cancer (mCRPC)
+  Post One NHA (MK-5684-004)
+description: The purpose of this study is to assess the efficacy and safety of opevesostat
+  plus daily corticosteroids compared to alternative abiraterone acetate or enzalutamide
+  in participants with Metastatic Castration-resistant Prostate Cancer (mCRPC) previously
+  treated with one next-generation hormonal agent (NHA). The primary study hypothesis
+  is that opevesostat is superior to alternative abiraterone acetate or enzalutamide
+  with respect to overall survival (OS), in androgen receptor ligand binding domain
+  (AR LBD) mutation positive and negative participants. (NCT NCT06136650; status RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The purpose of this study is to assess the efficacy and safety of opevesostat
+  plus daily corticosteroids compared to alternative abiraterone acetate or enzalutamide
+  in participants with Metastatic Cas
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06136650 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

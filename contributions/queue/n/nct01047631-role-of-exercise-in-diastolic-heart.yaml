@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01047631
 name: NCT01047631 — Role of Exercise in Diastolic Heart Failure
-description: Diastolic heart failure is now being recognized as a key form of heart failure in older people.
-  The focus of this research is to study ways to improve and maintain physical activity and functioning.
-  This knowledge may improve the health and well-being in people with diastolic heart failure. (NCT NCT01047631;
-  status COMPLETED).
-hypothesis: Diastolic heart failure is now being recognized as a key form of heart failure in older people.
-  The focus of this research is to study ways to improve and maintain physical activity and functioning.
-  T
+description: Diastolic heart failure is now being recognized as a key form of heart
+  failure in older people. The focus of this research is to study ways to improve
+  and maintain physical activity and functioning. This knowledge may improve the health
+  and well-being in people with diastolic heart failure. (NCT NCT01047631; status
+  COMPLETED).
+hypothesis: Diastolic heart failure is now being recognized as a key form of heart
+  failure in older people. The focus of this research is to study ways to improve
+  and maintain physical activity and functioning. T
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01047631 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01047631 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01047631-role-of-exercise-in-diastolic-heart
+assigned_id: dea:experiment-nct01047631-role-of-exercise-in-diastolic-heart-xxtesc
+admitted: '2026-11-15'

@@ -1,0 +1,39 @@
+id: dea:experiment-nct02227459-phase-1b-2-open-label-repeat-dose-do-d9qabs
+type: Experiment
+name: NCT02227459 — Phase 1b/2, Open Label, Repeat Dose, Dose Escalation Study of
+  ND-L02-s0201 Injection in Subjects With Moderate to Extensive Fibrosis (METAVIR
+  F3-4)
+description: The purpose of this study is to evaluate the safety and tolerability
+  of multiple doses of ND-L02-s0201 in subjects with moderate to extensive hepatic
+  fibrosis. (NCT NCT02227459; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The purpose of this study is to evaluate the safety and tolerability of
+  multiple doses of ND-L02-s0201 in subjects with moderate to extensive hepatic fibrosis.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02227459 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

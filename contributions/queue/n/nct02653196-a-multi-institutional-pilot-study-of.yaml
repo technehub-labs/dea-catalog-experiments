@@ -1,34 +1,41 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02653196
-name: NCT02653196 — A Multi-Institutional Pilot Study of Allogeneic Hematopoietic Stem Cell Transplantation
-  for Patients With Malignant Neuro-Epithelial and Other Solid Tumors
-description: There is currently no standard treatment for patients with neuro-epithelial (brain) or other
-  solid tumors in another part of the body who do not have adequate suitable autologous hematopoietic
-  progenitor cells available and/or whose disease has relapsed after standard treatment. Allogeneic Hematopoietic
-  Progenitor Cell Transplant may be a consideration for treatment of patients with recurrent chemo-responsive
-  malignant (high grade) neuro-epithelial and other solid tumors or those who do not have suitable autologous
-  hematopoietic progenitor cell availability. The procedure in which your own blood stem cells are transplanted
-  to you is called an autologous (from your own) progenitor cell transplant and when cells from a matched
-  donor are transfused is called an allogeneic progenitor cell transplant. The study is being conducted
-  to evaluate the safety and effectiveness of a combination of drugs followed by an allogeneic hematopoietic
-  progenitor cell transplant (HPCT). This treatment regimen is experimental in that although the individual
-  drugs are commonly used to treat your disease, the specific combination used in this protocol followed
-  by the transplant is experimental. (NCT NCT02653196; status TERMINATED).
-hypothesis: There is currently no standard treatment for patients with neuro-epithelial (brain) or other
-  solid tumors in another part of the body who do not have adequate suitable autologous hematopoietic
-  progeni
+name: NCT02653196 — A Multi-Institutional Pilot Study of Allogeneic Hematopoietic
+  Stem Cell Transplantation for Patients With Malignant Neuro-Epithelial and Other
+  Solid Tumors
+description: There is currently no standard treatment for patients with neuro-epithelial
+  (brain) or other solid tumors in another part of the body who do not have adequate
+  suitable autologous hematopoietic progenitor cells available and/or whose disease
+  has relapsed after standard treatment. Allogeneic Hematopoietic Progenitor Cell
+  Transplant may be a consideration for treatment of patients with recurrent chemo-responsive
+  malignant (high grade) neuro-epithelial and other solid tumors or those who do not
+  have suitable autologous hematopoietic progenitor cell availability. The procedure
+  in which your own blood stem cells are transplanted to you is called an autologous
+  (from your own) progenitor cell transplant and when cells from a matched donor are
+  transfused is called an allogeneic progenitor cell transplant. The study is being
+  conducted to evaluate the safety and effectiveness of a combination of drugs followed
+  by an allogeneic hematopoietic progenitor cell transplant (HPCT). This treatment
+  regimen is experimental in that although the individual drugs are commonly used
+  to treat your disease, the specific combination used in this protocol followed by
+  the transplant is experimental. (NCT NCT02653196; status TERMINATED).
+hypothesis: There is currently no standard treatment for patients with neuro-epithelial
+  (brain) or other solid tumors in another part of the body who do not have adequate
+  suitable autologous hematopoietic progeni
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02653196 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02653196 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct02653196-a-multi-institutional-pilot-study-of
+assigned_id: dea:experiment-nct02653196-a-multi-institutional-pilot-study-of-xhdkrs
+admitted: '2026-11-15'

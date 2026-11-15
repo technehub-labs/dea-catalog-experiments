@@ -1,32 +1,38 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01158937
-name: NCT01158937 — Pharmacokinetic Study of Extended Infusion Meropenem in Adult Cystic Fibrosis Patients
-description: Meropenem is an intravenous antibiotic commonly used to treat acute exacerbation of respiratory
-  infections in cystic fibrosis. The research study aims to determine if a different method of infusing
-  the drug over 3 hours or longer, instead of the traditional half-hour will improve target attainment
-  of drug concentrations and bactericidal activity. A secondary aim is to assess if the pharmacokinetics
-  of meropenem is different during active infection compared to non-infective stage. Twelve patients admitted
-  with acute respiratory infection and who requires meropenem will be enrolled into the study. Meropenem
-  blood concentrations collected over 8 hours will be measured after half-hour and 3-hour infusions on
-  different days. A pharmacokinetic modelling and Monte Carlo simulation program will use the data to
-  assess and predict the optimal method of dosing. When patients return for a follow-up clinic visit,
-  a single dose of meropenem will be administered and blood concentrations will be measured to determine
+name: NCT01158937 — Pharmacokinetic Study of Extended Infusion Meropenem in Adult
+  Cystic Fibrosis Patients
+description: Meropenem is an intravenous antibiotic commonly used to treat acute exacerbation
+  of respiratory infections in cystic fibrosis. The research study aims to determine
+  if a different method of infusing the drug over 3 hours or longer, instead of the
+  traditional half-hour will improve target attainment of drug concentrations and
+  bactericidal activity. A secondary aim is to assess if the pharmacokinetics of meropenem
+  is different during active infection compared to non-infective stage. Twelve patients
+  admitted with acute respiratory infection and who requires meropenem will be enrolled
+  into the study. Meropenem blood concentrations collected over 8 hours will be measured
+  after half-hour and 3-hour infusions on different days. A pharmacokinetic modelling
+  and Monte Carlo simulation program will use the data to assess and predict the optimal
+  method of dosing. When patients return for a follow-up clinic visit, a single dose
+  of meropenem will be administered and blood concentrations will be measured to determine
   the pharmacokinetics during non-infective stage. (NCT NCT01158937; status TERMINATED).
-hypothesis: Meropenem is an intravenous antibiotic commonly used to treat acute exacerbation of respiratory
-  infections in cystic fibrosis. The research study aims to determine if a different method of infusing
-  th
+hypothesis: Meropenem is an intravenous antibiotic commonly used to treat acute exacerbation
+  of respiratory infections in cystic fibrosis. The research study aims to determine
+  if a different method of infusing th
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01158937 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01158937 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct01158937-pharmacokinetic-study-of-extended-in
+assigned_id: dea:experiment-nct01158937-pharmacokinetic-study-of-extended-in-phwm5e
+admitted: '2026-11-15'

@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01135069
-name: NCT01135069 — Bioequivalence Study of Generic Tretinoin 0.1% Microsphere Gel, 0.1% Retin-A Micro®
-  and Placebo
-description: The objective will be to assess clinical bioequivalence of 0.1% Retin-A Micro® Gel and Spear
-  Pharmaceutical's generic 0.1% Tretinoin Microsphere Gel with a placebo arm. (NCT NCT01135069; status
-  COMPLETED).
-hypothesis: The objective will be to assess clinical bioequivalence of 0.1% Retin-A Micro® Gel and Spear
-  Pharmaceutical's generic 0.1% Tretinoin Microsphere Gel with a placebo arm.
+name: NCT01135069 — Bioequivalence Study of Generic Tretinoin 0.1% Microsphere Gel,
+  0.1% Retin-A Micro® and Placebo
+description: The objective will be to assess clinical bioequivalence of 0.1% Retin-A
+  Micro® Gel and Spear Pharmaceutical's generic 0.1% Tretinoin Microsphere Gel with
+  a placebo arm. (NCT NCT01135069; status COMPLETED).
+hypothesis: The objective will be to assess clinical bioequivalence of 0.1% Retin-A
+  Micro® Gel and Spear Pharmaceutical's generic 0.1% Tretinoin Microsphere Gel with
+  a placebo arm.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01135069 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01135069 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01135069-bioequivalence-study-of-generic-tret
+assigned_id: dea:experiment-nct01135069-bioequivalence-study-of-generic-tret-37zxg9
+admitted: '2026-11-15'

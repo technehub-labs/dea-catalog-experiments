@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01585922
-name: NCT01585922 — Noninvasive Positive Pressure Ventilation in Moderate Acute Respiratory Distress Syndrome
-description: In order to identify the effect of noninvasive positive pressure ventilation (NPPV) on decreasing
-  inflammatory response, improving the pathophysiological manifestation and reducing the morbidity and
-  mortality in the moderate acute respiratory distress syndrome (ARDS) patients, the investigators conduct
-  this clinical trial comparing NPPV with invasive mechanical ventilation in more than twenty ICUs in
-  China. (NCT NCT01585922; status COMPLETED).
-hypothesis: In order to identify the effect of noninvasive positive pressure ventilation (NPPV) on decreasing
-  inflammatory response, improving the pathophysiological manifestation and reducing the morbidity and
-  m
+name: NCT01585922 — Noninvasive Positive Pressure Ventilation in Moderate Acute Respiratory
+  Distress Syndrome
+description: In order to identify the effect of noninvasive positive pressure ventilation
+  (NPPV) on decreasing inflammatory response, improving the pathophysiological manifestation
+  and reducing the morbidity and mortality in the moderate acute respiratory distress
+  syndrome (ARDS) patients, the investigators conduct this clinical trial comparing
+  NPPV with invasive mechanical ventilation in more than twenty ICUs in China. (NCT
+  NCT01585922; status COMPLETED).
+hypothesis: In order to identify the effect of noninvasive positive pressure ventilation
+  (NPPV) on decreasing inflammatory response, improving the pathophysiological manifestation
+  and reducing the morbidity and m
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01585922 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01585922 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01585922-noninvasive-positive-pressure-ventil
+assigned_id: dea:experiment-nct01585922-noninvasive-positive-pressure-ventil-xcrem9
+admitted: '2026-11-15'

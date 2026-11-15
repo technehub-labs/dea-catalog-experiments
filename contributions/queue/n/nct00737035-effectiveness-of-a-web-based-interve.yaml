@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00737035
-name: NCT00737035 — Effectiveness of a Web-based Intervention for Guardians of Children Whose One Parent
-  Has Murdered the Other
-description: This study will determine whether a specialized Web site geared for the guardians of children
-  whose one parent has murdered the other can increase guardian capabilities, reduce guardian stress,
-  and improve child behavior and mental health. (NCT NCT00737035; status WITHDRAWN).
-hypothesis: This study will determine whether a specialized Web site geared for the guardians of children
-  whose one parent has murdered the other can increase guardian capabilities, reduce guardian stress,
-  and im
+name: NCT00737035 — Effectiveness of a Web-based Intervention for Guardians of Children
+  Whose One Parent Has Murdered the Other
+description: This study will determine whether a specialized Web site geared for the
+  guardians of children whose one parent has murdered the other can increase guardian
+  capabilities, reduce guardian stress, and improve child behavior and mental health.
+  (NCT NCT00737035; status WITHDRAWN).
+hypothesis: This study will determine whether a specialized Web site geared for the
+  guardians of children whose one parent has murdered the other can increase guardian
+  capabilities, reduce guardian stress, and im
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00737035 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00737035 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct00737035-effectiveness-of-a-web-based-interve
+assigned_id: dea:experiment-nct00737035-effectiveness-of-a-web-based-interve-gpvj5s
+admitted: '2026-11-15'

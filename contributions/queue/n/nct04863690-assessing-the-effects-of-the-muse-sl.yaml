@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04863690
 name: NCT04863690 — Assessing the Effects of the Muse Sleep Intervention on Sleep
-description: In this study, we will examine whether use of the Sleep Intervention protocol marketed by
-  Interaxon (the 'Muse'), leads to improvements in sleep quality (e.g. decreased latency to sleep, improved
-  sleep duration), as well as knock-on improvements on measures of mindfulness, improvement in quality
-  of life scores, reduction in perceived stress levels, anxiety, improvements in cognitive performance,
-  improvement in markers relevant for safety, and increased success in the workplace in healthy participants.
-  (NCT NCT04863690; status COMPLETED).
-hypothesis: In this study, we will examine whether use of the Sleep Intervention protocol marketed by
-  Interaxon (the 'Muse'), leads to improvements in sleep quality (e.g. decreased latency to sleep, improved
-  slee
+description: In this study, we will examine whether use of the Sleep Intervention
+  protocol marketed by Interaxon (the 'Muse'), leads to improvements in sleep quality
+  (e.g. decreased latency to sleep, improved sleep duration), as well as knock-on
+  improvements on measures of mindfulness, improvement in quality of life scores,
+  reduction in perceived stress levels, anxiety, improvements in cognitive performance,
+  improvement in markers relevant for safety, and increased success in the workplace
+  in healthy participants. (NCT NCT04863690; status COMPLETED).
+hypothesis: In this study, we will examine whether use of the Sleep Intervention protocol
+  marketed by Interaxon (the 'Muse'), leads to improvements in sleep quality (e.g.
+  decreased latency to sleep, improved slee
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04863690 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04863690 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04863690-assessing-the-effects-of-the-muse-sl
+assigned_id: dea:experiment-nct04863690-assessing-the-effects-of-the-muse-sl-mwx2g3
+admitted: '2026-11-15'

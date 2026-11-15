@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03746886
 name: NCT03746886 — Lipids and Other Bioactive Compounds of Human Breast Milk
-description: The biochemical differences in the composition of breast milk and formula have not been profoundly
-  established in all compound groups. Increased understanding of breast milk composition, the normal variation
-  of various bioactive compounds and their levels is required to be able to develop formulas better corresponding
-  the breast milk, and ensure the optimal development of also the formula-fed babies. (NCT NCT03746886;
-  status COMPLETED).
-hypothesis: The biochemical differences in the composition of breast milk and formula have not been profoundly
-  established in all compound groups. Increased understanding of breast milk composition, the normal va
+description: The biochemical differences in the composition of breast milk and formula
+  have not been profoundly established in all compound groups. Increased understanding
+  of breast milk composition, the normal variation of various bioactive compounds
+  and their levels is required to be able to develop formulas better corresponding
+  the breast milk, and ensure the optimal development of also the formula-fed babies.
+  (NCT NCT03746886; status COMPLETED).
+hypothesis: The biochemical differences in the composition of breast milk and formula
+  have not been profoundly established in all compound groups. Increased understanding
+  of breast milk composition, the normal va
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03746886 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03746886 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03746886-lipids-and-other-bioactive-compounds
+assigned_id: dea:experiment-nct03746886-lipids-and-other-bioactive-compounds-u7mesx
+admitted: '2026-11-15'

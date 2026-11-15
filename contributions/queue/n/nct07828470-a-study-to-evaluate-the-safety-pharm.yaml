@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07828470
-name: NCT07828470 — A Study to Evaluate the Safety, Pharmacokinetics, and Pharmacodynamics of KL0011034
-  Injection Administered by Continuous Infusion in Healthy Adult Subjects
-description: This study is a randomized, double-blind, propofol position-controlled trial, evaluating
-  the safety, tolerability, and pharmacodynamic of continuous infusion of KL0011034 injection compared
-  with propofol injectable emulsion for durations of 1 hour, 2 hours, and 3 hours, and evaluating the
-  pharmacokinetic of the KL0011034 injection. (NCT NCT07828470; status NOT_YET_RECRUITING).
-hypothesis: This study is a randomized, double-blind, propofol position-controlled trial, evaluating the
-  safety, tolerability, and pharmacodynamic of continuous infusion of KL0011034 injection compared with
-  propo
+name: NCT07828470 — A Study to Evaluate the Safety, Pharmacokinetics, and Pharmacodynamics
+  of KL0011034 Injection Administered by Continuous Infusion in Healthy Adult Subjects
+description: This study is a randomized, double-blind, propofol position-controlled
+  trial, evaluating the safety, tolerability, and pharmacodynamic of continuous infusion
+  of KL0011034 injection compared with propofol injectable emulsion for durations
+  of 1 hour, 2 hours, and 3 hours, and evaluating the pharmacokinetic of the KL0011034
+  injection. (NCT NCT07828470; status NOT_YET_RECRUITING).
+hypothesis: This study is a randomized, double-blind, propofol position-controlled
+  trial, evaluating the safety, tolerability, and pharmacodynamic of continuous infusion
+  of KL0011034 injection compared with propo
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07828470 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07828470 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07828470-a-study-to-evaluate-the-safety-pharm
+assigned_id: dea:experiment-nct07828470-a-study-to-evaluate-the-safety-pharm-qqpxbn
+admitted: '2026-11-15'

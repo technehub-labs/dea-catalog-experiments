@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05740891
-name: NCT05740891 — AHSCT Combined With CAR-T Cells in the Treatment of Refractory and Relapsed Multiple
-  Myeloma
-description: Clinical Study on the Safety and Effectiveness of Autologous Hematopoietic Stem Cell Transplantation
-  Combined With CAR-T Cells in the Treatment of Refractory and Relapsed Multiple Myeloma (NCT NCT05740891;
-  status UNKNOWN).
-hypothesis: Clinical Study on the Safety and Effectiveness of Autologous Hematopoietic Stem Cell Transplantation
-  Combined With CAR-T Cells in the Treatment of Refractory and Relapsed Multiple Myeloma
+name: NCT05740891 — AHSCT Combined With CAR-T Cells in the Treatment of Refractory
+  and Relapsed Multiple Myeloma
+description: Clinical Study on the Safety and Effectiveness of Autologous Hematopoietic
+  Stem Cell Transplantation Combined With CAR-T Cells in the Treatment of Refractory
+  and Relapsed Multiple Myeloma (NCT NCT05740891; status UNKNOWN).
+hypothesis: Clinical Study on the Safety and Effectiveness of Autologous Hematopoietic
+  Stem Cell Transplantation Combined With CAR-T Cells in the Treatment of Refractory
+  and Relapsed Multiple Myeloma
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05740891 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05740891 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05740891-ahsct-combined-with-car-t-cells-in-t
+assigned_id: dea:experiment-nct05740891-ahsct-combined-with-car-t-cells-in-t-ep6r2c
+admitted: '2026-11-15'

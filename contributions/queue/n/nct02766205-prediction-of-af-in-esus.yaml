@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02766205
 name: NCT02766205 — Prediction of AF in ESUS
-description: The aim of the proposed study is to identify predictors of covert atrial fibrillation (AF)
-  in Embolic Stroke of Undetermined Source (ESUS) patients and develop a prognostic score for the identification
-  of covert AF in this population. (NCT NCT02766205; status UNKNOWN).
-hypothesis: The aim of the proposed study is to identify predictors of covert atrial fibrillation (AF)
-  in Embolic Stroke of Undetermined Source (ESUS) patients and develop a prognostic score for the identificatio
+description: The aim of the proposed study is to identify predictors of covert atrial
+  fibrillation (AF) in Embolic Stroke of Undetermined Source (ESUS) patients and develop
+  a prognostic score for the identification of covert AF in this population. (NCT
+  NCT02766205; status UNKNOWN).
+hypothesis: The aim of the proposed study is to identify predictors of covert atrial
+  fibrillation (AF) in Embolic Stroke of Undetermined Source (ESUS) patients and develop
+  a prognostic score for the identificatio
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02766205 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02766205 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct02766205-prediction-of-af-in-esus
+assigned_id: dea:experiment-nct02766205-prediction-of-af-in-esus-6p8dzy
+admitted: '2026-11-15'

@@ -1,29 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04092361
 name: NCT04092361 — Changes in Amblyopia Using Optical Coherence Tomography
-description: There have been multiple trials to investigate the morphological changes in the macula and
-  retinal nerve fiber layer of amblyopic eyes, due to the different published results and the lack of
-  evident association between these changes and the patients' parameters. So, we perform this study to
-  compare the variations in macular parameters (central thickness, average thickness, macular volume)
-  and peripapillary thickness in different cases of amblyopic eyes versus the normal fellow eyes using
-  spectral-domain optical coherence tomography. In addition, to estimate the relationship of optical coherence
-  tomography variations with different defined patients' parameters (age, sex, best corrected visual acuity,
-  spherical equivalent refractive error, and axial length). (NCT NCT04092361; status UNKNOWN).
-hypothesis: There have been multiple trials to investigate the morphological changes in the macula and
-  retinal nerve fiber layer of amblyopic eyes, due to the different published results and the lack of
-  evident a
+description: There have been multiple trials to investigate the morphological changes
+  in the macula and retinal nerve fiber layer of amblyopic eyes, due to the different
+  published results and the lack of evident association between these changes and
+  the patients' parameters. So, we perform this study to compare the variations in
+  macular parameters (central thickness, average thickness, macular volume) and peripapillary
+  thickness in different cases of amblyopic eyes versus the normal fellow eyes using
+  spectral-domain optical coherence tomography. In addition, to estimate the relationship
+  of optical coherence tomography variations with different defined patients' parameters
+  (age, sex, best corrected visual acuity, spherical equivalent refractive error,
+  and axial length). (NCT NCT04092361; status UNKNOWN).
+hypothesis: There have been multiple trials to investigate the morphological changes
+  in the macula and retinal nerve fiber layer of amblyopic eyes, due to the different
+  published results and the lack of evident a
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04092361 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04092361 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct04092361-changes-in-amblyopia-using-optical-c
+assigned_id: dea:experiment-nct04092361-changes-in-amblyopia-using-optical-c-hvzjgw
+admitted: '2026-11-15'

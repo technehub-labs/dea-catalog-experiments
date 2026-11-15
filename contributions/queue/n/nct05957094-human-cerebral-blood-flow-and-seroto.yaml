@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05957094
 name: NCT05957094 — Human Cerebral Blood Flow and Serotonin
-description: Breathing, blood pressure, and blood flow into the brain are controlled - in part - by small
-  areas in the brainstem; the central chemoreceptors. The mechanisms involved in the transmission of signals
-  through the brainstem and also in controlling brain blood flow past the brainstem both use a molecule
-  called serotonin. Citalopram is a "selective serotonin reuptake inhibitor" (or SSRI) which means it
-  allows serotonin to be released in the brain but stops it from being reabsorbed. SSRIs are often used
-  as antidepressants. This study aims to investigate the influence of an SSRI on the control of brain
-  blood flow. (NCT NCT05957094; status UNKNOWN).
-hypothesis: 'Breathing, blood pressure, and blood flow into the brain are controlled - in part - by small
-  areas in the brainstem; the central chemoreceptors. The mechanisms involved in the transmission of signals '
+description: Breathing, blood pressure, and blood flow into the brain are controlled
+  - in part - by small areas in the brainstem; the central chemoreceptors. The mechanisms
+  involved in the transmission of signals through the brainstem and also in controlling
+  brain blood flow past the brainstem both use a molecule called serotonin. Citalopram
+  is a "selective serotonin reuptake inhibitor" (or SSRI) which means it allows serotonin
+  to be released in the brain but stops it from being reabsorbed. SSRIs are often
+  used as antidepressants. This study aims to investigate the influence of an SSRI
+  on the control of brain blood flow. (NCT NCT05957094; status UNKNOWN).
+hypothesis: 'Breathing, blood pressure, and blood flow into the brain are controlled
+  - in part - by small areas in the brainstem; the central chemoreceptors. The mechanisms
+  involved in the transmission of signals '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05957094 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05957094 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05957094-human-cerebral-blood-flow-and-seroto
+assigned_id: dea:experiment-nct05957094-human-cerebral-blood-flow-and-seroto-wd7vzn
+admitted: '2026-11-15'

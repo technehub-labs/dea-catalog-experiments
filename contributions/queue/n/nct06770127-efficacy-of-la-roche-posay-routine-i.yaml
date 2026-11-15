@@ -1,28 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06770127
-name: NCT06770127 — Efficacy of La Roche Posay Routine in the Management of Facial Post Inflammatory Hyperpigmentation
-  (PIHP)
-description: The goal of this clinical trial is to test and compare La Roche Posay routine --the studied
-  product-- with a comparator product in participants with acne. The main question it aims to answer is
-  how well can the product de-pigment the skin. The participants will be asked to use the products given
-  twice daily. Researchers will compare the routine La Roche Posay group(experimental) with the routine
-  Eucine group(control) to see if the La Roche product shows superiority in case of better efficacy. (NCT
-  NCT06770127; status COMPLETED).
-hypothesis: The goal of this clinical trial is to test and compare La Roche Posay routine --the studied
-  product-- with a comparator product in participants with acne. The main question it aims to answer is
-  how we
+name: NCT06770127 — Efficacy of La Roche Posay Routine in the Management of Facial
+  Post Inflammatory Hyperpigmentation (PIHP)
+description: The goal of this clinical trial is to test and compare La Roche Posay
+  routine --the studied product-- with a comparator product in participants with acne.
+  The main question it aims to answer is how well can the product de-pigment the skin.
+  The participants will be asked to use the products given twice daily. Researchers
+  will compare the routine La Roche Posay group(experimental) with the routine Eucine
+  group(control) to see if the La Roche product shows superiority in case of better
+  efficacy. (NCT NCT06770127; status COMPLETED).
+hypothesis: The goal of this clinical trial is to test and compare La Roche Posay
+  routine --the studied product-- with a comparator product in participants with acne.
+  The main question it aims to answer is how we
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06770127 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06770127 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06770127-efficacy-of-la-roche-posay-routine-i
+assigned_id: dea:experiment-nct06770127-efficacy-of-la-roche-posay-routine-i-9pr3ue
+admitted: '2026-11-15'

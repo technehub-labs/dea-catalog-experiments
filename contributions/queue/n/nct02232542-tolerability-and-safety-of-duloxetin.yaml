@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02232542
 name: NCT02232542 — Tolerability and Safety of Duloxetine BID in Healthy Female Subjects
-description: Study to assess the safety and tolerability of 100 mg of duloxetine BID compared to 40 mg
-  of duloxetine BID or placebo for 7 days (NCT NCT02232542; status COMPLETED).
-hypothesis: Study to assess the safety and tolerability of 100 mg of duloxetine BID compared to 40 mg
-  of duloxetine BID or placebo for 7 days
+description: Study to assess the safety and tolerability of 100 mg of duloxetine BID
+  compared to 40 mg of duloxetine BID or placebo for 7 days (NCT NCT02232542; status
+  COMPLETED).
+hypothesis: Study to assess the safety and tolerability of 100 mg of duloxetine BID
+  compared to 40 mg of duloxetine BID or placebo for 7 days
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02232542 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02232542 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02232542-tolerability-and-safety-of-duloxetin
+assigned_id: dea:experiment-nct02232542-tolerability-and-safety-of-duloxetin-mf6xeh
+admitted: '2026-11-15'

@@ -1,0 +1,31 @@
+# NCT06403150 — The Efficacy and Safety of Levetiracetam Versus Fosphenytoin in Convulsive Status Epilepticus
+
+> Status epilepticus (SE) is an emergency, life-threatening medical condition that may cause irreversible cerebral damage. Therefore, the rapid and secure cessation of seizures and resuscitation is crucial. Potent gamma-aminobutyric acid agonists, including benzodiazepines, are recommended as first-line treatments. For the complete cessation of SE and prevention of recurrence, long-acting antiepileptic drugs (e.g.- FPHT) are also required as second-line treatments along with short-acting benzodiazepines. Intravenous fosphenytoin (FPHT) is associated with fewer adverse events such as life-threatening arrhythmia, cardiac arrest, hypotension, and allergic reactions. Levetiracetam (LEV), is considered to be effective for SE with less serious adverse events including dizziness, somnolence, headache, and transient agitation, but there have been no reports of arrhythmias, hypotension, Stevens-Johnson syndrome, or hepatotoxicity. Preceding studies show that levetiracetam is similarly effective and associated with fewer adverse effects than those of fosphenytoin. Few trials have compared the effectiveness and safety of levetiracetam (LEV) and fosphenytoin (FHP) for status epilepticus worldwide. Moreover, genetic variation is likely to play a crucial role in the development of adverse drug reactions (ADRs) including drug resistance. By far, no study has yet been conducted addressing the issue of efficacy and safety between levetiracetam (LEV) and fosphenytoin (FHP) in status epilepticus in the context of the Bangladeshi population. A comparative study of the efficacy and safety of levetiracetam (LEV) and fosphenytoin (FHP) will be expected to give more confidence for the use of the drug. Considering this the study aims to assess the safety and efficacy of levetiracetam (LEV) and fosphenytoin (FHP) in status epilepticus. This study finding has an implication in the treatment protocol which will be beneficial for the patients and physicians as well. Furthermore, it will give inpu
+
+## Identity
+
+- **Record id**: `dea:experiment-nct06403150-the-efficacy-and-safety-of-levetirac-3htm9j`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT06403150 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

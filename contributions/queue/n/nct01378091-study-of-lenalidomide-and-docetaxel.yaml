@@ -1,29 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01378091
-name: NCT01378091 — Study of Lenalidomide and Docetaxel in Subjects With Androgen Independent Prostate
-  Cancer
-description: 'Primary objectives: To determine the maximum tolerated doses (MTDs) of daily lenalidomide
-  and docetaxel given every three weeks and prednisone, as combination therapy to subjects with androgen
-  independent prostate cancer To evaluate the safety profile of the combination of daily lenalidomide
-  and every three week docetaxel and prednisone when given to subjects with androgen independent prostate
-  cancer Secondary objective: To explore the anti-tumor activity of the combination of daily lenalidomide
-  and every 3 week docetaxel and prednisone when given to subjects with androgen independent prostate
-  cancer. (NCT NCT01378091; status COMPLETED).'
-hypothesis: 'Primary objectives: To determine the maximum tolerated doses (MTDs) of daily lenalidomide
-  and docetaxel given every three weeks and prednisone, as combination therapy to subjects with androgen
-  indepen'
+name: NCT01378091 — Study of Lenalidomide and Docetaxel in Subjects With Androgen
+  Independent Prostate Cancer
+description: 'Primary objectives: To determine the maximum tolerated doses (MTDs)
+  of daily lenalidomide and docetaxel given every three weeks and prednisone, as combination
+  therapy to subjects with androgen independent prostate cancer To evaluate the safety
+  profile of the combination of daily lenalidomide and every three week docetaxel
+  and prednisone when given to subjects with androgen independent prostate cancer
+  Secondary objective: To explore the anti-tumor activity of the combination of daily
+  lenalidomide and every 3 week docetaxel and prednisone when given to subjects with
+  androgen independent prostate cancer. (NCT NCT01378091; status COMPLETED).'
+hypothesis: 'Primary objectives: To determine the maximum tolerated doses (MTDs) of
+  daily lenalidomide and docetaxel given every three weeks and prednisone, as combination
+  therapy to subjects with androgen indepen'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01378091 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01378091 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01378091-study-of-lenalidomide-and-docetaxel
+assigned_id: dea:experiment-nct01378091-study-of-lenalidomide-and-docetaxel-3h76jm
+admitted: '2026-11-15'

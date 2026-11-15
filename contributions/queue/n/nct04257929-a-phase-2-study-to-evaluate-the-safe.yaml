@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04257929
-name: NCT04257929 — A Phase 2 Study to Evaluate the Safety and Efficacy of Pitolisant in Patients With
-  Prader-Willi Syndrome, Followed by an Open Label Extension
-description: The primary objective of this study is to evaluate the safety and efficacy of pitolisant
-  compared with placebo in treating excessive daytime sleepiness (EDS) in patients with Prader Willi syndrome
-  (PWS) ages 6 to 65 years. (NCT NCT04257929; status COMPLETED).
-hypothesis: The primary objective of this study is to evaluate the safety and efficacy of pitolisant compared
-  with placebo in treating excessive daytime sleepiness (EDS) in patients with Prader Willi syndrome (PW
+name: NCT04257929 — A Phase 2 Study to Evaluate the Safety and Efficacy of Pitolisant
+  in Patients With Prader-Willi Syndrome, Followed by an Open Label Extension
+description: The primary objective of this study is to evaluate the safety and efficacy
+  of pitolisant compared with placebo in treating excessive daytime sleepiness (EDS)
+  in patients with Prader Willi syndrome (PWS) ages 6 to 65 years. (NCT NCT04257929;
+  status COMPLETED).
+hypothesis: The primary objective of this study is to evaluate the safety and efficacy
+  of pitolisant compared with placebo in treating excessive daytime sleepiness (EDS)
+  in patients with Prader Willi syndrome (PW
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04257929 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04257929 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04257929-a-phase-2-study-to-evaluate-the-safe
+assigned_id: dea:experiment-nct04257929-a-phase-2-study-to-evaluate-the-safe-h443wt
+admitted: '2026-11-15'

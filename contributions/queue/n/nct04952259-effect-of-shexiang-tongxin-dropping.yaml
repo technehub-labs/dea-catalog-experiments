@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04952259
-name: NCT04952259 — Effect of Shexiang Tongxin Dropping Pills on Microcirculation in Patients With AMI
-description: This study is a randomized, controlled clinical trial. Evaluation of microcirculation resistance
-  by index of microcirculation resistance to explore the protective effect of Shexiang Tongxin dripping
-  pills on microcirculation in patients with acute anterior myocardial infarction. (NCT NCT04952259; status
-  UNKNOWN).
-hypothesis: This study is a randomized, controlled clinical trial. Evaluation of microcirculation resistance
-  by index of microcirculation resistance to explore the protective effect of Shexiang Tongxin dripping
-  p
+name: NCT04952259 — Effect of Shexiang Tongxin Dropping Pills on Microcirculation
+  in Patients With AMI
+description: This study is a randomized, controlled clinical trial. Evaluation of
+  microcirculation resistance by index of microcirculation resistance to explore the
+  protective effect of Shexiang Tongxin dripping pills on microcirculation in patients
+  with acute anterior myocardial infarction. (NCT NCT04952259; status UNKNOWN).
+hypothesis: This study is a randomized, controlled clinical trial. Evaluation of microcirculation
+  resistance by index of microcirculation resistance to explore the protective effect
+  of Shexiang Tongxin dripping p
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04952259 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04952259 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct04952259-effect-of-shexiang-tongxin-dropping
+assigned_id: dea:experiment-nct04952259-effect-of-shexiang-tongxin-dropping-rgy9bs
+admitted: '2026-11-15'

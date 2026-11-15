@@ -1,0 +1,46 @@
+id: dea:experiment-nct06788951-the-effect-of-oral-carbohydrate-inha-jnw2rd
+type: Experiment
+name: NCT06788951 — The Effect of Oral Carbohydrate Inhalation Given to Patients Before
+  Coronary Artery Bypass Graft Operation on Recovery
+description: The aim of this study was to investigate the effect of oral carbohydrate
+  solution given to patients before coronary artery bypass graft surgery on nausea-vomiting,
+  hunger, thirst, physiologic parameters and recovery. The study will be completed
+  with a total of 120 participants, 40 control, 40 placebo and 40 experimental. As
+  a randomization method, simple randomization method will be used to provide an equal
+  number of samples in three groups and patients will be informed verbally about the
+  study and written informed consent will be obtained from patients who agree. In
+  this study, the effects of oral carbohydrate solution administration on nausea and
+  vomiting, hunger, thirst, physiologic parameters and recovery were evaluated before
+  coronary artery bypass graft surgery. (NCT NCT06788951; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The aim of this study was to investigate the effect of oral carbohydrate
+  solution given to patients before coronary artery bypass graft surgery on nausea-vomiting,
+  hunger, thirst, physiologic paramete
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06788951 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

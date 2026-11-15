@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02546882
-name: NCT02546882 — The Improving Effect of Autologous Stromal Vascular Fraction (SVF) in Adipose Tissue
-  on Skin Grafting
-description: The purpose of this study is to observe whether the transplantation of autologous stromal
-  vascular fraction (SVF) in adipose tissue is safe and its effect on improving the texture and contracture
-  of skin grafting. (NCT NCT02546882; status UNKNOWN).
-hypothesis: The purpose of this study is to observe whether the transplantation of autologous stromal
-  vascular fraction (SVF) in adipose tissue is safe and its effect on improving the texture and contracture
-  of s
+name: NCT02546882 — The Improving Effect of Autologous Stromal Vascular Fraction (SVF)
+  in Adipose Tissue on Skin Grafting
+description: The purpose of this study is to observe whether the transplantation of
+  autologous stromal vascular fraction (SVF) in adipose tissue is safe and its effect
+  on improving the texture and contracture of skin grafting. (NCT NCT02546882; status
+  UNKNOWN).
+hypothesis: The purpose of this study is to observe whether the transplantation of
+  autologous stromal vascular fraction (SVF) in adipose tissue is safe and its effect
+  on improving the texture and contracture of s
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02546882 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02546882 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct02546882-the-improving-effect-of-autologous-s
+assigned_id: dea:experiment-nct02546882-the-improving-effect-of-autologous-s-cxmnxm
+admitted: '2026-11-15'

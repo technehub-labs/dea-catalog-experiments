@@ -1,0 +1,42 @@
+id: dea:experiment-nct00734656-pharmacogenetics-of-alcohol-treatmen-cnbnrj
+type: Experiment
+name: 'NCT00734656 — Pharmacogenetics of Alcohol: Treatment Implications'
+description: This study will explore the hypothesis that effects of alcohol are in
+  part mediated by increased production of neuroactive steroids, which interact with
+  GABAA-receptors. We propose to study non-dependent drinkers using a 4-session within-subjects
+  design in which alcohol / placebo is paired with dutasteride / placebo pretreatment.
+  Dutasteride is a 5-alpha steroid reductase (5AR) inhibitor that limits the production
+  of dihydrotestosterone and the 5a-reduced neuroactive steroids allopregnanolone,
+  pregnanolone and 3a,5a-androstanediol. (NCT NCT00734656; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study will explore the hypothesis that effects of alcohol are in
+  part mediated by increased production of neuroactive steroids, which interact with
+  GABAA-receptors. We propose to study non-depend
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00734656 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06960083
 name: NCT06960083 — Transcranial Magnetic Stimulation in Misophonia
-description: 'The purpose of the project is to assess the efficacy of parietal transcranial magnetic stimulation
-  in misophonia. N=60 participants will undergo two transcranial magnetic stimulation sessions: one inhibitory
-  and another excitatory. During both sessions, the parietal region will be stimulated. Participants will
-  perform computerized tasks immediately before and after the stimulation, while EEG, heart rate, and
-  skin temperature will be recorded. These recordings will be used to assess if TMS can be used to improve
-  tolerance to misophonia triggers. (NCT NCT06960083; status RECRUITING).'
-hypothesis: 'The purpose of the project is to assess the efficacy of parietal transcranial magnetic stimulation
-  in misophonia. N=60 participants will undergo two transcranial magnetic stimulation sessions: one inh'
+description: 'The purpose of the project is to assess the efficacy of parietal transcranial
+  magnetic stimulation in misophonia. N=60 participants will undergo two transcranial
+  magnetic stimulation sessions: one inhibitory and another excitatory. During both
+  sessions, the parietal region will be stimulated. Participants will perform computerized
+  tasks immediately before and after the stimulation, while EEG, heart rate, and skin
+  temperature will be recorded. These recordings will be used to assess if TMS can
+  be used to improve tolerance to misophonia triggers. (NCT NCT06960083; status RECRUITING).'
+hypothesis: 'The purpose of the project is to assess the efficacy of parietal transcranial
+  magnetic stimulation in misophonia. N=60 participants will undergo two transcranial
+  magnetic stimulation sessions: one inh'
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06960083 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06960083 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06960083-transcranial-magnetic-stimulation-in
+assigned_id: dea:experiment-nct06960083-transcranial-magnetic-stimulation-in-qg8e7y
+admitted: '2026-11-15'

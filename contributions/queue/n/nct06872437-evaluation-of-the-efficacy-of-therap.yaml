@@ -1,29 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06872437
-name: NCT06872437 — Evaluation of the Efficacy of Therapeutic Infiltrations of the Pudendal Nerve, Performed
-  Under Neurostimulation on Pain, 1 Month After an Infiltration of Local Anaesthetic, in the Treatm
-description: Pudendal neuralgia (PN) is a chronic nerve compression syndrome causing neuropathic pain.
-  Treatment includes medication, infiltration and decompressive surgery. Medicinal treatment involves
-  the use of drugs that have proved effective in other areas, such as shingles or diabetes. There is no
-  consensus on the molecules to be used for pudendal nerve infiltration (PNTI), and less than half of
-  patients experience short-term relief. The only risk factor for failure is the duration of pain. Our
-  study proposes to compare the usual treatment with a placebo, as no type of infiltration has been compared
-  with a placebo. (NCT NCT06872437; status RECRUITING).
-hypothesis: Pudendal neuralgia (PN) is a chronic nerve compression syndrome causing neuropathic pain.
-  Treatment includes medication, infiltration and decompressive surgery. Medicinal treatment involves
-  the use of
+name: NCT06872437 — Evaluation of the Efficacy of Therapeutic Infiltrations of the
+  Pudendal Nerve, Performed Under Neurostimulation on Pain, 1 Month After an Infiltration
+  of Local Anaesthetic, in the Treatm
+description: Pudendal neuralgia (PN) is a chronic nerve compression syndrome causing
+  neuropathic pain. Treatment includes medication, infiltration and decompressive
+  surgery. Medicinal treatment involves the use of drugs that have proved effective
+  in other areas, such as shingles or diabetes. There is no consensus on the molecules
+  to be used for pudendal nerve infiltration (PNTI), and less than half of patients
+  experience short-term relief. The only risk factor for failure is the duration of
+  pain. Our study proposes to compare the usual treatment with a placebo, as no type
+  of infiltration has been compared with a placebo. (NCT NCT06872437; status RECRUITING).
+hypothesis: Pudendal neuralgia (PN) is a chronic nerve compression syndrome causing
+  neuropathic pain. Treatment includes medication, infiltration and decompressive
+  surgery. Medicinal treatment involves the use of
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06872437 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06872437 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06872437-evaluation-of-the-efficacy-of-therap
+assigned_id: dea:experiment-nct06872437-evaluation-of-the-efficacy-of-therap-xh73v4
+admitted: '2026-11-15'

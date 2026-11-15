@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05333653
 name: NCT05333653 — Supportive Care During Childbirth and Well-being
-description: The aim of this study is to evaluate the effects of continuous supportive care (ICSC) at
-  birth on some parameters of maternal psychological well-being. (NCT NCT05333653; status COMPLETED).
-hypothesis: The aim of this study is to evaluate the effects of continuous supportive care (ICSC) at birth
-  on some parameters of maternal psychological well-being.
+description: The aim of this study is to evaluate the effects of continuous supportive
+  care (ICSC) at birth on some parameters of maternal psychological well-being. (NCT
+  NCT05333653; status COMPLETED).
+hypothesis: The aim of this study is to evaluate the effects of continuous supportive
+  care (ICSC) at birth on some parameters of maternal psychological well-being.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05333653 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05333653 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05333653-supportive-care-during-childbirth-an
+assigned_id: dea:experiment-nct05333653-supportive-care-during-childbirth-an-2pd7vp
+admitted: '2026-11-15'

@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06163456
-name: NCT06163456 — Influence of Cardiorespiratory Fitness and Body Composition on Resting and Post-exercise
-  Indices of Vascular Health in Young Adults
-description: This research is being done to determine whether acute exercise causes differences in numbers
-  of novel blood factors associated with vascular health in college-aged adults across different physical
-  activity habits. As only \~50% of cardiovascular (CV) events can be explained by traditional CV risk
-  factors such as high blood pressure and high cholesterol, it is anticipated that this research will
-  provide a more comprehensive look into novel risk factors that may better explain CV risk and that may
-  be modifiable through regular physical activity. (NCT NCT06163456; status COMPLETED).
-hypothesis: This research is being done to determine whether acute exercise causes differences in numbers
-  of novel blood factors associated with vascular health in college-aged adults across different physical
-  ac
+name: NCT06163456 — Influence of Cardiorespiratory Fitness and Body Composition on
+  Resting and Post-exercise Indices of Vascular Health in Young Adults
+description: This research is being done to determine whether acute exercise causes
+  differences in numbers of novel blood factors associated with vascular health in
+  college-aged adults across different physical activity habits. As only \~50% of
+  cardiovascular (CV) events can be explained by traditional CV risk factors such
+  as high blood pressure and high cholesterol, it is anticipated that this research
+  will provide a more comprehensive look into novel risk factors that may better explain
+  CV risk and that may be modifiable through regular physical activity. (NCT NCT06163456;
+  status COMPLETED).
+hypothesis: This research is being done to determine whether acute exercise causes
+  differences in numbers of novel blood factors associated with vascular health in
+  college-aged adults across different physical ac
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06163456 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06163456 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06163456-influence-of-cardiorespiratory-fitne
+assigned_id: dea:experiment-nct06163456-influence-of-cardiorespiratory-fitne-fbzu5q
+admitted: '2026-11-15'

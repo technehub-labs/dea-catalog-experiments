@@ -1,0 +1,31 @@
+# NCT00598351 — Natural History Study of Patients With Neurofibromatosis Type 2
+
+> Objective With this prospective natural experiment trial on neurofibromatosis type 2 (NF2) study, we hope to understand the factors leading to tumor progression and neurological disease burden in NF2. Study Population A total of 269 participants, ages 8-75, with a clinical or genetic diagnosis of NF2 will participate in this study. Design Study participants will be evaluated with a thorough physical and neurologic examination upon enrollment. This initial outpatient evaluation will include magnetic resonance imaging with contrast of brain and spine and blood collection for research use. Participants with measurable hearing will have audiology assessment performed. Participants with untreated vestibular schwannomas will have vestibular assessment performed during the initial visit. Genetic studies performed outside will be acceptable as confirmation of NF2 in enrolled patients. If needed to confirm NF2 with genetic studies, or for research purpose, whole genome/whole exome sequencing may be performed on blood obtained from subjects enrolled in this study. All participants will be evaluated by a speech language pathologist. Subjects will be followed as outpatients for up to ten years, during which clinical, and radiologic evaluation will be performed annually. Auditory testing will be performed annually for participants with measurable hearing. Participants with initially untreated vestibular schwannomas will be followed annually with vestibular testing. Speech and swallowing reassessments will be repeated if worsening of speech or swallowing is reported. Blood will be collected at each visit for blood biomarker testing Outcome measures We hope to understand the biologic basis for speech and swallowing dysfunction in patients with NF2. We will study and report the strength of association of MRI findings, clinical assessments cranial nerve deficits and speech/swallowing dysfunction. We hope to identify imaging biomarkers of hearing loss in NF2. We will attempt to disco
+
+## Identity
+
+- **Record id**: `dea:experiment-nct00598351-natural-history-study-of-patients-wi-pp3gtu`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT00598351 (ClinicalTrials.gov; status RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

@@ -1,25 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04522674
-name: NCT04522674 — Platelet-Rich Plasma (PRP) for Treatment of Symptomatic Lumbar Facet Syndrome of the
-  Spine
-description: The purpose of this study is to investigate the feasibility of standardized autologous platelet
-  rich plasma injections into osteoarthritic lumbar facet joints to treat back pain and improve patient
-  function. (NCT NCT04522674; status COMPLETED).
-hypothesis: The purpose of this study is to investigate the feasibility of standardized autologous platelet
-  rich plasma injections into osteoarthritic lumbar facet joints to treat back pain and improve patient
-  fu
+name: NCT04522674 — Platelet-Rich Plasma (PRP) for Treatment of Symptomatic Lumbar
+  Facet Syndrome of the Spine
+description: The purpose of this study is to investigate the feasibility of standardized
+  autologous platelet rich plasma injections into osteoarthritic lumbar facet joints
+  to treat back pain and improve patient function. (NCT NCT04522674; status COMPLETED).
+hypothesis: The purpose of this study is to investigate the feasibility of standardized
+  autologous platelet rich plasma injections into osteoarthritic lumbar facet joints
+  to treat back pain and improve patient fu
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04522674 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04522674 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04522674-platelet-rich-plasma-prp-for-treatme
+assigned_id: dea:experiment-nct04522674-platelet-rich-plasma-prp-for-treatme-b4pjkt
+admitted: '2026-11-15'

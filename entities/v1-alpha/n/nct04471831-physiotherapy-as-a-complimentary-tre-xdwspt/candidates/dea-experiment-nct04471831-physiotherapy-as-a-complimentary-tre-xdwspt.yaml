@@ -1,0 +1,61 @@
+id: dea:experiment-nct04471831-physiotherapy-as-a-complimentary-tre-xdwspt
+type: Experiment
+name: NCT04471831 — Physiotherapy as a Complimentary Treatment in Reducing Viral-Load,
+  Complications, Death, Expedite Discharge and Improve Quality of Life, Exercise Endurance
+  and Capacity in Stroke Survivo
+description: 'Background: Coronavirus (CoViD-19) positive stroke survivors (SSv) with
+  comorbidities faces possibility for mortality. Study reports success of physiotherapy
+  in CoViD-19 positive SSv with multiple comorbidities. Methods: This clinical controlled
+  study involve a minimum of 30 SSv and 30 age and sex-matched non-stroke individuals
+  with multiple comorbidities with CoViD-19 status confirmed using Real-Time Quantitative-Polymerase
+  Chain Reaction. The Cycle Threshold (CT) and nucleic acid content in the test sample
+  (NA) will be recorded from the virology test results. Their exercise endurance,
+  exercise capacities and quality of life will be assessed using 3-minutes'' walk
+  test and 3-meters test and Stroke Specific Quality of Life Questionnaire. Measurements
+  will be taken at every three days intervals from admission to discharge from hospital-isolation.
+  They will receive their normal treatments for CoViD-19 in addition to daily Physiotherapy
+  for the SSv delivered through E-Platform. the Zoom and the WhatsApp video platforms
+  will be used for the interactions between the physiotherapists and the participants.
+  A pre-tested exercise protocol for stroke patients developed by the Stroke and Nervous
+  System Disorders research group of the University of Lagos, Nigeria will be used
+  for the E-exercises. The exercise package will be loaded into the phones of the
+  participants at hospital admission. The Physiotherapists will lead in the exercises
+  through video interaction will the participants watches the video programme. Their
+  risks for respiratory complications (RC), ventilation (RV) and death (RD) will be
+  analysed. Data will be analysed using independent t-test, Analysis of Co-Variance,
+  and multivariate retrogression, survival analyses, Friedman Analysis of Variance
+  and MannWithney U test (95% Confident Interval). Anticipated Outcomes: It is anticipated
+  that the outcome of this study will provide evidence for inclusion of Physiotherapy
+  in the acute management of individuals tested posi'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Background: Coronavirus (CoViD-19) positive stroke survivors (SSv) with
+  comorbidities faces possibility for mortality. Study reports success of physiotherapy
+  in CoViD-19 positive SSv with multiple com'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04471831 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

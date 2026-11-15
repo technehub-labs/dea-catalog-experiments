@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05383066
-name: NCT05383066 — Anti-angiogenesis Combined With PD-1/PD-L1 Therapy in Patients With Advanced Liver
-  Cancer
-description: To observe and explore the effect of anti-angiogenesis combined with PD-1/PD-L1 therapy in
-  the real world on the survival prognosis of patients with advanced liver cancer, and to summarize the
-  treatment experience of a wide range of people. (NCT NCT05383066; status UNKNOWN).
-hypothesis: To observe and explore the effect of anti-angiogenesis combined with PD-1/PD-L1 therapy in
-  the real world on the survival prognosis of patients with advanced liver cancer, and to summarize the
-  treatme
+name: NCT05383066 — Anti-angiogenesis Combined With PD-1/PD-L1 Therapy in Patients
+  With Advanced Liver Cancer
+description: To observe and explore the effect of anti-angiogenesis combined with
+  PD-1/PD-L1 therapy in the real world on the survival prognosis of patients with
+  advanced liver cancer, and to summarize the treatment experience of a wide range
+  of people. (NCT NCT05383066; status UNKNOWN).
+hypothesis: To observe and explore the effect of anti-angiogenesis combined with PD-1/PD-L1
+  therapy in the real world on the survival prognosis of patients with advanced liver
+  cancer, and to summarize the treatme
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05383066 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05383066 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05383066-anti-angiogenesis-combined-with-pd-1
+assigned_id: dea:experiment-nct05383066-anti-angiogenesis-combined-with-pd-1-dg5kpq
+admitted: '2026-11-15'

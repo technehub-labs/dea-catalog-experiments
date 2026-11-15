@@ -1,0 +1,42 @@
+id: dea:experiment-nct04874766-the-effects-of-wearing-a-face-mask-d-6ehngy
+type: Experiment
+name: NCT04874766 — The Effects of Wearing a Face Mask During Exercise in Youth Hockey
+  Players During COVID-19
+description: There is concern that wearing a face mask during COVID will affect oxygen
+  uptake, especially during intense exercise. COVID transmission is especially prevalent
+  in sports such as hockey, where there is close contact between players and arena
+  ventilation is poor. This study will assess the effect of wearing a surgical face
+  mask on simulated hockey performance and blood and muscle oxygenation during cycling
+  exercise. (NCT NCT04874766; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: There is concern that wearing a face mask during COVID will affect oxygen
+  uptake, especially during intense exercise. COVID transmission is especially prevalent
+  in sports such as hockey, where there i
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04874766 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00199888
-name: NCT00199888 — Safety Study With the Antibody, cG250, and Isotope, 124-Iodine, to Diagnose Patients
-  With Renal Masses.
-description: The purpose of this study is to see if an antibody (cG250) attached to a radioactive substance
-  (Iodine-124) safely detects clear cell renal cancer in patients with kidney tumors scheduled for surgery.
-  (NCT NCT00199888; status COMPLETED).
-hypothesis: The purpose of this study is to see if an antibody (cG250) attached to a radioactive substance
-  (Iodine-124) safely detects clear cell renal cancer in patients with kidney tumors scheduled for surgery.
+name: NCT00199888 — Safety Study With the Antibody, cG250, and Isotope, 124-Iodine,
+  to Diagnose Patients With Renal Masses.
+description: The purpose of this study is to see if an antibody (cG250) attached to
+  a radioactive substance (Iodine-124) safely detects clear cell renal cancer in patients
+  with kidney tumors scheduled for surgery. (NCT NCT00199888; status COMPLETED).
+hypothesis: The purpose of this study is to see if an antibody (cG250) attached to
+  a radioactive substance (Iodine-124) safely detects clear cell renal cancer in patients
+  with kidney tumors scheduled for surgery.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00199888 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00199888 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00199888-safety-study-with-the-antibody-cg250
+assigned_id: dea:experiment-nct00199888-safety-study-with-the-antibody-cg250-eyj6dm
+admitted: '2026-11-15'

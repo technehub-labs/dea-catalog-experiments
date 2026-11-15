@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01039727
 name: NCT01039727 — Prerecorded Autosuggestion in Long-standing Pain Intervention
-description: The first objective of this thesis is to investigate the hypothesis that prerecorded autosuggestion
-  (PA) can be a theoretically valuable (efficacy) and practical (efficiency) tool in the care of many
-  patients with chronic pain. With a prevalence in chronic pain conditions of +/- 20% of adults, chronic
-  pain is a huge problem for individuals as well as for society, absorbing an enormous amount of resources.
-  Even with all available treatments, many people still suffer from chronic pain, in particular when this
-  pain has a psychosomatic ('functional') origin. In the PALPI study (Prerecorded Autosuggestion in Long-standing
-  Pain Intervention), accompanying this thesis, efforts are made to mainly involve chronic pain of clearly
-  psychosomatic origin. (NCT NCT01039727; status UNKNOWN).
-hypothesis: 'The first objective of this thesis is to investigate the hypothesis that prerecorded autosuggestion
-  (PA) can be a theoretically valuable (efficacy) and practical (efficiency) tool in the care of many '
+description: The first objective of this thesis is to investigate the hypothesis that
+  prerecorded autosuggestion (PA) can be a theoretically valuable (efficacy) and practical
+  (efficiency) tool in the care of many patients with chronic pain. With a prevalence
+  in chronic pain conditions of +/- 20% of adults, chronic pain is a huge problem
+  for individuals as well as for society, absorbing an enormous amount of resources.
+  Even with all available treatments, many people still suffer from chronic pain,
+  in particular when this pain has a psychosomatic ('functional') origin. In the PALPI
+  study (Prerecorded Autosuggestion in Long-standing Pain Intervention), accompanying
+  this thesis, efforts are made to mainly involve chronic pain of clearly psychosomatic
+  origin. (NCT NCT01039727; status UNKNOWN).
+hypothesis: 'The first objective of this thesis is to investigate the hypothesis that
+  prerecorded autosuggestion (PA) can be a theoretically valuable (efficacy) and practical
+  (efficiency) tool in the care of many '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01039727 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01039727 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct01039727-prerecorded-autosuggestion-in-long-s
+assigned_id: dea:experiment-nct01039727-prerecorded-autosuggestion-in-long-s-3satxa
+admitted: '2026-11-15'

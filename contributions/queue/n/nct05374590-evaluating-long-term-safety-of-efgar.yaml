@@ -1,29 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05374590
-name: NCT05374590 — Evaluating Long-term Safety of Efgartigimod Administered Intravenously and Efgartigimod
-  PH20 Administered Subcutaneously in Children With Generalized Myasthenia Gravis
-description: The purpose of this trial is to evaluate the long-term safety of efgartigimod IV and efgartigimod
-  PH20 SC administered to participants with gMG in the antecedent studies, ARGX-113-2006 and ARGX-113-2207,
-  respectively. Participants will receive efgartigimod IV or efgartigimod PH20 SC, using the dose administered
-  in the antecedent studies. Participants who have not reached the age of 18 can remain in the study until
-  efgartigimod becomes commercially available in the respective country or available through another continued
-  access program for gMG. Participants who have reached the age of 18 can remain in the study for a maximum
-  of 2 years, until efgartigimod becomes commercially available in the respective country or available
-  through another continued access program for gMG, whichever comes first. (NCT NCT05374590; status ENROLLING_BY_INVITATION).
-hypothesis: The purpose of this trial is to evaluate the long-term safety of efgartigimod IV and efgartigimod
-  PH20 SC administered to participants with gMG in the antecedent studies, ARGX-113-2006 and ARGX-113-22
+name: NCT05374590 — Evaluating Long-term Safety of Efgartigimod Administered Intravenously
+  and Efgartigimod PH20 Administered Subcutaneously in Children With Generalized Myasthenia
+  Gravis
+description: The purpose of this trial is to evaluate the long-term safety of efgartigimod
+  IV and efgartigimod PH20 SC administered to participants with gMG in the antecedent
+  studies, ARGX-113-2006 and ARGX-113-2207, respectively. Participants will receive
+  efgartigimod IV or efgartigimod PH20 SC, using the dose administered in the antecedent
+  studies. Participants who have not reached the age of 18 can remain in the study
+  until efgartigimod becomes commercially available in the respective country or available
+  through another continued access program for gMG. Participants who have reached
+  the age of 18 can remain in the study for a maximum of 2 years, until efgartigimod
+  becomes commercially available in the respective country or available through another
+  continued access program for gMG, whichever comes first. (NCT NCT05374590; status
+  ENROLLING_BY_INVITATION).
+hypothesis: The purpose of this trial is to evaluate the long-term safety of efgartigimod
+  IV and efgartigimod PH20 SC administered to participants with gMG in the antecedent
+  studies, ARGX-113-2006 and ARGX-113-22
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05374590 (ClinicalTrials.gov; status ENROLLING_BY_INVITATION)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05374590 (ClinicalTrials.gov; status
+      ENROLLING_BY_INVITATION)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - enrolling-by-invitat
 slug: nct05374590-evaluating-long-term-safety-of-efgar
+assigned_id: dea:experiment-nct05374590-evaluating-long-term-safety-of-efgar-rgnya7
+admitted: '2026-11-15'

@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06522737
-name: NCT06522737 — A Study of Duvelisib Versus Gemcitabine or Bendamustine in Participants With Relapsed/Refractory
-  Nodal T Cell Lymphoma With T Follicular Helper (TFH) Phenotype
-description: The study will evaluate the progression-free survival benefit of duvelisib monotherapy as
-  compared to investigator's choice of gemcitabine or bendamustine in participants with relapsed/refractory
-  nodal T cell lymphoma with TFH phenotype. (NCT NCT06522737; status RECRUITING).
-hypothesis: The study will evaluate the progression-free survival benefit of duvelisib monotherapy as
-  compared to investigator's choice of gemcitabine or bendamustine in participants with relapsed/refractory
-  noda
+name: NCT06522737 — A Study of Duvelisib Versus Gemcitabine or Bendamustine in Participants
+  With Relapsed/Refractory Nodal T Cell Lymphoma With T Follicular Helper (TFH) Phenotype
+description: The study will evaluate the progression-free survival benefit of duvelisib
+  monotherapy as compared to investigator's choice of gemcitabine or bendamustine
+  in participants with relapsed/refractory nodal T cell lymphoma with TFH phenotype.
+  (NCT NCT06522737; status RECRUITING).
+hypothesis: The study will evaluate the progression-free survival benefit of duvelisib
+  monotherapy as compared to investigator's choice of gemcitabine or bendamustine
+  in participants with relapsed/refractory noda
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06522737 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06522737 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06522737-a-study-of-duvelisib-versus-gemcitab
+assigned_id: dea:experiment-nct06522737-a-study-of-duvelisib-versus-gemcitab-srsvtg
+admitted: '2026-11-15'

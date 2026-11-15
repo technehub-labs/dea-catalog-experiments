@@ -1,0 +1,41 @@
+id: dea:experiment-nct03801005-immunophenotyping-of-blast-cells-and-u9szys
+type: Experiment
+name: NCT03801005 — Immunophenotyping of Blast Cells and Immune Effector Cells in
+  Peripheral Whole Blood and Bone Marrow Samples From AML and MDS Patients (AML)
+description: The objective of this study is to evaluate the immune profile of blast
+  cells and immune effector cells in paired peripheral whole blood and bone marrow
+  samples from AML and MDS patients by standardized flow cytometry. A special emphasis
+  will be focused on monitoring expression of CD200 as well as PGP-170 (MDR1) on blasts
+  cells. (NCT NCT03801005; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The objective of this study is to evaluate the immune profile of blast
+  cells and immune effector cells in paired peripheral whole blood and bone marrow
+  samples from AML and MDS patients by standardize
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03801005 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

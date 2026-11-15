@@ -1,0 +1,43 @@
+id: dea:experiment-nct03452670-contemplative-well-being-apps-for-th-qcedtg
+type: Experiment
+name: NCT03452670 — Contemplative Well-being Apps for the Workplace
+description: The study will examine the use and impact of a meditation app delivered
+  to adult workforce populations facing extreme time demands. Enrollees will be randomized
+  to either app or a wait-list group, and will be assessed in terms of job and daily
+  functioning, well-being, and biomarkers of immune function and stress physiology,
+  and neural structure and function prior to randomization and again at multiple time
+  points after participants commence app engagement. In order to assess efficacy,
+  we will examine the longitudinal changes in all measures in both the mindfulness
+  group, compared to wait-list control group. (NCT NCT03452670; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The study will examine the use and impact of a meditation app delivered
+  to adult workforce populations facing extreme time demands. Enrollees will be randomized
+  to either app or a wait-list group, and
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03452670 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

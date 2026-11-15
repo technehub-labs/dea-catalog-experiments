@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00003440
-name: NCT00003440 — Paclitaxel With or Without Trastuzumab in Treating Patients With or Without HER-2/Neu
-  Breast Cancer That is Inoperable, Recurrent, or Metastatic
-description: This randomized phase III studies how well two different regimens of paclitaxel with or without
-  trastuzumab works in treating patients with or without HER-2/Neu breast cancer that is inoperable, recurrent,
-  or metastatic. Drugs used in chemotherapy, such as paclitaxel, use different ways to stop tumor cells
-  from dividing so they stop growing or die. Monoclonal antibodies, such as trastuzumab, can locate tumor
-  cells and either kill them or deliver tumor-killing substances to them without harming normal cells.
-  It is not yet known what regimen of paclitaxel is more effective with or without trastuzumab in treating
-  patients with breast cancer. (NCT NCT00003440; status COMPLETED).
-hypothesis: This randomized phase III studies how well two different regimens of paclitaxel with or without
-  trastuzumab works in treating patients with or without HER-2/Neu breast cancer that is inoperable, recur
+name: NCT00003440 — Paclitaxel With or Without Trastuzumab in Treating Patients With
+  or Without HER-2/Neu Breast Cancer That is Inoperable, Recurrent, or Metastatic
+description: This randomized phase III studies how well two different regimens of
+  paclitaxel with or without trastuzumab works in treating patients with or without
+  HER-2/Neu breast cancer that is inoperable, recurrent, or metastatic. Drugs used
+  in chemotherapy, such as paclitaxel, use different ways to stop tumor cells from
+  dividing so they stop growing or die. Monoclonal antibodies, such as trastuzumab,
+  can locate tumor cells and either kill them or deliver tumor-killing substances
+  to them without harming normal cells. It is not yet known what regimen of paclitaxel
+  is more effective with or without trastuzumab in treating patients with breast cancer.
+  (NCT NCT00003440; status COMPLETED).
+hypothesis: This randomized phase III studies how well two different regimens of paclitaxel
+  with or without trastuzumab works in treating patients with or without HER-2/Neu
+  breast cancer that is inoperable, recur
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00003440 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00003440 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00003440-paclitaxel-with-or-without-trastuzum
+assigned_id: dea:experiment-nct00003440-paclitaxel-with-or-without-trastuzum-tkd3dj
+admitted: '2026-11-15'

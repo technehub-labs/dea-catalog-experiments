@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00048217
-name: NCT00048217 — A Rollover Study to Provide Chronic T-1249 to Patients Who Completed Study T1249-102
-description: Patients who complete study T1249-102 (must be currently failing a T-20 containing regimen
-  to participate in this study) will receive T-1249 at a dose of 200mg daily in combination with a background
-  antiretroviral regimen for 96 weeks. Only patients that participated in study T1249-102 can participate
-  in study T1249-105. (NCT NCT00048217; status UNKNOWN).
-hypothesis: Patients who complete study T1249-102 (must be currently failing a T-20 containing regimen
-  to participate in this study) will receive T-1249 at a dose of 200mg daily in combination with a background
-  a
+name: NCT00048217 — A Rollover Study to Provide Chronic T-1249 to Patients Who Completed
+  Study T1249-102
+description: Patients who complete study T1249-102 (must be currently failing a T-20
+  containing regimen to participate in this study) will receive T-1249 at a dose of
+  200mg daily in combination with a background antiretroviral regimen for 96 weeks.
+  Only patients that participated in study T1249-102 can participate in study T1249-105.
+  (NCT NCT00048217; status UNKNOWN).
+hypothesis: Patients who complete study T1249-102 (must be currently failing a T-20
+  containing regimen to participate in this study) will receive T-1249 at a dose of
+  200mg daily in combination with a background a
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00048217 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00048217 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct00048217-a-rollover-study-to-provide-chronic
+assigned_id: dea:experiment-nct00048217-a-rollover-study-to-provide-chronic-pcndes
+admitted: '2026-11-15'

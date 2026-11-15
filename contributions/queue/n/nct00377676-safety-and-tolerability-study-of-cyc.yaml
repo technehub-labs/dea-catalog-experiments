@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00377676
-name: NCT00377676 — Safety and Tolerability Study of Cycloset in Treatment of Type 2 Diabetes
-description: Cycloset, a new quick-release oral formulation of bromocriptine mesylate, effectively reduces
-  blood sugar by the proposed mechanism of reversing many of the metabolic alterations associated with
-  insulin resistance and obesity by resetting central (hypothalamic) circadian organization of monoamine
-  neuronal activities. The primary analysis of this study will test the hypothesis that the rate of all-cause
-  severe adverse events for those receiving usual drug therapy for diabetes management plus Cycloset is
-  not greater than that for usual drug therapy plus placebo by more than an acceptable margin. While the
-  primary purpose of this study is to establish the safety profile of Cycloset in type 2 diabetes, any
-  potential positive cardiovascular benefits will be evaluated as well. (NCT NCT00377676; status COMPLETED).
-hypothesis: Cycloset, a new quick-release oral formulation of bromocriptine mesylate, effectively reduces
-  blood sugar by the proposed mechanism of reversing many of the metabolic alterations associated with
-  insul
+name: NCT00377676 — Safety and Tolerability Study of Cycloset in Treatment of Type
+  2 Diabetes
+description: Cycloset, a new quick-release oral formulation of bromocriptine mesylate,
+  effectively reduces blood sugar by the proposed mechanism of reversing many of the
+  metabolic alterations associated with insulin resistance and obesity by resetting
+  central (hypothalamic) circadian organization of monoamine neuronal activities.
+  The primary analysis of this study will test the hypothesis that the rate of all-cause
+  severe adverse events for those receiving usual drug therapy for diabetes management
+  plus Cycloset is not greater than that for usual drug therapy plus placebo by more
+  than an acceptable margin. While the primary purpose of this study is to establish
+  the safety profile of Cycloset in type 2 diabetes, any potential positive cardiovascular
+  benefits will be evaluated as well. (NCT NCT00377676; status COMPLETED).
+hypothesis: Cycloset, a new quick-release oral formulation of bromocriptine mesylate,
+  effectively reduces blood sugar by the proposed mechanism of reversing many of the
+  metabolic alterations associated with insul
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00377676 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00377676 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00377676-safety-and-tolerability-study-of-cyc
+assigned_id: dea:experiment-nct00377676-safety-and-tolerability-study-of-cyc-hwgx3z
+admitted: '2026-11-15'

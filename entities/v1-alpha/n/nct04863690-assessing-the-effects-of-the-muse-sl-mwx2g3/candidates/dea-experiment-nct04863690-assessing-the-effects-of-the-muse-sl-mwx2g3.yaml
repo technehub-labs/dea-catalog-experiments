@@ -1,0 +1,42 @@
+id: dea:experiment-nct04863690-assessing-the-effects-of-the-muse-sl-mwx2g3
+type: Experiment
+name: NCT04863690 — Assessing the Effects of the Muse Sleep Intervention on Sleep
+description: In this study, we will examine whether use of the Sleep Intervention
+  protocol marketed by Interaxon (the 'Muse'), leads to improvements in sleep quality
+  (e.g. decreased latency to sleep, improved sleep duration), as well as knock-on
+  improvements on measures of mindfulness, improvement in quality of life scores,
+  reduction in perceived stress levels, anxiety, improvements in cognitive performance,
+  improvement in markers relevant for safety, and increased success in the workplace
+  in healthy participants. (NCT NCT04863690; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: In this study, we will examine whether use of the Sleep Intervention protocol
+  marketed by Interaxon (the 'Muse'), leads to improvements in sleep quality (e.g.
+  decreased latency to sleep, improved slee
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04863690 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

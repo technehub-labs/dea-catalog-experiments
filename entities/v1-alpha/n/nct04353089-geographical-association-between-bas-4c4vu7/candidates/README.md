@@ -1,0 +1,31 @@
+# NCT04353089 — Geographical Association Between Basic Life Support Courses, Bystander Cardiopulmonary Resuscitation and Survival
+
+> Background Since 2001 when the Danish Cardiac Arrest Registry was first established several large-scale interventions aimed at the entire Danish population from all ages have been initiated. BLS courses have been made mandatory in all primary schools since January 2005, and when taking driver's license since October 2006. This has resulted in a steep increase in the number of Danish citizens attending a BLS course to approximately 3-4.5% of the entire population annually. Aim The aim of this study is to investigate the effect of the numerous population-based interventions to increase bystander basic life support (BLS) prior to arrival of Emergency Medical Services (EMS) to persons suffering from out-of-hospital cardiac arrest (OHCA). Further this study aim at identifying geographical areas with low frequency of Basic Life Support (BLS) education and low level of bystander initiated BLS to enable direction of further educational efforts in the future to increase survival. Methods By coupling the geographical coordinates of the BLS course certificates with the GPS coordinates of cardiac arrests, the effects of BLS courses on bystander CPR rates and survival can be investigated. In collaboration with researchers from Aalborg University Hospital, the entire Danish geography have been divided into digital squares of 100x100m and combined with sociodemographic data. This data will be coupled with national administrative parish of Denmark comprising some 2201 geographical units of approximately equal size. This geographic model has been combined with data from the Danish Cardiac Arrest Registry, the National Danish Patient registry and the Central Person Registry. The current study has access to the geodata of the GPS coordinates of Danish citizens who have attained a BLS course certificate between 2016 and 2019. By combining the two datasets in national administrative parish's of Denmark, the investigators are able to calculate the correlation between BLS course certifica
+
+## Identity
+
+- **Record id**: `dea:experiment-nct04353089-geographical-association-between-bas-4c4vu7`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT04353089 (ClinicalTrials.gov; status UNKNOWN)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

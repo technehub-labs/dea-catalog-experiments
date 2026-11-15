@@ -1,0 +1,39 @@
+id: dea:experiment-nct02716194-bax-826-dose-escalation-safety-study-dp7ezt
+type: Experiment
+name: NCT02716194 — BAX 826 Dose-Escalation Safety Study
+description: 1. To assess tolerability and safety of BAX 826 after a single infusion
+  in previously treated patients (PTPs) with severe hemophilia A 2. To determine the
+  pharmacokinetic (PK) parameters of BAX 826 compared to ADVATE 3. To evaluate immunogenicity
+  of polysialic acid linked to Factor VIII (FVIII) (NCT NCT02716194; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 1. To assess tolerability and safety of BAX 826 after a single infusion
+  in previously treated patients (PTPs) with severe hemophilia A 2. To determine the
+  pharmacokinetic (PK) parameters of BAX 826 co
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02716194 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

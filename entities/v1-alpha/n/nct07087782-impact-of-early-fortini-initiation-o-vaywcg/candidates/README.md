@@ -1,0 +1,31 @@
+# NCT07087782 — Impact of Early Fortini Initiation on Growth and Interstage Outcomes in Infants With Single Ventricle Physiology
+
+> This study is testing whether a special formula called Fortini, which is a high-calorie, low osmolality formula can help high-risk babies with single ventricle physiology grow better after their initial Stage 1 surgical palliation. These babies often struggle to gain weight, which can lead to more health problems before their next surgery. After their first heart surgery, but prior to discharge, babies will be randomly placed into two groups. One group will get Fortini formula when they leave the hospital, and the other group will get the standard of care high-calorie formula. The primary goal is to see if Fortini helps babies grow better by the time they are ready for their second surgery. The study will also check if the babies tolerate the formula well, how much they eat, how often they are re-admitted to the hospital, and how their caregivers feel about feeding. The babies will be followed for up to 4 months, until they return for their next surgery. About 100 infants are expected to join the study at Driscoll Children's Hospital. This research may help improve nutrition care for infants with complex heart conditions and reduce stress for their families. (NCT NCT07087782; status RECRUITING).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct07087782-impact-of-early-fortini-initiation-o-vaywcg`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT07087782 (ClinicalTrials.gov; status RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

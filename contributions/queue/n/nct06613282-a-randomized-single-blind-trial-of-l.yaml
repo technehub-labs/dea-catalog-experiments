@@ -1,39 +1,47 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06613282
-name: NCT06613282 — A Randomized, Single-blind Trial of LI-TMS and AVS for Stoke Recovery in Healthy Participants
-  (Phase 1).
-description: 'This randomized, controlled, single-blind clinical pilot study investigates the therapeutic
-  potential of low-intensity repetitive transcranial magnetic stimulation (LI-TMS) and audio-visual stimulation
-  (AVS) and newly offered interventional protocols in healthy participants for further research on stroke
-  rehabilitation and therapeutic effects. The goal of this clinical trial is to learn if the intervention
-  can be used in the future treatment of patients recovering after stroke. It will also learn about the
-  safety of low-intensity repetitive transcranial magnetic stimulation and audio-visual stimulation. The
-  main questions it aims to answer are: Does intervention with LI-TMS and AVS influence the parameter
-  Work Efficiency (WE) of the participant? Does intervention with LI-TMS and AVS influence the parameter
-  Warming-up work indicator (WU) of the participant? Does intervention with LI-TMS and AVS influence the
-  parameter Psychological Stability (PS) of the participant? Does intervention with LI-TMS and AVS influence
-  the parameter Perceptual Accuracy (Tv) of the participant? Does intervention with LI-TMS and AVS affect
-  changes in the participants electroencephalogram parameters? The researchers will compare the results
-  of LI-TMS and AVS intervention to a control group that received no intervention but only underwent an
-  examination to evaluate the effects of the interventions. Participants will: Receive interventions from
-  LI-TMS and AVS every day for 2 weeks with a weekend break on Saturday and Sunday. Attend the clinic
-  3 times during the trial and undergo testing and screening. The first clinic visit is before the intervention
-  course. The second clinic visit will be the day immediately following the end of the two-week intervention
-  course. The third visit will be two weeks after the second visit. (NCT NCT06613282; status UNKNOWN).'
-hypothesis: This randomized, controlled, single-blind clinical pilot study investigates the therapeutic
-  potential of low-intensity repetitive transcranial magnetic stimulation (LI-TMS) and audio-visual stimulatio
+name: NCT06613282 — A Randomized, Single-blind Trial of LI-TMS and AVS for Stoke Recovery
+  in Healthy Participants (Phase 1).
+description: 'This randomized, controlled, single-blind clinical pilot study investigates
+  the therapeutic potential of low-intensity repetitive transcranial magnetic stimulation
+  (LI-TMS) and audio-visual stimulation (AVS) and newly offered interventional protocols
+  in healthy participants for further research on stroke rehabilitation and therapeutic
+  effects. The goal of this clinical trial is to learn if the intervention can be
+  used in the future treatment of patients recovering after stroke. It will also learn
+  about the safety of low-intensity repetitive transcranial magnetic stimulation and
+  audio-visual stimulation. The main questions it aims to answer are: Does intervention
+  with LI-TMS and AVS influence the parameter Work Efficiency (WE) of the participant?
+  Does intervention with LI-TMS and AVS influence the parameter Warming-up work indicator
+  (WU) of the participant? Does intervention with LI-TMS and AVS influence the parameter
+  Psychological Stability (PS) of the participant? Does intervention with LI-TMS and
+  AVS influence the parameter Perceptual Accuracy (Tv) of the participant? Does intervention
+  with LI-TMS and AVS affect changes in the participants electroencephalogram parameters?
+  The researchers will compare the results of LI-TMS and AVS intervention to a control
+  group that received no intervention but only underwent an examination to evaluate
+  the effects of the interventions. Participants will: Receive interventions from
+  LI-TMS and AVS every day for 2 weeks with a weekend break on Saturday and Sunday.
+  Attend the clinic 3 times during the trial and undergo testing and screening. The
+  first clinic visit is before the intervention course. The second clinic visit will
+  be the day immediately following the end of the two-week intervention course. The
+  third visit will be two weeks after the second visit. (NCT NCT06613282; status UNKNOWN).'
+hypothesis: This randomized, controlled, single-blind clinical pilot study investigates
+  the therapeutic potential of low-intensity repetitive transcranial magnetic stimulation
+  (LI-TMS) and audio-visual stimulatio
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06613282 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06613282 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct06613282-a-randomized-single-blind-trial-of-l
+assigned_id: dea:experiment-nct06613282-a-randomized-single-blind-trial-of-l-d48cpx
+admitted: '2026-11-15'

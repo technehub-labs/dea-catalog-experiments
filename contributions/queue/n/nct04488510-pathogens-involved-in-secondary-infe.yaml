@@ -1,30 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04488510
-name: 'NCT04488510 — Pathogens Involved in Secondary Infections During Severe Forms of Covid-19 Pneumonia:'
-description: A Respiratory infection with the SARS-CoV2 virus is associated with a major risk of viral
-  pneumonia that can lead to respiratory distress requiring resuscitation. In the most severe forms, it
-  may require mechanical ventilation or even lead to an acute respiratory distress syndrome with a particularly
-  poor prognosis. The SARS-CoV2 is a single-stranded RNA virus of positive polarity and belongs to the
-  beta genus of Coronaviruses. SARS-CoV2 is responsible for the third epidemic in less than twenty years
-  secondary to a Coronavirus (SARS-CoV then MERS-CoV) and if the mortality associated with it is lower
-  than that of previous strains, notably MERS-CoV, its spread is considerably big. As a result, the number
-  of patients developing respiratory distress requiring invasive mechanical ventilation is high, with
-  prolonged ventilation duration in these situations (NCT NCT04488510; status UNKNOWN).
-hypothesis: A Respiratory infection with the SARS-CoV2 virus is associated with a major risk of viral
-  pneumonia that can lead to respiratory distress requiring resuscitation. In the most severe forms, it
-  may requ
+name: 'NCT04488510 — Pathogens Involved in Secondary Infections During Severe Forms
+  of Covid-19 Pneumonia:'
+description: A Respiratory infection with the SARS-CoV2 virus is associated with a
+  major risk of viral pneumonia that can lead to respiratory distress requiring resuscitation.
+  In the most severe forms, it may require mechanical ventilation or even lead to
+  an acute respiratory distress syndrome with a particularly poor prognosis. The SARS-CoV2
+  is a single-stranded RNA virus of positive polarity and belongs to the beta genus
+  of Coronaviruses. SARS-CoV2 is responsible for the third epidemic in less than twenty
+  years secondary to a Coronavirus (SARS-CoV then MERS-CoV) and if the mortality associated
+  with it is lower than that of previous strains, notably MERS-CoV, its spread is
+  considerably big. As a result, the number of patients developing respiratory distress
+  requiring invasive mechanical ventilation is high, with prolonged ventilation duration
+  in these situations (NCT NCT04488510; status UNKNOWN).
+hypothesis: A Respiratory infection with the SARS-CoV2 virus is associated with a
+  major risk of viral pneumonia that can lead to respiratory distress requiring resuscitation.
+  In the most severe forms, it may requ
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04488510 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04488510 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct04488510-pathogens-involved-in-secondary-infe
+assigned_id: dea:experiment-nct04488510-pathogens-involved-in-secondary-infe-2nq5y9
+admitted: '2026-11-15'

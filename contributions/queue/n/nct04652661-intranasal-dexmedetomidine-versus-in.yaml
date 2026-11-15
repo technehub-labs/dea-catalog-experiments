@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04652661
-name: NCT04652661 — Intranasal Dexmedetomidine Versus Intranasal Midazolam for MRI In Pediatrics
-description: An increasing number of studies have reported the use of dexmedetomidine in clinical practice.
-  However, few studies have reported on the intranasal use of dexmedetomidine in radiological procedures
-  The aim of this work is to compare the efficacy and safety of intranasal dexmedetomidine and intranasal
-  midazolam in pediatrics undergoing MRI. (NCT NCT04652661; status COMPLETED).
-hypothesis: An increasing number of studies have reported the use of dexmedetomidine in clinical practice.
-  However, few studies have reported on the intranasal use of dexmedetomidine in radiological procedures
-  Th
+name: NCT04652661 — Intranasal Dexmedetomidine Versus Intranasal Midazolam for MRI
+  In Pediatrics
+description: An increasing number of studies have reported the use of dexmedetomidine
+  in clinical practice. However, few studies have reported on the intranasal use of
+  dexmedetomidine in radiological procedures The aim of this work is to compare the
+  efficacy and safety of intranasal dexmedetomidine and intranasal midazolam in pediatrics
+  undergoing MRI. (NCT NCT04652661; status COMPLETED).
+hypothesis: An increasing number of studies have reported the use of dexmedetomidine
+  in clinical practice. However, few studies have reported on the intranasal use of
+  dexmedetomidine in radiological procedures Th
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04652661 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04652661 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04652661-intranasal-dexmedetomidine-versus-in
+assigned_id: dea:experiment-nct04652661-intranasal-dexmedetomidine-versus-in-esw6v3
+admitted: '2026-11-15'

@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00087802
-name: NCT00087802 — Gemcitabine/Oxaliplatin (GEMOX) vs Carboplatin/Paclitaxel (CP) in Non-Small Cell Lung
-  Cancer (NSCLC)
-description: The purpose of this study is to compare combination treatment of gemcitabine + oxaliplatin
-  (GEMOX) with carboplatin + paclitaxel (CP) to determine if there is a difference in response and safety
-  between the two drug combinations for the treatment of advanced non-small cell lung cancer (NSCLC).
-  (NCT NCT00087802; status COMPLETED).
-hypothesis: The purpose of this study is to compare combination treatment of gemcitabine + oxaliplatin
-  (GEMOX) with carboplatin + paclitaxel (CP) to determine if there is a difference in response and safety
-  betwe
+name: NCT00087802 — Gemcitabine/Oxaliplatin (GEMOX) vs Carboplatin/Paclitaxel (CP)
+  in Non-Small Cell Lung Cancer (NSCLC)
+description: The purpose of this study is to compare combination treatment of gemcitabine
+  + oxaliplatin (GEMOX) with carboplatin + paclitaxel (CP) to determine if there is
+  a difference in response and safety between the two drug combinations for the treatment
+  of advanced non-small cell lung cancer (NSCLC). (NCT NCT00087802; status COMPLETED).
+hypothesis: The purpose of this study is to compare combination treatment of gemcitabine
+  + oxaliplatin (GEMOX) with carboplatin + paclitaxel (CP) to determine if there is
+  a difference in response and safety betwe
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00087802 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00087802 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00087802-gemcitabine-oxaliplatin-gemox-vs-car
+assigned_id: dea:experiment-nct00087802-gemcitabine-oxaliplatin-gemox-vs-car-9ue87k
+admitted: '2026-11-15'

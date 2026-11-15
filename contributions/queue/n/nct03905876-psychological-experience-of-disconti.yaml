@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03905876
-name: NCT03905876 — Psychological Experience of Discontinuation an Early Phase Treatment by Patients
-description: While there is currently some study on the motivations and experiences of patients integrating
-  early phase clinical trials, to our knowledge, no study has explored the future of patients coming out
-  of these trials. It is therefore urgent to better understand the feelings and experiences of patients
-  who discontinue their treatment in a clinical trial of early phase (EP) to provide them with tailored
-  and personalized support. In addition, the end of treatment may have a different impact on the person
-  depending on whether the treatment was discontinued due to the protocol (the patient received the full
-  treatment as planned) or to an early withdrawal (intolerable toxicities or progression of the disease).
-  (NCT NCT03905876; status COMPLETED).
-hypothesis: While there is currently some study on the motivations and experiences of patients integrating
-  early phase clinical trials, to our knowledge, no study has explored the future of patients coming out
-  of
+name: NCT03905876 — Psychological Experience of Discontinuation an Early Phase Treatment
+  by Patients
+description: While there is currently some study on the motivations and experiences
+  of patients integrating early phase clinical trials, to our knowledge, no study
+  has explored the future of patients coming out of these trials. It is therefore
+  urgent to better understand the feelings and experiences of patients who discontinue
+  their treatment in a clinical trial of early phase (EP) to provide them with tailored
+  and personalized support. In addition, the end of treatment may have a different
+  impact on the person depending on whether the treatment was discontinued due to
+  the protocol (the patient received the full treatment as planned) or to an early
+  withdrawal (intolerable toxicities or progression of the disease). (NCT NCT03905876;
+  status COMPLETED).
+hypothesis: While there is currently some study on the motivations and experiences
+  of patients integrating early phase clinical trials, to our knowledge, no study
+  has explored the future of patients coming out of
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03905876 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03905876 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03905876-psychological-experience-of-disconti
+assigned_id: dea:experiment-nct03905876-psychological-experience-of-disconti-r83488
+admitted: '2026-11-15'

@@ -1,25 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00732446
-name: NCT00732446 — Safety/Efficacy of Antibiotic Steroid Combination in Treatment of Blepharitis and/or
-  Keratitis and/or Conjunctivitis
-description: Safety and efficacy of antibiotic steroid combination compared with individual administration
-  in the treatment of bacterial ocular inflammation and infection (blepharitis and/or keratitis and/or
-  conjunctivitis). (NCT NCT00732446; status COMPLETED).
-hypothesis: Safety and efficacy of antibiotic steroid combination compared with individual administration
-  in the treatment of bacterial ocular inflammation and infection (blepharitis and/or keratitis and/or
-  conju
+name: NCT00732446 — Safety/Efficacy of Antibiotic Steroid Combination in Treatment
+  of Blepharitis and/or Keratitis and/or Conjunctivitis
+description: Safety and efficacy of antibiotic steroid combination compared with individual
+  administration in the treatment of bacterial ocular inflammation and infection (blepharitis
+  and/or keratitis and/or conjunctivitis). (NCT NCT00732446; status COMPLETED).
+hypothesis: Safety and efficacy of antibiotic steroid combination compared with individual
+  administration in the treatment of bacterial ocular inflammation and infection (blepharitis
+  and/or keratitis and/or conju
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00732446 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00732446 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00732446-safety-efficacy-of-antibiotic-steroi
+assigned_id: dea:experiment-nct00732446-safety-efficacy-of-antibiotic-steroi-guq2dv
+admitted: '2026-11-15'

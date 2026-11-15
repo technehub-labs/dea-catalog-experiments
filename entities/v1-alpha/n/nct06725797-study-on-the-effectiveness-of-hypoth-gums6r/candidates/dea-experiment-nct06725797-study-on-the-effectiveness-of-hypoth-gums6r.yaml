@@ -1,0 +1,51 @@
+id: dea:experiment-nct06725797-study-on-the-effectiveness-of-hypoth-gums6r
+type: Experiment
+name: NCT06725797 — Study on the Effectiveness of Hypothermal Sulphurous Water in
+  Wound Hygiene
+description: 'This is an interventional double arms pilot study on the effectiveness
+  of hydrogen sulfide (H2S) rich and microbiologically pure spa sulphurous water,
+  in the wound hygiene of hard-to heal wounds, set in an italian spa facility. At
+  least 24 subjects enrolled according to selection criteria will be 1:1 randomized
+  in two intervention groups: the former (A) undergoing pack of sulphurous water on
+  soaked gauzes for 20 minutes, the latter (B) undergoing full limb immersion for
+  20 minutes. Differences among the two arms will be assessed as changes in wound
+  microbiome, wound pH, Trans epidermal water loss (TEWL), 1000x ex-vivo microscope
+  imaging, wound fluorescence imaging for bacterial colonization and longitudinal
+  shifts in wound sizing and peculiar features according to the Bates-Jensen Wound
+  Assessment Tool (BWAT). Time required for re-epithelization will be recorded together
+  with any adverse reactions or events for both arms and compared. The study aims
+  at assessing the effectiveness of hydrogen sulfide exogenous supply on infected
+  or colonized hard to heal wounds and which way of administration (pack Vs immersion)
+  could have prevailing effects. (NCT NCT06725797; status ENROLLING_BY_INVITATION).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'This is an interventional double arms pilot study on the effectiveness
+  of hydrogen sulfide (H2S) rich and microbiologically pure spa sulphurous water,
+  in the wound hygiene of hard-to heal wounds, set '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06725797 (ClinicalTrials.gov; status
+      ENROLLING_BY_INVITATION)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- enrolling-by-invitat

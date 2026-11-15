@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06377202
-name: NCT06377202 — Long-Term Follow-Up Safety Study of Subjects Treated with SynKIR-110 in Cancer Studies
-description: The primary objective of this study is to evaluate the long-term safety of SynKIR- 110 administered
-  to adult subjects with solid tumors expressing mesothelin. (NCT NCT06377202; status WITHDRAWN).
-hypothesis: The primary objective of this study is to evaluate the long-term safety of SynKIR- 110 administered
-  to adult subjects with solid tumors expressing mesothelin.
+name: NCT06377202 — Long-Term Follow-Up Safety Study of Subjects Treated with SynKIR-110
+  in Cancer Studies
+description: The primary objective of this study is to evaluate the long-term safety
+  of SynKIR- 110 administered to adult subjects with solid tumors expressing mesothelin.
+  (NCT NCT06377202; status WITHDRAWN).
+hypothesis: The primary objective of this study is to evaluate the long-term safety
+  of SynKIR- 110 administered to adult subjects with solid tumors expressing mesothelin.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06377202 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06377202 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct06377202-long-term-follow-up-safety-study-of
+assigned_id: dea:experiment-nct06377202-long-term-follow-up-safety-study-of-knfewt
+admitted: '2026-11-15'

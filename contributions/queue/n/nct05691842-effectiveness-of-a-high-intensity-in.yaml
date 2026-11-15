@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05691842
-name: NCT05691842 — Effectiveness of a High-intensity Interval Exercise Program in People With Alzheimer's
-description: Alzheimer's disease (AD) is a the most common type of dementia. It is a progressive disease
-  that affects different areas of human behavior at the cognitive, social, physical and metabolic levels.
-  The benefits of a High-Intensity Interval Exercise Program (HIIT) has been proven not only in healthy
-  older adults, but also in different pathologies, such as cerebrovascular and cardiometabolic diseases.
-  However, there are no studies to date that examine the impact of HIIT in people with AD. The aim of
-  this study was to ascertain the effectiveness of a HIIT program versus a cognitive and motor dual task
-  balance program on parameters related to functional capacity and cognitive function in people with AD.
-  (NCT NCT05691842; status UNKNOWN).
-hypothesis: 'Alzheimer''s disease (AD) is a the most common type of dementia. It is a progressive disease
-  that affects different areas of human behavior at the cognitive, social, physical and metabolic levels.
-  The '
+name: NCT05691842 — Effectiveness of a High-intensity Interval Exercise Program in
+  People With Alzheimer's
+description: Alzheimer's disease (AD) is a the most common type of dementia. It is
+  a progressive disease that affects different areas of human behavior at the cognitive,
+  social, physical and metabolic levels. The benefits of a High-Intensity Interval
+  Exercise Program (HIIT) has been proven not only in healthy older adults, but also
+  in different pathologies, such as cerebrovascular and cardiometabolic diseases.
+  However, there are no studies to date that examine the impact of HIIT in people
+  with AD. The aim of this study was to ascertain the effectiveness of a HIIT program
+  versus a cognitive and motor dual task balance program on parameters related to
+  functional capacity and cognitive function in people with AD. (NCT NCT05691842;
+  status UNKNOWN).
+hypothesis: 'Alzheimer''s disease (AD) is a the most common type of dementia. It is
+  a progressive disease that affects different areas of human behavior at the cognitive,
+  social, physical and metabolic levels. The '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05691842 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05691842 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05691842-effectiveness-of-a-high-intensity-in
+assigned_id: dea:experiment-nct05691842-effectiveness-of-a-high-intensity-in-kdbt5h
+admitted: '2026-11-15'

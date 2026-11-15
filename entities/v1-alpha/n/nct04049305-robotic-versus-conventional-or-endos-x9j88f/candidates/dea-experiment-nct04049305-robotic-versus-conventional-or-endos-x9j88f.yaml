@@ -1,0 +1,41 @@
+id: dea:experiment-nct04049305-robotic-versus-conventional-or-endos-x9j88f
+type: Experiment
+name: NCT04049305 — Robotic Versus Conventional or Endoscopic Nipple Sparing Mastectomy
+  for Breast Cancer
+description: This study will retrospectively collect and evaluate the surgical outcomes
+  of robotic nipple sparing mastectomy (R-NSM) compared with endoscopic assisted NSM
+  (E-NSM) or conventional NSM (C-NSM) in the management of breast cancer. Multi-centers
+  pooled data analysis would be performed for comparisons of R-NSM compared with C-NSM
+  or E-NSM. (NCT NCT04049305; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study will retrospectively collect and evaluate the surgical outcomes
+  of robotic nipple sparing mastectomy (R-NSM) compared with endoscopic assisted NSM
+  (E-NSM) or conventional NSM (C-NSM) in the
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04049305 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

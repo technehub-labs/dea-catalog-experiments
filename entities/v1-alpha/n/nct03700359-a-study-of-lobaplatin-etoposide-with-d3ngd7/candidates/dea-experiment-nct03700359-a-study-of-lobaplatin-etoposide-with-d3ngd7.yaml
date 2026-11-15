@@ -1,0 +1,41 @@
+id: dea:experiment-nct03700359-a-study-of-lobaplatin-etoposide-with-d3ngd7
+type: Experiment
+name: NCT03700359 — A Study of Lobaplatin/Etoposide With or Without Anlotinib Maintenance
+  Therapy in Patients With ES-SCLC
+description: This is a prospective, randomized, open-label and active controlled phase
+  II study. It plans to enroll 60 subjects with extensive stage small cell lung cancer
+  (ES-SCLC). All subjects will be assigned randomly to the experimental arm or control
+  arm. The primary endpoints would be overall survival and progression-free survival.
+  (NCT NCT03700359; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'This is a prospective, randomized, open-label and active controlled phase
+  II study. It plans to enroll 60 subjects with extensive stage small cell lung cancer
+  (ES-SCLC). All subjects will be assigned '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03700359 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

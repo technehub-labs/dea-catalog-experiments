@@ -1,0 +1,40 @@
+id: dea:experiment-nct04181645-shr-1210-combined-with-paclitaxel-al-ju34an
+type: Experiment
+name: NCT04181645 — SHR- 1210 Combined With Paclitaxel (Albumin Bound) and Gemcitabine
+  as First-line Therapy in Patients With Metastatic Pancreatic Cancer
+description: This is an open-label, single center, non-randomized, phase I trial to
+  evaluate safety and efficacy of using the combination treatment of SHR-1210 with
+  Paclitaxel-albumin and gemcitabine of metastatic PDAC. (NCT NCT04181645; status
+  COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This is an open-label, single center, non-randomized, phase I trial to
+  evaluate safety and efficacy of using the combination treatment of SHR-1210 with
+  Paclitaxel-albumin and gemcitabine of metastatic
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04181645 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

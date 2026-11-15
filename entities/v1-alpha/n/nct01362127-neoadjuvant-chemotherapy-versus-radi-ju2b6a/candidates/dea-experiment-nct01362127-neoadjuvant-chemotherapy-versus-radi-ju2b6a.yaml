@@ -1,0 +1,40 @@
+id: dea:experiment-nct01362127-neoadjuvant-chemotherapy-versus-radi-ju2b6a
+type: Experiment
+name: NCT01362127 — Neoadjuvant Chemotherapy Versus Radiochemotherapy for Cancer of
+  the Esophagus or Cardia
+description: The purpose of this randomized study is to clarify if neoadjuvant radiochemotherapy
+  gives a higher degree of complete histological response than neoadjuvant chemotherapy
+  before surgery in patients undergoing treatment for cancer of the esophagus or cardia.
+  (NCT NCT01362127; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The purpose of this randomized study is to clarify if neoadjuvant radiochemotherapy
+  gives a higher degree of complete histological response than neoadjuvant chemotherapy
+  before surgery in patients und
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01362127 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

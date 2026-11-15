@@ -1,27 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07300696
-name: NCT07300696 — Functional MRI for Monitoring Progression and Assessing Trends in ILD
-description: 'The main objective of this study is to investigate the utility of functional MRI to differentiate,
-  characterize, and monitor subgroups of ILD. This can be broken down into three specific objectives:
-  Determine if ILD features observed on high-resolution computed tomography (HRCT), such as ground glass
-  opacities (GGO), are functionally different. Analyse MRI metrics within each subgroup to determine whether
-  these metrics distinguish different ILDs. Assess MRI metrics longitudinally to see if these parameters
-  change with disease progression, stability, or reversibility. (NCT NCT07300696; status RECRUITING).'
-hypothesis: 'The main objective of this study is to investigate the utility of functional MRI to differentiate,
-  characterize, and monitor subgroups of ILD. This can be broken down into three specific objectives:
-  D'
+name: NCT07300696 — Functional MRI for Monitoring Progression and Assessing Trends
+  in ILD
+description: 'The main objective of this study is to investigate the utility of functional
+  MRI to differentiate, characterize, and monitor subgroups of ILD. This can be broken
+  down into three specific objectives: Determine if ILD features observed on high-resolution
+  computed tomography (HRCT), such as ground glass opacities (GGO), are functionally
+  different. Analyse MRI metrics within each subgroup to determine whether these metrics
+  distinguish different ILDs. Assess MRI metrics longitudinally to see if these parameters
+  change with disease progression, stability, or reversibility. (NCT NCT07300696;
+  status RECRUITING).'
+hypothesis: 'The main objective of this study is to investigate the utility of functional
+  MRI to differentiate, characterize, and monitor subgroups of ILD. This can be broken
+  down into three specific objectives: D'
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07300696 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07300696 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07300696-functional-mri-for-monitoring-progre
+assigned_id: dea:experiment-nct07300696-functional-mri-for-monitoring-progre-mvj5eg
+admitted: '2026-11-15'

@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04523454
 name: NCT04523454 — Contraception and Pregnancy in Diabetes Mellitus
-description: This study seeks to expand upon and update this body of work. It will explore the knowledge
-  and understanding women with diabetes have around pregnancy and conception, as well as establish how
-  well prepared these women are for a pregnancy. Using this data, we will develop better services to inform
-  women with diabetes about the contraception and pregnancy, as well inform the development of pre-conception
-  counselling services for women with diabetes. If successful, we would anticipate seeing an improvement
-  in performance in future National Diabetes in Pregnancy audits. (NCT NCT04523454; status COMPLETED).
-hypothesis: This study seeks to expand upon and update this body of work. It will explore the knowledge
-  and understanding women with diabetes have around pregnancy and conception, as well as establish how
-  well pr
+description: This study seeks to expand upon and update this body of work. It will
+  explore the knowledge and understanding women with diabetes have around pregnancy
+  and conception, as well as establish how well prepared these women are for a pregnancy.
+  Using this data, we will develop better services to inform women with diabetes about
+  the contraception and pregnancy, as well inform the development of pre-conception
+  counselling services for women with diabetes. If successful, we would anticipate
+  seeing an improvement in performance in future National Diabetes in Pregnancy audits.
+  (NCT NCT04523454; status COMPLETED).
+hypothesis: This study seeks to expand upon and update this body of work. It will
+  explore the knowledge and understanding women with diabetes have around pregnancy
+  and conception, as well as establish how well pr
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04523454 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04523454 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04523454-contraception-and-pregnancy-in-diabe
+assigned_id: dea:experiment-nct04523454-contraception-and-pregnancy-in-diabe-efcfsr
+admitted: '2026-11-15'

@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03545308
 name: NCT03545308 — Pharmacokinetics of Rocuronium for Deep Block (DeepRocu)
-description: Rocuronium is a non-depolarising neuromuscular blocking agent. The compound has a rapid onset
-  and an intermediate duration of action. The rapid onset is of importance in patients at risk for pulmonary
-  aspiration, for elective induction of anesthesia. Clinical studies simulating rapid sequence induction
-  in elective patients indicate that rocuronium 0.9 mg kg-1 may be suitable for crash intubation.Also,
-  rocuronium may be an alternative to succinylcholine for rapid sequence induction when high dose is injected
-  (3x Effective Dose 95 %= 1mg/kg). But, pharmacokinetic of rocuronium at 1 mg/kg is not well establish.
-  The investigator investigate the onset and recovery of a single dose rocuronium (1 mg/kg) in consecutive
-  patients (\>100) using adductor muscle monitoring (Train of Four and Post Tetanic Count) (NCT NCT03545308;
-  status COMPLETED).
-hypothesis: Rocuronium is a non-depolarising neuromuscular blocking agent. The compound has a rapid onset
-  and an intermediate duration of action. The rapid onset is of importance in patients at risk for pulmonary
+description: Rocuronium is a non-depolarising neuromuscular blocking agent. The compound
+  has a rapid onset and an intermediate duration of action. The rapid onset is of
+  importance in patients at risk for pulmonary aspiration, for elective induction
+  of anesthesia. Clinical studies simulating rapid sequence induction in elective
+  patients indicate that rocuronium 0.9 mg kg-1 may be suitable for crash intubation.Also,
+  rocuronium may be an alternative to succinylcholine for rapid sequence induction
+  when high dose is injected (3x Effective Dose 95 %= 1mg/kg). But, pharmacokinetic
+  of rocuronium at 1 mg/kg is not well establish. The investigator investigate the
+  onset and recovery of a single dose rocuronium (1 mg/kg) in consecutive patients
+  (\>100) using adductor muscle monitoring (Train of Four and Post Tetanic Count)
+  (NCT NCT03545308; status COMPLETED).
+hypothesis: Rocuronium is a non-depolarising neuromuscular blocking agent. The compound
+  has a rapid onset and an intermediate duration of action. The rapid onset is of
+  importance in patients at risk for pulmonary
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03545308 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03545308 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03545308-pharmacokinetics-of-rocuronium-for-d
+assigned_id: dea:experiment-nct03545308-pharmacokinetics-of-rocuronium-for-d-t9p3xu
+admitted: '2026-11-15'

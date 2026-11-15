@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06285773
-name: NCT06285773 — Recto-intercostal Fascial Plane Block and Pecto-intercostal Fascial Plane Block for
-  Cardiac Surgery
-description: In cardiac surgeries performed with median sternotomy, mediastinal and thoracic tube placement
-  sites are outside the area of effect of parasternal blocks, and sometimes the sternotomy incision extends
-  below the T6 dermatome. Recto intercostal fascial plane block (RIFPB) has been defined as a complementary
-  block for analgesia of this region. This study aims to evaluate the effectiveness of the combination
-  of ultrasound-guided recto-intercostal fascial plane block and pectointercostal fascial block for postoperative
-  analgesia management after open heart surgery (coronary artery bypass) with median sternotomy. (NCT
-  NCT06285773; status COMPLETED).
-hypothesis: In cardiac surgeries performed with median sternotomy, mediastinal and thoracic tube placement
-  sites are outside the area of effect of parasternal blocks, and sometimes the sternotomy incision extends
+name: NCT06285773 — Recto-intercostal Fascial Plane Block and Pecto-intercostal Fascial
+  Plane Block for Cardiac Surgery
+description: In cardiac surgeries performed with median sternotomy, mediastinal and
+  thoracic tube placement sites are outside the area of effect of parasternal blocks,
+  and sometimes the sternotomy incision extends below the T6 dermatome. Recto intercostal
+  fascial plane block (RIFPB) has been defined as a complementary block for analgesia
+  of this region. This study aims to evaluate the effectiveness of the combination
+  of ultrasound-guided recto-intercostal fascial plane block and pectointercostal
+  fascial block for postoperative analgesia management after open heart surgery (coronary
+  artery bypass) with median sternotomy. (NCT NCT06285773; status COMPLETED).
+hypothesis: In cardiac surgeries performed with median sternotomy, mediastinal and
+  thoracic tube placement sites are outside the area of effect of parasternal blocks,
+  and sometimes the sternotomy incision extends
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06285773 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06285773 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06285773-recto-intercostal-fascial-plane-bloc
+assigned_id: dea:experiment-nct06285773-recto-intercostal-fascial-plane-bloc-s5wp95
+admitted: '2026-11-15'

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07065773
-name: NCT07065773 — Safety, Tolerability and Efficacy of Trichostatin A in Patients With Mild to Severe
-  Onychomycosis
-description: This is a multicenter, open label study designed to evaluate the safety, tolerability, and
-  efficacy of topically administered VTR-297 solution. The efficacy objectives of the study will be assessed
-  using fungal culture testing, Neutral Red Staining (NRS) microscopy examination, and KOH microscopy
-  examination after 4 weeks of treatment with VTR-297. (NCT NCT07065773; status ACTIVE_NOT_RECRUITING).
-hypothesis: This is a multicenter, open label study designed to evaluate the safety, tolerability, and
-  efficacy of topically administered VTR-297 solution. The efficacy objectives of the study will be assessed
-  us
+name: NCT07065773 — Safety, Tolerability and Efficacy of Trichostatin A in Patients
+  With Mild to Severe Onychomycosis
+description: This is a multicenter, open label study designed to evaluate the safety,
+  tolerability, and efficacy of topically administered VTR-297 solution. The efficacy
+  objectives of the study will be assessed using fungal culture testing, Neutral Red
+  Staining (NRS) microscopy examination, and KOH microscopy examination after 4 weeks
+  of treatment with VTR-297. (NCT NCT07065773; status ACTIVE_NOT_RECRUITING).
+hypothesis: This is a multicenter, open label study designed to evaluate the safety,
+  tolerability, and efficacy of topically administered VTR-297 solution. The efficacy
+  objectives of the study will be assessed us
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07065773 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07065773 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct07065773-safety-tolerability-and-efficacy-of
+assigned_id: dea:experiment-nct07065773-safety-tolerability-and-efficacy-of-zbtvqz
+admitted: '2026-11-15'

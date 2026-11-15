@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06746402
-name: NCT06746402 — A Study to Investigate the Safety, Tolerability, and Pharmacokinetics of BMS-986278
-  and the Effects of BMS-986278 on Cardiac Repolarization in Healthy Participants
-description: The purpose of this study is to determine the safety, tolerability, and pharmacokinetics
-  (PK) of high dose of BMS-986278 in healthy participants and to assess the effect of BMS-986278 on the
-  ECG intervals in healthy participants. (NCT NCT06746402; status COMPLETED).
-hypothesis: The purpose of this study is to determine the safety, tolerability, and pharmacokinetics (PK)
-  of high dose of BMS-986278 in healthy participants and to assess the effect of BMS-986278 on the ECG
-  inter
+name: NCT06746402 — A Study to Investigate the Safety, Tolerability, and Pharmacokinetics
+  of BMS-986278 and the Effects of BMS-986278 on Cardiac Repolarization in Healthy
+  Participants
+description: The purpose of this study is to determine the safety, tolerability, and
+  pharmacokinetics (PK) of high dose of BMS-986278 in healthy participants and to
+  assess the effect of BMS-986278 on the ECG intervals in healthy participants. (NCT
+  NCT06746402; status COMPLETED).
+hypothesis: The purpose of this study is to determine the safety, tolerability, and
+  pharmacokinetics (PK) of high dose of BMS-986278 in healthy participants and to
+  assess the effect of BMS-986278 on the ECG inter
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06746402 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06746402 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06746402-a-study-to-investigate-the-safety-to
+assigned_id: dea:experiment-nct06746402-a-study-to-investigate-the-safety-to-dz65bf
+admitted: '2026-11-15'

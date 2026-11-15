@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05914974
-name: NCT05914974 — Immunotherapy-related CRP Kinetics in Metastatic Gynecological Malignancies
-description: ICK-Gyn is a prospective, multicentric, non-interventional investigator-initiated trial (IIT)
-  that aims to investigate the prognostic value of CRP kinetics in advanced or metastatic gynecological
-  malignancies under immune checkpoint inhibitor (ICI) therapy on the objective response rate (ORR), progression-free
-  survival (PFS) and overall survival (OS). (NCT NCT05914974; status RECRUITING).
-hypothesis: ICK-Gyn is a prospective, multicentric, non-interventional investigator-initiated trial (IIT)
-  that aims to investigate the prognostic value of CRP kinetics in advanced or metastatic gynecological
-  mali
+name: NCT05914974 — Immunotherapy-related CRP Kinetics in Metastatic Gynecological
+  Malignancies
+description: ICK-Gyn is a prospective, multicentric, non-interventional investigator-initiated
+  trial (IIT) that aims to investigate the prognostic value of CRP kinetics in advanced
+  or metastatic gynecological malignancies under immune checkpoint inhibitor (ICI)
+  therapy on the objective response rate (ORR), progression-free survival (PFS) and
+  overall survival (OS). (NCT NCT05914974; status RECRUITING).
+hypothesis: ICK-Gyn is a prospective, multicentric, non-interventional investigator-initiated
+  trial (IIT) that aims to investigate the prognostic value of CRP kinetics in advanced
+  or metastatic gynecological mali
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05914974 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05914974 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct05914974-immunotherapy-related-crp-kinetics-i
+assigned_id: dea:experiment-nct05914974-immunotherapy-related-crp-kinetics-i-qqd7kz
+admitted: '2026-11-15'

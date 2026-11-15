@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00454688
-name: NCT00454688 — Asimadoline for the Treatment of Subjects With Irritable Bowel Syndrome
-description: The purpose of this study is to evaluate the safety and efficacy of different doses of asimadoline
-  in the treatment of patients with irritable bowel syndrome. (NCT NCT00454688; status COMPLETED).
-hypothesis: The purpose of this study is to evaluate the safety and efficacy of different doses of asimadoline
-  in the treatment of patients with irritable bowel syndrome.
+name: NCT00454688 — Asimadoline for the Treatment of Subjects With Irritable Bowel
+  Syndrome
+description: The purpose of this study is to evaluate the safety and efficacy of different
+  doses of asimadoline in the treatment of patients with irritable bowel syndrome.
+  (NCT NCT00454688; status COMPLETED).
+hypothesis: The purpose of this study is to evaluate the safety and efficacy of different
+  doses of asimadoline in the treatment of patients with irritable bowel syndrome.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00454688 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00454688 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00454688-asimadoline-for-the-treatment-of-sub
+assigned_id: dea:experiment-nct00454688-asimadoline-for-the-treatment-of-sub-mzb7r9
+admitted: '2026-11-15'

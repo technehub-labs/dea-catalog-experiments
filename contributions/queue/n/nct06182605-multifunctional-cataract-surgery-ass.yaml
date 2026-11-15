@@ -1,31 +1,38 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06182605
-name: NCT06182605 — Multifunctional Cataract Surgery Assistive Instruments Used in Cataract Surgery
-description: In order to better cope with complex situations of cataract surgery, we designed and improved
-  a new set of multi-functional cataract surgery auxiliary devices, including ophthalmic surgery auxiliary
-  hooks, eye retractor hooks and membranous cataract scissors. Their common feature is that they have
-  the function of 2-3 traditional surgical instruments, which can be switched in operations, reducing
-  the replacement of different surgical instruments, lowing the number of surgical instruments in and
-  out of the incision, reducing trauma and improving surgical efficiency. The purpose of this multi-center
-  prospective clinical study is to verify the advantages of this new group of multifunctional devices
-  and further summarize the experience and improvement by comparing the safety and effectiveness of traditional
-  cataract surgical instruments combined with new multifunctional cataract assisted surgical instruments
-  and traditional cataract surgical instruments alone. (NCT NCT06182605; status RECRUITING).
-hypothesis: In order to better cope with complex situations of cataract surgery, we designed and improved
-  a new set of multi-functional cataract surgery auxiliary devices, including ophthalmic surgery auxiliary
-  h
+name: NCT06182605 — Multifunctional Cataract Surgery Assistive Instruments Used in
+  Cataract Surgery
+description: In order to better cope with complex situations of cataract surgery,
+  we designed and improved a new set of multi-functional cataract surgery auxiliary
+  devices, including ophthalmic surgery auxiliary hooks, eye retractor hooks and membranous
+  cataract scissors. Their common feature is that they have the function of 2-3 traditional
+  surgical instruments, which can be switched in operations, reducing the replacement
+  of different surgical instruments, lowing the number of surgical instruments in
+  and out of the incision, reducing trauma and improving surgical efficiency. The
+  purpose of this multi-center prospective clinical study is to verify the advantages
+  of this new group of multifunctional devices and further summarize the experience
+  and improvement by comparing the safety and effectiveness of traditional cataract
+  surgical instruments combined with new multifunctional cataract assisted surgical
+  instruments and traditional cataract surgical instruments alone. (NCT NCT06182605;
+  status RECRUITING).
+hypothesis: In order to better cope with complex situations of cataract surgery, we
+  designed and improved a new set of multi-functional cataract surgery auxiliary devices,
+  including ophthalmic surgery auxiliary h
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06182605 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06182605 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06182605-multifunctional-cataract-surgery-ass
+assigned_id: dea:experiment-nct06182605-multifunctional-cataract-surgery-ass-p7a49j
+admitted: '2026-11-15'

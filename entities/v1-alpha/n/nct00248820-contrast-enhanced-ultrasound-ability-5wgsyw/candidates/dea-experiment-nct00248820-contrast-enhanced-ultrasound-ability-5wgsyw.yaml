@@ -1,0 +1,44 @@
+id: dea:experiment-nct00248820-contrast-enhanced-ultrasound-ability-5wgsyw
+type: Experiment
+name: NCT00248820 — Contrast-Enhanced Ultrasound Ability in the Characterization of
+  Ovarian Masses
+description: This study intends to assess the ability of contrast-enhanced ultrasound
+  in the detection of benign and malignant ovarian masses compared to unenhanced ultrasound.
+  By using an intravascular contrast agent, this noninvasive and feasible imaging
+  technique will allow the investigators to define specific microcirculation patterns
+  in 100 women with ovarian lesions. The intravascular contrast agent properties will
+  be compared between benign and malignant adnexal masses. The final purpose of this
+  ultrasonography is to allow the early detection of tumors and to improve the characterization
+  between benign and malignant lesions. (NCT NCT00248820; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study intends to assess the ability of contrast-enhanced ultrasound
+  in the detection of benign and malignant ovarian masses compared to unenhanced ultrasound.
+  By using an intravascular contrast a
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00248820 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

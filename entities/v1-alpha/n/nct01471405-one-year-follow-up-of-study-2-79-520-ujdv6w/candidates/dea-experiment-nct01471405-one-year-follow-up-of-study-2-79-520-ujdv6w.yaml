@@ -1,0 +1,40 @@
+id: dea:experiment-nct01471405-one-year-follow-up-of-study-2-79-520-ujdv6w
+type: Experiment
+name: NCT01471405 — One Year Follow-up of Study 2-79-52030-207 (PRIMARYS) in Acromegalic
+  Patients With Macroadenoma
+description: This non-interventional retrospective study aims to describe the therapeutic
+  procedures and modalities received by patients and the correlation to hormone status,
+  during a one year follow up from completion of the 2-79-52030-207 study. (NCT NCT01471405;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This non-interventional retrospective study aims to describe the therapeutic
+  procedures and modalities received by patients and the correlation to hormone status,
+  during a one year follow up from comp
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01471405 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

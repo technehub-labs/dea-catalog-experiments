@@ -1,25 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01043822
-name: NCT01043822 — Pain and Emotional Expression in Children With Autism or Mental Retardation
-description: The purpose of this study is to describe facial, behavioral and physiologic (heart rate)
-  reactivity of children with autism aged 3 to 6 years old, during a painful stimulation (venepuncture).
-  Children will be videotaped before, during and after a venepuncture. Each recording will be rated with
-  the FACS (Facial Action Coding System) and the NCCPC (Non Communicating Children's Pain Checklist).
-  (NCT NCT01043822; status UNKNOWN).
-hypothesis: The purpose of this study is to describe facial, behavioral and physiologic (heart rate) reactivity
-  of children with autism aged 3 to 6 years old, during a painful stimulation (venepuncture). Children
+name: NCT01043822 — Pain and Emotional Expression in Children With Autism or Mental
+  Retardation
+description: The purpose of this study is to describe facial, behavioral and physiologic
+  (heart rate) reactivity of children with autism aged 3 to 6 years old, during a
+  painful stimulation (venepuncture). Children will be videotaped before, during and
+  after a venepuncture. Each recording will be rated with the FACS (Facial Action
+  Coding System) and the NCCPC (Non Communicating Children's Pain Checklist). (NCT
+  NCT01043822; status UNKNOWN).
+hypothesis: The purpose of this study is to describe facial, behavioral and physiologic
+  (heart rate) reactivity of children with autism aged 3 to 6 years old, during a
+  painful stimulation (venepuncture). Children
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01043822 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01043822 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct01043822-pain-and-emotional-expression-in-chi
+assigned_id: dea:experiment-nct01043822-pain-and-emotional-expression-in-chi-rmje6e
+admitted: '2026-11-15'

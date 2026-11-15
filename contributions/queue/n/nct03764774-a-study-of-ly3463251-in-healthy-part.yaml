@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03764774
 name: NCT03764774 — A Study of LY3463251 in Healthy Participants
-description: The purpose of this study is to evaluate the safety and tolerability (side effects) of single
-  (Part A) and multiple (Part B) doses of the study drug when it is administered subcutaneously (under
-  the skin) into the abdomen. This is a two-part study. Participants will enroll in only one part. For
-  each participant, Part A will last about 10 weeks and Part B will last about 23 weeks, including screening.
+description: The purpose of this study is to evaluate the safety and tolerability
+  (side effects) of single (Part A) and multiple (Part B) doses of the study drug
+  when it is administered subcutaneously (under the skin) into the abdomen. This is
+  a two-part study. Participants will enroll in only one part. For each participant,
+  Part A will last about 10 weeks and Part B will last about 23 weeks, including screening.
   (NCT NCT03764774; status TERMINATED).
-hypothesis: The purpose of this study is to evaluate the safety and tolerability (side effects) of single
-  (Part A) and multiple (Part B) doses of the study drug when it is administered subcutaneously (under
-  the s
+hypothesis: The purpose of this study is to evaluate the safety and tolerability (side
+  effects) of single (Part A) and multiple (Part B) doses of the study drug when it
+  is administered subcutaneously (under the s
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03764774 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03764774 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct03764774-a-study-of-ly3463251-in-healthy-part
+assigned_id: dea:experiment-nct03764774-a-study-of-ly3463251-in-healthy-part-q4naup
+admitted: '2026-11-15'

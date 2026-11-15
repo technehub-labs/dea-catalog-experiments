@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01383668
-name: NCT01383668 — Sirolimus and Gold Sodium Thiomalate in Treating Patients With Advanced Squamous Non-Small
-  Cell Lung Cancer
-description: This phase I trial studies the side effects and best dose of sirolimus and gold sodium thiomalate
-  when given together in treating patients with advanced squamous non-small cell lung cancer (NSCLC).
-  Sirolimus and gold sodium thiomalate may stop the growth of tumor cells by blocking some of the enzymes
-  needed for cell growth (NCT NCT01383668; status WITHDRAWN).
-hypothesis: This phase I trial studies the side effects and best dose of sirolimus and gold sodium thiomalate
-  when given together in treating patients with advanced squamous non-small cell lung cancer (NSCLC).
-  Si
+name: NCT01383668 — Sirolimus and Gold Sodium Thiomalate in Treating Patients With
+  Advanced Squamous Non-Small Cell Lung Cancer
+description: This phase I trial studies the side effects and best dose of sirolimus
+  and gold sodium thiomalate when given together in treating patients with advanced
+  squamous non-small cell lung cancer (NSCLC). Sirolimus and gold sodium thiomalate
+  may stop the growth of tumor cells by blocking some of the enzymes needed for cell
+  growth (NCT NCT01383668; status WITHDRAWN).
+hypothesis: This phase I trial studies the side effects and best dose of sirolimus
+  and gold sodium thiomalate when given together in treating patients with advanced
+  squamous non-small cell lung cancer (NSCLC). Si
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01383668 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01383668 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct01383668-sirolimus-and-gold-sodium-thiomalate
+assigned_id: dea:experiment-nct01383668-sirolimus-and-gold-sodium-thiomalate-ud4mhh
+admitted: '2026-11-15'

@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02950194
-name: NCT02950194 — Mesh Augmentation and Panniculectomy for the Treatment of Post-partum Abdominal Wall
-  Insufficiency
-description: The aim of this study is to evaluate this multidisciplinary surgical approach of PPAWI (one-step
-  procedure a panniculectomy by a plastic surgeon was performed together with a mesh augmentation of the
-  abdominal wall by a general surgeon) at least 1 year post-operatively. Evaluation of the PPAWI approach
-  by clinical examination with Quality of Life questionnaire and by ultrasound examination. (NCT NCT02950194;
+name: NCT02950194 — Mesh Augmentation and Panniculectomy for the Treatment of Post-partum
+  Abdominal Wall Insufficiency
+description: The aim of this study is to evaluate this multidisciplinary surgical
+  approach of PPAWI (one-step procedure a panniculectomy by a plastic surgeon was
+  performed together with a mesh augmentation of the abdominal wall by a general surgeon)
+  at least 1 year post-operatively. Evaluation of the PPAWI approach by clinical examination
+  with Quality of Life questionnaire and by ultrasound examination. (NCT NCT02950194;
   status UNKNOWN).
-hypothesis: 'The aim of this study is to evaluate this multidisciplinary surgical approach of PPAWI (one-step
-  procedure a panniculectomy by a plastic surgeon was performed together with a mesh augmentation of the '
+hypothesis: 'The aim of this study is to evaluate this multidisciplinary surgical
+  approach of PPAWI (one-step procedure a panniculectomy by a plastic surgeon was
+  performed together with a mesh augmentation of the '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02950194 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02950194 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct02950194-mesh-augmentation-and-panniculectomy
+assigned_id: dea:experiment-nct02950194-mesh-augmentation-and-panniculectomy-74c822
+admitted: '2026-11-15'

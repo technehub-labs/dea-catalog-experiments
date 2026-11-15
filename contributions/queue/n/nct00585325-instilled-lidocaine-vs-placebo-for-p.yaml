@@ -1,29 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00585325
-name: NCT00585325 — Instilled Lidocaine vs Placebo for Pain Management During Vacuum Assisted Closure
-  (VAC) Dressing Changes
-description: 'Patients will be randomized prospectively to one of two groups. One group will receive 5
-  mg/kg of 1% lidocaine, and the other will receive .9 normal saline, instilled into their VAC sponge
-  ½ hour prior to VAC dressing change. All patients will complete a pain assessment tool prior to receiving
-  the instilled lidocaine/placebo, immediately after the procedure and 1 hour after the procedure. Pain
-  scores will then be compared between the lidocaine and placebo groups. Risks: Lidocaine toxicity is
-  a potential risk, but 5 mg/kg of 1 % Lidocaine is below toxicity thresholds in an adult. (NCT NCT00585325;
-  status COMPLETED).'
-hypothesis: Patients will be randomized prospectively to one of two groups. One group will receive 5 mg/kg
-  of 1% lidocaine, and the other will receive .9 normal saline, instilled into their VAC sponge ½ hour
-  prio
+name: NCT00585325 — Instilled Lidocaine vs Placebo for Pain Management During Vacuum
+  Assisted Closure (VAC) Dressing Changes
+description: 'Patients will be randomized prospectively to one of two groups. One
+  group will receive 5 mg/kg of 1% lidocaine, and the other will receive .9 normal
+  saline, instilled into their VAC sponge ½ hour prior to VAC dressing change. All
+  patients will complete a pain assessment tool prior to receiving the instilled lidocaine/placebo,
+  immediately after the procedure and 1 hour after the procedure. Pain scores will
+  then be compared between the lidocaine and placebo groups. Risks: Lidocaine toxicity
+  is a potential risk, but 5 mg/kg of 1 % Lidocaine is below toxicity thresholds in
+  an adult. (NCT NCT00585325; status COMPLETED).'
+hypothesis: Patients will be randomized prospectively to one of two groups. One group
+  will receive 5 mg/kg of 1% lidocaine, and the other will receive .9 normal saline,
+  instilled into their VAC sponge ½ hour prio
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00585325 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00585325 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00585325-instilled-lidocaine-vs-placebo-for-p
+assigned_id: dea:experiment-nct00585325-instilled-lidocaine-vs-placebo-for-p-yj35yr
+admitted: '2026-11-15'

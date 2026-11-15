@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01554397
-name: NCT01554397 — Study With Intensity Modulated Radiation Therapy With Cisplatin to Treat Stage I-IVA
-  Cervical Cancer
-description: The purpose of this study is to find out whether patients with cervical cancer treated with
-  PET-guided Bone Marrow Sparing IMRT have less side effects with equal cancer control compared to standard
-  radiation techniques (IMRT). The hypothesis is that PET-guided Bone Marrow Sparing IMRT will reduce
-  acute hematologic and gastrointestinal toxicity and increase chemotherapy tolerance for cervical cancer
-  patients treated with concurrent cisplatin. (NCT NCT01554397; status COMPLETED).
-hypothesis: The purpose of this study is to find out whether patients with cervical cancer treated with
-  PET-guided Bone Marrow Sparing IMRT have less side effects with equal cancer control compared to standard
-  ra
+name: NCT01554397 — Study With Intensity Modulated Radiation Therapy With Cisplatin
+  to Treat Stage I-IVA Cervical Cancer
+description: The purpose of this study is to find out whether patients with cervical
+  cancer treated with PET-guided Bone Marrow Sparing IMRT have less side effects with
+  equal cancer control compared to standard radiation techniques (IMRT). The hypothesis
+  is that PET-guided Bone Marrow Sparing IMRT will reduce acute hematologic and gastrointestinal
+  toxicity and increase chemotherapy tolerance for cervical cancer patients treated
+  with concurrent cisplatin. (NCT NCT01554397; status COMPLETED).
+hypothesis: The purpose of this study is to find out whether patients with cervical
+  cancer treated with PET-guided Bone Marrow Sparing IMRT have less side effects with
+  equal cancer control compared to standard ra
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01554397 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01554397 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01554397-study-with-intensity-modulated-radia
+assigned_id: dea:experiment-nct01554397-study-with-intensity-modulated-radia-s7dyuf
+admitted: '2026-11-15'

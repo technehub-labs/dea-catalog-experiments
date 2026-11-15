@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00524966
-name: NCT00524966 — Randomized Controlled Trial of Bipolar Versus Ultrasonic Hemostasis Techniques in
-  Thyroidectomy
-description: 'RATIONALE: The use of bipolar energy sealing system or ultrasonic coagulation for hemostasis
-  during thyroidectomy may reduce blood loss and hypocalcemia and may be more cost-effective. (NCT NCT00524966;
-  status COMPLETED).'
-hypothesis: 'RATIONALE: The use of bipolar energy sealing system or ultrasonic coagulation for hemostasis
-  during thyroidectomy may reduce blood loss and hypocalcemia and may be more cost-effective.'
+name: NCT00524966 — Randomized Controlled Trial of Bipolar Versus Ultrasonic Hemostasis
+  Techniques in Thyroidectomy
+description: 'RATIONALE: The use of bipolar energy sealing system or ultrasonic coagulation
+  for hemostasis during thyroidectomy may reduce blood loss and hypocalcemia and may
+  be more cost-effective. (NCT NCT00524966; status COMPLETED).'
+hypothesis: 'RATIONALE: The use of bipolar energy sealing system or ultrasonic coagulation
+  for hemostasis during thyroidectomy may reduce blood loss and hypocalcemia and may
+  be more cost-effective.'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00524966 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00524966 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00524966-randomized-controlled-trial-of-bipol
+assigned_id: dea:experiment-nct00524966-randomized-controlled-trial-of-bipol-zdaamw
+admitted: '2026-11-15'

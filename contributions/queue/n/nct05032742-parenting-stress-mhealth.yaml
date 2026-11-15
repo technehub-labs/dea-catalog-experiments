@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05032742
 name: NCT05032742 — Parenting Stress mHealth
-description: Parenting stress is a well-documented barrier to youth engagement in community-based substance
-  use treatment. The current project aims to develop and evaluate a mobile health parenting stress intervention
-  for caregivers of justice-involved youth, a population with high rates of substance use and low rates
-  of treatment engagement. (NCT NCT05032742; status COMPLETED).
-hypothesis: Parenting stress is a well-documented barrier to youth engagement in community-based substance
-  use treatment. The current project aims to develop and evaluate a mobile health parenting stress interven
+description: Parenting stress is a well-documented barrier to youth engagement in
+  community-based substance use treatment. The current project aims to develop and
+  evaluate a mobile health parenting stress intervention for caregivers of justice-involved
+  youth, a population with high rates of substance use and low rates of treatment
+  engagement. (NCT NCT05032742; status COMPLETED).
+hypothesis: Parenting stress is a well-documented barrier to youth engagement in community-based
+  substance use treatment. The current project aims to develop and evaluate a mobile
+  health parenting stress interven
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05032742 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05032742 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05032742-parenting-stress-mhealth
+assigned_id: dea:experiment-nct05032742-parenting-stress-mhealth-fn3b4j
+admitted: '2026-11-15'

@@ -1,0 +1,31 @@
+# NCT06917690 — A Study to Learn About the Safety and Efficacy of the Drug Oleogel-S10 in Japanese Patients With Epidermolysis Bullosa
+
+> The goal of this clinical trial is to learn if Oleogel-S10 gel works to treat skin wounds from two types of inherited epidermolysis bullosa (EB): junctional EB (JEB) or dystrophic EB (DEB) in the Japanese population. Children and adults may participate. The trial also looks at the safety of Oleogel-S10 gel. The main questions it will answer are: * Does Oleogel-S10 gel close wounds from JEB or DEB within 45 days or reduce the size of the wounds? * Are there any medical problems when using Oleogel-S10 gel? * How much of the drug ends up in your blood? The study has 2 parts. In Part 1, participants will: * Apply Oleogel-S10 gel to the EB wound dressings at least once every 4 days for 45 days. * Visit the clinic once every 2 weeks for checkups and tests. If participants complete Part 1, they may participate in Part 2 if they choose to. In Part 2, participants will continue to receive Oleogel-S10 gel until the product is available to buy in Japan or until the trial is stopped by the company. (NCT NCT06917690; status RECRUITING).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct06917690-a-study-to-learn-about-the-safety-an-s5myeg`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT06917690 (ClinicalTrials.gov; status RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

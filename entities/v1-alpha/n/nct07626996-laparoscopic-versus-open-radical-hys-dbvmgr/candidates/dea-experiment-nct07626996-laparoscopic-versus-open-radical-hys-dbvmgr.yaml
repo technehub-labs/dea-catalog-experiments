@@ -1,0 +1,48 @@
+id: dea:experiment-nct07626996-laparoscopic-versus-open-radical-hys-dbvmgr
+type: Experiment
+name: NCT07626996 — Laparoscopic Versus Open Radical Hysterectomy in Early-Stage Cervical
+  Cancer
+description: 'The study aims to compare laparoscopic-assisted radical hysterectomy
+  with open radical hysterectomy in women with early-stage cervical cancer. A total
+  of 60 patients diagnosed with FIGO stage IA1, IA2, and IB1 cervical cancer were
+  enrolled and randomly assigned into two equal groups: laparoscopic surgery and open
+  surgery. All patients underwent total hysterectomy, bilateral adnexectomy, and pelvic
+  lymph node dissection. Perioperative outcomes were evaluated, including operative
+  time, blood loss, complications, and hospital stay, as well as long-term oncological
+  outcomes such as recurrence, recurrence-free survival, and overall survival. Patients
+  were followed for up to three years postoperatively. The findings of this study
+  aim to assess the safety, feasibility, and clinical effectiveness of laparoscopic-assisted
+  surgery compared with the conventional open approach in the management of early-stage
+  cervical cancer. (NCT NCT07626996; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The study aims to compare laparoscopic-assisted radical hysterectomy with
+  open radical hysterectomy in women with early-stage cervical cancer. A total of
+  60 patients diagnosed with FIGO stage IA1, IA2
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07626996 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

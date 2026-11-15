@@ -1,25 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05575882
-name: NCT05575882 — Anti-relapse Efficacy and Tolerance Assessment of a Cosmetic Cream for Very Dry, Irritated
-  to Atopic Sensitive Skin.
-description: 'Multicentric, double blind, randomized, comparative study with two parallel group: study
-  group vs placebo group. 5 visits: inclusion visit \[day (D) 0\] and 4 follow-up visits (D30, D60, D90,
-  and D120). (NCT NCT05575882; status RECRUITING).'
-hypothesis: 'Multicentric, double blind, randomized, comparative study with two parallel group: study
-  group vs placebo group. 5 visits: inclusion visit \[day (D) 0\] and 4 follow-up visits (D30, D60, D90,
-  and D120'
+name: NCT05575882 — Anti-relapse Efficacy and Tolerance Assessment of a Cosmetic Cream
+  for Very Dry, Irritated to Atopic Sensitive Skin.
+description: 'Multicentric, double blind, randomized, comparative study with two parallel
+  group: study group vs placebo group. 5 visits: inclusion visit \[day (D) 0\] and
+  4 follow-up visits (D30, D60, D90, and D120). (NCT NCT05575882; status RECRUITING).'
+hypothesis: 'Multicentric, double blind, randomized, comparative study with two parallel
+  group: study group vs placebo group. 5 visits: inclusion visit \[day (D) 0\] and
+  4 follow-up visits (D30, D60, D90, and D120'
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05575882 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05575882 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct05575882-anti-relapse-efficacy-and-tolerance
+assigned_id: dea:experiment-nct05575882-anti-relapse-efficacy-and-tolerance-e9adza
+admitted: '2026-11-15'

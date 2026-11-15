@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07076069
-name: NCT07076069 — The Effect of Multimodal Pain Regimen on Use of Narcotics After Rotator Cuff Tear
-  Repair
-description: The goal of this clinical trial is to understand which group of pain control medications
-  work best in adults after rotator cuff surgery. (NCT NCT07076069; status RECRUITING).
-hypothesis: The goal of this clinical trial is to understand which group of pain control medications work
-  best in adults after rotator cuff surgery.
+name: NCT07076069 — The Effect of Multimodal Pain Regimen on Use of Narcotics After
+  Rotator Cuff Tear Repair
+description: The goal of this clinical trial is to understand which group of pain
+  control medications work best in adults after rotator cuff surgery. (NCT NCT07076069;
+  status RECRUITING).
+hypothesis: The goal of this clinical trial is to understand which group of pain control
+  medications work best in adults after rotator cuff surgery.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07076069 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07076069 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07076069-the-effect-of-multimodal-pain-regime
+assigned_id: dea:experiment-nct07076069-the-effect-of-multimodal-pain-regime-hp4b7s
+admitted: '2026-11-15'

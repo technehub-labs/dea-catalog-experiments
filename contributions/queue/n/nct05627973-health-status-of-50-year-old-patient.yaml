@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05627973
-name: 'NCT05627973 — Health Status of < 50 Year Old Patients After Surgically Implanted Biological and
-  Mechanical Aortic Valves: a Population-based Retrospective Analysis (2010-2020)'
-description: The overall project aim is to study outcomes following aortic valve replacement with either
-  mechanical valves or bioprostheses by retrieving data from the main social security carriers in Austria
-  for the years 2010-2020 in under 50 year old patients. (NCT NCT05627973; status COMPLETED).
-hypothesis: 'The overall project aim is to study outcomes following aortic valve replacement with either
-  mechanical valves or bioprostheses by retrieving data from the main social security carriers in Austria
-  for '
+name: 'NCT05627973 — Health Status of < 50 Year Old Patients After Surgically Implanted
+  Biological and Mechanical Aortic Valves: a Population-based Retrospective Analysis
+  (2010-2020)'
+description: The overall project aim is to study outcomes following aortic valve replacement
+  with either mechanical valves or bioprostheses by retrieving data from the main
+  social security carriers in Austria for the years 2010-2020 in under 50 year old
+  patients. (NCT NCT05627973; status COMPLETED).
+hypothesis: 'The overall project aim is to study outcomes following aortic valve replacement
+  with either mechanical valves or bioprostheses by retrieving data from the main
+  social security carriers in Austria for '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05627973 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05627973 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05627973-health-status-of-50-year-old-patient
+assigned_id: dea:experiment-nct05627973-health-status-of-50-year-old-patient-a872n8
+admitted: '2026-11-15'

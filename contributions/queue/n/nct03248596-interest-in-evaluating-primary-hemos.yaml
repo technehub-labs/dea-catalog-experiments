@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03248596
-name: NCT03248596 — Interest in Evaluating Primary Hemostasis in Patients With Veno-venous Extracorporeal
-  Membrane Oxygenation (ECMO)
-description: The aim of the study is a better understanding of hemorrhagic events causes in patients with
-  ECMO, prevent them and decrease the number of transfusion. (NCT NCT03248596; status TERMINATED).
-hypothesis: The aim of the study is a better understanding of hemorrhagic events causes in patients with
-  ECMO, prevent them and decrease the number of transfusion.
+name: NCT03248596 — Interest in Evaluating Primary Hemostasis in Patients With Veno-venous
+  Extracorporeal Membrane Oxygenation (ECMO)
+description: The aim of the study is a better understanding of hemorrhagic events
+  causes in patients with ECMO, prevent them and decrease the number of transfusion.
+  (NCT NCT03248596; status TERMINATED).
+hypothesis: The aim of the study is a better understanding of hemorrhagic events causes
+  in patients with ECMO, prevent them and decrease the number of transfusion.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03248596 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03248596 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct03248596-interest-in-evaluating-primary-hemos
+assigned_id: dea:experiment-nct03248596-interest-in-evaluating-primary-hemos-shgvyf
+admitted: '2026-11-15'

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02793986
-name: NCT02793986 — Dexmedetomidine vs Propofol Sedation Reduces Postoperative Delirium in Patients Receiving
-  Hip Arthroplasty.
-description: With blocks of lumbar and lumbar plexus, we can reduce the intravenous anesthetics usage.
-  To offer an satisfied surgery process for patients, a proper sedation is necessary. So in this study,
-  we want to investigate the influence of two different sedative drugs on outcomes of patients received
-  hip replacement surgery . (NCT NCT02793986; status COMPLETED).
-hypothesis: 'With blocks of lumbar and lumbar plexus, we can reduce the intravenous anesthetics usage.
-  To offer an satisfied surgery process for patients, a proper sedation is necessary. So in this study,
-  we want '
+name: NCT02793986 — Dexmedetomidine vs Propofol Sedation Reduces Postoperative Delirium
+  in Patients Receiving Hip Arthroplasty.
+description: With blocks of lumbar and lumbar plexus, we can reduce the intravenous
+  anesthetics usage. To offer an satisfied surgery process for patients, a proper
+  sedation is necessary. So in this study, we want to investigate the influence of
+  two different sedative drugs on outcomes of patients received hip replacement surgery
+  . (NCT NCT02793986; status COMPLETED).
+hypothesis: 'With blocks of lumbar and lumbar plexus, we can reduce the intravenous
+  anesthetics usage. To offer an satisfied surgery process for patients, a proper
+  sedation is necessary. So in this study, we want '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02793986 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02793986 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02793986-dexmedetomidine-vs-propofol-sedation
+assigned_id: dea:experiment-nct02793986-dexmedetomidine-vs-propofol-sedation-xttj8x
+admitted: '2026-11-15'

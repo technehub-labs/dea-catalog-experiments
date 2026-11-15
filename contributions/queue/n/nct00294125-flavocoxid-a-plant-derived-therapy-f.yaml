@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00294125
-name: NCT00294125 — Flavocoxid, A Plant-Derived Therapy, for the Treatment of Knee Osteoarthritis
-description: 'Nonsteroidal anti-inflammatory drugs (NSAIDs) are commonly prescribed to treat arthritis.
-  The purpose of this study is to test the effectiveness of flavocoxid, a plant-derived compound, for
-  the treatment of knee osteoarthritis (OA) in adults. Study hypotheses: 1) Flavocoxid has an acceptable
-  safety and tolerability profile as determined by the Generally Regarded as Safe (GRAS) profile in patients
-  with OA compared to identical placebo. 2) Flavocoxid will be more effective as a therapy for OA compared
-  to identical placebo. (NCT NCT00294125; status COMPLETED).'
-hypothesis: Nonsteroidal anti-inflammatory drugs (NSAIDs) are commonly prescribed to treat arthritis.
-  The purpose of this study is to test the effectiveness of flavocoxid, a plant-derived compound, for
-  the treatm
+name: NCT00294125 — Flavocoxid, A Plant-Derived Therapy, for the Treatment of Knee
+  Osteoarthritis
+description: 'Nonsteroidal anti-inflammatory drugs (NSAIDs) are commonly prescribed
+  to treat arthritis. The purpose of this study is to test the effectiveness of flavocoxid,
+  a plant-derived compound, for the treatment of knee osteoarthritis (OA) in adults.
+  Study hypotheses: 1) Flavocoxid has an acceptable safety and tolerability profile
+  as determined by the Generally Regarded as Safe (GRAS) profile in patients with
+  OA compared to identical placebo. 2) Flavocoxid will be more effective as a therapy
+  for OA compared to identical placebo. (NCT NCT00294125; status COMPLETED).'
+hypothesis: Nonsteroidal anti-inflammatory drugs (NSAIDs) are commonly prescribed
+  to treat arthritis. The purpose of this study is to test the effectiveness of flavocoxid,
+  a plant-derived compound, for the treatm
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00294125 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00294125 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00294125-flavocoxid-a-plant-derived-therapy-f
+assigned_id: dea:experiment-nct00294125-flavocoxid-a-plant-derived-therapy-f-rxpqck
+admitted: '2026-11-15'

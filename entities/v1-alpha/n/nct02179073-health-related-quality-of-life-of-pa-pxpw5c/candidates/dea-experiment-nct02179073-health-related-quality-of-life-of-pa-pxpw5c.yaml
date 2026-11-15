@@ -1,0 +1,42 @@
+id: dea:experiment-nct02179073-health-related-quality-of-life-of-pa-pxpw5c
+type: Experiment
+name: NCT02179073 — Health-related Quality of Life of Patients With Neurogenic Bladder
+description: Bladder management has a major impact on the quality of life in patients
+  with neurogenic bladder dysfunction. This a prospective investigation of the effects
+  of the method for bladder evacuation on the health-related quality of life in patients
+  with neurogenic bladder dysfunction. The changes in health-related quality of life
+  over time (longitudinal investigation) and the differences between the different
+  methods for bladder evacuation will be investigated. Patients will be given a standardized
+  and validated questionnaire annually for 10 years. (NCT NCT02179073; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Bladder management has a major impact on the quality of life in patients
+  with neurogenic bladder dysfunction. This a prospective investigation of the effects
+  of the method for bladder evacuation on th
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02179073 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

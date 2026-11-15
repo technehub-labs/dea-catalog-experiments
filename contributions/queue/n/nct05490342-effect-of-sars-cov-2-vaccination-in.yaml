@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05490342
 name: NCT05490342 — Effect of SARS-CoV-2 Vaccination in Liver Transplant Recipients
-description: To investigate the variations in the humoral response to vaccines for the prevention of COVID-19
-  in liver transplant patients based on the type of immunosuppressive therapy adopted (tacrolimus based
-  vs no-tacrolimus based) and immunosuppressive blood levels. (NCT NCT05490342; status COMPLETED).
-hypothesis: To investigate the variations in the humoral response to vaccines for the prevention of COVID-19
-  in liver transplant patients based on the type of immunosuppressive therapy adopted (tacrolimus based
-  v
+description: To investigate the variations in the humoral response to vaccines for
+  the prevention of COVID-19 in liver transplant patients based on the type of immunosuppressive
+  therapy adopted (tacrolimus based vs no-tacrolimus based) and immunosuppressive
+  blood levels. (NCT NCT05490342; status COMPLETED).
+hypothesis: To investigate the variations in the humoral response to vaccines for
+  the prevention of COVID-19 in liver transplant patients based on the type of immunosuppressive
+  therapy adopted (tacrolimus based v
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05490342 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05490342 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05490342-effect-of-sars-cov-2-vaccination-in
+assigned_id: dea:experiment-nct05490342-effect-of-sars-cov-2-vaccination-in-w3w63b
+admitted: '2026-11-15'

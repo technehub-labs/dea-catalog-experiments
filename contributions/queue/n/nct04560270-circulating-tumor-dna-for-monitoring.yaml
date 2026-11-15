@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04560270
-name: NCT04560270 — CIrculating Tumor DNA for Monitoring Response to First Line Chemotherapy in Unresectable
-  PANcreatic Cancer
-description: With an incidence of more than 11,600 new cases per year in France and an annual number of
-  deaths close to the incidence rate, adenocarcinoma of the pancreas is a public health problem. The aim
-  of this study is to assess the predictive value of response to the 1st line of chemotherapy of mutated
-  KRAS ctDNA (circulating tumor DNA) in unresectable metastatic or locally advanced pancreatic adenocarcinomas.
+name: NCT04560270 — CIrculating Tumor DNA for Monitoring Response to First Line Chemotherapy
+  in Unresectable PANcreatic Cancer
+description: With an incidence of more than 11,600 new cases per year in France and
+  an annual number of deaths close to the incidence rate, adenocarcinoma of the pancreas
+  is a public health problem. The aim of this study is to assess the predictive value
+  of response to the 1st line of chemotherapy of mutated KRAS ctDNA (circulating tumor
+  DNA) in unresectable metastatic or locally advanced pancreatic adenocarcinomas.
   (NCT NCT04560270; status COMPLETED).
-hypothesis: With an incidence of more than 11,600 new cases per year in France and an annual number of
-  deaths close to the incidence rate, adenocarcinoma of the pancreas is a public health problem. The aim
-  of thi
+hypothesis: With an incidence of more than 11,600 new cases per year in France and
+  an annual number of deaths close to the incidence rate, adenocarcinoma of the pancreas
+  is a public health problem. The aim of thi
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04560270 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04560270 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04560270-circulating-tumor-dna-for-monitoring
+assigned_id: dea:experiment-nct04560270-circulating-tumor-dna-for-monitoring-rvwnew
+admitted: '2026-11-15'

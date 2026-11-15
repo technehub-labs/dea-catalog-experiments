@@ -1,0 +1,47 @@
+id: dea:experiment-nct04106102-study-of-the-effectiveness-of-transc-wea76u
+type: Experiment
+name: NCT04106102 — Study of the Effectiveness of Transcranial Direct Current Stimulation
+  on Obsessive Compulsive Disorder
+description: The usual management of Obsessive Compulsive Disorders is based on cognitive-behavioural
+  psychotherapy, as well as the use of serotonergic antidepressants. Nevertheless,
+  a significant proportion of patients (40% to 60%) are non-responders to these conventional
+  therapies, and remain severely handicapped. transcranial Direct current stimulation
+  (tDCS) has already proven its effectiveness, in addition to drug approaches, in
+  various clinical settings, such as depression or acoustic-verbal hallucinations.
+  This technic appears to be an extremely interesting alternative This is a non-invasive
+  neuromodulation technique (application of a low intensity direct current (1 to 2
+  mA) between two electrodes positioned on the scalp) that allows the neural activity
+  of different brain areas to be modulated simultaneously. It is a simple and inexpensive
+  technique with excellent tolerance. (NCT NCT04106102; status ACTIVE_NOT_RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The usual management of Obsessive Compulsive Disorders is based on cognitive-behavioural
+  psychotherapy, as well as the use of serotonergic antidepressants. Nevertheless,
+  a significant proportion of pa
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04106102 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- active-not-recruitin

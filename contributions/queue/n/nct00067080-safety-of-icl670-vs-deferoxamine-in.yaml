@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00067080
-name: NCT00067080 — Safety of ICL670 vs. Deferoxamine in Sickle Cell Disease Patients With Iron Overload
-  Due to Blood Transfusions
-description: The purpose of this study is to determine if the new orally active iron chelator, ICL670,
-  is as safe as deferoxamine in preventing accumulation of iron in the body while a patient is undergoing
-  repeated blood transfusions. (NCT NCT00067080; status COMPLETED).
-hypothesis: The purpose of this study is to determine if the new orally active iron chelator, ICL670,
-  is as safe as deferoxamine in preventing accumulation of iron in the body while a patient is undergoing
-  repeat
+name: NCT00067080 — Safety of ICL670 vs. Deferoxamine in Sickle Cell Disease Patients
+  With Iron Overload Due to Blood Transfusions
+description: The purpose of this study is to determine if the new orally active iron
+  chelator, ICL670, is as safe as deferoxamine in preventing accumulation of iron
+  in the body while a patient is undergoing repeated blood transfusions. (NCT NCT00067080;
+  status COMPLETED).
+hypothesis: The purpose of this study is to determine if the new orally active iron
+  chelator, ICL670, is as safe as deferoxamine in preventing accumulation of iron
+  in the body while a patient is undergoing repeat
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00067080 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00067080 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00067080-safety-of-icl670-vs-deferoxamine-in
+assigned_id: dea:experiment-nct00067080-safety-of-icl670-vs-deferoxamine-in-zzthd2
+admitted: '2026-11-15'

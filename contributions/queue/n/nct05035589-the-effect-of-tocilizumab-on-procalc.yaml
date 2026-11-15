@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05035589
-name: NCT05035589 — The Effect of Tocilizumab on Procalcitonin and Other Biochemical and Clinical Markers
-  in the Setting of COVID-19 Pneumonia
-description: This study aims to establish whether tocilizumab has any significant effect on procalcitonin
-  levels on patients diagnosed with COVID-19 pneumonia requiring intensive care admission. The effects
-  on other biochemical and clinical markers are also considered. (NCT NCT05035589; status COMPLETED).
-hypothesis: This study aims to establish whether tocilizumab has any significant effect on procalcitonin
-  levels on patients diagnosed with COVID-19 pneumonia requiring intensive care admission. The effects
-  on oth
+name: NCT05035589 — The Effect of Tocilizumab on Procalcitonin and Other Biochemical
+  and Clinical Markers in the Setting of COVID-19 Pneumonia
+description: This study aims to establish whether tocilizumab has any significant
+  effect on procalcitonin levels on patients diagnosed with COVID-19 pneumonia requiring
+  intensive care admission. The effects on other biochemical and clinical markers
+  are also considered. (NCT NCT05035589; status COMPLETED).
+hypothesis: This study aims to establish whether tocilizumab has any significant effect
+  on procalcitonin levels on patients diagnosed with COVID-19 pneumonia requiring
+  intensive care admission. The effects on oth
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05035589 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05035589 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05035589-the-effect-of-tocilizumab-on-procalc
+assigned_id: dea:experiment-nct05035589-the-effect-of-tocilizumab-on-procalc-qkjqqv
+admitted: '2026-11-15'

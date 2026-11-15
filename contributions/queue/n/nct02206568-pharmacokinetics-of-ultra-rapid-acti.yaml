@@ -1,21 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02206568
-name: NCT02206568 — Pharmacokinetics of Ultra-Rapid-Acting Insulin Lispro (URAL) in Type 1 Diabetes Mellitus
-description: To compare the early pharmacokinetic exposure of URAL and insulin lispro (ILisp). (NCT NCT02206568;
-  status WITHDRAWN).
-hypothesis: To compare the early pharmacokinetic exposure of URAL and insulin lispro (ILisp).
+name: NCT02206568 — Pharmacokinetics of Ultra-Rapid-Acting Insulin Lispro (URAL) in
+  Type 1 Diabetes Mellitus
+description: To compare the early pharmacokinetic exposure of URAL and insulin lispro
+  (ILisp). (NCT NCT02206568; status WITHDRAWN).
+hypothesis: To compare the early pharmacokinetic exposure of URAL and insulin lispro
+  (ILisp).
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02206568 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02206568 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct02206568-pharmacokinetics-of-ultra-rapid-acti
+assigned_id: dea:experiment-nct02206568-pharmacokinetics-of-ultra-rapid-acti-jfy69n
+admitted: '2026-11-15'

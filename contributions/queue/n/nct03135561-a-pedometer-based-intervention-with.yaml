@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03135561
-name: NCT03135561 — A Pedometer-based Intervention With and Without Email Counselling in General Practice
-description: A two-arm parallel randomised controlled trial comparing pedometer-based intervention with
-  and without email counselling in a primary care setting. Physically inactive patients from four general
-  practices will be randomised to the pedometer-plus-email group or to the pedometer-alone group. All
-  patients will be instructed to gradually increase the daily number of steps to at least 10,000. Patients
-  in the pedometer-plus-email group will receive 8 counselling emails based on behavioural techniques.
-  The primary outcome will be change in average daily steps measured during 7-day period at baseline and
-  at 12 weeks. (NCT NCT03135561; status COMPLETED).
-hypothesis: A two-arm parallel randomised controlled trial comparing pedometer-based intervention with
-  and without email counselling in a primary care setting. Physically inactive patients from four general
-  pract
+name: NCT03135561 — A Pedometer-based Intervention With and Without Email Counselling
+  in General Practice
+description: A two-arm parallel randomised controlled trial comparing pedometer-based
+  intervention with and without email counselling in a primary care setting. Physically
+  inactive patients from four general practices will be randomised to the pedometer-plus-email
+  group or to the pedometer-alone group. All patients will be instructed to gradually
+  increase the daily number of steps to at least 10,000. Patients in the pedometer-plus-email
+  group will receive 8 counselling emails based on behavioural techniques. The primary
+  outcome will be change in average daily steps measured during 7-day period at baseline
+  and at 12 weeks. (NCT NCT03135561; status COMPLETED).
+hypothesis: A two-arm parallel randomised controlled trial comparing pedometer-based
+  intervention with and without email counselling in a primary care setting. Physically
+  inactive patients from four general pract
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03135561 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03135561 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03135561-a-pedometer-based-intervention-with
+assigned_id: dea:experiment-nct03135561-a-pedometer-based-intervention-with-jmwxv9
+admitted: '2026-11-15'

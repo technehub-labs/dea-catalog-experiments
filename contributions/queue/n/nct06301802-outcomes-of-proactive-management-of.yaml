@@ -1,34 +1,40 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06301802
 name: NCT06301802 — Outcomes of Proactive Management of Children With Myelomeningocele
-description: Spina bifida birth prevalence in Africa is 0.13%. Myelomeningocele (MMC) represents the most
-  frequent and most severe cause of NB in children. Treatment of neuropathic bladder secondary to spina
-  bifida is an ongoing challenge. Damage of the renal parenchyma in children with NB is preventable given
-  adequate evaluation, follow-up and proactive management. Proactive management was defined as use of
-  clean intermittent catheterization (CIC), and/or anticholinergics at presentation, or based on initial
-  high-risk urodynamic findings by 1 year of age. The proactive approach to treat SB (CIC and pharmacotherapy)
-  has contributed to decreasing chronic kidney disease (CKD). Myelomeningocele is considered a complex
-  congenital disease. Hence, a multidisciplinary team is the best choice for management of spina bifida,
-  involving neurosurgeons, orthopedic surgeons, urologists, physical medicine and rehabilitation specialists
-  and pediatricians. Currently, children with spina bifida in Egypt must visit multiple different locations
-  to access the complex care they need. Here, we review our experience with patients with spina bifida
-  who will be followed with this team with an emphasis on patients' upper urinary tract protection and
-  decreasing urinary incontinence. (NCT NCT06301802; status UNKNOWN).
-hypothesis: Spina bifida birth prevalence in Africa is 0.13%. Myelomeningocele (MMC) represents the most
-  frequent and most severe cause of NB in children. Treatment of neuropathic bladder secondary to spina
-  bifid
+description: Spina bifida birth prevalence in Africa is 0.13%. Myelomeningocele (MMC)
+  represents the most frequent and most severe cause of NB in children. Treatment
+  of neuropathic bladder secondary to spina bifida is an ongoing challenge. Damage
+  of the renal parenchyma in children with NB is preventable given adequate evaluation,
+  follow-up and proactive management. Proactive management was defined as use of clean
+  intermittent catheterization (CIC), and/or anticholinergics at presentation, or
+  based on initial high-risk urodynamic findings by 1 year of age. The proactive approach
+  to treat SB (CIC and pharmacotherapy) has contributed to decreasing chronic kidney
+  disease (CKD). Myelomeningocele is considered a complex congenital disease. Hence,
+  a multidisciplinary team is the best choice for management of spina bifida, involving
+  neurosurgeons, orthopedic surgeons, urologists, physical medicine and rehabilitation
+  specialists and pediatricians. Currently, children with spina bifida in Egypt must
+  visit multiple different locations to access the complex care they need. Here, we
+  review our experience with patients with spina bifida who will be followed with
+  this team with an emphasis on patients' upper urinary tract protection and decreasing
+  urinary incontinence. (NCT NCT06301802; status UNKNOWN).
+hypothesis: Spina bifida birth prevalence in Africa is 0.13%. Myelomeningocele (MMC)
+  represents the most frequent and most severe cause of NB in children. Treatment
+  of neuropathic bladder secondary to spina bifid
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06301802 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06301802 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct06301802-outcomes-of-proactive-management-of
+assigned_id: dea:experiment-nct06301802-outcomes-of-proactive-management-of-me849t
+admitted: '2026-11-15'

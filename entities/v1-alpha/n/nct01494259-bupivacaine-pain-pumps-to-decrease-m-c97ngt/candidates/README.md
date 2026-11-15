@@ -1,0 +1,31 @@
+# NCT01494259 — Bupivacaine Pain Pumps to Decrease Mastectomy Post-Operative Pain
+
+> This double-blind, randomized, controlled clinical trial comparing patient-reported pain and pain medication/narcotic use between patients randomized to treatment (bupivacaine) or placebo (saline) delivered via pain pump to the mastectomy site. Candidates will have chosen to have a mastectomy on one side immediately followed with tissue expander placement breast reconstruction. Patients will be randomized 1:1 to bupivacaine- (treatment) or saline-(placebo) filled percutaneously-placed pain pumps; neither the participants nor the study staff will know participants' treatment. Data on patient-perceived pain and pain medication use will be collected before surgery, during surgery, and after surgery on Days 1, 2, 3, 7, and 90, and at Years 2 and 4 by phone. The investigators hypothesize that patients randomized to the treatment (bupivacaine) group will have significantly lower pain scores and use less pain medicine than patients who receive placebo during the first 90 days following their surgery. The Year 2 and Year 4 follow-ups are included as tertiary endpoints to capture differences in chronic pain, and patients will be asked to complete the same questionnaires as at the Day 90 follow up. (NCT NCT01494259; status WITHDRAWN).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct01494259-bupivacaine-pain-pumps-to-decrease-m-c97ngt`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT01494259 (ClinicalTrials.gov; status WITHDRAWN)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

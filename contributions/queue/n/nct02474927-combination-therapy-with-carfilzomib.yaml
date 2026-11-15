@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02474927
-name: NCT02474927 — Combination Therapy With Carfilzomib for the Antibody-Mediated Rejection Diagnosis
-  in Lung Transplantation
-description: The clinical trial is a Phase II open label, single-arm pilot study to evaluate the safety
-  and efficacy of combination therapy with carfilzomib, plasma exchange and intravenous immunoglobulins
-  for AMR after lung transplantation and elucidate important clinical and immunologic phenotypes and mechanisms
-  associated with these outcomes. (NCT NCT02474927; status COMPLETED).
-hypothesis: The clinical trial is a Phase II open label, single-arm pilot study to evaluate the safety
-  and efficacy of combination therapy with carfilzomib, plasma exchange and intravenous immunoglobulins
-  for AMR
+name: NCT02474927 — Combination Therapy With Carfilzomib for the Antibody-Mediated
+  Rejection Diagnosis in Lung Transplantation
+description: The clinical trial is a Phase II open label, single-arm pilot study to
+  evaluate the safety and efficacy of combination therapy with carfilzomib, plasma
+  exchange and intravenous immunoglobulins for AMR after lung transplantation and
+  elucidate important clinical and immunologic phenotypes and mechanisms associated
+  with these outcomes. (NCT NCT02474927; status COMPLETED).
+hypothesis: The clinical trial is a Phase II open label, single-arm pilot study to
+  evaluate the safety and efficacy of combination therapy with carfilzomib, plasma
+  exchange and intravenous immunoglobulins for AMR
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02474927 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02474927 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02474927-combination-therapy-with-carfilzomib
+assigned_id: dea:experiment-nct02474927-combination-therapy-with-carfilzomib-75a32u
+admitted: '2026-11-15'

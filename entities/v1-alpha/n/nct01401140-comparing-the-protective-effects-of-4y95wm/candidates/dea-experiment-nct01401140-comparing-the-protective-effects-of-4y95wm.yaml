@@ -1,0 +1,51 @@
+id: dea:experiment-nct01401140-comparing-the-protective-effects-of-4y95wm
+type: Experiment
+name: NCT01401140 — Comparing the Protective Effects of Two Cardioplegic Solutions,
+  on Cardiac Metabolism, as Assessed Using Microdialysis
+description: An estimated 8% to 15% of patients hospitalized for a coronary pathology
+  undergo coronary revascularization surgery with extracorporeal circulation (ECC).
+  (1) Like most major cardiac surgical interventions, it is performed with the heart
+  stopped; this leads to more or less severe myocardial ischemia. The heart is stopped
+  (and therefore deprived of oxygen) for a duration that varies depending on the number
+  of bypasses required, and on the local difficulties encountered. On average, myocardial
+  ischemia lasts between 20 and 80 minutes. Heart protection during coronary revascularization
+  surgery remains a crucial factor in limiting the heart's aerobic function during
+  aortic clamping, and in minimizing the resulting post-operatory ventricular dysfunction.
+  Its quality is a determining factor of the post-operatory issue. High-performance
+  heart protection solutions such as Custodiol have been used by heart surgeons for
+  a few years. They are used as an alternative choice to other cardioplegic solutions,
+  the efficacy of which has already been proven (St Thomas). These two myocardial
+  protection solutions have never been evaluated in an in vivo, randomized, comparative
+  trial. (NCT NCT01401140; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: An estimated 8% to 15% of patients hospitalized for a coronary pathology
+  undergo coronary revascularization surgery with extracorporeal circulation (ECC).
+  (1) Like most major cardiac surgical interven
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01401140 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

@@ -1,34 +1,41 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03007979
-name: NCT03007979 — Alternative Dosing Schedule of Palbociclib in Metastatic Hormone Receptor Positive
-  Breast Cancer
-description: The investigators propose to conduct a study to test an alternative dosing schedule of palbociclib.
-  With the current three-week on and one week off schedule, a significant number of patients develop grade
-  3 or higher degree of neutropenia and require dose reduction and sometimes discontinuation. This potentially
-  compromises the efficacy of the drug. In addition, as the half-life of palbociclib is 27 hours, 1 week
-  break with the standard 3 weeks on and 1 week off dosing schedule could potentially lead to recovery
-  of Rb phosphorylation during the off week. Hence, the investigators propose a 5 days on and 2 days off
-  schedule each week without any weeks off drug. Although the cumulative doses each 28-day cycle is roughly
-  the same with this schedule compared to conventional dosing, the bone marrow is not exposed to the drug
-  continuously for 21 days and rather gets frequent breaks from therapy. The investigators hypothesize
-  that the 5 days on and 2 days off schedule is more tolerable with less frequent high grade neutropenia
-  and dose interruption/reduction. In addition, this schedule also provides for a more continuous drug
-  delivery to the patient since there is not a week's break in therapy, which could ultimately prove to
-  be more efficacious. (NCT NCT03007979; status COMPLETED).
-hypothesis: The investigators propose to conduct a study to test an alternative dosing schedule of palbociclib.
-  With the current three-week on and one week off schedule, a significant number of patients develop g
+name: NCT03007979 — Alternative Dosing Schedule of Palbociclib in Metastatic Hormone
+  Receptor Positive Breast Cancer
+description: The investigators propose to conduct a study to test an alternative dosing
+  schedule of palbociclib. With the current three-week on and one week off schedule,
+  a significant number of patients develop grade 3 or higher degree of neutropenia
+  and require dose reduction and sometimes discontinuation. This potentially compromises
+  the efficacy of the drug. In addition, as the half-life of palbociclib is 27 hours,
+  1 week break with the standard 3 weeks on and 1 week off dosing schedule could potentially
+  lead to recovery of Rb phosphorylation during the off week. Hence, the investigators
+  propose a 5 days on and 2 days off schedule each week without any weeks off drug.
+  Although the cumulative doses each 28-day cycle is roughly the same with this schedule
+  compared to conventional dosing, the bone marrow is not exposed to the drug continuously
+  for 21 days and rather gets frequent breaks from therapy. The investigators hypothesize
+  that the 5 days on and 2 days off schedule is more tolerable with less frequent
+  high grade neutropenia and dose interruption/reduction. In addition, this schedule
+  also provides for a more continuous drug delivery to the patient since there is
+  not a week's break in therapy, which could ultimately prove to be more efficacious.
+  (NCT NCT03007979; status COMPLETED).
+hypothesis: The investigators propose to conduct a study to test an alternative dosing
+  schedule of palbociclib. With the current three-week on and one week off schedule,
+  a significant number of patients develop g
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03007979 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03007979 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03007979-alternative-dosing-schedule-of-palbo
+assigned_id: dea:experiment-nct03007979-alternative-dosing-schedule-of-palbo-qk5wyf
+admitted: '2026-11-15'

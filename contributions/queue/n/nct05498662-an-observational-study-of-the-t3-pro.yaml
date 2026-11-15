@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05498662
 name: NCT05498662 — An Observational Study of the T3 Pro Dental Implant System
-description: A prospective, observational, multicenter study where 60 patients needing implants in the
-  maxilla or mandible will be enrolled. The patients will be restored with a final prosthesis no later
-  than 4 months following implant placement surgery. The patients will come back for follow-up evaluations
-  yearly for 2 years. (NCT NCT05498662; status ACTIVE_NOT_RECRUITING).
-hypothesis: A prospective, observational, multicenter study where 60 patients needing implants in the
-  maxilla or mandible will be enrolled. The patients will be restored with a final prosthesis no later
-  than 4 mo
+description: A prospective, observational, multicenter study where 60 patients needing
+  implants in the maxilla or mandible will be enrolled. The patients will be restored
+  with a final prosthesis no later than 4 months following implant placement surgery.
+  The patients will come back for follow-up evaluations yearly for 2 years. (NCT NCT05498662;
+  status ACTIVE_NOT_RECRUITING).
+hypothesis: A prospective, observational, multicenter study where 60 patients needing
+  implants in the maxilla or mandible will be enrolled. The patients will be restored
+  with a final prosthesis no later than 4 mo
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05498662 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05498662 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct05498662-an-observational-study-of-the-t3-pro
+assigned_id: dea:experiment-nct05498662-an-observational-study-of-the-t3-pro-jk2h2y
+admitted: '2026-11-15'

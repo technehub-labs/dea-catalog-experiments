@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04044729
 name: NCT04044729 — Mechanisms of CBD for Chronic Pain
-description: This is a study designed to examine the neurochemical mechanisms associated with Cannabidiol
-  (CBD) versus placebo for chronic non-cancer pain. (NCT NCT04044729; status COMPLETED).
-hypothesis: This is a study designed to examine the neurochemical mechanisms associated with Cannabidiol
-  (CBD) versus placebo for chronic non-cancer pain.
+description: This is a study designed to examine the neurochemical mechanisms associated
+  with Cannabidiol (CBD) versus placebo for chronic non-cancer pain. (NCT NCT04044729;
+  status COMPLETED).
+hypothesis: This is a study designed to examine the neurochemical mechanisms associated
+  with Cannabidiol (CBD) versus placebo for chronic non-cancer pain.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04044729 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04044729 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04044729-mechanisms-of-cbd-for-chronic-pain
+assigned_id: dea:experiment-nct04044729-mechanisms-of-cbd-for-chronic-pain-xxy6j3
+admitted: '2026-11-15'

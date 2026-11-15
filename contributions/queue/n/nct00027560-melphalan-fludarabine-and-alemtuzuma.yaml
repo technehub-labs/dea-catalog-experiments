@@ -1,30 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00027560
-name: NCT00027560 — Melphalan, Fludarabine, and Alemtuzumab Followed by Peripheral Stem Cell Transplant
-  in Treating Patients With Hematologic Cancer
-description: 'RATIONALE: Giving low doses of chemotherapy, such as melphalan and fludarabine, and a monoclonal
-  antibody, such as alemtuzumab, before a donor bone marrow or peripheral blood stem cell transplant helps
-  stop the growth of cancer cells. It also stops the patient''s immune system from rejecting the donor''s
-  stem cells. The donated stem cells may replace the patient''s immune system and help destroy any remaining
-  cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from a donor can also make
-  an immune response against the body''s normal cells. Giving cyclosporine after the transplant may stop
-  this from happening. PURPOSE: This phase II trial is studying how well fludarabine, melphalan, alemtuzumab,
-  and peripheral stem cell transplant work in treating patients with hematologic cancer. (NCT NCT00027560;
+name: NCT00027560 — Melphalan, Fludarabine, and Alemtuzumab Followed by Peripheral
+  Stem Cell Transplant in Treating Patients With Hematologic Cancer
+description: 'RATIONALE: Giving low doses of chemotherapy, such as melphalan and fludarabine,
+  and a monoclonal antibody, such as alemtuzumab, before a donor bone marrow or peripheral
+  blood stem cell transplant helps stop the growth of cancer cells. It also stops
+  the patient''s immune system from rejecting the donor''s stem cells. The donated
+  stem cells may replace the patient''s immune system and help destroy any remaining
+  cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from
+  a donor can also make an immune response against the body''s normal cells. Giving
+  cyclosporine after the transplant may stop this from happening. PURPOSE: This phase
+  II trial is studying how well fludarabine, melphalan, alemtuzumab, and peripheral
+  stem cell transplant work in treating patients with hematologic cancer. (NCT NCT00027560;
   status COMPLETED).'
-hypothesis: 'RATIONALE: Giving low doses of chemotherapy, such as melphalan and fludarabine, and a monoclonal
-  antibody, such as alemtuzumab, before a donor bone marrow or peripheral blood stem cell transplant help'
+hypothesis: 'RATIONALE: Giving low doses of chemotherapy, such as melphalan and fludarabine,
+  and a monoclonal antibody, such as alemtuzumab, before a donor bone marrow or peripheral
+  blood stem cell transplant help'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00027560 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00027560 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00027560-melphalan-fludarabine-and-alemtuzuma
+assigned_id: dea:experiment-nct00027560-melphalan-fludarabine-and-alemtuzuma-kjdwte
+admitted: '2026-11-15'

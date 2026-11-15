@@ -1,29 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05826041
-name: 'NCT05826041 — Project INSPIRE: INtervention Support Groups: Peers Inspiring Resilience and Empowerment'
-description: The investigators will develop a new, integrated, group intervention to enhance safety, support,
-  and empowerment for survivors of intimate partner violence in the community. The intervention will consist
-  of 9 weekly, 90-minute group sessions that will teach specific skills for identifying various forms
-  of trauma and abuse, developing mutually supportive relationships, safety planning and self-care, goal-oriented
-  communication, empowerment and self-efficacy, goal setting, coping, and connecting to resources. The
-  investigators will pilot test the intervention, including evaluating the process of implementation,
-  including feasibility, acceptability/likeability, and safety, as well as evaluating outcomes of safety,
-  support, and empowerment. Outcomes from the intervention will be compared to outcomes from a traditional
-  domestic violence support group. (NCT NCT05826041; status TERMINATED).
-hypothesis: The investigators will develop a new, integrated, group intervention to enhance safety, support,
-  and empowerment for survivors of intimate partner violence in the community. The intervention will cons
+name: 'NCT05826041 — Project INSPIRE: INtervention Support Groups: Peers Inspiring
+  Resilience and Empowerment'
+description: The investigators will develop a new, integrated, group intervention
+  to enhance safety, support, and empowerment for survivors of intimate partner violence
+  in the community. The intervention will consist of 9 weekly, 90-minute group sessions
+  that will teach specific skills for identifying various forms of trauma and abuse,
+  developing mutually supportive relationships, safety planning and self-care, goal-oriented
+  communication, empowerment and self-efficacy, goal setting, coping, and connecting
+  to resources. The investigators will pilot test the intervention, including evaluating
+  the process of implementation, including feasibility, acceptability/likeability,
+  and safety, as well as evaluating outcomes of safety, support, and empowerment.
+  Outcomes from the intervention will be compared to outcomes from a traditional domestic
+  violence support group. (NCT NCT05826041; status TERMINATED).
+hypothesis: The investigators will develop a new, integrated, group intervention to
+  enhance safety, support, and empowerment for survivors of intimate partner violence
+  in the community. The intervention will cons
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05826041 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05826041 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct05826041-project-inspire-intervention-support
+assigned_id: dea:experiment-nct05826041-project-inspire-intervention-support-zmc6aq
+admitted: '2026-11-15'

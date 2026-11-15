@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01606631
-name: NCT01606631 — Role of Beta-blockers in the Prevention on the Arisen of a Severe Sepsis (TESS)
-description: The severe sepsis (SS) and toxic shock (TS) are both frequent and severe complications of
-  infectious diseases. They are one of the top ten causes of death in industrialized countries. But an
-  eventual protective role of beta-blockers (anti-hypertensive drug) in their occurrence on a community
-  infection has never been studied. The objective of this study is to evaluate this role. (NCT NCT01606631;
-  status COMPLETED).
-hypothesis: 'The severe sepsis (SS) and toxic shock (TS) are both frequent and severe complications of
-  infectious diseases. They are one of the top ten causes of death in industrialized countries. But an
-  eventual '
+name: NCT01606631 — Role of Beta-blockers in the Prevention on the Arisen of a Severe
+  Sepsis (TESS)
+description: The severe sepsis (SS) and toxic shock (TS) are both frequent and severe
+  complications of infectious diseases. They are one of the top ten causes of death
+  in industrialized countries. But an eventual protective role of beta-blockers (anti-hypertensive
+  drug) in their occurrence on a community infection has never been studied. The objective
+  of this study is to evaluate this role. (NCT NCT01606631; status COMPLETED).
+hypothesis: 'The severe sepsis (SS) and toxic shock (TS) are both frequent and severe
+  complications of infectious diseases. They are one of the top ten causes of death
+  in industrialized countries. But an eventual '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01606631 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01606631 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01606631-role-of-beta-blockers-in-the-prevent
+assigned_id: dea:experiment-nct01606631-role-of-beta-blockers-in-the-prevent-3krnt7
+admitted: '2026-11-15'

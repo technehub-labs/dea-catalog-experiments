@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01139294
-name: NCT01139294 — Descriptive Study of Cardiac Output During Rehydration With Recombinant Human Hyaluronidase
-  in Pediatrics
-description: The purpose of this study is to non-invasively study the reflective changes in cardiac output
-  as response to fluid therapy in the pediatric moderate hypovolemia/dehydrated pediatric patients using
-  sub-q rehydration using Hylenex augmented subcutaneous infusion of fluids and electrolytes compared
-  to intravenous methods. (NCT NCT01139294; status COMPLETED).
-hypothesis: The purpose of this study is to non-invasively study the reflective changes in cardiac output
-  as response to fluid therapy in the pediatric moderate hypovolemia/dehydrated pediatric patients using
-  sub
+name: NCT01139294 — Descriptive Study of Cardiac Output During Rehydration With Recombinant
+  Human Hyaluronidase in Pediatrics
+description: The purpose of this study is to non-invasively study the reflective changes
+  in cardiac output as response to fluid therapy in the pediatric moderate hypovolemia/dehydrated
+  pediatric patients using sub-q rehydration using Hylenex augmented subcutaneous
+  infusion of fluids and electrolytes compared to intravenous methods. (NCT NCT01139294;
+  status COMPLETED).
+hypothesis: The purpose of this study is to non-invasively study the reflective changes
+  in cardiac output as response to fluid therapy in the pediatric moderate hypovolemia/dehydrated
+  pediatric patients using sub
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01139294 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01139294 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01139294-descriptive-study-of-cardiac-output
+assigned_id: dea:experiment-nct01139294-descriptive-study-of-cardiac-output-2t72yc
+admitted: '2026-11-15'

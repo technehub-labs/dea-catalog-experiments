@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06642025
 name: NCT06642025 — EX02 CAR-T Cells for Relapsed and Refractory Acute Myeloid Leukemia
-description: 'This is a early Phase 1 open-label, single-arm clinical study of EX02 CAR-T therapy for
-  relapsed and refractory acute myeloid leukemia. Each participant will undergo leukapheresis after enrolment,
-  receive treatment of the conditioning chemotherapy of cyclophosphamide and fludarabine, and an an intravenous
-  infusion of CAR-T cells. Each participant will proceed through the following study procedures: * Screening
-  * Enrollment/Leukapheresis * Conditioning chemotherapy * CAR T treatment * Post-treatment assessment
-  * Long-term follow-up (NCT NCT06642025; status RECRUITING).'
-hypothesis: This is a early Phase 1 open-label, single-arm clinical study of EX02 CAR-T therapy for relapsed
-  and refractory acute myeloid leukemia. Each participant will undergo leukapheresis after enrolment,
-  rec
+description: 'This is a early Phase 1 open-label, single-arm clinical study of EX02
+  CAR-T therapy for relapsed and refractory acute myeloid leukemia. Each participant
+  will undergo leukapheresis after enrolment, receive treatment of the conditioning
+  chemotherapy of cyclophosphamide and fludarabine, and an an intravenous infusion
+  of CAR-T cells. Each participant will proceed through the following study procedures:
+  * Screening * Enrollment/Leukapheresis * Conditioning chemotherapy * CAR T treatment
+  * Post-treatment assessment * Long-term follow-up (NCT NCT06642025; status RECRUITING).'
+hypothesis: This is a early Phase 1 open-label, single-arm clinical study of EX02
+  CAR-T therapy for relapsed and refractory acute myeloid leukemia. Each participant
+  will undergo leukapheresis after enrolment, rec
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06642025 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06642025 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06642025-ex02-car-t-cells-for-relapsed-and-re
+assigned_id: dea:experiment-nct06642025-ex02-car-t-cells-for-relapsed-and-re-5d8vkg
+admitted: '2026-11-15'

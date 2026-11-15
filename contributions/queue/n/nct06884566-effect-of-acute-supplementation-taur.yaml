@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06884566
-name: NCT06884566 — Effect of Acute Supplementation (taurine) on Maximal Strength and Anaerobic Power
-description: This crossover-design study examines the acute effect of taurine on trained individuals aged
-  18-40 on strength and power outputs. (NCT NCT06884566; status COMPLETED).
-hypothesis: This crossover-design study examines the acute effect of taurine on trained individuals aged
-  18-40 on strength and power outputs.
+name: NCT06884566 — Effect of Acute Supplementation (taurine) on Maximal Strength
+  and Anaerobic Power
+description: This crossover-design study examines the acute effect of taurine on trained
+  individuals aged 18-40 on strength and power outputs. (NCT NCT06884566; status COMPLETED).
+hypothesis: This crossover-design study examines the acute effect of taurine on trained
+  individuals aged 18-40 on strength and power outputs.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06884566 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06884566 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06884566-effect-of-acute-supplementation-taur
+assigned_id: dea:experiment-nct06884566-effect-of-acute-supplementation-taur-vk7ynz
+admitted: '2026-11-15'

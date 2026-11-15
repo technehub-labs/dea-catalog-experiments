@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03498651
-name: 'NCT03498651 — Interpretation Training to Reduce Anxiety: Evaluating Technology-based Delivery Models
-  and Methods to Reduce Attrition'
-description: The project aims to compare effectiveness and target engagement of CBM-I delivered via computer
-  vs. mobile phone, and test if adding minimal human contact for participants at risk of dropout improves
-  retention and outcomes. (NCT NCT03498651; status COMPLETED).
-hypothesis: 'The project aims to compare effectiveness and target engagement of CBM-I delivered via computer
-  vs. mobile phone, and test if adding minimal human contact for participants at risk of dropout improves '
+name: 'NCT03498651 — Interpretation Training to Reduce Anxiety: Evaluating Technology-based
+  Delivery Models and Methods to Reduce Attrition'
+description: The project aims to compare effectiveness and target engagement of CBM-I
+  delivered via computer vs. mobile phone, and test if adding minimal human contact
+  for participants at risk of dropout improves retention and outcomes. (NCT NCT03498651;
+  status COMPLETED).
+hypothesis: 'The project aims to compare effectiveness and target engagement of CBM-I
+  delivered via computer vs. mobile phone, and test if adding minimal human contact
+  for participants at risk of dropout improves '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03498651 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03498651 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03498651-interpretation-training-to-reduce-an
+assigned_id: dea:experiment-nct03498651-interpretation-training-to-reduce-an-kw9z9y
+admitted: '2026-11-15'

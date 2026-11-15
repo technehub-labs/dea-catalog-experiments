@@ -1,29 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02999802
 name: NCT02999802 — Nutrient Sensing & Signaling in Aging Muscle
-description: This research seeks to better understand how cellular and molecular bases of changes associated
-  with aging contribute to decreased function and increased incidence of disease. Specific mechanism in
-  muscle responsible for anabolic resistance - a key component of sarcopenia and frailty - will be identified.
-  The proposed research is relevant to public health because the discovery of new targets for interventions
-  and novel therapeutics to improve muscle strength and function, prevent falls, and reduce physical dependency
-  will improve the healthspan and quality of life in older adults by improving their physical function
-  and ability to remain independent and healthy for a longer period of time. (NCT NCT02999802; status
-  COMPLETED).
-hypothesis: This research seeks to better understand how cellular and molecular bases of changes associated
-  with aging contribute to decreased function and increased incidence of disease. Specific mechanism in
-  mu
+description: This research seeks to better understand how cellular and molecular bases
+  of changes associated with aging contribute to decreased function and increased
+  incidence of disease. Specific mechanism in muscle responsible for anabolic resistance
+  - a key component of sarcopenia and frailty - will be identified. The proposed research
+  is relevant to public health because the discovery of new targets for interventions
+  and novel therapeutics to improve muscle strength and function, prevent falls, and
+  reduce physical dependency will improve the healthspan and quality of life in older
+  adults by improving their physical function and ability to remain independent and
+  healthy for a longer period of time. (NCT NCT02999802; status COMPLETED).
+hypothesis: This research seeks to better understand how cellular and molecular bases
+  of changes associated with aging contribute to decreased function and increased
+  incidence of disease. Specific mechanism in mu
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02999802 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02999802 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02999802-nutrient-sensing-signaling-in-aging
+assigned_id: dea:experiment-nct02999802-nutrient-sensing-signaling-in-aging-bh6upn
+admitted: '2026-11-15'

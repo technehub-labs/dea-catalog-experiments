@@ -1,40 +1,49 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07033741
-name: NCT07033741 — Predictors and Process Moderators of EMDR Therapy for Depressive Symptoms
-description: 'The goal of this clinical trial is to evaluate which factors influence the effectiveness
-  of Eye Movement Desensitization and Reprocessing (EMDR) therapy for depressive symptoms in real-world
-  settings in Italy. The main questions the study seeks to answer are: * Which key factors influence EMDR
-  outcomes in terms of mediators, moderators, and predictors of its effectiveness for depressive symptoms?
-  * Do lower levels of individual psychological functioning at baseline, including high co-occurrence
-  of personality domains and pathogenic personal beliefs, predict the effects of EMDR in treating depressive
-  symptoms? * Are baseline psychological comorbidities (anxiety, dissociation, post-traumatic symptoms,
-  emotional dysregulation, and sleep difficulties) and the quality of the therapeutic alliance related
-  to the effectiveness of EMDR therapy for depressive symptoms? Participants will be both therapists and
-  patients. * Eligible therapists must be certified members of the EMDR Italian National Association to
-  ensure adherence to established standards in the practice of EMDR therapy and consistency in therapeutic
-  delivery. Therapists will identify patients from their routine clinical practice who meet the study
-  inclusion criteria and facilitate their enrollment. * Eligible patients must meet the following criteria:
-  1. Being 18 years of age or older. 2. being able to give informed consent. 3. presenting clinically
-  significant symptoms in at least one of the following domains: anxiety, depression, dissociative, or
-  post-traumatic stress symptoms. Individuals presenting with severe neurological impairment or other
-  severe psychiatric conditions were excluded. Researchers will combine data from multiple N-of-1 trials
-  (N-of-1 or single-subject clinical trials studies) using a Bayesian multilevel random-effects meta-analysis
-  and meta-regression to generate robust estimates of treatment efficacy. (NCT NCT07033741; status RECRUITING).'
-hypothesis: 'The goal of this clinical trial is to evaluate which factors influence the effectiveness
-  of Eye Movement Desensitization and Reprocessing (EMDR) therapy for depressive symptoms in real-world
-  settings '
+name: NCT07033741 — Predictors and Process Moderators of EMDR Therapy for Depressive
+  Symptoms
+description: 'The goal of this clinical trial is to evaluate which factors influence
+  the effectiveness of Eye Movement Desensitization and Reprocessing (EMDR) therapy
+  for depressive symptoms in real-world settings in Italy. The main questions the
+  study seeks to answer are: * Which key factors influence EMDR outcomes in terms
+  of mediators, moderators, and predictors of its effectiveness for depressive symptoms?
+  * Do lower levels of individual psychological functioning at baseline, including
+  high co-occurrence of personality domains and pathogenic personal beliefs, predict
+  the effects of EMDR in treating depressive symptoms? * Are baseline psychological
+  comorbidities (anxiety, dissociation, post-traumatic symptoms, emotional dysregulation,
+  and sleep difficulties) and the quality of the therapeutic alliance related to the
+  effectiveness of EMDR therapy for depressive symptoms? Participants will be both
+  therapists and patients. * Eligible therapists must be certified members of the
+  EMDR Italian National Association to ensure adherence to established standards in
+  the practice of EMDR therapy and consistency in therapeutic delivery. Therapists
+  will identify patients from their routine clinical practice who meet the study inclusion
+  criteria and facilitate their enrollment. * Eligible patients must meet the following
+  criteria: 1. Being 18 years of age or older. 2. being able to give informed consent.
+  3. presenting clinically significant symptoms in at least one of the following domains:
+  anxiety, depression, dissociative, or post-traumatic stress symptoms. Individuals
+  presenting with severe neurological impairment or other severe psychiatric conditions
+  were excluded. Researchers will combine data from multiple N-of-1 trials (N-of-1
+  or single-subject clinical trials studies) using a Bayesian multilevel random-effects
+  meta-analysis and meta-regression to generate robust estimates of treatment efficacy.
+  (NCT NCT07033741; status RECRUITING).'
+hypothesis: 'The goal of this clinical trial is to evaluate which factors influence
+  the effectiveness of Eye Movement Desensitization and Reprocessing (EMDR) therapy
+  for depressive symptoms in real-world settings '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07033741 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07033741 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07033741-predictors-and-process-moderators-of
+assigned_id: dea:experiment-nct07033741-predictors-and-process-moderators-of-85xgmr
+admitted: '2026-11-15'

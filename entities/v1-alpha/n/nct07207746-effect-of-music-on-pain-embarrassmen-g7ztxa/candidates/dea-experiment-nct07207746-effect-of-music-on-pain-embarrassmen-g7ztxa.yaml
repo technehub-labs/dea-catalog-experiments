@@ -1,0 +1,46 @@
+id: dea:experiment-nct07207746-effect-of-music-on-pain-embarrassmen-g7ztxa
+type: Experiment
+name: NCT07207746 — Effect of Music on Pain, Embarrassment, and Urodynamic Outcomes
+description: Urodynamic testing (UDT) is a diagnostic procedure frequently used to
+  evaluate lower urinary tract dysfunction, including urinary incontinence and voiding
+  difficulties. Despite its diagnostic value, UDT is invasive and often causes discomfort,
+  pain, and embarrassment due to catheter placement and repeated measurements. These
+  negative experiences may reduce patient compliance, affect diagnostic accuracy,
+  and increase reluctance to repeat the procedure. Music has been shown to promote
+  relaxation and reduce pain and anxiety in various clinical settings, but its effect
+  during urodynamic testing has not been adequately studied. This randomized controlled
+  trial was designed to determine whether listening to music during invasive UDT can
+  reduce pain and embarrassment while influencing urodynamic parameters. (NCT NCT07207746;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Urodynamic testing (UDT) is a diagnostic procedure frequently used to
+  evaluate lower urinary tract dysfunction, including urinary incontinence and voiding
+  difficulties. Despite its diagnostic value, U
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07207746 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

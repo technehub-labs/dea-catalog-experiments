@@ -1,0 +1,46 @@
+id: dea:experiment-nct05043818-a-clinical-study-on-the-screening-of-4urvzu
+type: Experiment
+name: NCT05043818 — A Clinical Study on the Screening of Intestinal Biomarkers in
+  IBD Patients With Depression
+description: Inflammatory bowel disease (IBD) seriously affects the quality of life
+  of patients. During treatment, it is found that patients are often accompanied by
+  a certain degree of psychological problems, such as depression, sensitivity, introversion,
+  depression, and pessimistic disappointment. Among them, anxiety and depression are
+  the most common. Through prospective observational research, statistics of the incidence
+  of depression in inflammatory bowel disease in our hospital, comparison of the proportions
+  of each subtype, screening of intestinal biomarkers in IBD patients with depression,
+  and observation of inflammatory bowel disease with different The type and quantity
+  of different intestinal flora in patients with severe depression, and the correlation
+  between intestinal flora and depression. (NCT NCT05043818; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Inflammatory bowel disease (IBD) seriously affects the quality of life
+  of patients. During treatment, it is found that patients are often accompanied by
+  a certain degree of psychological problems, suc
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05043818 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

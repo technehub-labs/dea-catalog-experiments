@@ -1,30 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05342688
-name: NCT05342688 — Contextual Interference, Engagement , and Change in Motor Performance in Stroke
-description: 'The aim of the study is to examine associations between contextual interference (CI), engagement
-  during practice and changes in upper limb motor performance among patients post-stroke. Fifty patients
-  over the age of 18, after a stroke, in the sub-acute and early chronic stages who have weakness of the
-  upper extremity and are treated in a rehabilitation center will be recruited. The study will include
-  participation in five sessions: session 1 for baseline assessment, session 2-4 for practice of upper
-  extremity functions, and session 5 for post intervention assessment. The intervention will include training
-  of three items from the Wolf motor function test in random order (high CI group) or block order (low
-  CI group). Outcomes of engagement will include the brain engagement index, heart rate variability and
-  galvanic skin response. Outcomes of learning will include the pre-post change in performance of the
-  wolf motor function selected items. (NCT NCT05342688; status UNKNOWN).'
-hypothesis: 'The aim of the study is to examine associations between contextual interference (CI), engagement
-  during practice and changes in upper limb motor performance among patients post-stroke. Fifty patients '
+name: NCT05342688 — Contextual Interference, Engagement , and Change in Motor Performance
+  in Stroke
+description: 'The aim of the study is to examine associations between contextual interference
+  (CI), engagement during practice and changes in upper limb motor performance among
+  patients post-stroke. Fifty patients over the age of 18, after a stroke, in the
+  sub-acute and early chronic stages who have weakness of the upper extremity and
+  are treated in a rehabilitation center will be recruited. The study will include
+  participation in five sessions: session 1 for baseline assessment, session 2-4 for
+  practice of upper extremity functions, and session 5 for post intervention assessment.
+  The intervention will include training of three items from the Wolf motor function
+  test in random order (high CI group) or block order (low CI group). Outcomes of
+  engagement will include the brain engagement index, heart rate variability and galvanic
+  skin response. Outcomes of learning will include the pre-post change in performance
+  of the wolf motor function selected items. (NCT NCT05342688; status UNKNOWN).'
+hypothesis: 'The aim of the study is to examine associations between contextual interference
+  (CI), engagement during practice and changes in upper limb motor performance among
+  patients post-stroke. Fifty patients '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05342688 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05342688 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05342688-contextual-interference-engagement-a
+assigned_id: dea:experiment-nct05342688-contextual-interference-engagement-a-b453bq
+admitted: '2026-11-15'

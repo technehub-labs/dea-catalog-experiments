@@ -1,41 +1,49 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04381169
-name: NCT04381169 — Aggressive Versus Non-aggressive Goal-directed Fluid Resuscitation in Acute Pancreatitis
-description: WATERFALL is an investigator-initiated international multicenter open-label randomized clinical
-  trial comparing aggressive versus moderate fluid resuscitation in acute pancreatitis. The main outcome
-  variable will be the proportion of patients with moderate-to-severe AP. Aggressive fluid resuscitation
-  will consist in Lactated Ringer Solution (LR) 20 ml/kg bolus (administered over 2 hours) followed by
-  LR 3 ml/kg/h and moderate a LR bolus 10 ml/kg in case of hypovolemia or no bolus in patients with normal
-  volemia, followed by LR 1.5 ml/kg/h. The patients will be assessed at 3 (±1), 12 (±4), 24 (±4), 48 (±4)
-  and 72 (±4) hours from recruitment, and fluid resuscitation will be adjusted to the patient´s clinical
-  and analytical status according to a protocol. Subgroup analysis will include patients with systemic
-  inflammatory response syndrome (SIRS) at admission, with persistent (\>48h) SIRS and with hypovolemia
-  at admission. Based on available data (Sternby et al, Ann Surg 2019) we expect a 35% incidence of moderate
-  to severe AP in the moderate arm. Sample sizes of 372 per arm of treatment (744 patients) achieve 80%
-  power to detect a difference of 10% between the treatment arms at a significance level (alpha) of 0.05
-  using a two-sided z-testNA, assuming a 10% dropout. These results assume that 3 sequential tests are
-  made using the O'Brien-Fleming spending function to determine the test boundaries. All analyses will
-  be performed on an intention-to-treat basis. The trial could be stop early for efficacy (primary end-point)
-  if the observed two-sided P value is \<0.0002 at the first interim analysis (after 1/3 of patients have
-  been enrolled) or is \<0.012 at second interim analysis (after 2/3 of patients have been enrolled),
-  favoring aggressive fluid resuscitation. At final analysis, the hypothesis that the incidence of moderate-to-severe
-  pancreatitis is similar in the two treatment arms will be rejected if p\<0.046 (NCT NCT04381169; status
-  TERMINATED).
-hypothesis: WATERFALL is an investigator-initiated international multicenter open-label randomized clinical
-  trial comparing aggressive versus moderate fluid resuscitation in acute pancreatitis. The main outcome
-  v
+name: NCT04381169 — Aggressive Versus Non-aggressive Goal-directed Fluid Resuscitation
+  in Acute Pancreatitis
+description: WATERFALL is an investigator-initiated international multicenter open-label
+  randomized clinical trial comparing aggressive versus moderate fluid resuscitation
+  in acute pancreatitis. The main outcome variable will be the proportion of patients
+  with moderate-to-severe AP. Aggressive fluid resuscitation will consist in Lactated
+  Ringer Solution (LR) 20 ml/kg bolus (administered over 2 hours) followed by LR 3
+  ml/kg/h and moderate a LR bolus 10 ml/kg in case of hypovolemia or no bolus in patients
+  with normal volemia, followed by LR 1.5 ml/kg/h. The patients will be assessed at
+  3 (±1), 12 (±4), 24 (±4), 48 (±4) and 72 (±4) hours from recruitment, and fluid
+  resuscitation will be adjusted to the patient´s clinical and analytical status according
+  to a protocol. Subgroup analysis will include patients with systemic inflammatory
+  response syndrome (SIRS) at admission, with persistent (\>48h) SIRS and with hypovolemia
+  at admission. Based on available data (Sternby et al, Ann Surg 2019) we expect a
+  35% incidence of moderate to severe AP in the moderate arm. Sample sizes of 372
+  per arm of treatment (744 patients) achieve 80% power to detect a difference of
+  10% between the treatment arms at a significance level (alpha) of 0.05 using a two-sided
+  z-testNA, assuming a 10% dropout. These results assume that 3 sequential tests are
+  made using the O'Brien-Fleming spending function to determine the test boundaries.
+  All analyses will be performed on an intention-to-treat basis. The trial could be
+  stop early for efficacy (primary end-point) if the observed two-sided P value is
+  \<0.0002 at the first interim analysis (after 1/3 of patients have been enrolled)
+  or is \<0.012 at second interim analysis (after 2/3 of patients have been enrolled),
+  favoring aggressive fluid resuscitation. At final analysis, the hypothesis that
+  the incidence of moderate-to-severe pancreatitis is similar in the two treatment
+  arms will be rejected if p\<0.046 (NCT NCT04381169; status TERMINATED).
+hypothesis: WATERFALL is an investigator-initiated international multicenter open-label
+  randomized clinical trial comparing aggressive versus moderate fluid resuscitation
+  in acute pancreatitis. The main outcome v
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04381169 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04381169 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct04381169-aggressive-versus-non-aggressive-goa
+assigned_id: dea:experiment-nct04381169-aggressive-versus-non-aggressive-goa-frj2f5
+admitted: '2026-11-15'

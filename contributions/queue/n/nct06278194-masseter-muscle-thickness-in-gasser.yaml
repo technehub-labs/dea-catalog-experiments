@@ -1,31 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06278194
 name: NCT06278194 — Masseter Muscle Thickness in Gasser Ganglion Radiofrequency Treatment
-description: Trigeminal neuralgia is common painful disorder in pain medicine clinics. Gasserian ganglion
-  radiofrequency thermocoagulation is one of the treatment option in patients with trigeminal neuralgia
-  in refractory cases. The most commonly involved branch in trigeminal neuralgia is the mandibular branch.
-  Masseter muscle is innervated by mandibulary nerve branch of the trigeminal nerve. The radiofrequency
-  thermocoagulation therapy is used to ablate the affected trigeminal nerve branch and some of patients
-  complain of subjective masseter weakness after this procedure. In theoretical basis, muscles innervated
-  by target nerve are affected from ablation procedure. In this study the primary aim is to evaluate the
-  change of the masseter muscle thickness in patients treated by gasserian ganglion radiofrequency thermocoagulation.
-  The results may also show possible functional effect of the procedure related with masseter muscle.
-  (NCT NCT06278194; status RECRUITING).
-hypothesis: Trigeminal neuralgia is common painful disorder in pain medicine clinics. Gasserian ganglion
-  radiofrequency thermocoagulation is one of the treatment option in patients with trigeminal neuralgia
-  in re
+description: Trigeminal neuralgia is common painful disorder in pain medicine clinics.
+  Gasserian ganglion radiofrequency thermocoagulation is one of the treatment option
+  in patients with trigeminal neuralgia in refractory cases. The most commonly involved
+  branch in trigeminal neuralgia is the mandibular branch. Masseter muscle is innervated
+  by mandibulary nerve branch of the trigeminal nerve. The radiofrequency thermocoagulation
+  therapy is used to ablate the affected trigeminal nerve branch and some of patients
+  complain of subjective masseter weakness after this procedure. In theoretical basis,
+  muscles innervated by target nerve are affected from ablation procedure. In this
+  study the primary aim is to evaluate the change of the masseter muscle thickness
+  in patients treated by gasserian ganglion radiofrequency thermocoagulation. The
+  results may also show possible functional effect of the procedure related with masseter
+  muscle. (NCT NCT06278194; status RECRUITING).
+hypothesis: Trigeminal neuralgia is common painful disorder in pain medicine clinics.
+  Gasserian ganglion radiofrequency thermocoagulation is one of the treatment option
+  in patients with trigeminal neuralgia in re
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06278194 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06278194 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06278194-masseter-muscle-thickness-in-gasser
+assigned_id: dea:experiment-nct06278194-masseter-muscle-thickness-in-gasser-8x9unt
+admitted: '2026-11-15'

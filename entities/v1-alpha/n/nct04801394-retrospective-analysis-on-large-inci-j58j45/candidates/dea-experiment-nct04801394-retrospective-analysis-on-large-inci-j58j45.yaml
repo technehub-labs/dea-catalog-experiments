@@ -1,0 +1,42 @@
+id: dea:experiment-nct04801394-retrospective-analysis-on-large-inci-j58j45
+type: Experiment
+name: NCT04801394 — Retrospective Analysis on Large Incisional Hernia in High Risk
+  Patients
+description: Large incisional hernia (LIH) is a challenging condition where the abdominal
+  wall is hopelessly compromised. Nowadays the best treatment option in this particularly
+  frail subset of patients is a major issue. The Auhtors proposed the clinical experience
+  with an innovative approach with the composite Free Lateral Polypropylene prosthesis
+  (FLaPp®) mesh fashioned as "neoperitoneum" analyzing its feasibility and short/medium
+  term results. (NCT NCT04801394; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Large incisional hernia (LIH) is a challenging condition where the abdominal
+  wall is hopelessly compromised. Nowadays the best treatment option in this particularly
+  frail subset of patients is a major
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04801394 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

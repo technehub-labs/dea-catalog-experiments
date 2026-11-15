@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04861259
-name: NCT04861259 — A Study Evaluating the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of
-  Crovalimab in Adult and Adolescent Participants With Atypical Hemolytic Uremic Syndrome (aHUS)
-description: This study aims to evaluate the efficacy and safety of crovalimab in adult and adolescent
-  participants with aHUS. (NCT NCT04861259; status ACTIVE_NOT_RECRUITING).
-hypothesis: This study aims to evaluate the efficacy and safety of crovalimab in adult and adolescent
-  participants with aHUS.
+name: NCT04861259 — A Study Evaluating the Efficacy, Safety, Pharmacokinetics and
+  Pharmacodynamics of Crovalimab in Adult and Adolescent Participants With Atypical
+  Hemolytic Uremic Syndrome (aHUS)
+description: This study aims to evaluate the efficacy and safety of crovalimab in
+  adult and adolescent participants with aHUS. (NCT NCT04861259; status ACTIVE_NOT_RECRUITING).
+hypothesis: This study aims to evaluate the efficacy and safety of crovalimab in adult
+  and adolescent participants with aHUS.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04861259 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04861259 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct04861259-a-study-evaluating-the-efficacy-safe
+assigned_id: dea:experiment-nct04861259-a-study-evaluating-the-efficacy-safe-afx5uw
+admitted: '2026-11-15'

@@ -1,31 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05118789
-name: NCT05118789 — A Study of Zidesamtinib (NVL-520) in Patients With Advanced NSCLC and Other Solid
-  Tumors Harboring ROS1 Rearrangement (ARROS-1)
-description: Phase 1/2, dose escalation and expansion study designed to evaluate the safety and tolerability
-  of zidesamtinib (NVL-520), determine the recommended phase 2 dose (RP2D), and evaluate the antitumor
-  activity in patients with advanced ROS1-positive (ROS1+) NSCLC and other advanced ROS1-positive solid
-  tumors. Phase 1 will determine the RP2D and, if applicable, the maximum tolerated dose (MTD) of zidesamtinib
-  in patients with advanced ROS1-positive solid tumors. Phase 2 will determine the objective response
-  rate (ORR) as assessed by Blinded Independent Central Review (BICR) of zidesamtinib at the RP2D. Secondary
-  objectives will include the duration of response (DOR), time to response (TTR), progression-free survival
-  (PFS), overall survival (OS), and clinical benefit rate (CBR) of zidesamtinib in patients with advanced
+name: NCT05118789 — A Study of Zidesamtinib (NVL-520) in Patients With Advanced NSCLC
+  and Other Solid Tumors Harboring ROS1 Rearrangement (ARROS-1)
+description: Phase 1/2, dose escalation and expansion study designed to evaluate the
+  safety and tolerability of zidesamtinib (NVL-520), determine the recommended phase
+  2 dose (RP2D), and evaluate the antitumor activity in patients with advanced ROS1-positive
+  (ROS1+) NSCLC and other advanced ROS1-positive solid tumors. Phase 1 will determine
+  the RP2D and, if applicable, the maximum tolerated dose (MTD) of zidesamtinib in
+  patients with advanced ROS1-positive solid tumors. Phase 2 will determine the objective
+  response rate (ORR) as assessed by Blinded Independent Central Review (BICR) of
+  zidesamtinib at the RP2D. Secondary objectives will include the duration of response
+  (DOR), time to response (TTR), progression-free survival (PFS), overall survival
+  (OS), and clinical benefit rate (CBR) of zidesamtinib in patients with advanced
   ROS1-positive NSCLC and other solid tumors. (NCT NCT05118789; status RECRUITING).
-hypothesis: Phase 1/2, dose escalation and expansion study designed to evaluate the safety and tolerability
-  of zidesamtinib (NVL-520), determine the recommended phase 2 dose (RP2D), and evaluate the antitumor
-  act
+hypothesis: Phase 1/2, dose escalation and expansion study designed to evaluate the
+  safety and tolerability of zidesamtinib (NVL-520), determine the recommended phase
+  2 dose (RP2D), and evaluate the antitumor act
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05118789 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05118789 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct05118789-a-study-of-zidesamtinib-nvl-520-in-p
+assigned_id: dea:experiment-nct05118789-a-study-of-zidesamtinib-nvl-520-in-p-ht39et
+admitted: '2026-11-15'

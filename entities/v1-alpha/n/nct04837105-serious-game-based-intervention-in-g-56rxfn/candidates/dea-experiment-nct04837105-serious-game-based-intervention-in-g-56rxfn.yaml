@@ -1,0 +1,52 @@
+id: dea:experiment-nct04837105-serious-game-based-intervention-in-g-56rxfn
+type: Experiment
+name: NCT04837105 — Serious Game-based Intervention in Gait Rehabilitation for Children
+  With Cerebral Palsy
+description: Cerebral palsy (CP) is defined as a group of movement and posture disorders
+  that cause activity limitation due to brain damage during fetal development or in
+  the first year of life. Motor activities, and in particular walking, can be affected
+  by many factors including sensory deficits, biomechanical and postural limitations,
+  muscle weakness and spasticity. Theories of gait training guide rehabilitation management
+  strategies. Among these, intensification, variability and specific training of walking
+  parameters (speed, step length, cadence) have shown their effectiveness. Delivering
+  sensory feedback during gait rehabilitation exercises is a complementary approach
+  to improve motor learning during rehabilitation. On the other hand, motivation is
+  a key factor in the success of rehabilitation. The addition of walking exercises
+  performed through a serious game in augmented reality (AR) appears relevant for
+  the rehabilitation of children with CP after surgery. The serious game ARRoW-CP
+  is based on the latest advances in the literature in terms of gait rehabilitation
+  protocol but also on the results of a clinical study conducted by our team, to identify
+  the best feedback modalities to be delivered during the serious rehabilitation game.
+  (NCT NCT04837105; status RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Cerebral palsy (CP) is defined as a group of movement and posture disorders
+  that cause activity limitation due to brain damage during fetal development or in
+  the first year of life. Motor activities, '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04837105 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01518218
 name: NCT01518218 — Effectiveness of Laying-on-of-hands for Sickle Cell Disease
-description: The objective of this study is to evaluate the effectiveness of 1-year administration of
-  laying-on-of-hands on the morbidity and mortality of patients with sickle cell disease in Africa. (NCT
-  NCT01518218; status COMPLETED).
-hypothesis: The objective of this study is to evaluate the effectiveness of 1-year administration of laying-on-of-hands
-  on the morbidity and mortality of patients with sickle cell disease in Africa.
+description: The objective of this study is to evaluate the effectiveness of 1-year
+  administration of laying-on-of-hands on the morbidity and mortality of patients
+  with sickle cell disease in Africa. (NCT NCT01518218; status COMPLETED).
+hypothesis: The objective of this study is to evaluate the effectiveness of 1-year
+  administration of laying-on-of-hands on the morbidity and mortality of patients
+  with sickle cell disease in Africa.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01518218 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01518218 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01518218-effectiveness-of-laying-on-of-hands
+assigned_id: dea:experiment-nct01518218-effectiveness-of-laying-on-of-hands-aamjcp
+admitted: '2026-11-15'

@@ -1,0 +1,31 @@
+# NCT07673289 — Comparative Effect of CIMT and PNFTechnique on Hands Dexterity in Cerebral Palsy
+
+> Cerebral Palsy (CP) is a group of permanent disorders of the development of movement and posture, causing activity limitations that are attributed to non-progressive disturbances that occurred in the developing fetal or infant brain. The primary motor impairments in CP often include issues with muscle tone, reflexes, and coordination. Among the various motor disorders associated with CP, impairment of the upper extremities is particularly common and functionally debilitating. Specifically, reduced hand dexterity the ability to perform coordinated, fine motor tasks significantly impacts a child's independence in daily activities such as feeding, dressing, and school-related tasks like writing. Therefore, improving hand function is a critical goal in physiotherapy for this population The objective of this study was to compare the effectiveness of a constraint induced movement therapy ( CIMT ) and Proprioceptive neuromuscular facilitation technique on dexterous movement of hands in cerebral palsy .The study design will be Randomized Controlled Trail. The study setting will be Pediatric Rehabilitation Center or Physiotherapy Department. The duration of study will be 10 months after approval of synopsis. The sample size will be 20 which is calculated by epitools. The sampling technique will be Non-probability convenient sampling . Children who are diagnosed with cerebral palsy will be included. Children with other musculoskeletal and neurological issues will be excluded. Data Collection Tools will be Box and Block test and Pediatric Evaluation of Disability Inventory.. The data will be analyzed using SPSS 23. Keyword Cerebral Palsy, Constraint induced movement therapy (CIMT), dexterous movement, Proprioceptive neuromuscular facilitation (NCT NCT07673289; status RECRUITING).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct07673289-comparative-effect-of-cimt-and-pnfte-zavdde`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT07673289 (ClinicalTrials.gov; status RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

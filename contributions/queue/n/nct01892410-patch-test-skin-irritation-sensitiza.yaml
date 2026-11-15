@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01892410
-name: NCT01892410 — Patch Test Skin Irritation/Sensitization of Cetaphil Restoraderm Skin Restoring Body
-  Wash
-description: Determine if Cetaphil Restoraderm Skin Restoring Body Wash proves to be a contact sensitizer
-  or irritant in certain individuals. (NCT NCT01892410; status COMPLETED).
-hypothesis: Determine if Cetaphil Restoraderm Skin Restoring Body Wash proves to be a contact sensitizer
-  or irritant in certain individuals.
+name: NCT01892410 — Patch Test Skin Irritation/Sensitization of Cetaphil Restoraderm
+  Skin Restoring Body Wash
+description: Determine if Cetaphil Restoraderm Skin Restoring Body Wash proves to
+  be a contact sensitizer or irritant in certain individuals. (NCT NCT01892410; status
+  COMPLETED).
+hypothesis: Determine if Cetaphil Restoraderm Skin Restoring Body Wash proves to be
+  a contact sensitizer or irritant in certain individuals.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01892410 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01892410 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01892410-patch-test-skin-irritation-sensitiza
+assigned_id: dea:experiment-nct01892410-patch-test-skin-irritation-sensitiza-f5q746
+admitted: '2026-11-15'

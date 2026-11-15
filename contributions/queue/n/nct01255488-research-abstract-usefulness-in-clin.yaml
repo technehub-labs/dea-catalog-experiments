@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01255488
 name: NCT01255488 — Research Abstract Usefulness in Clinical Decision-making
-description: To better understand the extent to which family nurse practitioners (FNPs) might use research
-  abstracts in shaping their clinical decision-making under simulated conditions. A secondary point is
-  to examine if and how FNPs might use full-text manuscripts (associated with the abstracts) if made available
-  to them. (NCT NCT01255488; status UNKNOWN).
-hypothesis: To better understand the extent to which family nurse practitioners (FNPs) might use research
-  abstracts in shaping their clinical decision-making under simulated conditions. A secondary point is
-  to ex
+description: To better understand the extent to which family nurse practitioners (FNPs)
+  might use research abstracts in shaping their clinical decision-making under simulated
+  conditions. A secondary point is to examine if and how FNPs might use full-text
+  manuscripts (associated with the abstracts) if made available to them. (NCT NCT01255488;
+  status UNKNOWN).
+hypothesis: To better understand the extent to which family nurse practitioners (FNPs)
+  might use research abstracts in shaping their clinical decision-making under simulated
+  conditions. A secondary point is to ex
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01255488 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01255488 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct01255488-research-abstract-usefulness-in-clin
+assigned_id: dea:experiment-nct01255488-research-abstract-usefulness-in-clin-4b2m8k
+admitted: '2026-11-15'

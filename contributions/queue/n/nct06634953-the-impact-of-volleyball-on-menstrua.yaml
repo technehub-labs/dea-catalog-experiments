@@ -1,28 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06634953
 name: NCT06634953 — The Impact of Volleyball on Menstrual Symptoms
-description: 'The goal of this observational study is to examine menstrual characteristics and symptoms
-  in adolescent volleyball athletes compared to non-athlete adolescents. The main question it aims to
-  answer is: How do menstrual symptoms and characteristics differ between adolescent volleyball athletes
-  and non-athletes? The study included 154 adolescents aged 10-19, divided into 77 volleyball athletes
-  (average age 15.09) and 77 non-athletes (average age 14.79). Assessments covered menstruation age, regularity,
-  dysmenorrhea characteristics, and menstrual symptoms using the Menstrual Symptom Questionnaire (MSQ).
-  (NCT NCT06634953; status COMPLETED).'
-hypothesis: 'The goal of this observational study is to examine menstrual characteristics and symptoms
-  in adolescent volleyball athletes compared to non-athlete adolescents. The main question it aims to
-  answer is:'
+description: 'The goal of this observational study is to examine menstrual characteristics
+  and symptoms in adolescent volleyball athletes compared to non-athlete adolescents.
+  The main question it aims to answer is: How do menstrual symptoms and characteristics
+  differ between adolescent volleyball athletes and non-athletes? The study included
+  154 adolescents aged 10-19, divided into 77 volleyball athletes (average age 15.09)
+  and 77 non-athletes (average age 14.79). Assessments covered menstruation age, regularity,
+  dysmenorrhea characteristics, and menstrual symptoms using the Menstrual Symptom
+  Questionnaire (MSQ). (NCT NCT06634953; status COMPLETED).'
+hypothesis: 'The goal of this observational study is to examine menstrual characteristics
+  and symptoms in adolescent volleyball athletes compared to non-athlete adolescents.
+  The main question it aims to answer is:'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06634953 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06634953 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06634953-the-impact-of-volleyball-on-menstrua
+assigned_id: dea:experiment-nct06634953-the-impact-of-volleyball-on-menstrua-3mbf26
+admitted: '2026-11-15'

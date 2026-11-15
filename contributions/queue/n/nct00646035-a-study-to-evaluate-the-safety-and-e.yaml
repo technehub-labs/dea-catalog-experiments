@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00646035
-name: NCT00646035 — A Study to Evaluate the Safety and Efficacy of Paricalcitol Capsules in Reducing Serum
-  Intact Parathyroid Hormone Levels in End Stage Renal Disease Subjects on Peritoneal Dialysis
-description: To determine the safety and efficacy of paricalcitol capsules as compared to placebo for
-  treatment of secondary hyperparathyroidism by decreasing serum intact parathyroid hormone levels in
-  end stage renal disease subjects on peritoneal dialysis. (NCT NCT00646035; status COMPLETED).
-hypothesis: To determine the safety and efficacy of paricalcitol capsules as compared to placebo for treatment
-  of secondary hyperparathyroidism by decreasing serum intact parathyroid hormone levels in end stage
-  r
+name: NCT00646035 — A Study to Evaluate the Safety and Efficacy of Paricalcitol Capsules
+  in Reducing Serum Intact Parathyroid Hormone Levels in End Stage Renal Disease Subjects
+  on Peritoneal Dialysis
+description: To determine the safety and efficacy of paricalcitol capsules as compared
+  to placebo for treatment of secondary hyperparathyroidism by decreasing serum intact
+  parathyroid hormone levels in end stage renal disease subjects on peritoneal dialysis.
+  (NCT NCT00646035; status COMPLETED).
+hypothesis: To determine the safety and efficacy of paricalcitol capsules as compared
+  to placebo for treatment of secondary hyperparathyroidism by decreasing serum intact
+  parathyroid hormone levels in end stage r
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00646035 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00646035 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00646035-a-study-to-evaluate-the-safety-and-e
+assigned_id: dea:experiment-nct00646035-a-study-to-evaluate-the-safety-and-e-83yxan
+admitted: '2026-11-15'

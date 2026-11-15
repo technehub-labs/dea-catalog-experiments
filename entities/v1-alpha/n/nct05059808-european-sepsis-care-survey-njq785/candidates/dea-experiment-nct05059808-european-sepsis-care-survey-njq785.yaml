@@ -1,0 +1,39 @@
+id: dea:experiment-nct05059808-european-sepsis-care-survey-njq785
+type: Experiment
+name: NCT05059808 — European Sepsis Care Survey
+description: The objective of this survey is to investigate the current state of sepsis
+  care around Europe. The study is aiming at hospital structure, emergency departments,
+  wards, intensive care units and clinical diagnostic and microbiological service.
+  (NCT NCT05059808; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The objective of this survey is to investigate the current state of sepsis
+  care around Europe. The study is aiming at hospital structure, emergency departments,
+  wards, intensive care units and clinica
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05059808 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

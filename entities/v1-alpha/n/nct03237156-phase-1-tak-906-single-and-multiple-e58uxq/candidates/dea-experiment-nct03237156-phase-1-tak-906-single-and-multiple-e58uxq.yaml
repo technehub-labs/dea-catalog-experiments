@@ -1,0 +1,39 @@
+id: dea:experiment-nct03237156-phase-1-tak-906-single-and-multiple-e58uxq
+type: Experiment
+name: NCT03237156 — Phase 1 TAK-906 Single and Multiple Ascending Dose Study in Japanese
+  Healthy Male Participants
+description: The purpose of this study is to evaluate safety, tolerability, pharmacokinetics,
+  and pharmacodynamics of single and multiple oral doses of TAK-906 in Japanese healthy
+  male participants. (NCT NCT03237156; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The purpose of this study is to evaluate safety, tolerability, pharmacokinetics,
+  and pharmacodynamics of single and multiple oral doses of TAK-906 in Japanese healthy
+  male participants.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03237156 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

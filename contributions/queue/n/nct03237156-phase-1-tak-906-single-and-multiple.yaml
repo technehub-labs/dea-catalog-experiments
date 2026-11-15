@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03237156
-name: NCT03237156 — Phase 1 TAK-906 Single and Multiple Ascending Dose Study in Japanese Healthy Male
-  Participants
-description: The purpose of this study is to evaluate safety, tolerability, pharmacokinetics, and pharmacodynamics
-  of single and multiple oral doses of TAK-906 in Japanese healthy male participants. (NCT NCT03237156;
-  status COMPLETED).
-hypothesis: The purpose of this study is to evaluate safety, tolerability, pharmacokinetics, and pharmacodynamics
-  of single and multiple oral doses of TAK-906 in Japanese healthy male participants.
+name: NCT03237156 — Phase 1 TAK-906 Single and Multiple Ascending Dose Study in Japanese
+  Healthy Male Participants
+description: The purpose of this study is to evaluate safety, tolerability, pharmacokinetics,
+  and pharmacodynamics of single and multiple oral doses of TAK-906 in Japanese healthy
+  male participants. (NCT NCT03237156; status COMPLETED).
+hypothesis: The purpose of this study is to evaluate safety, tolerability, pharmacokinetics,
+  and pharmacodynamics of single and multiple oral doses of TAK-906 in Japanese healthy
+  male participants.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03237156 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03237156 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03237156-phase-1-tak-906-single-and-multiple
+assigned_id: dea:experiment-nct03237156-phase-1-tak-906-single-and-multiple-e58uxq
+admitted: '2026-11-15'

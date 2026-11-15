@@ -1,0 +1,42 @@
+id: dea:experiment-nct02488408-a-phase-ib-ii-multicenter-open-label-udjgxe
+type: Experiment
+name: NCT02488408 — A Phase Ib/II Multicenter Open-label Study of Bemcentinib (BGB324)
+  in Patients With AML or MDS
+description: A Phase Ib/II multicentre open label study of bemcentinib (BGB324) as
+  a single agent in participants with Acute Myeloid Leukemia (AML) or Myelodysplastic
+  syndrome (MDS) or in a combination with cytarabine or decitabine in AML participants.
+  Bemcentinib is a potent selective small molecule inhibitor of AXL a surface membrane
+  protein kinase receptor which is overexpressed in up to half of AML cases. (NCT
+  NCT02488408; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: A Phase Ib/II multicentre open label study of bemcentinib (BGB324) as
+  a single agent in participants with Acute Myeloid Leukemia (AML) or Myelodysplastic
+  syndrome (MDS) or in a combination with cytara
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02488408 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04278508
-name: NCT04278508 — Serum Progesterone on the Day of Thawed Embryo Transfer and Pregnancy Rate After an
-  Artificial Endometrial Preparation
-description: To determine if different serum Progesterone levels on FET day are associated with different
-  clinical pregnancy rates (CPR), and if increasing dosage of vaginal Progesterone in cases of lower serum
-  Progesterone level on FET day can be either beneficial or detrimental regarding the CPR. (NCT NCT04278508;
-  status COMPLETED).
-hypothesis: To determine if different serum Progesterone levels on FET day are associated with different
-  clinical pregnancy rates (CPR), and if increasing dosage of vaginal Progesterone in cases of lower serum
-  Pr
+name: NCT04278508 — Serum Progesterone on the Day of Thawed Embryo Transfer and Pregnancy
+  Rate After an Artificial Endometrial Preparation
+description: To determine if different serum Progesterone levels on FET day are associated
+  with different clinical pregnancy rates (CPR), and if increasing dosage of vaginal
+  Progesterone in cases of lower serum Progesterone level on FET day can be either
+  beneficial or detrimental regarding the CPR. (NCT NCT04278508; status COMPLETED).
+hypothesis: To determine if different serum Progesterone levels on FET day are associated
+  with different clinical pregnancy rates (CPR), and if increasing dosage of vaginal
+  Progesterone in cases of lower serum Pr
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04278508 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04278508 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04278508-serum-progesterone-on-the-day-of-tha
+assigned_id: dea:experiment-nct04278508-serum-progesterone-on-the-day-of-tha-kysyxt
+admitted: '2026-11-15'

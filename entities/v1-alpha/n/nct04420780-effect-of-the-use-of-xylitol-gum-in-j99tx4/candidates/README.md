@@ -1,0 +1,31 @@
+# NCT04420780 — Effect of the Use of Xylitol Gum in the Prevention of Caries Lesions in Children Living in Ladakh
+
+> Background: Ladakh is a region administered by India, covering an area slightly larger than Croatia; it is part of the larger region of Kashmir and Jammu. Till now, oral health data on population living in Ladakh are not available. The aim of the present preventive project will be to record the caries prevalence of schoolchildren living in Ladakh and to implement a school-based xylitol program using chewing gums in order to reduce caries incidence. Methods: The protocol of the Caries Prevention Xylitol in Children (CaPreXCh) trial is designed as a triple-blind randomized, controlled, parallel-group clinical trial in children aged 5-14 years. The study will be carried out from August 2021 to August 2024 in Zanskar Valley (Ladakh). Participants will be randomly allocated into two groups: subjects who will receive a 100% xylitol chewing gum, and those who will receive a 22% xylitol gum. The subjects will be instructed to chew a total of 6 pellets for 5 min divided into 3 intakes a day (2 in the morning, 2 after the midday meal and 2 in the afternoon) for one school-year. Clinical examination will comprise an oral examination: caries index (ICDAS scores), bleeding on probing recording and evaluation of plaque pH fluctuation after sucrose challenge and will be performed at baseline (t0) and repeated 12 months at the end of the chewing-gum administration period (t1) as interim examination, after 12 months (t2) and 24 months (t3) after the end of the experimental period (chewing gum use). The primary outcome will be the caries increment measured both at enamel and dentinal level. Data analysis will be conducted through Kaplan-Meyer graphs to evaluate caries increment as primary outcome, and the methods will be compared to each other with Cox regression with shared frailty. The net caries increment for initial, moderate and severe caries level, using ICDAS (Δ-initial, Δ-moderate and Δ-severe), will be calculated. Discussion: This is the first clinical trial to assess the ef
+
+## Identity
+
+- **Record id**: `dea:experiment-nct04420780-effect-of-the-use-of-xylitol-gum-in-j99tx4`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT04420780 (ClinicalTrials.gov; status WITHDRAWN)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

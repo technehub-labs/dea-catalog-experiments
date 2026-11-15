@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05393635
 name: NCT05393635 — ITIL-168 in Advanced Solid Tumors
-description: DELTA-2 is a phase 1 clinical trial to evaluate the safety, feasibility, and preliminary
-  efficacy of ITIL-168 with pembrolizumab in participants with advanced cancer whose disease has progressed
-  after standard therapy. ITIL-168 is a cell therapy derived from a patient's own tumor-infiltrating immune
-  cells (lymphocytes; TILs). (NCT NCT05393635; status WITHDRAWN).
-hypothesis: DELTA-2 is a phase 1 clinical trial to evaluate the safety, feasibility, and preliminary efficacy
-  of ITIL-168 with pembrolizumab in participants with advanced cancer whose disease has progressed after
+description: DELTA-2 is a phase 1 clinical trial to evaluate the safety, feasibility,
+  and preliminary efficacy of ITIL-168 with pembrolizumab in participants with advanced
+  cancer whose disease has progressed after standard therapy. ITIL-168 is a cell therapy
+  derived from a patient's own tumor-infiltrating immune cells (lymphocytes; TILs).
+  (NCT NCT05393635; status WITHDRAWN).
+hypothesis: DELTA-2 is a phase 1 clinical trial to evaluate the safety, feasibility,
+  and preliminary efficacy of ITIL-168 with pembrolizumab in participants with advanced
+  cancer whose disease has progressed after
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05393635 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05393635 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct05393635-itil-168-in-advanced-solid-tumors
+assigned_id: dea:experiment-nct05393635-itil-168-in-advanced-solid-tumors-7q4ny6
+admitted: '2026-11-15'

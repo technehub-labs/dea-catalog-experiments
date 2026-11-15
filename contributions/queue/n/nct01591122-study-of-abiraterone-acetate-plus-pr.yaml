@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01591122
-name: NCT01591122 — Study of Abiraterone Acetate Plus Prednisone in Patients With Chemo-naive Metastatic
-  Castration-Resistant Prostate Cancer
-description: The purpose of this study is to demonstrate the safety and effectiveness of abiraterone acetate
-  when co-administered with prednisone in patients with chemo-naive metastatic castration resistant prostate
-  Cancer (mCRPC). (NCT NCT01591122; status COMPLETED).
-hypothesis: The purpose of this study is to demonstrate the safety and effectiveness of abiraterone acetate
-  when co-administered with prednisone in patients with chemo-naive metastatic castration resistant prosta
+name: NCT01591122 — Study of Abiraterone Acetate Plus Prednisone in Patients With
+  Chemo-naive Metastatic Castration-Resistant Prostate Cancer
+description: The purpose of this study is to demonstrate the safety and effectiveness
+  of abiraterone acetate when co-administered with prednisone in patients with chemo-naive
+  metastatic castration resistant prostate Cancer (mCRPC). (NCT NCT01591122; status
+  COMPLETED).
+hypothesis: The purpose of this study is to demonstrate the safety and effectiveness
+  of abiraterone acetate when co-administered with prednisone in patients with chemo-naive
+  metastatic castration resistant prosta
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01591122 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01591122 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01591122-study-of-abiraterone-acetate-plus-pr
+assigned_id: dea:experiment-nct01591122-study-of-abiraterone-acetate-plus-pr-z62p9e
+admitted: '2026-11-15'

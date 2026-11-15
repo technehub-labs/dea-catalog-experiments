@@ -1,24 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01563562
-name: NCT01563562 — Single-Dose, Open-Label Pharmacokinetic Study of Bardoxolone Methyl in Subjects With
-  Mild, Moderate, and Severe Hepatic Impairment and Normal Hepatic Function
-description: The purpose of this study is to assess the pharmacokinetic profile of bardoxolone methyl
-  following a single oral dose of 20 mg bardoxolone methyl in subjects with mild, moderate, and severe
-  hepatic impairment, as compared to healthy volunteers. (NCT NCT01563562; status COMPLETED).
-hypothesis: The purpose of this study is to assess the pharmacokinetic profile of bardoxolone methyl following
-  a single oral dose of 20 mg bardoxolone methyl in subjects with mild, moderate, and severe hepatic im
+name: NCT01563562 — Single-Dose, Open-Label Pharmacokinetic Study of Bardoxolone Methyl
+  in Subjects With Mild, Moderate, and Severe Hepatic Impairment and Normal Hepatic
+  Function
+description: The purpose of this study is to assess the pharmacokinetic profile of
+  bardoxolone methyl following a single oral dose of 20 mg bardoxolone methyl in subjects
+  with mild, moderate, and severe hepatic impairment, as compared to healthy volunteers.
+  (NCT NCT01563562; status COMPLETED).
+hypothesis: The purpose of this study is to assess the pharmacokinetic profile of
+  bardoxolone methyl following a single oral dose of 20 mg bardoxolone methyl in subjects
+  with mild, moderate, and severe hepatic im
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01563562 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01563562 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01563562-single-dose-open-label-pharmacokinet
+assigned_id: dea:experiment-nct01563562-single-dose-open-label-pharmacokinet-kw9k42
+admitted: '2026-11-15'

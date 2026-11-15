@@ -1,0 +1,40 @@
+id: dea:experiment-nct06601361-studying-non-alcoholic-fatty-liver-d-sunk9s
+type: Experiment
+name: NCT06601361 — Studying Non Alcoholic Fatty Liver Disease and Liver Fibrosis
+  Among Systemic Lupus Erythematosus Patients at Assiut University Hospital
+description: Aim of the study :- 1. to estimate prevalence of non alcoholic fatty
+  liver disease and liver fibrosis among Systemic lupus erythematosus patients 2.
+  to determine risk factors in SLE patients contributing to NAFLD and liver fibrosis
+  (NCT NCT06601361; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Aim of the study :- 1. to estimate prevalence of non alcoholic fatty liver
+  disease and liver fibrosis among Systemic lupus erythematosus patients 2. to determine
+  risk factors in SLE patients contribut
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06601361 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

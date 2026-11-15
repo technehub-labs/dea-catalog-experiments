@@ -1,0 +1,43 @@
+id: dea:experiment-nct03609125-cord-blood-serum-in-the-treatment-of-sy8s8g
+type: Experiment
+name: NCT03609125 — Cord Blood Serum in the Treatment of Neuro-Degenerative Ophthalmic
+  Diseases. 1-Glaucoma
+description: A non-randomized, monocentric clinical study with a four month follow-up
+  period , using a cord blood serum (CBS) eye drops in glaucoma patients. The purpose
+  of the study analyzes whether the addition of CBS to hypotonic therapy is able to
+  slow down the progression of anatomical and functional damage induced by glaucoma.
+  The study evaluates the differences after two months of treatment as compared to
+  baseline and after two-month from the end of the treatment. (NCT NCT03609125; status
+  COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'A non-randomized, monocentric clinical study with a four month follow-up
+  period , using a cord blood serum (CBS) eye drops in glaucoma patients. The purpose
+  of the study analyzes whether the addition '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03609125 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

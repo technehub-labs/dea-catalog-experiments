@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05583669
-name: NCT05583669 — A Study to Assess the Safety and Pharmacokinetics of Multiple Ascending Subcutaneous
-  Doses of DS-2325a in Healthy Subjects
-description: Netherton syndrome (NS) is a rare autosomal recessive disease and no systemic treatment or
-  standard of care currently exists for patients with NS. DS-2325a, a specific and potent inhibitor of
-  kallikrein 5, is expected to treat NS by replacing a defective gene. (NCT NCT05583669; status COMPLETED).
-hypothesis: Netherton syndrome (NS) is a rare autosomal recessive disease and no systemic treatment or
-  standard of care currently exists for patients with NS. DS-2325a, a specific and potent inhibitor of
-  kallikre
+name: NCT05583669 — A Study to Assess the Safety and Pharmacokinetics of Multiple
+  Ascending Subcutaneous Doses of DS-2325a in Healthy Subjects
+description: Netherton syndrome (NS) is a rare autosomal recessive disease and no
+  systemic treatment or standard of care currently exists for patients with NS. DS-2325a,
+  a specific and potent inhibitor of kallikrein 5, is expected to treat NS by replacing
+  a defective gene. (NCT NCT05583669; status COMPLETED).
+hypothesis: Netherton syndrome (NS) is a rare autosomal recessive disease and no systemic
+  treatment or standard of care currently exists for patients with NS. DS-2325a, a
+  specific and potent inhibitor of kallikre
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05583669 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05583669 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05583669-a-study-to-assess-the-safety-and-pha
+assigned_id: dea:experiment-nct05583669-a-study-to-assess-the-safety-and-pha-98t5pn
+admitted: '2026-11-15'

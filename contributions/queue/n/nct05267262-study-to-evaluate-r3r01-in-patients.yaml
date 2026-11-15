@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05267262
-name: NCT05267262 — Study to Evaluate R3R01 in Patients With Alport Syndrome and Patients With Focal Segmental
-  Glomerulosclerosis
-description: This is a Phase 2, Multi-center, Open-Label Study to Assess Safety, Tolerability, Efficacy
-  and Pharmacokinetics of R3R01 in Alport Syndrome Patients with Uncontrolled Proteinuria on ACE/ARB Inhibition
-  and in Patients with Primary Steroid-Resistant Focal Segmental Glomerulosclerosis (NCT NCT05267262;
-  status COMPLETED).
-hypothesis: This is a Phase 2, Multi-center, Open-Label Study to Assess Safety, Tolerability, Efficacy
-  and Pharmacokinetics of R3R01 in Alport Syndrome Patients with Uncontrolled Proteinuria on ACE/ARB Inhibition
+name: NCT05267262 — Study to Evaluate R3R01 in Patients With Alport Syndrome and Patients
+  With Focal Segmental Glomerulosclerosis
+description: This is a Phase 2, Multi-center, Open-Label Study to Assess Safety, Tolerability,
+  Efficacy and Pharmacokinetics of R3R01 in Alport Syndrome Patients with Uncontrolled
+  Proteinuria on ACE/ARB Inhibition and in Patients with Primary Steroid-Resistant
+  Focal Segmental Glomerulosclerosis (NCT NCT05267262; status COMPLETED).
+hypothesis: This is a Phase 2, Multi-center, Open-Label Study to Assess Safety, Tolerability,
+  Efficacy and Pharmacokinetics of R3R01 in Alport Syndrome Patients with Uncontrolled
+  Proteinuria on ACE/ARB Inhibition
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05267262 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05267262 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05267262-study-to-evaluate-r3r01-in-patients
+assigned_id: dea:experiment-nct05267262-study-to-evaluate-r3r01-in-patients-exvx43
+admitted: '2026-11-15'

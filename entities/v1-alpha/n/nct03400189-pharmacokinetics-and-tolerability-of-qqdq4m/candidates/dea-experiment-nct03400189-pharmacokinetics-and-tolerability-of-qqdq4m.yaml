@@ -1,0 +1,41 @@
+id: dea:experiment-nct03400189-pharmacokinetics-and-tolerability-of-qqdq4m
+type: Experiment
+name: NCT03400189 — Pharmacokinetics and Tolerability of Sulthiame
+description: This preliminary pilot exploration aims at specifying the pharmacokinetic
+  parameters of sulthiame, formulated as an immediate release tablet, thus helping
+  to design proper clinical trials for the future assessment of new paediatric formulations
+  currently under development. The clinical tolerability to single doses of sulthiame
+  will also be closely monitored to orient future trials. (NCT NCT03400189; status
+  COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This preliminary pilot exploration aims at specifying the pharmacokinetic
+  parameters of sulthiame, formulated as an immediate release tablet, thus helping
+  to design proper clinical trials for the futu
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03400189 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

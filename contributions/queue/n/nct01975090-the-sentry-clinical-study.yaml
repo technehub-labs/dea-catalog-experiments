@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01975090
 name: NCT01975090 — The SENTRY Clinical Study
-description: The SENTRY Bioconvertible Inferior Vena Cava (IVC) Filter has been developed to provide temporary
-  protection against pulmonary embolism (PE). (NCT NCT01975090; status COMPLETED).
-hypothesis: The SENTRY Bioconvertible Inferior Vena Cava (IVC) Filter has been developed to provide temporary
-  protection against pulmonary embolism (PE).
+description: The SENTRY Bioconvertible Inferior Vena Cava (IVC) Filter has been developed
+  to provide temporary protection against pulmonary embolism (PE). (NCT NCT01975090;
+  status COMPLETED).
+hypothesis: The SENTRY Bioconvertible Inferior Vena Cava (IVC) Filter has been developed
+  to provide temporary protection against pulmonary embolism (PE).
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01975090 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01975090 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01975090-the-sentry-clinical-study
+assigned_id: dea:experiment-nct01975090-the-sentry-clinical-study-hbgr7e
+admitted: '2026-11-15'

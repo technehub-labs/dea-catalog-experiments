@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03690531
-name: NCT03690531 — Efficacy of Mindfulness as an Intervention in the Pediatric Emergency Department
-description: Non-pharmacological interventions including distraction techniques (ie., games, ipads, bubbles,
-  stickers) are standard of care in reducing situation anxiety for children in the pediatric emergency
-  department. The goal of the study is to evaluate the efficacy of a mindfulness based virtual reality
-  (mbVR) tool (Take-Pause) for pediatric patients age \> 12 years. The study team will be providing children
-  with a virtual reality experience upon arrival to the emergency department and measuring the effectiveness
-  of the intervention versus standard of care (Ipads, games). Subjective measurements will include questionnaires
-  and objective measurements will include vital signs. (NCT NCT03690531; status COMPLETED).
-hypothesis: Non-pharmacological interventions including distraction techniques (ie., games, ipads, bubbles,
-  stickers) are standard of care in reducing situation anxiety for children in the pediatric emergency
-  dep
+name: NCT03690531 — Efficacy of Mindfulness as an Intervention in the Pediatric Emergency
+  Department
+description: Non-pharmacological interventions including distraction techniques (ie.,
+  games, ipads, bubbles, stickers) are standard of care in reducing situation anxiety
+  for children in the pediatric emergency department. The goal of the study is to
+  evaluate the efficacy of a mindfulness based virtual reality (mbVR) tool (Take-Pause)
+  for pediatric patients age \> 12 years. The study team will be providing children
+  with a virtual reality experience upon arrival to the emergency department and measuring
+  the effectiveness of the intervention versus standard of care (Ipads, games). Subjective
+  measurements will include questionnaires and objective measurements will include
+  vital signs. (NCT NCT03690531; status COMPLETED).
+hypothesis: Non-pharmacological interventions including distraction techniques (ie.,
+  games, ipads, bubbles, stickers) are standard of care in reducing situation anxiety
+  for children in the pediatric emergency dep
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03690531 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03690531 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03690531-efficacy-of-mindfulness-as-an-interv
+assigned_id: dea:experiment-nct03690531-efficacy-of-mindfulness-as-an-interv-gejy5r
+admitted: '2026-11-15'

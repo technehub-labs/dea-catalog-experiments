@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07305935
-name: NCT07305935 — Comparison of Early Caffeine Administration Vs Supportive Therapy in Preventing Acute
-  Kidney Injury
-description: Recent observational data point towards a reduced incidence of acute kidney injury (AKI)
-  with early caffeine use, but high-quality randomized controlled trials comparing early caffeine initiation
-  to supportive therapy alone are lacking. This study aims to fill this critical gap by comparing the
-  efficacy of early caffeine administration versus supportive therapy in preventing AKI in preterm neonates.
+name: NCT07305935 — Comparison of Early Caffeine Administration Vs Supportive Therapy
+  in Preventing Acute Kidney Injury
+description: Recent observational data point towards a reduced incidence of acute
+  kidney injury (AKI) with early caffeine use, but high-quality randomized controlled
+  trials comparing early caffeine initiation to supportive therapy alone are lacking.
+  This study aims to fill this critical gap by comparing the efficacy of early caffeine
+  administration versus supportive therapy in preventing AKI in preterm neonates.
   (NCT NCT07305935; status COMPLETED).
-hypothesis: Recent observational data point towards a reduced incidence of acute kidney injury (AKI) with
-  early caffeine use, but high-quality randomized controlled trials comparing early caffeine initiation
-  to s
+hypothesis: Recent observational data point towards a reduced incidence of acute kidney
+  injury (AKI) with early caffeine use, but high-quality randomized controlled trials
+  comparing early caffeine initiation to s
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07305935 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07305935 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct07305935-comparison-of-early-caffeine-adminis
+assigned_id: dea:experiment-nct07305935-comparison-of-early-caffeine-adminis-4quhd2
+admitted: '2026-11-15'

@@ -1,24 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00897910
-name: NCT00897910 — Studying T Cells in Blood and Bone Marrow Samples From Patients With Multiple Myeloma
-description: 'RATIONALE: Studying samples of blood and bone marrow from patients with cancer in the laboratory
-  may help doctors learn more about T cells and plan better treatment for multiple myeloma. PURPOSE: This
-  research study is looking at T cells in blood and bone marrow samples from patients with multiple myeloma.
-  (NCT NCT00897910; status TERMINATED).'
-hypothesis: 'RATIONALE: Studying samples of blood and bone marrow from patients with cancer in the laboratory
-  may help doctors learn more about T cells and plan better treatment for multiple myeloma. PURPOSE: This'
+name: NCT00897910 — Studying T Cells in Blood and Bone Marrow Samples From Patients
+  With Multiple Myeloma
+description: 'RATIONALE: Studying samples of blood and bone marrow from patients with
+  cancer in the laboratory may help doctors learn more about T cells and plan better
+  treatment for multiple myeloma. PURPOSE: This research study is looking at T cells
+  in blood and bone marrow samples from patients with multiple myeloma. (NCT NCT00897910;
+  status TERMINATED).'
+hypothesis: 'RATIONALE: Studying samples of blood and bone marrow from patients with
+  cancer in the laboratory may help doctors learn more about T cells and plan better
+  treatment for multiple myeloma. PURPOSE: This'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00897910 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00897910 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct00897910-studying-t-cells-in-blood-and-bone-m
+assigned_id: dea:experiment-nct00897910-studying-t-cells-in-blood-and-bone-m-3zmhzp
+admitted: '2026-11-15'

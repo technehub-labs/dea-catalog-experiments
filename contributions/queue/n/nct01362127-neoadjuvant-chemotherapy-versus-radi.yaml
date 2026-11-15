@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01362127
-name: NCT01362127 — Neoadjuvant Chemotherapy Versus Radiochemotherapy for Cancer of the Esophagus or Cardia
-description: The purpose of this randomized study is to clarify if neoadjuvant radiochemotherapy gives
-  a higher degree of complete histological response than neoadjuvant chemotherapy before surgery in patients
-  undergoing treatment for cancer of the esophagus or cardia. (NCT NCT01362127; status COMPLETED).
-hypothesis: The purpose of this randomized study is to clarify if neoadjuvant radiochemotherapy gives
-  a higher degree of complete histological response than neoadjuvant chemotherapy before surgery in patients
-  und
+name: NCT01362127 — Neoadjuvant Chemotherapy Versus Radiochemotherapy for Cancer of
+  the Esophagus or Cardia
+description: The purpose of this randomized study is to clarify if neoadjuvant radiochemotherapy
+  gives a higher degree of complete histological response than neoadjuvant chemotherapy
+  before surgery in patients undergoing treatment for cancer of the esophagus or cardia.
+  (NCT NCT01362127; status COMPLETED).
+hypothesis: The purpose of this randomized study is to clarify if neoadjuvant radiochemotherapy
+  gives a higher degree of complete histological response than neoadjuvant chemotherapy
+  before surgery in patients und
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01362127 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01362127 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01362127-neoadjuvant-chemotherapy-versus-radi
+assigned_id: dea:experiment-nct01362127-neoadjuvant-chemotherapy-versus-radi-ju2b6a
+admitted: '2026-11-15'

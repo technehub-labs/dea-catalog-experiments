@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04909242
-name: NCT04909242 — Assessing the Safety, Tolerability and Pharmacokinetics(PK) of DZD9008 and the Effect
-  of Low-fat Meal on PK of DZD9008 in Healthy Adult Participants
-description: 'This is a Phase 1, randomised, double-blind, placebo-controlled, single ascending dose sequential
-  group study in healthy participants. This study consists of three parts: Part A (single dose escalation,
-  SAD) , Part B (food effect, FE) and Part C (relative bioavailability, BA). (NCT NCT04909242; status
-  COMPLETED).'
-hypothesis: 'This is a Phase 1, randomised, double-blind, placebo-controlled, single ascending dose sequential
-  group study in healthy participants. This study consists of three parts: Part A (single dose escalatio'
+name: NCT04909242 — Assessing the Safety, Tolerability and Pharmacokinetics(PK) of
+  DZD9008 and the Effect of Low-fat Meal on PK of DZD9008 in Healthy Adult Participants
+description: 'This is a Phase 1, randomised, double-blind, placebo-controlled, single
+  ascending dose sequential group study in healthy participants. This study consists
+  of three parts: Part A (single dose escalation, SAD) , Part B (food effect, FE)
+  and Part C (relative bioavailability, BA). (NCT NCT04909242; status COMPLETED).'
+hypothesis: 'This is a Phase 1, randomised, double-blind, placebo-controlled, single
+  ascending dose sequential group study in healthy participants. This study consists
+  of three parts: Part A (single dose escalatio'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04909242 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04909242 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04909242-assessing-the-safety-tolerability-an
+assigned_id: dea:experiment-nct04909242-assessing-the-safety-tolerability-an-kddsxh
+admitted: '2026-11-15'

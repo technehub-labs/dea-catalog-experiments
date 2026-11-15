@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05002205
 name: 'NCT05002205 — Long-term Effects of COVID-19: a Comparative Cohort Study'
-description: This study is a longitudinal cohort study which investigates the effect of COVID-19 in ambulatory
-  care. This study aims to assess the effect of COVID-19 beyond the acute phase, i.e. on long-term symptoms,
-  respiratory and cardiovascular health, use of health services, and quality of life. (NCT NCT05002205;
-  status UNKNOWN).
-hypothesis: This study is a longitudinal cohort study which investigates the effect of COVID-19 in ambulatory
-  care. This study aims to assess the effect of COVID-19 beyond the acute phase, i.e. on long-term sympt
+description: This study is a longitudinal cohort study which investigates the effect
+  of COVID-19 in ambulatory care. This study aims to assess the effect of COVID-19
+  beyond the acute phase, i.e. on long-term symptoms, respiratory and cardiovascular
+  health, use of health services, and quality of life. (NCT NCT05002205; status UNKNOWN).
+hypothesis: This study is a longitudinal cohort study which investigates the effect
+  of COVID-19 in ambulatory care. This study aims to assess the effect of COVID-19
+  beyond the acute phase, i.e. on long-term sympt
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05002205 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05002205 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05002205-long-term-effects-of-covid-19-a-comp
+assigned_id: dea:experiment-nct05002205-long-term-effects-of-covid-19-a-comp-cytqhd
+admitted: '2026-11-15'

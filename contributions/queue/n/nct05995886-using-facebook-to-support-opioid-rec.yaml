@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05995886
-name: NCT05995886 — Using Facebook to Support Opioid Recovery Among American Indian Women
-description: The purpose of this study is to find out whether a Facebook group will help Native women
-  in recovery from opioid use. (NCT NCT05995886; status RECRUITING).
-hypothesis: The purpose of this study is to find out whether a Facebook group will help Native women in
-  recovery from opioid use.
+name: NCT05995886 — Using Facebook to Support Opioid Recovery Among American Indian
+  Women
+description: The purpose of this study is to find out whether a Facebook group will
+  help Native women in recovery from opioid use. (NCT NCT05995886; status RECRUITING).
+hypothesis: The purpose of this study is to find out whether a Facebook group will
+  help Native women in recovery from opioid use.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05995886 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05995886 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct05995886-using-facebook-to-support-opioid-rec
+assigned_id: dea:experiment-nct05995886-using-facebook-to-support-opioid-rec-k2jbtx
+admitted: '2026-11-15'

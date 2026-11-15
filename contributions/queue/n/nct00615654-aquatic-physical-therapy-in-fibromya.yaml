@@ -1,29 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00615654
 name: NCT00615654 — Aquatic Physical Therapy in Fibromyalgia
-description: 'Objective: To investigate whether patients undergoing aquatic physiotherapy in groups improve
-  their functional capacity, by means of the distance covered in the six-minute walk test (6WT), and to
-  compare this with a control group. Methods: Forty women that had not been practicing regular physical
-  activity for one year were randomly allocated either to the Study Group (SG) to undergo an aquatic physiotherapy
-  program in groups applied twice a week, including aerobic exercises, muscle strengthening and relaxation
-  for 12 weeks, or to the Control Group (CG), which did not do any physical activity. Both groups maintained
-  their treatment with medications. All patients underwent two evaluations: one at the start and the other
-  after 12 weeks. (NCT NCT00615654; status COMPLETED).'
-hypothesis: 'Objective: To investigate whether patients undergoing aquatic physiotherapy in groups improve
-  their functional capacity, by means of the distance covered in the six-minute walk test (6WT), and to
-  comp'
+description: 'Objective: To investigate whether patients undergoing aquatic physiotherapy
+  in groups improve their functional capacity, by means of the distance covered in
+  the six-minute walk test (6WT), and to compare this with a control group. Methods:
+  Forty women that had not been practicing regular physical activity for one year
+  were randomly allocated either to the Study Group (SG) to undergo an aquatic physiotherapy
+  program in groups applied twice a week, including aerobic exercises, muscle strengthening
+  and relaxation for 12 weeks, or to the Control Group (CG), which did not do any
+  physical activity. Both groups maintained their treatment with medications. All
+  patients underwent two evaluations: one at the start and the other after 12 weeks.
+  (NCT NCT00615654; status COMPLETED).'
+hypothesis: 'Objective: To investigate whether patients undergoing aquatic physiotherapy
+  in groups improve their functional capacity, by means of the distance covered in
+  the six-minute walk test (6WT), and to comp'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00615654 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00615654 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00615654-aquatic-physical-therapy-in-fibromya
+assigned_id: dea:experiment-nct00615654-aquatic-physical-therapy-in-fibromya-byydpm
+admitted: '2026-11-15'

@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06375603
-name: NCT06375603 — Nerve and Plane Block Data Collection Study for the Development of Artificial Intelligence-assisted
-  Software
-description: The primary objective of this observational study is to acquire ultrasound images (raw data)
-  from nerve and plane block regions to develop artificial intelligence-guided nerve block software (Nerveblox).
-  The study aims to acquire raw ultrasound video from 200 volunteers' planned nerve and plane block regions.
-  These participants will undergo ultrasound scans administered by expert clinicians proficient in these
-  techniques in their clinical practice. The data collection devices utilized in this study are FDA-cleared
-  general-purpose ultrasound devices. (NCT NCT06375603; status COMPLETED).
-hypothesis: The primary objective of this observational study is to acquire ultrasound images (raw data)
-  from nerve and plane block regions to develop artificial intelligence-guided nerve block software (Nerveblo
+name: NCT06375603 — Nerve and Plane Block Data Collection Study for the Development
+  of Artificial Intelligence-assisted Software
+description: The primary objective of this observational study is to acquire ultrasound
+  images (raw data) from nerve and plane block regions to develop artificial intelligence-guided
+  nerve block software (Nerveblox). The study aims to acquire raw ultrasound video
+  from 200 volunteers' planned nerve and plane block regions. These participants will
+  undergo ultrasound scans administered by expert clinicians proficient in these techniques
+  in their clinical practice. The data collection devices utilized in this study are
+  FDA-cleared general-purpose ultrasound devices. (NCT NCT06375603; status COMPLETED).
+hypothesis: The primary objective of this observational study is to acquire ultrasound
+  images (raw data) from nerve and plane block regions to develop artificial intelligence-guided
+  nerve block software (Nerveblo
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06375603 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06375603 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06375603-nerve-and-plane-block-data-collectio
+assigned_id: dea:experiment-nct06375603-nerve-and-plane-block-data-collectio-w3myy5
+admitted: '2026-11-15'

@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05725070
 name: NCT05725070 — Phase 0/1 Study of 212Pb-NG001 in mCRPC
-description: The purpose of this study is to evaluate the imaging feasibility and safety of 212Pb-NG001.
-  (NCT NCT05725070; status COMPLETED).
-hypothesis: The purpose of this study is to evaluate the imaging feasibility and safety of 212Pb-NG001.
+description: The purpose of this study is to evaluate the imaging feasibility and
+  safety of 212Pb-NG001. (NCT NCT05725070; status COMPLETED).
+hypothesis: The purpose of this study is to evaluate the imaging feasibility and safety
+  of 212Pb-NG001.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05725070 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05725070 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05725070-phase-0-1-study-of-212pb-ng001-in-mc
+assigned_id: dea:experiment-nct05725070-phase-0-1-study-of-212pb-ng001-in-mc-4yjsth
+admitted: '2026-11-15'

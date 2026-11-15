@@ -1,0 +1,31 @@
+# NCT05201482 — Assessment of an Augmented Reality Low Visual Aid in Children and Young People With Visual Impairment
+
+> Approximately 24,500 children and young people (CYP) in England have a visual impairment (VI). VI refers to a loss of vision that cannot be corrected with glasses or contact lenses. Low vision aids (e.g. magnifying glasses) can help CYP with a VI see more clearly. However, current low vision aids are not suitable for many of the activities CYP regularly engage in, such as watching TV or school lessons. SightPlus is an advanced head-mounted digital low vision aid for CYP and adults. SightPlus helps people with a VI use their remaining vision to see more clearly up close and at a distance. SightPlus was recently tested at Moorfields Eye Hospital in London with 60 adults with a VI. The results showed that adults could see more clearly while using SightPlus. The study proposed here aims to find out whether SightPlus can improve the vision and quality of life of CYP aged 8-16 years with a VI. For this study, 25 CYP will come to Sheffield Children's Hospital (SCH) for an 80-minute session with parents/guardians where they will have their vision tested, complete questionnaires measuring their vision-related quality of life and functional vision (i.e. what someone can see), and learn how to use SightPlus. CYP will then be asked to use SightPlus for four weeks. Parents/guardians will record the activities CYP use SightPlus for in a home diary. After four weeks, CYP and their parents/guardians will come back to SCH for a 90-minute session where they will have their vision tested with and without SightPlus, complete another vision-related quality of life and functional vision questionnaire, hand in their home diary, and complete a feedback form about their experiences of using SightPlus. This study will help us find out whether SightPlus can improve the vision and quality of life of CYP with a VI. (NCT NCT05201482; status COMPLETED).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct05201482-assessment-of-an-augmented-reality-l-nsb96h`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT05201482 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

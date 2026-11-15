@@ -1,0 +1,31 @@
+# NCT07259603 — Association Between Vitamin D Deficiency and Inflammatory Bowel Disease
+
+> Crohn's disease (CD) and ulcerative colitis (UC) are two major types of inflammatory bowel disease (IBD) that are identified by different clinical, endoscopic, pathological, and radiologic diagnostic methods. In the past few years, the incidence of inflammatory bowel disease has been increasing worldwide, with the incidence of UC being higher than that of CD. Vitamin D is a fat-soluble vitamin that is produced in the skin by a UV-dependent reactionand then hydroxylated by the kidneys and liver, and is converted to its active form, 1,25-dihydroxyvitamin D. Vitamin D deficiency is common throughout the world and its deficiency rates ranging from 30 to 50% have been reported. Several studies have shown the role of vitamin D as a regulator of the immune system and its inhibitory function incellular immunity and production of pro-inflammatory cytokines that play a major role in autoimmune diseases. In some human studies, the link between vitamin D levels and the disease severity of IBD has been shown, but it is not clear whether lack of vitamin D is the cause or consequence. In this study, we aimed to investigate the relationship between inflammatory bowel disease and itsflare-up with serum levels of vitamin D (NCT NCT07259603; status NOT_YET_RECRUITING).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct07259603-association-between-vitamin-d-defici-4pe8du`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT07259603 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

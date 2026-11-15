@@ -1,0 +1,49 @@
+id: dea:experiment-nct05871502-glycemia-and-ischemia-reperfusion-br-we4xd5
+type: Experiment
+name: NCT05871502 — Glycemia and Ischemia Reperfusion Brain Injury in Patients With
+  Acute Cerebral Infarction Treated With Mechanical Thrombectomy
+description: Postictus hyperglycemia is associated with an accelerated transformation
+  of the ischemic penumbra into an infarct area, with increased infarct size, worse
+  recanalization, reduced cerebral perfusion, increased ischemia reperfusion damage,
+  and worse outcome. Furthermore, when perfusion is reinstated, hyperglycemia causes
+  secondary tissue damage through an increase in ischemic reperfusion damage. Thus,
+  those patients with glycemia values \< 155 mg/dL during mechanical thrombectomy,
+  and especially at the time of reperfusion, will have greater ischemia-reperfusion
+  damage, showing a different profile in miRNA expression, with better neurological
+  and functional outcomes and higher risk of hemorrhagic transformation and cerebral
+  edema. The main objective of the study is to evaluate the association between glycemia
+  values at the time of reperfusion and stroke recovery at 3 months in patients with
+  acute cerebral infarction treated with mechanical thrombectomy. (NCT NCT05871502;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Postictus hyperglycemia is associated with an accelerated transformation
+  of the ischemic penumbra into an infarct area, with increased infarct size, worse
+  recanalization, reduced cerebral perfusion, i
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05871502 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

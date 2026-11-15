@@ -1,0 +1,61 @@
+id: dea:experiment-nct03309345-body-composition-energy-intake-and-e-ukxtc4
+type: Experiment
+name: NCT03309345 — Body Composition, Energy Intake and Expenditure in People With
+  Phenylketonuria
+description: This will be case-control study investigating whether dietary intake
+  and components of energy expenditure such as Basal metabolic rate (BMR), physical
+  activity energy expenditure (PAEE) and diet induce thermogenesis (DIT) are different
+  between people with phenylketonuria (PKU) and matched healthy controls. Participants
+  will be children and adults with PKU age between 10 to 45 years old, free from history
+  of any acute and chronic illness. Participants will attend the Metabolic Research
+  Unit at New Lister Building (NLB) after 12-hour overnight fasting refraining from
+  alcohol consumption for at least 24 hours. Any planned exercise will be avoided
+  during the 48 hours prior visit to the Metabolic Research Unit. Height, body weight
+  and handgrip strength will be measured upon arrival at the unit. BMR will be assessed
+  and participants will be asked to provide baseline saliva sample followed by consumption
+  of 8 g deuterium water (D2O) diluted in drinking water. Normal or PKU-type isocaloric
+  breakfast meal will then be provided based on intervention group-type. DIT will
+  be measured 5 times for 3 hours, with each measurement lasting for 20 minutes. Two
+  saliva samples will be collected at 3 and 3.5 hours after ingestion of D2O. Participants
+  will be asked to perform an incremental intensity exercise test for 20 minutes on
+  the treadmill during which expired air will be collected and accelerometer counts
+  and heart rate will be measured. Participants will then be trained on how to recorded
+  food intake and how to use accelerometers for habitual physical activity measurements.
+  PKU participants (and their parents if ≤15 years old) will be asked to complete
+  quality of life (QoL) questionnaires. Participants will be required to wear the
+  accelerometer equipment for seven consecutive days excluding bedtime and keep a
+  record of non-wear times. During these days, they will also prospectively record
+  estimated food and beverages intake over four days including one weekend day. (NCT
+  NCT0330934
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This will be case-control study investigating whether dietary intake and
+  components of energy expenditure such as Basal metabolic rate (BMR), physical activity
+  energy expenditure (PAEE) and diet induc
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03309345 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00765882
-name: NCT00765882 — Phase III, Randomized, Double-Blind, Placebo-Controlled, Trial of Linaclotide Administered
-  to Patients With Chronic Constipation
-description: The objective of this trial is to determine the efficacy and safety of linaclotide administered
-  to patients with chronic constipation (CC). The primary efficacy parameter is the percentage of patients
-  in each treatment group that meet the protocol definition for Complete Spontaneous Bowel Movement (CSBM)
-  Overall Responder (NCT NCT00765882; status COMPLETED).
-hypothesis: The objective of this trial is to determine the efficacy and safety of linaclotide administered
-  to patients with chronic constipation (CC). The primary efficacy parameter is the percentage of patients
+name: NCT00765882 — Phase III, Randomized, Double-Blind, Placebo-Controlled, Trial
+  of Linaclotide Administered to Patients With Chronic Constipation
+description: The objective of this trial is to determine the efficacy and safety of
+  linaclotide administered to patients with chronic constipation (CC). The primary
+  efficacy parameter is the percentage of patients in each treatment group that meet
+  the protocol definition for Complete Spontaneous Bowel Movement (CSBM) Overall Responder
+  (NCT NCT00765882; status COMPLETED).
+hypothesis: The objective of this trial is to determine the efficacy and safety of
+  linaclotide administered to patients with chronic constipation (CC). The primary
+  efficacy parameter is the percentage of patients
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00765882 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00765882 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00765882-phase-iii-randomized-double-blind-pl
+assigned_id: dea:experiment-nct00765882-phase-iii-randomized-double-blind-pl-5h2t6p
+admitted: '2026-11-15'

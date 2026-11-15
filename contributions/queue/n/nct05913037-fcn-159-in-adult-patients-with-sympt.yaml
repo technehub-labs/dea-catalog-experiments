@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05913037
-name: NCT05913037 — FCN-159 in Adult Patients With Symptomatic, Inoperable Neurofibromatosis Type 1-Related
-  Plexiform Neurofibromas
-description: A study to evaluate the efficacy of FCN-159 in adult patients with symptomatic, inoperable
-  neurofibromatosis type 1-related plexiform neurofibromas. (NCT NCT05913037; status ACTIVE_NOT_RECRUITING).
-hypothesis: A study to evaluate the efficacy of FCN-159 in adult patients with symptomatic, inoperable
-  neurofibromatosis type 1-related plexiform neurofibromas.
+name: NCT05913037 — FCN-159 in Adult Patients With Symptomatic, Inoperable Neurofibromatosis
+  Type 1-Related Plexiform Neurofibromas
+description: A study to evaluate the efficacy of FCN-159 in adult patients with symptomatic,
+  inoperable neurofibromatosis type 1-related plexiform neurofibromas. (NCT NCT05913037;
+  status ACTIVE_NOT_RECRUITING).
+hypothesis: A study to evaluate the efficacy of FCN-159 in adult patients with symptomatic,
+  inoperable neurofibromatosis type 1-related plexiform neurofibromas.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05913037 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05913037 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct05913037-fcn-159-in-adult-patients-with-sympt
+assigned_id: dea:experiment-nct05913037-fcn-159-in-adult-patients-with-sympt-uzsjrf
+admitted: '2026-11-15'

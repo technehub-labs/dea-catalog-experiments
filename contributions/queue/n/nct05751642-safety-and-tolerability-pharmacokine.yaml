@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05751642
-name: NCT05751642 — Safety and Tolerability, Pharmacokinetic, and Pharmacodynamic Study of ALXN1920 in
-  Healthy Participants
-description: This study will assess the safety, tolerability, pharmacokinetics (PK), pharmacodynamics
-  (PD), and immunogenicity of single ascending doses (SADs) of ALXN1920 subcutaneous (SC) and of a single
-  dose of ALXN1920 intravenous (IV) in healthy adult participants. (NCT NCT05751642; status COMPLETED).
-hypothesis: This study will assess the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD),
-  and immunogenicity of single ascending doses (SADs) of ALXN1920 subcutaneous (SC) and of a single dose
-  of
+name: NCT05751642 — Safety and Tolerability, Pharmacokinetic, and Pharmacodynamic
+  Study of ALXN1920 in Healthy Participants
+description: This study will assess the safety, tolerability, pharmacokinetics (PK),
+  pharmacodynamics (PD), and immunogenicity of single ascending doses (SADs) of ALXN1920
+  subcutaneous (SC) and of a single dose of ALXN1920 intravenous (IV) in healthy adult
+  participants. (NCT NCT05751642; status COMPLETED).
+hypothesis: This study will assess the safety, tolerability, pharmacokinetics (PK),
+  pharmacodynamics (PD), and immunogenicity of single ascending doses (SADs) of ALXN1920
+  subcutaneous (SC) and of a single dose of
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05751642 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05751642 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05751642-safety-and-tolerability-pharmacokine
+assigned_id: dea:experiment-nct05751642-safety-and-tolerability-pharmacokine-a3xayz
+admitted: '2026-11-15'

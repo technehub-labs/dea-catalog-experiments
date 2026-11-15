@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00872118
 name: NCT00872118 — Brief Intervention for Socially Anxious College Drinkers
-description: The purpose of this study is to develop and test a new brief intervention to reduce heavy
-  drinking and social anxiety in college drinkers. (NCT NCT00872118; status COMPLETED).
-hypothesis: The purpose of this study is to develop and test a new brief intervention to reduce heavy
-  drinking and social anxiety in college drinkers.
+description: The purpose of this study is to develop and test a new brief intervention
+  to reduce heavy drinking and social anxiety in college drinkers. (NCT NCT00872118;
+  status COMPLETED).
+hypothesis: The purpose of this study is to develop and test a new brief intervention
+  to reduce heavy drinking and social anxiety in college drinkers.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00872118 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00872118 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00872118-brief-intervention-for-socially-anxi
+assigned_id: dea:experiment-nct00872118-brief-intervention-for-socially-anxi-k444te
+admitted: '2026-11-15'

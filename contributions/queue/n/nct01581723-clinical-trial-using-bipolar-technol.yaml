@@ -1,28 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01581723
-name: NCT01581723 — Clinical Trial Using Bipolar Technology for Transurethral Resection of Bladder Tumor
-description: Bladder cancer is a common urological malignant disease. Patients with bladder cancer will
-  first be managed with transurethral resection (TUR) of bladder tumor. For many years, monopolar transurethral
-  resection of bladder tumor (TURP) has been the gold standard for treatment. However, complications including
-  bleeding, bladder perforation and inadequate sampling of deep tumor biopsy remain the major concerns.
-  Recently published papers suggested that the newer bipolar TUR technology has similar surgical outcomes
-  but less complications comparing with monopolar TUR. In this study, investigators will investigate the
-  benefit of new technology as compared with conventional monopolar resection on tumor clearance, complication
-  and recurrence rates. (NCT NCT01581723; status UNKNOWN).
-hypothesis: Bladder cancer is a common urological malignant disease. Patients with bladder cancer will
-  first be managed with transurethral resection (TUR) of bladder tumor. For many years, monopolar transurethral
+name: NCT01581723 — Clinical Trial Using Bipolar Technology for Transurethral Resection
+  of Bladder Tumor
+description: Bladder cancer is a common urological malignant disease. Patients with
+  bladder cancer will first be managed with transurethral resection (TUR) of bladder
+  tumor. For many years, monopolar transurethral resection of bladder tumor (TURP)
+  has been the gold standard for treatment. However, complications including bleeding,
+  bladder perforation and inadequate sampling of deep tumor biopsy remain the major
+  concerns. Recently published papers suggested that the newer bipolar TUR technology
+  has similar surgical outcomes but less complications comparing with monopolar TUR.
+  In this study, investigators will investigate the benefit of new technology as compared
+  with conventional monopolar resection on tumor clearance, complication and recurrence
+  rates. (NCT NCT01581723; status UNKNOWN).
+hypothesis: Bladder cancer is a common urological malignant disease. Patients with
+  bladder cancer will first be managed with transurethral resection (TUR) of bladder
+  tumor. For many years, monopolar transurethral
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01581723 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01581723 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct01581723-clinical-trial-using-bipolar-technol
+assigned_id: dea:experiment-nct01581723-clinical-trial-using-bipolar-technol-nxhkkh
+admitted: '2026-11-15'

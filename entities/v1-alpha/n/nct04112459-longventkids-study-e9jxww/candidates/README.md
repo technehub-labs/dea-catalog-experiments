@@ -1,0 +1,31 @@
+# NCT04112459 — LongVentKids Study
+
+> Scientific advances, population growth, lower mortality, and increasing complexity of diseases have boosted up the number of patients requiring prolonged breathing assistance with mechanical ventilators in the pediatric intensive care units (PICU) in many parts of the developed world. Previous studies also suggest that there is a small group of children who actually need such a high level of support for extended periods of time, utilizing a lot of human and technical resources. We defined children with prolonged mechanical ventilation (PMV) if they required supports with a breathing machine for more than 14 days. We propose an international point prevalence study of children requiring PMV in PICU. We will conduct the study in multiple centers in several different regions, including North and South America, Europe, and Asian countries, with a strong relationship with local physician colleagues. Practice for patients requiring PMV will be examined including the type and size of local PICU, admission and discharge policies, and patient and treatment modalities administered to such patients, types of professionals looking after patients in PMV, types of health care. We anticipate a high variability in practices suggesting a need to further standardize the management of PMV.. Specifically, as an immediate consequence, by comparing and understanding the differences in patient demographics, practice details among PICUs in regards to the background factors of local PICUs and their patients, practitioners will share their way of dealing with such patients. In that way, this study will support the need to generate guidelines and lead to patient care improvement in PICUs. (NCT NCT04112459; status UNKNOWN).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct04112459-longventkids-study-e9jxww`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT04112459 (ClinicalTrials.gov; status UNKNOWN)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

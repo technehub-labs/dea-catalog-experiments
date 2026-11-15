@@ -1,30 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02112786
-name: NCT02112786 — Neuromodulation Implantation Settings Variation for Overactive Bladder
-description: Participants receiving neuromodulation treatment for overactive bladder symptoms will be
-  routinely fitted with an impulse generator. However, the setting on the impulse generator will be set
-  to either intermittent or continuous stimulation. Participants will complete voiding logs and surveys
-  for a month. Battery life will be interrogated.After a one week period were the device is turned off,
-  the impulse generator will be turned to the opposite setting (intermittent or continuous) and the one
-  month period will be repeated. Again, voiding logs, surveys, and battery life will be collected. The
-  purpose of this project is to investigate the outcomes of intermittent versus continuous stimulation
-  in patients treated with sacral neuromodulation (SNM) for refractory overactive bladder (OAB) syndrome.
-  In addition, the potential for an improved battery life with intermittent stimulation will be quantified.
-  (NCT NCT02112786; status WITHDRAWN).
-hypothesis: Participants receiving neuromodulation treatment for overactive bladder symptoms will be routinely
-  fitted with an impulse generator. However, the setting on the impulse generator will be set to either
+name: NCT02112786 — Neuromodulation Implantation Settings Variation for Overactive
+  Bladder
+description: Participants receiving neuromodulation treatment for overactive bladder
+  symptoms will be routinely fitted with an impulse generator. However, the setting
+  on the impulse generator will be set to either intermittent or continuous stimulation.
+  Participants will complete voiding logs and surveys for a month. Battery life will
+  be interrogated.After a one week period were the device is turned off, the impulse
+  generator will be turned to the opposite setting (intermittent or continuous) and
+  the one month period will be repeated. Again, voiding logs, surveys, and battery
+  life will be collected. The purpose of this project is to investigate the outcomes
+  of intermittent versus continuous stimulation in patients treated with sacral neuromodulation
+  (SNM) for refractory overactive bladder (OAB) syndrome. In addition, the potential
+  for an improved battery life with intermittent stimulation will be quantified. (NCT
+  NCT02112786; status WITHDRAWN).
+hypothesis: Participants receiving neuromodulation treatment for overactive bladder
+  symptoms will be routinely fitted with an impulse generator. However, the setting
+  on the impulse generator will be set to either
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02112786 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02112786 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct02112786-neuromodulation-implantation-setting
+assigned_id: dea:experiment-nct02112786-neuromodulation-implantation-setting-y45yjq
+admitted: '2026-11-15'

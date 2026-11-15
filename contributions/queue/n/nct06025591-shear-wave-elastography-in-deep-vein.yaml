@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06025591
 name: NCT06025591 — Shear-Wave Elastography in Deep Vein Thrombosis
-description: Compression ultrasonography (CUS), which is the gold-standard for the diagnosis of deep vein
-  thrombosis, cannot provide adequate information on the timing of the onset of thrombosis. Shear-Wave
-  elastography, a technique used to assess tissue elasticity and widely used in hepatology, could play
-  a crucial role in distinguishing between acute and chronic deep vein thrombosis. This study aims at
-  evaluating the efficacy and diagnostic and prognostic accuracy of Shear-Wave elastography in distinguishing
+description: Compression ultrasonography (CUS), which is the gold-standard for the
+  diagnosis of deep vein thrombosis, cannot provide adequate information on the timing
+  of the onset of thrombosis. Shear-Wave elastography, a technique used to assess
+  tissue elasticity and widely used in hepatology, could play a crucial role in distinguishing
+  between acute and chronic deep vein thrombosis. This study aims at evaluating the
+  efficacy and diagnostic and prognostic accuracy of Shear-Wave elastography in distinguishing
   between acute and chronic deep vein thrombosis. (NCT NCT06025591; status UNKNOWN).
-hypothesis: Compression ultrasonography (CUS), which is the gold-standard for the diagnosis of deep vein
-  thrombosis, cannot provide adequate information on the timing of the onset of thrombosis. Shear-Wave
-  elasto
+hypothesis: Compression ultrasonography (CUS), which is the gold-standard for the
+  diagnosis of deep vein thrombosis, cannot provide adequate information on the timing
+  of the onset of thrombosis. Shear-Wave elasto
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06025591 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06025591 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct06025591-shear-wave-elastography-in-deep-vein
+assigned_id: dea:experiment-nct06025591-shear-wave-elastography-in-deep-vein-8z3e4m
+admitted: '2026-11-15'

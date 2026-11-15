@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02809053
-name: NCT02809053 — A Randomized, Double-blind, Multi-center, Multi-national Trial to Evaluate the Efficacy,
-  Safety, and Immunogenicity of SAIT101 Versus Rituximab as a First-line Immunotherapy Treatment in
-description: This is a Randomized, Double-blind, Multi-center, Multi-national Trial to Evaluate the statistical
-  equivalence of efficacy, safety and immunogenicity of SAIT101 Versus Rituximab as a First-line Immunotherapy
-  Treatment in asymptomatic patients with Low Tumor Burden Follicular Lymphoma. (NCT NCT02809053; status
-  COMPLETED).
-hypothesis: This is a Randomized, Double-blind, Multi-center, Multi-national Trial to Evaluate the statistical
-  equivalence of efficacy, safety and immunogenicity of SAIT101 Versus Rituximab as a First-line Immuno
+name: NCT02809053 — A Randomized, Double-blind, Multi-center, Multi-national Trial
+  to Evaluate the Efficacy, Safety, and Immunogenicity of SAIT101 Versus Rituximab
+  as a First-line Immunotherapy Treatment in
+description: This is a Randomized, Double-blind, Multi-center, Multi-national Trial
+  to Evaluate the statistical equivalence of efficacy, safety and immunogenicity of
+  SAIT101 Versus Rituximab as a First-line Immunotherapy Treatment in asymptomatic
+  patients with Low Tumor Burden Follicular Lymphoma. (NCT NCT02809053; status COMPLETED).
+hypothesis: This is a Randomized, Double-blind, Multi-center, Multi-national Trial
+  to Evaluate the statistical equivalence of efficacy, safety and immunogenicity of
+  SAIT101 Versus Rituximab as a First-line Immuno
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02809053 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02809053 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02809053-a-randomized-double-blind-multi-cent
+assigned_id: dea:experiment-nct02809053-a-randomized-double-blind-multi-cent-wzfmpy
+admitted: '2026-11-15'

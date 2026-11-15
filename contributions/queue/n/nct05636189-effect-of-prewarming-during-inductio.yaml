@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05636189
-name: NCT05636189 — Effect of Prewarming During Induction of General Anesthesia Combined With Warmed Intravenous
-  Fluid on Core Temperature.
-description: Hypothermia occurs frequently during general anesthesia. This study is to evaluate the efficacy
-  of 10 minutes of prewarming during induction of general anesthesia during urologic surgery. (NCT NCT05636189;
-  status COMPLETED).
-hypothesis: Hypothermia occurs frequently during general anesthesia. This study is to evaluate the efficacy
-  of 10 minutes of prewarming during induction of general anesthesia during urologic surgery.
+name: NCT05636189 — Effect of Prewarming During Induction of General Anesthesia Combined
+  With Warmed Intravenous Fluid on Core Temperature.
+description: Hypothermia occurs frequently during general anesthesia. This study is
+  to evaluate the efficacy of 10 minutes of prewarming during induction of general
+  anesthesia during urologic surgery. (NCT NCT05636189; status COMPLETED).
+hypothesis: Hypothermia occurs frequently during general anesthesia. This study is
+  to evaluate the efficacy of 10 minutes of prewarming during induction of general
+  anesthesia during urologic surgery.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05636189 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05636189 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05636189-effect-of-prewarming-during-inductio
+assigned_id: dea:experiment-nct05636189-effect-of-prewarming-during-inductio-bkaztq
+admitted: '2026-11-15'

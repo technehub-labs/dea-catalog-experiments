@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02277769
-name: NCT02277769 — Study of Dupilumab (REGN668/SAR231893) Monotherapy Administered to Adult Patients
-  With Moderate-to-Severe Atopic Dermatitis
-description: This is a randomized, double-blind, placebo-controlled, parallel-group study to confirm the
-  efficacy and safety of Dupilumab monotherapy in adults with moderate-to-severe atopic dermatitis (AD).
-  (NCT NCT02277769; status COMPLETED).
-hypothesis: This is a randomized, double-blind, placebo-controlled, parallel-group study to confirm the
-  efficacy and safety of Dupilumab monotherapy in adults with moderate-to-severe atopic dermatitis (AD).
+name: NCT02277769 — Study of Dupilumab (REGN668/SAR231893) Monotherapy Administered
+  to Adult Patients With Moderate-to-Severe Atopic Dermatitis
+description: This is a randomized, double-blind, placebo-controlled, parallel-group
+  study to confirm the efficacy and safety of Dupilumab monotherapy in adults with
+  moderate-to-severe atopic dermatitis (AD). (NCT NCT02277769; status COMPLETED).
+hypothesis: This is a randomized, double-blind, placebo-controlled, parallel-group
+  study to confirm the efficacy and safety of Dupilumab monotherapy in adults with
+  moderate-to-severe atopic dermatitis (AD).
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02277769 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02277769 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02277769-study-of-dupilumab-regn668-sar231893
+assigned_id: dea:experiment-nct02277769-study-of-dupilumab-regn668-sar231893-w95wmt
+admitted: '2026-11-15'

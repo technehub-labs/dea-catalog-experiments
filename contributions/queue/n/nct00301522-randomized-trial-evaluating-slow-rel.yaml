@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00301522
-name: NCT00301522 — Randomized Trial Evaluating Slow-Release Formulation TAXUS Paclitaxel-Eluting Coronary
-  Stents to Treat De Novo Coronary Lesions
-description: The primary objective of this study is to further evaluate the safety and effectiveness of
-  the TAXUS Express2 Paclitaxel-Eluting Coronary Stent System in long lesion lengths, small and large
-  vessel diameters and with multiple overlapping stents in the treatment of de novo coronary artery lesions
-  (NCT NCT00301522; status COMPLETED).
-hypothesis: The primary objective of this study is to further evaluate the safety and effectiveness of
-  the TAXUS Express2 Paclitaxel-Eluting Coronary Stent System in long lesion lengths, small and large
-  vessel di
+name: NCT00301522 — Randomized Trial Evaluating Slow-Release Formulation TAXUS Paclitaxel-Eluting
+  Coronary Stents to Treat De Novo Coronary Lesions
+description: The primary objective of this study is to further evaluate the safety
+  and effectiveness of the TAXUS Express2 Paclitaxel-Eluting Coronary Stent System
+  in long lesion lengths, small and large vessel diameters and with multiple overlapping
+  stents in the treatment of de novo coronary artery lesions (NCT NCT00301522; status
+  COMPLETED).
+hypothesis: The primary objective of this study is to further evaluate the safety
+  and effectiveness of the TAXUS Express2 Paclitaxel-Eluting Coronary Stent System
+  in long lesion lengths, small and large vessel di
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00301522 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00301522 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00301522-randomized-trial-evaluating-slow-rel
+assigned_id: dea:experiment-nct00301522-randomized-trial-evaluating-slow-rel-8qts7z
+admitted: '2026-11-15'

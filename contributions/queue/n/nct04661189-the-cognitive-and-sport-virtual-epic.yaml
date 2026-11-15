@@ -1,23 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04661189
-name: NCT04661189 — The Cognitive and spOrt Virtual EPIC Training Study for Cardiovascular Diseases
-description: COVEPICARDIO trial is designed to document the effects of remote monitoring of physical exercise
-  and home-based cognitive training on cognitive and physical functions in older adults with cardiovascular
-  diseases. (NCT NCT04661189; status COMPLETED).
-hypothesis: COVEPICARDIO trial is designed to document the effects of remote monitoring of physical exercise
-  and home-based cognitive training on cognitive and physical functions in older adults with cardiovascul
+name: NCT04661189 — The Cognitive and spOrt Virtual EPIC Training Study for Cardiovascular
+  Diseases
+description: COVEPICARDIO trial is designed to document the effects of remote monitoring
+  of physical exercise and home-based cognitive training on cognitive and physical
+  functions in older adults with cardiovascular diseases. (NCT NCT04661189; status
+  COMPLETED).
+hypothesis: COVEPICARDIO trial is designed to document the effects of remote monitoring
+  of physical exercise and home-based cognitive training on cognitive and physical
+  functions in older adults with cardiovascul
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04661189 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04661189 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04661189-the-cognitive-and-sport-virtual-epic
+assigned_id: dea:experiment-nct04661189-the-cognitive-and-sport-virtual-epic-wzz495
+admitted: '2026-11-15'

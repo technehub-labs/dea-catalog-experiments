@@ -1,0 +1,38 @@
+id: dea:experiment-nct01739946-urinary-biomarkers-for-objective-mea-4r8ae9
+type: Experiment
+name: NCT01739946 — Urinary Biomarkers For Objective Measurement Of InterStim® Response
+  In Over Active Bladder (OAB) Patients.
+description: The goal of this study is to compare protein markers in the urine of
+  patients with and without overactive bladder (OAB) and InterStim®. (NCT NCT01739946;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The goal of this study is to compare protein markers in the urine of patients
+  with and without overactive bladder (OAB) and InterStim®.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01739946 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

@@ -1,23 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02266329
-name: 'NCT02266329 — Chronic Postconcussive Headache: A Placebo-Controlled Treatment Trial of Prazosin'
-description: The purpose of this study is to determine if prazosin is more effective than placebo in decreasing
-  frequency, severity, disability, and other negative effects of headaches related to mild traumatic brain
-  injury in Service Members and Veterans. (NCT NCT02266329; status COMPLETED).
-hypothesis: The purpose of this study is to determine if prazosin is more effective than placebo in decreasing
-  frequency, severity, disability, and other negative effects of headaches related to mild traumatic br
+name: 'NCT02266329 — Chronic Postconcussive Headache: A Placebo-Controlled Treatment
+  Trial of Prazosin'
+description: The purpose of this study is to determine if prazosin is more effective
+  than placebo in decreasing frequency, severity, disability, and other negative effects
+  of headaches related to mild traumatic brain injury in Service Members and Veterans.
+  (NCT NCT02266329; status COMPLETED).
+hypothesis: The purpose of this study is to determine if prazosin is more effective
+  than placebo in decreasing frequency, severity, disability, and other negative effects
+  of headaches related to mild traumatic br
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02266329 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02266329 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02266329-chronic-postconcussive-headache-a-pl
+assigned_id: dea:experiment-nct02266329-chronic-postconcussive-headache-a-pl-4zwtr3
+admitted: '2026-11-15'

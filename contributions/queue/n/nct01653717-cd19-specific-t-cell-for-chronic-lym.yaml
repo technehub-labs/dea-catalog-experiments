@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01653717
 name: NCT01653717 — CD19-specific T-cell for Chronic Lymphocytic Leukemia (CLL)
-description: The goal of this clinical research study is to find the highest tolerable dose of T cells
-  that can be given in combination with standard chemotherapy to patients with CLL. The safety of this
-  combination will also be studied. The T cells being used in this study are a type of white blood cell
-  that will be taken from your blood and then genetically changed in a laboratory. The process of changing
-  the DNA (the genetic material of cells) of the T cells is called a gene transfer. After the gene transfer
-  is complete, the genetically changed T-cells will be put back into your body. These T cells may help
-  prevent cancer cells from coming back. (NCT NCT01653717; status COMPLETED).
-hypothesis: The goal of this clinical research study is to find the highest tolerable dose of T cells
-  that can be given in combination with standard chemotherapy to patients with CLL. The safety of this
-  combinati
+description: The goal of this clinical research study is to find the highest tolerable
+  dose of T cells that can be given in combination with standard chemotherapy to patients
+  with CLL. The safety of this combination will also be studied. The T cells being
+  used in this study are a type of white blood cell that will be taken from your blood
+  and then genetically changed in a laboratory. The process of changing the DNA (the
+  genetic material of cells) of the T cells is called a gene transfer. After the gene
+  transfer is complete, the genetically changed T-cells will be put back into your
+  body. These T cells may help prevent cancer cells from coming back. (NCT NCT01653717;
+  status COMPLETED).
+hypothesis: The goal of this clinical research study is to find the highest tolerable
+  dose of T cells that can be given in combination with standard chemotherapy to patients
+  with CLL. The safety of this combinati
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01653717 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01653717 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01653717-cd19-specific-t-cell-for-chronic-lym
+assigned_id: dea:experiment-nct01653717-cd19-specific-t-cell-for-chronic-lym-dxvsr4
+admitted: '2026-11-15'

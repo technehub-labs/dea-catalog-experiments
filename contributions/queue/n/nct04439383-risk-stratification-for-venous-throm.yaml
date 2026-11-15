@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04439383
-name: NCT04439383 — Risk Stratification for Venous Thromboembolism in Hospitalized Medical Patients
-description: Hospital-acquired venous thromboembolism (HA-VTE) is one of the leading preventable causes
-  of in-hospital mortality, but prevention of VTE in hospitalized medical patients remains challenging,
-  as preventive measures such as pharmacological thromboprophylaxis (TPX) need to be tailored to individual
-  thrombotic risk. The broad objective of this project is to improve VTE prevention strategies in hospitalized
-  medical patients by prospectively examining VTE risk factors (including mobility) and comparing existing
-  risk assessment models. (NCT NCT04439383; status COMPLETED).
-hypothesis: Hospital-acquired venous thromboembolism (HA-VTE) is one of the leading preventable causes
-  of in-hospital mortality, but prevention of VTE in hospitalized medical patients remains challenging,
-  as prev
+name: NCT04439383 — Risk Stratification for Venous Thromboembolism in Hospitalized
+  Medical Patients
+description: Hospital-acquired venous thromboembolism (HA-VTE) is one of the leading
+  preventable causes of in-hospital mortality, but prevention of VTE in hospitalized
+  medical patients remains challenging, as preventive measures such as pharmacological
+  thromboprophylaxis (TPX) need to be tailored to individual thrombotic risk. The
+  broad objective of this project is to improve VTE prevention strategies in hospitalized
+  medical patients by prospectively examining VTE risk factors (including mobility)
+  and comparing existing risk assessment models. (NCT NCT04439383; status COMPLETED).
+hypothesis: Hospital-acquired venous thromboembolism (HA-VTE) is one of the leading
+  preventable causes of in-hospital mortality, but prevention of VTE in hospitalized
+  medical patients remains challenging, as prev
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04439383 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04439383 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04439383-risk-stratification-for-venous-throm
+assigned_id: dea:experiment-nct04439383-risk-stratification-for-venous-throm-vgj6jg
+admitted: '2026-11-15'

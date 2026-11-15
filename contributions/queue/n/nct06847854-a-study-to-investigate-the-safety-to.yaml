@@ -1,30 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06847854
-name: NCT06847854 — A Study to Investigate the Safety, Tolerability, Pharmacokinetics (PK) and Pharmacodynamics
-  (PD) of RO7497372 in Participants With Diabetic Macular Edema (DME)
-description: This study will assess the safety and tolerability of RO7497372 in participants with DME.
-  The study consists of 2 parts. Part 1 will test multiple-ascending doses of RO7497372 after unilateral
-  intravitreal (IVT) administration in participants with DME. The main purpose of Part 1 is to provide
-  data for RO7497372 safety and tolerability, as well as to characterize the ocular and systemic pharmacokinetics
-  (PK), systemic anti-drug antibodies (ADA), and duration of target engagement, i.e., the pharmacodynamics
-  (PD) in aqueous humor (AH) and blood. Part 2 will evaluate the safety, tolerability, PK, and PD of two
-  dose strengths of RO7497372 (low dose and high dose), identified as safe and tolerated in Part 1. (NCT
-  NCT06847854; status ACTIVE_NOT_RECRUITING).
-hypothesis: This study will assess the safety and tolerability of RO7497372 in participants with DME.
-  The study consists of 2 parts. Part 1 will test multiple-ascending doses of RO7497372 after unilateral
-  intravi
+name: NCT06847854 — A Study to Investigate the Safety, Tolerability, Pharmacokinetics
+  (PK) and Pharmacodynamics (PD) of RO7497372 in Participants With Diabetic Macular
+  Edema (DME)
+description: This study will assess the safety and tolerability of RO7497372 in participants
+  with DME. The study consists of 2 parts. Part 1 will test multiple-ascending doses
+  of RO7497372 after unilateral intravitreal (IVT) administration in participants
+  with DME. The main purpose of Part 1 is to provide data for RO7497372 safety and
+  tolerability, as well as to characterize the ocular and systemic pharmacokinetics
+  (PK), systemic anti-drug antibodies (ADA), and duration of target engagement, i.e.,
+  the pharmacodynamics (PD) in aqueous humor (AH) and blood. Part 2 will evaluate
+  the safety, tolerability, PK, and PD of two dose strengths of RO7497372 (low dose
+  and high dose), identified as safe and tolerated in Part 1. (NCT NCT06847854; status
+  ACTIVE_NOT_RECRUITING).
+hypothesis: This study will assess the safety and tolerability of RO7497372 in participants
+  with DME. The study consists of 2 parts. Part 1 will test multiple-ascending doses
+  of RO7497372 after unilateral intravi
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06847854 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06847854 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct06847854-a-study-to-investigate-the-safety-to
+assigned_id: dea:experiment-nct06847854-a-study-to-investigate-the-safety-to-btyzpy
+admitted: '2026-11-15'

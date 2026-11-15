@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03863613
 name: NCT03863613 — Pessary Versus Cerclage With or Without Progesterone in Twins
-description: This study compares the effectiveness of cervical pessary and cervical cerclage with or without
-  vaginal progesterone for prevention of preterm birth in women with a twin pregnancy and a cervix ≤28
-  mm. Participants will be randomly assigned in a 1:1:1:1 ratio to receive cerclage, pessary, cerclage
-  plus progesterone or pessary plus progesterone. (NCT NCT03863613; status TERMINATED).
-hypothesis: This study compares the effectiveness of cervical pessary and cervical cerclage with or without
-  vaginal progesterone for prevention of preterm birth in women with a twin pregnancy and a cervix ≤28
-  mm.
+description: This study compares the effectiveness of cervical pessary and cervical
+  cerclage with or without vaginal progesterone for prevention of preterm birth in
+  women with a twin pregnancy and a cervix ≤28 mm. Participants will be randomly assigned
+  in a 1:1:1:1 ratio to receive cerclage, pessary, cerclage plus progesterone or pessary
+  plus progesterone. (NCT NCT03863613; status TERMINATED).
+hypothesis: This study compares the effectiveness of cervical pessary and cervical
+  cerclage with or without vaginal progesterone for prevention of preterm birth in
+  women with a twin pregnancy and a cervix ≤28 mm.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03863613 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03863613 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct03863613-pessary-versus-cerclage-with-or-with
+assigned_id: dea:experiment-nct03863613-pessary-versus-cerclage-with-or-with-ewr5yx
+admitted: '2026-11-15'

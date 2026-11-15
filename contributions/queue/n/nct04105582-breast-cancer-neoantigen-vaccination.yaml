@@ -1,29 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04105582
-name: NCT04105582 — Breast Cancer Neoantigen Vaccination With Autologous Dendritic Cells
-description: In this project, the investigators propose the first clinical study in Colombia of vaccination
-  of patients with triple-negative breast cancer (TNBC) using synthetic peptides that contain mutations
-  of the tumor itself that will be presented to the immune system by autologous dendritic cells to assess
-  immunogenicity and safety of this type of personalized vaccine. Achieving the specific objectives set
-  out in this project will mean that the investigators can validate in Colombia the experimental design
-  necessary to identify exclusive epitopes in the tumors of the participants in this study, and also that
-  have been able to demonstrate the safety and immunogenicity of these vaccines. (NCT NCT04105582; status
-  COMPLETED).
-hypothesis: 'In this project, the investigators propose the first clinical study in Colombia of vaccination
-  of patients with triple-negative breast cancer (TNBC) using synthetic peptides that contain mutations
-  of '
+name: NCT04105582 — Breast Cancer Neoantigen Vaccination With Autologous Dendritic
+  Cells
+description: In this project, the investigators propose the first clinical study in
+  Colombia of vaccination of patients with triple-negative breast cancer (TNBC) using
+  synthetic peptides that contain mutations of the tumor itself that will be presented
+  to the immune system by autologous dendritic cells to assess immunogenicity and
+  safety of this type of personalized vaccine. Achieving the specific objectives set
+  out in this project will mean that the investigators can validate in Colombia the
+  experimental design necessary to identify exclusive epitopes in the tumors of the
+  participants in this study, and also that have been able to demonstrate the safety
+  and immunogenicity of these vaccines. (NCT NCT04105582; status COMPLETED).
+hypothesis: 'In this project, the investigators propose the first clinical study in
+  Colombia of vaccination of patients with triple-negative breast cancer (TNBC) using
+  synthetic peptides that contain mutations of '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04105582 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04105582 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04105582-breast-cancer-neoantigen-vaccination
+assigned_id: dea:experiment-nct04105582-breast-cancer-neoantigen-vaccination-gru9kz
+admitted: '2026-11-15'

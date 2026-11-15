@@ -1,25 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02268422
 name: NCT02268422 — Bioequivalence and Adhesion Comparison of Buprenorphine Patches
-description: To compare a 2nd generation Buprenorphine Transdermal System (BTDS) patch with a marketed
-  1st generation BTDS patch to confirm that the two are bioequivalent (deliver the same amount of drug)
-  and that they equally both stick to the skin over 7 days of continuous wear. (NCT NCT02268422; status
-  COMPLETED).
-hypothesis: To compare a 2nd generation Buprenorphine Transdermal System (BTDS) patch with a marketed
-  1st generation BTDS patch to confirm that the two are bioequivalent (deliver the same amount of drug)
-  and that
+description: To compare a 2nd generation Buprenorphine Transdermal System (BTDS) patch
+  with a marketed 1st generation BTDS patch to confirm that the two are bioequivalent
+  (deliver the same amount of drug) and that they equally both stick to the skin over
+  7 days of continuous wear. (NCT NCT02268422; status COMPLETED).
+hypothesis: To compare a 2nd generation Buprenorphine Transdermal System (BTDS) patch
+  with a marketed 1st generation BTDS patch to confirm that the two are bioequivalent
+  (deliver the same amount of drug) and that
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02268422 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02268422 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02268422-bioequivalence-and-adhesion-comparis
+assigned_id: dea:experiment-nct02268422-bioequivalence-and-adhesion-comparis-bz4raa
+admitted: '2026-11-15'

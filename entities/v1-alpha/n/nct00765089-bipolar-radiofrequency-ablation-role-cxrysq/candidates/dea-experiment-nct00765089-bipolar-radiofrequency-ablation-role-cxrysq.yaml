@@ -1,0 +1,47 @@
+id: dea:experiment-nct00765089-bipolar-radiofrequency-ablation-role-cxrysq
+type: Experiment
+name: NCT00765089 — Bipolar Radiofrequency Ablation -Role in Prevention of Postoperative
+  Atrial Fibrillation
+description: Atrial Fibrillation (AF) is one of the most common postoperative complications
+  after coronary artery bypass grafting (CABG). Postoperative AF produces a substantial
+  impact on hospital resources with an estimated annual expenditure of over $1 billion.
+  This includes the cost of pharmacological treatment and the cost of the increased
+  length of stay. The incidence of AF is about 30-40% in CABG patients and increases
+  with age of the patient. As the average age of the patient that undergoes CABG surgery
+  is increasing, it is critical to find a way to prevent or reduce the incidence of
+  this complication. We propose a prospective, randomized, controlled study to determine
+  the role of pulmonary vein isolation by bipolar ablation in the prevention or reduction
+  of postoperative AF. The block- randomization plan will be used to maintain balance
+  of the study and control arms throughout the study. (NCT NCT00765089; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Atrial Fibrillation (AF) is one of the most common postoperative complications
+  after coronary artery bypass grafting (CABG). Postoperative AF produces a substantial
+  impact on hospital resources with a
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00765089 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

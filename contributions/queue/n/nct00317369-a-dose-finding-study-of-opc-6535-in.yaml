@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00317369
-name: NCT00317369 — A Dose-finding Study of OPC-6535 in Patients With Active Crohn's Disease
-description: The purpose of this study to examine the safety and efficacy of OPC-6535 and determine its
-  optimal dose by once-daily oral administration at 0, 25, or 50 mg for 8 weeks in combination with a
-  fixed oral dose of 5-aminosalicylic acid (5-ASA) or in combination with a fixed oral dose of 5-ASA and
-  enteral nutrition in patients with active Crohn's disease. (NCT NCT00317369; status TERMINATED).
-hypothesis: The purpose of this study to examine the safety and efficacy of OPC-6535 and determine its
-  optimal dose by once-daily oral administration at 0, 25, or 50 mg for 8 weeks in combination with a
-  fixed ora
+name: NCT00317369 — A Dose-finding Study of OPC-6535 in Patients With Active Crohn's
+  Disease
+description: The purpose of this study to examine the safety and efficacy of OPC-6535
+  and determine its optimal dose by once-daily oral administration at 0, 25, or 50
+  mg for 8 weeks in combination with a fixed oral dose of 5-aminosalicylic acid (5-ASA)
+  or in combination with a fixed oral dose of 5-ASA and enteral nutrition in patients
+  with active Crohn's disease. (NCT NCT00317369; status TERMINATED).
+hypothesis: The purpose of this study to examine the safety and efficacy of OPC-6535
+  and determine its optimal dose by once-daily oral administration at 0, 25, or 50
+  mg for 8 weeks in combination with a fixed ora
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00317369 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00317369 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct00317369-a-dose-finding-study-of-opc-6535-in
+assigned_id: dea:experiment-nct00317369-a-dose-finding-study-of-opc-6535-in-tvckn4
+admitted: '2026-11-15'

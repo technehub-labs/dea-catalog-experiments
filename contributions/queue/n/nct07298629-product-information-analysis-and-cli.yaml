@@ -1,41 +1,49 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07298629
-name: NCT07298629 — Product Information Analysis and Clinical Verification - Clinical Verification of
-  New Smart Health Medical Shoes/Insoles
-description: As part of foot orthotics, insoles play a crucial role in adjusting biomechanical malalignments
-  of the foot and regulating foot pressure. They are commonly used as a clinical tool for correcting foot
-  problems. Currently, most customized insole manufacturing processes mainly depend on traditional or
-  subtractive methods, highly dependent on the manual technology of the manufacturer, and the production
-  capacity is constrained by working hours and cannot be manufactured in large quantities. Consequently,
-  people often need to wait for one to two months with poor timeliness. The 3D printing insole fabrication
-  process offers significant advantages in customization with high design flexibility and freedom. Utilizing
-  microstructural zoning designs can better combine different regional characteristic requirements, thus
-  closely addressing individual requirements. The purpose of this project is to validate the medical process
-  after the initial development of the novel intelligent health medical insole and subsequently introduce
-  the new intelligent health medical insole into clinical applications within medical institutions. The
-  project plans to recruit 30 participants with foot pain. Participants will be required to provide basic
-  information and evaluated their foot condition. the Tiger Scan 3D full-foot scanning equipment will
-  be used to capture the participants' 3D foot models. Insoles will be customized based on the assessment
-  results, incorporating features such as heel cups, arch supports, and medial wedges. Relevant parameters
-  will be uploaded to a RESTful API correction information platform. Then, the clinical recommendations
-  for adjustment parameters will be output to a 3D printer, producing customized insoles with selective
-  laser sintering (SLS) technology. The outcome assessments encompass short-term and long-term evaluations.
-  Short-term assessments include kinematics and dynamic analysis, foot pressure distribution, physical
-  performance, and foot morphology. Long-ter
-hypothesis: 'As part of foot orthotics, insoles play a crucial role in adjusting biomechanical malalignments
-  of the foot and regulating foot pressure. They are commonly used as a clinical tool for correcting foot '
+name: NCT07298629 — Product Information Analysis and Clinical Verification - Clinical
+  Verification of New Smart Health Medical Shoes/Insoles
+description: As part of foot orthotics, insoles play a crucial role in adjusting biomechanical
+  malalignments of the foot and regulating foot pressure. They are commonly used as
+  a clinical tool for correcting foot problems. Currently, most customized insole
+  manufacturing processes mainly depend on traditional or subtractive methods, highly
+  dependent on the manual technology of the manufacturer, and the production capacity
+  is constrained by working hours and cannot be manufactured in large quantities.
+  Consequently, people often need to wait for one to two months with poor timeliness.
+  The 3D printing insole fabrication process offers significant advantages in customization
+  with high design flexibility and freedom. Utilizing microstructural zoning designs
+  can better combine different regional characteristic requirements, thus closely
+  addressing individual requirements. The purpose of this project is to validate the
+  medical process after the initial development of the novel intelligent health medical
+  insole and subsequently introduce the new intelligent health medical insole into
+  clinical applications within medical institutions. The project plans to recruit
+  30 participants with foot pain. Participants will be required to provide basic information
+  and evaluated their foot condition. the Tiger Scan 3D full-foot scanning equipment
+  will be used to capture the participants' 3D foot models. Insoles will be customized
+  based on the assessment results, incorporating features such as heel cups, arch
+  supports, and medial wedges. Relevant parameters will be uploaded to a RESTful API
+  correction information platform. Then, the clinical recommendations for adjustment
+  parameters will be output to a 3D printer, producing customized insoles with selective
+  laser sintering (SLS) technology. The outcome assessments encompass short-term and
+  long-term evaluations. Short-term assessments include kinematics and dynamic analysis,
+  foot pressure distribution, physical performance, and foot morphology. Long-ter
+hypothesis: 'As part of foot orthotics, insoles play a crucial role in adjusting biomechanical
+  malalignments of the foot and regulating foot pressure. They are commonly used as
+  a clinical tool for correcting foot '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07298629 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07298629 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07298629-product-information-analysis-and-cli
+assigned_id: dea:experiment-nct07298629-product-information-analysis-and-cli-44wawh
+admitted: '2026-11-15'

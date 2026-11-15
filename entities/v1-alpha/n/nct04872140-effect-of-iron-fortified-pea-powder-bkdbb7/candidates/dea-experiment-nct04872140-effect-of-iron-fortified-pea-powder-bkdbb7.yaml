@@ -1,0 +1,39 @@
+id: dea:experiment-nct04872140-effect-of-iron-fortified-pea-powder-bkdbb7
+type: Experiment
+name: NCT04872140 — Effect of Iron-fortified Pea Powder on Exercise Performance
+description: Female endurance athletes are susceptible to iron deficiency and this
+  can impact their exercise performance. This study assesses the impact of an pea
+  protein supplement with high iron bio-availability on iron status and exercise performance.
+  (NCT NCT04872140; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Female endurance athletes are susceptible to iron deficiency and this
+  can impact their exercise performance. This study assesses the impact of an pea
+  protein supplement with high iron bio-availability
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04872140 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

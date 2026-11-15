@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03843697
-name: NCT03843697 — A Trial for Prevention of Loss of the Effect of Biological Drugs in Patients With
-  Inflammatory Bowel Disease
-description: Trial for IBD patients non-responsive to biological drugs, using medical app reminding patients
-  to take their physician-prescribed medications (NCT NCT03843697; status UNKNOWN).
-hypothesis: Trial for IBD patients non-responsive to biological drugs, using medical app reminding patients
-  to take their physician-prescribed medications
+name: NCT03843697 — A Trial for Prevention of Loss of the Effect of Biological Drugs
+  in Patients With Inflammatory Bowel Disease
+description: Trial for IBD patients non-responsive to biological drugs, using medical
+  app reminding patients to take their physician-prescribed medications (NCT NCT03843697;
+  status UNKNOWN).
+hypothesis: Trial for IBD patients non-responsive to biological drugs, using medical
+  app reminding patients to take their physician-prescribed medications
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03843697 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03843697 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03843697-a-trial-for-prevention-of-loss-of-th
+assigned_id: dea:experiment-nct03843697-a-trial-for-prevention-of-loss-of-th-afpysn
+admitted: '2026-11-15'

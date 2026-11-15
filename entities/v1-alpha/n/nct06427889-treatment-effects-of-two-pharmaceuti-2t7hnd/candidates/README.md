@@ -1,0 +1,31 @@
+# NCT06427889 — Treatment Effects of Two Pharmaceutical Skin Care Creams for Xerotic Feet Among Persons with Diabetes
+
+> Introduction Diabetic foot-ulcers leads to decreased quality of life, risk of major amputation, and resource demanding health-care. To minimize the risk of developing foot-ulcers, persons with diabetes are given the advice to daily inspect their feet and to apply skincare formulations. However, commercially available skincare products have rarely been developed and evaluated for diabetes foot care specifically. The primary aim of this randomized controlled trial (RCT) is to evaluate the effects in reducing foot xerosis in persons with diabetes without foot-ulcers using two skincare creams containing different humectants (interventions) against a cream base non-humectant (comparator). Secondary outcomes are to evaluate differences on skin barrier integrity, low-molecular weight biomarkers and skin microbiota, microcirculation including transcutaneous oxygen pressure, degree of neuropathy, and HbA1c between intervention-comparator cream. Methods Two-armed double-blind RCT. With 80% power, two-tailed significance of 2.5% in each arm, 39 study persons is needed in each arm, total 78 persons, to be able to prove a reduction of at least one category in the Xerosis Severity Scale with the intervention creams compared to the comparator. In one arm, each participant will treat one foot with one of the intervention creams (Oviderm® or Canoderm®), while the opposite foot will be treated with the comparator cream (Decubal® lipid cream®), twice a day. If needed, participants are enrolled after a wash-out period of two weeks. The participants will undergo examinations at baseline, day 14 and day 28. Discussion This RCT evaluate the potential effects of humectants in skin creams against foot xerosis in persons with diabetes. The outcomes of this trial could have implications on treatment recommendations of foot care and for the prevention of foot ulcer. (NCT NCT06427889; status UNKNOWN).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct06427889-treatment-effects-of-two-pharmaceuti-2t7hnd`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT06427889 (ClinicalTrials.gov; status UNKNOWN)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

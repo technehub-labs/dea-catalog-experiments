@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03881969
 name: NCT03881969 — Does Paying Subjects to Participate in Research Improve Recruitment
-description: Patient recruitment into clinical trials is a major challenge and the elderly, socially deprived
-  and those with multiple co-morbidities are often under-represented. The idea of paying patients an incentive
-  to participate in research is controversial and evidence is needed to evaluate this as a recruitment
-  strategy. This study aims to assess the impact on recruitment into five current clinical trials of a
-  £100 incentive payment and whether this payment will attract more elderly and socially deprived patients.
-  (NCT NCT03881969; status COMPLETED).
-hypothesis: Patient recruitment into clinical trials is a major challenge and the elderly, socially deprived
-  and those with multiple co-morbidities are often under-represented. The idea of paying patients an ince
+description: Patient recruitment into clinical trials is a major challenge and the
+  elderly, socially deprived and those with multiple co-morbidities are often under-represented.
+  The idea of paying patients an incentive to participate in research is controversial
+  and evidence is needed to evaluate this as a recruitment strategy. This study aims
+  to assess the impact on recruitment into five current clinical trials of a £100
+  incentive payment and whether this payment will attract more elderly and socially
+  deprived patients. (NCT NCT03881969; status COMPLETED).
+hypothesis: Patient recruitment into clinical trials is a major challenge and the
+  elderly, socially deprived and those with multiple co-morbidities are often under-represented.
+  The idea of paying patients an ince
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03881969 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03881969 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03881969-does-paying-subjects-to-participate
+assigned_id: dea:experiment-nct03881969-does-paying-subjects-to-participate-jm89y9
+admitted: '2026-11-15'

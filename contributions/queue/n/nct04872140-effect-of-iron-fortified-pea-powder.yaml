@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04872140
 name: NCT04872140 — Effect of Iron-fortified Pea Powder on Exercise Performance
-description: Female endurance athletes are susceptible to iron deficiency and this can impact their exercise
-  performance. This study assesses the impact of an pea protein supplement with high iron bio-availability
-  on iron status and exercise performance. (NCT NCT04872140; status COMPLETED).
-hypothesis: Female endurance athletes are susceptible to iron deficiency and this can impact their exercise
-  performance. This study assesses the impact of an pea protein supplement with high iron bio-availability
+description: Female endurance athletes are susceptible to iron deficiency and this
+  can impact their exercise performance. This study assesses the impact of an pea
+  protein supplement with high iron bio-availability on iron status and exercise performance.
+  (NCT NCT04872140; status COMPLETED).
+hypothesis: Female endurance athletes are susceptible to iron deficiency and this
+  can impact their exercise performance. This study assesses the impact of an pea
+  protein supplement with high iron bio-availability
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04872140 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04872140 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04872140-effect-of-iron-fortified-pea-powder
+assigned_id: dea:experiment-nct04872140-effect-of-iron-fortified-pea-powder-bkdbb7
+admitted: '2026-11-15'

@@ -1,0 +1,38 @@
+id: dea:experiment-nct03930602-study-to-characterize-the-effects-of-2g9tt4
+type: Experiment
+name: NCT03930602 — Study to Characterize the Effects of Cytochrome p450 1A2 Inhibition
+  on Systemic Exposure to BMS-986165
+description: To compare the pharmacokinetic characteristics of BMS-986165 after a
+  single-dose administration alone vs. in combination with fluvoxamine (CYP1A2 inhibitor)
+  (NCT NCT03930602; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: To compare the pharmacokinetic characteristics of BMS-986165 after a single-dose
+  administration alone vs. in combination with fluvoxamine (CYP1A2 inhibitor)
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03930602 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

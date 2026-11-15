@@ -1,26 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01103531
-name: NCT01103531 — Exercise to Improve Outcomes of Treatment for Methamphetamine Users
-description: The purpose of this study is to assess the effects of an aerobic and strength training exercise
-  program (one that increases the need for oxygen and increases muscle) on the treatment outcomes of 150
-  individuals in treatment for methamphetamine dependence at Cri-Help. The study will determine if a 60-minute
-  exercise program (three times a week) has an effect (good or bad) on the health and drug use of participants
-  as compared to individuals not participating in an exercise program. (NCT NCT01103531; status COMPLETED).
-hypothesis: The purpose of this study is to assess the effects of an aerobic and strength training exercise
-  program (one that increases the need for oxygen and increases muscle) on the treatment outcomes of 150
-  i
+name: NCT01103531 — Exercise to Improve Outcomes of Treatment for Methamphetamine
+  Users
+description: The purpose of this study is to assess the effects of an aerobic and
+  strength training exercise program (one that increases the need for oxygen and increases
+  muscle) on the treatment outcomes of 150 individuals in treatment for methamphetamine
+  dependence at Cri-Help. The study will determine if a 60-minute exercise program
+  (three times a week) has an effect (good or bad) on the health and drug use of participants
+  as compared to individuals not participating in an exercise program. (NCT NCT01103531;
+  status COMPLETED).
+hypothesis: The purpose of this study is to assess the effects of an aerobic and strength
+  training exercise program (one that increases the need for oxygen and increases
+  muscle) on the treatment outcomes of 150 i
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01103531 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01103531 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01103531-exercise-to-improve-outcomes-of-trea
+assigned_id: dea:experiment-nct01103531-exercise-to-improve-outcomes-of-trea-cs8nzb
+admitted: '2026-11-15'

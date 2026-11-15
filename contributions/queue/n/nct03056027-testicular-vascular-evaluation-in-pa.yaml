@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03056027
-name: NCT03056027 — Testicular Vascular Evaluation in Patients Undergoing Inguinal Hernia Repair
-description: Patients scheduled to undergo laparoscopic preperitoneal or open inguinal hernia repair will
-  be evaluated by means of scrotal/testicular ecocolordoppler ultrasound investigation before and after
-  surgery in order to rule out the potential impact of the surgical procedure on testicular arterial and
-  venous blood flow (NCT NCT03056027; status UNKNOWN).
-hypothesis: Patients scheduled to undergo laparoscopic preperitoneal or open inguinal hernia repair will
-  be evaluated by means of scrotal/testicular ecocolordoppler ultrasound investigation before and after
-  surge
+name: NCT03056027 — Testicular Vascular Evaluation in Patients Undergoing Inguinal
+  Hernia Repair
+description: Patients scheduled to undergo laparoscopic preperitoneal or open inguinal
+  hernia repair will be evaluated by means of scrotal/testicular ecocolordoppler ultrasound
+  investigation before and after surgery in order to rule out the potential impact
+  of the surgical procedure on testicular arterial and venous blood flow (NCT NCT03056027;
+  status UNKNOWN).
+hypothesis: Patients scheduled to undergo laparoscopic preperitoneal or open inguinal
+  hernia repair will be evaluated by means of scrotal/testicular ecocolordoppler ultrasound
+  investigation before and after surge
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03056027 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03056027 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03056027-testicular-vascular-evaluation-in-pa
+assigned_id: dea:experiment-nct03056027-testicular-vascular-evaluation-in-pa-ayjks3
+admitted: '2026-11-15'

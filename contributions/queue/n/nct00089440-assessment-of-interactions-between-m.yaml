@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00089440
-name: NCT00089440 — Assessment of Interactions Between Methamphetamine and Aripiprazole - 1
-description: The purpose of this study is to assess the interactions between intravenous methamphetamine
-  and aripiprazole. (NCT NCT00089440; status UNKNOWN).
-hypothesis: The purpose of this study is to assess the interactions between intravenous methamphetamine
-  and aripiprazole.
+name: NCT00089440 — Assessment of Interactions Between Methamphetamine and Aripiprazole
+  - 1
+description: The purpose of this study is to assess the interactions between intravenous
+  methamphetamine and aripiprazole. (NCT NCT00089440; status UNKNOWN).
+hypothesis: The purpose of this study is to assess the interactions between intravenous
+  methamphetamine and aripiprazole.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00089440 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00089440 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct00089440-assessment-of-interactions-between-m
+assigned_id: dea:experiment-nct00089440-assessment-of-interactions-between-m-fcp4kj
+admitted: '2026-11-15'

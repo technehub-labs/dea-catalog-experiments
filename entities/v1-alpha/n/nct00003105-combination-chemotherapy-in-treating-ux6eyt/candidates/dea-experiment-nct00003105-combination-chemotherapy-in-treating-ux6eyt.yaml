@@ -1,0 +1,41 @@
+id: dea:experiment-nct00003105-combination-chemotherapy-in-treating-ux6eyt
+type: Experiment
+name: NCT00003105 — Combination Chemotherapy in Treating Patients With Metastatic
+  or Locally Advanced Bladder Cancer
+description: 'RATIONALE: Drugs used in chemotherapy use different ways to stop tumor
+  cells from dividing so they stop growing or die. Combining more than one drug may
+  kill more tumor cells. PURPOSE: Phase I/II trial to study the effectiveness of combination
+  chemotherapy in treating patients with metastatic or locally advanced bladder cancer.
+  (NCT NCT00003105; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'RATIONALE: Drugs used in chemotherapy use different ways to stop tumor
+  cells from dividing so they stop growing or die. Combining more than one drug may
+  kill more tumor cells. PURPOSE: Phase I/II tria'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00003105 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

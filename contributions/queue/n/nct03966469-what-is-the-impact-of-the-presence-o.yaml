@@ -1,25 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03966469
-name: NCT03966469 — What is the Impact of the Presence of a Support Person on Informed Consent
-description: In practice, the Investigators recommend that patients bring a family member or close friend
-  to their pre-operative appointment to help with patient anxiety, comprehension, and informed decision-making.
-  However, there is limited literature to support this recommendation. The investigators are exploring
-  if having a support person present during this consent process impacts anxiety, satisfaction, knowledge,
+name: NCT03966469 — What is the Impact of the Presence of a Support Person on Informed
+  Consent
+description: In practice, the Investigators recommend that patients bring a family
+  member or close friend to their pre-operative appointment to help with patient anxiety,
+  comprehension, and informed decision-making. However, there is limited literature
+  to support this recommendation. The investigators are exploring if having a support
+  person present during this consent process impacts anxiety, satisfaction, knowledge,
   and preparedness for surgery. (NCT NCT03966469; status COMPLETED).
-hypothesis: In practice, the Investigators recommend that patients bring a family member or close friend
-  to their pre-operative appointment to help with patient anxiety, comprehension, and informed decision-makin
+hypothesis: In practice, the Investigators recommend that patients bring a family
+  member or close friend to their pre-operative appointment to help with patient anxiety,
+  comprehension, and informed decision-makin
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03966469 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03966469 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03966469-what-is-the-impact-of-the-presence-o
+assigned_id: dea:experiment-nct03966469-what-is-the-impact-of-the-presence-o-c767u8
+admitted: '2026-11-15'

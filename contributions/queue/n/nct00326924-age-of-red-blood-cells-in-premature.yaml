@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00326924
 name: NCT00326924 — Age of Red Blood Cells in Premature Infants Study (ARIPI)
-description: To determine if the age of blood transfused to new borns in the NICU setting has an impact
-  on their outcome. (NCT NCT00326924; status COMPLETED).
-hypothesis: To determine if the age of blood transfused to new borns in the NICU setting has an impact
-  on their outcome.
+description: To determine if the age of blood transfused to new borns in the NICU
+  setting has an impact on their outcome. (NCT NCT00326924; status COMPLETED).
+hypothesis: To determine if the age of blood transfused to new borns in the NICU setting
+  has an impact on their outcome.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00326924 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00326924 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00326924-age-of-red-blood-cells-in-premature
+assigned_id: dea:experiment-nct00326924-age-of-red-blood-cells-in-premature-5b3nwn
+admitted: '2026-11-15'

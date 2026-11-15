@@ -1,0 +1,31 @@
+# NCT04922086 — Digital Planning and Guided Dual Technique in Aesthetic Crown Lengthening
+
+> Excessive gingival exposure, commonly named gingival smile, results in a dentogingival disharmony. One of the gingival smile treatment is the aesthetics-related crown lengthening surgery (ACL) to provide a adequate clinical crown length and diminish gingival display. In this context, digital planning and guided dual technique have been proposed to increase the effectiveness and predictability of the ACL. In this technique, an facial and dental analysis of the patient is performed and transferred to a digital model obtained by intraoral digital scan. The digital model is used to create a double guide that will determine the final position of the gingival and alveolar margin in the ACL. Despite the technique showing promising results, clinical studies evaluating the effectiveness of this technique are scarce. The present study aims to evaluate the digital planning and guided dual technique in the ACL in comparison to conventional technique in relation to the predictability/stability of the gingival margin positioning and patient satisfaction after the ACL. Twenty-four patients diagnosed with altered passive eruption type I subcategory B will be selected and divided into two groups. In the control group (n = 12) patients will be submitted to the conventional ACL planned using clinical examination; in the test group (n = 12) patients will be submitted to ACL using cone beam computed tomography (CBCT), digital planning and guided dual technique. Periodontal clinical parameters including probing depth (PS), clinical attachment level (CAL), clinical crown length (CCL), anatomical crown length (ACL) and cemento-enamel junction to alveolar bone crest distance will be evaluated clinically at baseline, in the immediate postoperative, 4, 8 and 12 months after the procedure. Participants will be submitted to questionnaires to assess satisfaction with the smile, gum and tooth characteristics and experience with the procedure. The investigators aim to demonstrate with the study th
+
+## Identity
+
+- **Record id**: `dea:experiment-nct04922086-digital-planning-and-guided-dual-tec-grr2pa`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT04922086 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

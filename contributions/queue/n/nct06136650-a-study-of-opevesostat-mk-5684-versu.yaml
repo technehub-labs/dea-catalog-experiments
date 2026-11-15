@@ -1,27 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06136650
-name: NCT06136650 — A Study of Opevesostat (MK-5684) Versus Alternative Next-generation Hormonal Agent
-  (NHA) in Metastatic Castration-resistant Prostate Cancer (mCRPC) Post One NHA (MK-5684-004)
-description: The purpose of this study is to assess the efficacy and safety of opevesostat plus daily
-  corticosteroids compared to alternative abiraterone acetate or enzalutamide in participants with Metastatic
-  Castration-resistant Prostate Cancer (mCRPC) previously treated with one next-generation hormonal agent
-  (NHA). The primary study hypothesis is that opevesostat is superior to alternative abiraterone acetate
-  or enzalutamide with respect to overall survival (OS), in androgen receptor ligand binding domain (AR
-  LBD) mutation positive and negative participants. (NCT NCT06136650; status RECRUITING).
-hypothesis: The purpose of this study is to assess the efficacy and safety of opevesostat plus daily corticosteroids
-  compared to alternative abiraterone acetate or enzalutamide in participants with Metastatic Cas
+name: NCT06136650 — A Study of Opevesostat (MK-5684) Versus Alternative Next-generation
+  Hormonal Agent (NHA) in Metastatic Castration-resistant Prostate Cancer (mCRPC)
+  Post One NHA (MK-5684-004)
+description: The purpose of this study is to assess the efficacy and safety of opevesostat
+  plus daily corticosteroids compared to alternative abiraterone acetate or enzalutamide
+  in participants with Metastatic Castration-resistant Prostate Cancer (mCRPC) previously
+  treated with one next-generation hormonal agent (NHA). The primary study hypothesis
+  is that opevesostat is superior to alternative abiraterone acetate or enzalutamide
+  with respect to overall survival (OS), in androgen receptor ligand binding domain
+  (AR LBD) mutation positive and negative participants. (NCT NCT06136650; status RECRUITING).
+hypothesis: The purpose of this study is to assess the efficacy and safety of opevesostat
+  plus daily corticosteroids compared to alternative abiraterone acetate or enzalutamide
+  in participants with Metastatic Cas
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06136650 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06136650 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06136650-a-study-of-opevesostat-mk-5684-versu
+assigned_id: dea:experiment-nct06136650-a-study-of-opevesostat-mk-5684-versu-42t28h
+admitted: '2026-11-15'

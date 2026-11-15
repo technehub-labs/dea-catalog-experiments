@@ -1,32 +1,38 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05871502
-name: NCT05871502 — Glycemia and Ischemia Reperfusion Brain Injury in Patients With Acute Cerebral Infarction
-  Treated With Mechanical Thrombectomy
-description: Postictus hyperglycemia is associated with an accelerated transformation of the ischemic
-  penumbra into an infarct area, with increased infarct size, worse recanalization, reduced cerebral perfusion,
-  increased ischemia reperfusion damage, and worse outcome. Furthermore, when perfusion is reinstated,
-  hyperglycemia causes secondary tissue damage through an increase in ischemic reperfusion damage. Thus,
-  those patients with glycemia values \< 155 mg/dL during mechanical thrombectomy, and especially at the
-  time of reperfusion, will have greater ischemia-reperfusion damage, showing a different profile in miRNA
-  expression, with better neurological and functional outcomes and higher risk of hemorrhagic transformation
-  and cerebral edema. The main objective of the study is to evaluate the association between glycemia
-  values at the time of reperfusion and stroke recovery at 3 months in patients with acute cerebral infarction
-  treated with mechanical thrombectomy. (NCT NCT05871502; status COMPLETED).
-hypothesis: Postictus hyperglycemia is associated with an accelerated transformation of the ischemic penumbra
-  into an infarct area, with increased infarct size, worse recanalization, reduced cerebral perfusion,
-  i
+name: NCT05871502 — Glycemia and Ischemia Reperfusion Brain Injury in Patients With
+  Acute Cerebral Infarction Treated With Mechanical Thrombectomy
+description: Postictus hyperglycemia is associated with an accelerated transformation
+  of the ischemic penumbra into an infarct area, with increased infarct size, worse
+  recanalization, reduced cerebral perfusion, increased ischemia reperfusion damage,
+  and worse outcome. Furthermore, when perfusion is reinstated, hyperglycemia causes
+  secondary tissue damage through an increase in ischemic reperfusion damage. Thus,
+  those patients with glycemia values \< 155 mg/dL during mechanical thrombectomy,
+  and especially at the time of reperfusion, will have greater ischemia-reperfusion
+  damage, showing a different profile in miRNA expression, with better neurological
+  and functional outcomes and higher risk of hemorrhagic transformation and cerebral
+  edema. The main objective of the study is to evaluate the association between glycemia
+  values at the time of reperfusion and stroke recovery at 3 months in patients with
+  acute cerebral infarction treated with mechanical thrombectomy. (NCT NCT05871502;
+  status COMPLETED).
+hypothesis: Postictus hyperglycemia is associated with an accelerated transformation
+  of the ischemic penumbra into an infarct area, with increased infarct size, worse
+  recanalization, reduced cerebral perfusion, i
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05871502 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05871502 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05871502-glycemia-and-ischemia-reperfusion-br
+assigned_id: dea:experiment-nct05871502-glycemia-and-ischemia-reperfusion-br-we4xd5
+admitted: '2026-11-15'

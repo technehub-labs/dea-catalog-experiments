@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05694273
 name: NCT05694273 — Acute Cerebrovascular Events in Patients Undergoing Catheter Ablation
-description: This study aims to evaluate the incidence, clinical characteristics, and short-term prognosis
-  of acute cerebrovascular events occurring in-hospital in patients with arrhythmias following catheter
-  ablation. The goal is to provide evidence supporting the improvement of patient quality of life and
-  reduction of in-hospital acute cerebrovascular complications in patients with post-ablation arrhythmias.
-  This will also contribute to the evidence-based clinical management of such patients. (NCT NCT05694273;
-  status NOT_YET_RECRUITING).
-hypothesis: This study aims to evaluate the incidence, clinical characteristics, and short-term prognosis
-  of acute cerebrovascular events occurring in-hospital in patients with arrhythmias following catheter
-  abla
+description: This study aims to evaluate the incidence, clinical characteristics,
+  and short-term prognosis of acute cerebrovascular events occurring in-hospital in
+  patients with arrhythmias following catheter ablation. The goal is to provide evidence
+  supporting the improvement of patient quality of life and reduction of in-hospital
+  acute cerebrovascular complications in patients with post-ablation arrhythmias.
+  This will also contribute to the evidence-based clinical management of such patients.
+  (NCT NCT05694273; status NOT_YET_RECRUITING).
+hypothesis: This study aims to evaluate the incidence, clinical characteristics, and
+  short-term prognosis of acute cerebrovascular events occurring in-hospital in patients
+  with arrhythmias following catheter abla
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05694273 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05694273 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct05694273-acute-cerebrovascular-events-in-pati
+assigned_id: dea:experiment-nct05694273-acute-cerebrovascular-events-in-pati-kbra9t
+admitted: '2026-11-15'

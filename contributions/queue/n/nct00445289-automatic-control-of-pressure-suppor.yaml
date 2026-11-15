@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00445289
-name: NCT00445289 — Automatic Control of Pressure Support Ventilation in Surgical Intensive Care Units
-description: This bicentric, randomized, controlled trial examines the effectiveness of an automatic control
-  of pressure support ventilation (SmartCare/PS) in critically ill patients. (NCT NCT00445289; status
-  COMPLETED).
-hypothesis: This bicentric, randomized, controlled trial examines the effectiveness of an automatic control
-  of pressure support ventilation (SmartCare/PS) in critically ill patients.
+name: NCT00445289 — Automatic Control of Pressure Support Ventilation in Surgical
+  Intensive Care Units
+description: This bicentric, randomized, controlled trial examines the effectiveness
+  of an automatic control of pressure support ventilation (SmartCare/PS) in critically
+  ill patients. (NCT NCT00445289; status COMPLETED).
+hypothesis: This bicentric, randomized, controlled trial examines the effectiveness
+  of an automatic control of pressure support ventilation (SmartCare/PS) in critically
+  ill patients.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00445289 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00445289 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00445289-automatic-control-of-pressure-suppor
+assigned_id: dea:experiment-nct00445289-automatic-control-of-pressure-suppor-4s69v4
+admitted: '2026-11-15'

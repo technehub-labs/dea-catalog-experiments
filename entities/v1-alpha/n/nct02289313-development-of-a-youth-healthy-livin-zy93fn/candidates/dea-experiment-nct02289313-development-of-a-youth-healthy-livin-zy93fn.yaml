@@ -1,0 +1,48 @@
+id: dea:experiment-nct02289313-development-of-a-youth-healthy-livin-zy93fn
+type: Experiment
+name: NCT02289313 — Development of a Youth Healthy Living Program With Underserved
+  Adolescents at Rochester Alternative Learning Center
+description: 'Approximately one third of the children and adolescents in the United
+  States are either overweight or obese. Childhood obesity disproportionately affects
+  specific racial and ethnic groups and households with low socioeconomic status and
+  low parental education. The Alternative Learning Center (ALC) within Rochester School
+  District 535 provides viable educational options for students who are experiencing
+  difficulty in regular educational systems. A greater proportion of students at ALC
+  are minorities, qualify for free and reduced lunch and receive special education
+  services. These children are likely to have unique barriers to physical activity
+  and healthy eating. Specific Aims: Aim 1: Examine the association between BMI and
+  ethnic/ socioeconomic variables and behaviors related to physical activity and eating
+  in ALC students. Aim 2: Develop an age and culturally appropriate on-site program
+  that promotes healthy lifestyle. (NCT NCT02289313; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Approximately one third of the children and adolescents in the United
+  States are either overweight or obese. Childhood obesity disproportionately affects
+  specific racial and ethnic groups and househol
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02289313 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

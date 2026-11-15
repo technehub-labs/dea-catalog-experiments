@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00002997
-name: NCT00002997 — Cryosurgery in Treating Patients With Unresectable Liver Metastases From Colorectal
-  Cancer
-description: 'RATIONALE: Cryosurgery for liver metastases may have fewer side effects and improve recovery.
-  PURPOSE: Phase II trial to study the effectiveness of cryosurgery for patients with unresectable liver
-  metastases from colorectal cancer. (NCT NCT00002997; status COMPLETED).'
-hypothesis: 'RATIONALE: Cryosurgery for liver metastases may have fewer side effects and improve recovery.
-  PURPOSE: Phase II trial to study the effectiveness of cryosurgery for patients with unresectable liver
-  met'
+name: NCT00002997 — Cryosurgery in Treating Patients With Unresectable Liver Metastases
+  From Colorectal Cancer
+description: 'RATIONALE: Cryosurgery for liver metastases may have fewer side effects
+  and improve recovery. PURPOSE: Phase II trial to study the effectiveness of cryosurgery
+  for patients with unresectable liver metastases from colorectal cancer. (NCT NCT00002997;
+  status COMPLETED).'
+hypothesis: 'RATIONALE: Cryosurgery for liver metastases may have fewer side effects
+  and improve recovery. PURPOSE: Phase II trial to study the effectiveness of cryosurgery
+  for patients with unresectable liver met'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00002997 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00002997 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00002997-cryosurgery-in-treating-patients-wit
+assigned_id: dea:experiment-nct00002997-cryosurgery-in-treating-patients-wit-pznq9n
+admitted: '2026-11-15'

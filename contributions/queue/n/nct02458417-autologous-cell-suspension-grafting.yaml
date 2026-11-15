@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02458417
-name: NCT02458417 — Autologous Cell Suspension Grafting Using ReCell in Vitiligo and Piebaldism Patients
-description: The purpose of this study is to assess the efficacy and safety of ReCell grafting after CO2
-  laser abrasion with superficial full surface ablation, fractional laser treatment and conventional (deep)
-  full surface CO2 laser ablation, to assess the practical aspects and the patient reported outcome and
-  to assess the cellular composition of the graft. (NCT NCT02458417; status COMPLETED).
-hypothesis: The purpose of this study is to assess the efficacy and safety of ReCell grafting after CO2
-  laser abrasion with superficial full surface ablation, fractional laser treatment and conventional (deep)
-  fu
+name: NCT02458417 — Autologous Cell Suspension Grafting Using ReCell in Vitiligo and
+  Piebaldism Patients
+description: The purpose of this study is to assess the efficacy and safety of ReCell
+  grafting after CO2 laser abrasion with superficial full surface ablation, fractional
+  laser treatment and conventional (deep) full surface CO2 laser ablation, to assess
+  the practical aspects and the patient reported outcome and to assess the cellular
+  composition of the graft. (NCT NCT02458417; status COMPLETED).
+hypothesis: The purpose of this study is to assess the efficacy and safety of ReCell
+  grafting after CO2 laser abrasion with superficial full surface ablation, fractional
+  laser treatment and conventional (deep) fu
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02458417 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02458417 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02458417-autologous-cell-suspension-grafting
+assigned_id: dea:experiment-nct02458417-autologous-cell-suspension-grafting-u77cj2
+admitted: '2026-11-15'
