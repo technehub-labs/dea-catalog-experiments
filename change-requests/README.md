@@ -17,3 +17,4 @@ repository are recorded here with their home-repo identifier.
 | [CR-EXP-CAT-05](CR-EXP-CAT-05-cr-exp-cat-05.md) | CR Numbering Correction | **Landed (this PR)** | Colliding batch CR numbers renumbered (mapping in the CR); content unchanged. |
 | [CR-EXP-CAT-06](CR-EXP-CAT-06-cr-exp-cat-06.md) | Canonical Admission Wave (1200) | **Landed (this PR)** | 1200 records promoted candidates/ -> canonical root; ladder completed; evidence preserved; canonical 1200, candidates 0. |
 | [CR-EXP-CAT-07](CR-EXP-CAT-07-cr-exp-cat-07.md) | Shard Subdivision (R5 Remedy) | **Landed (this PR)** | Over-cap shard subdivided; toolchain depth-3; ids untouched. |
+| [CR-EXP-CAT-08](CR-EXP-CAT-08-cr-exp-cat-08.md) | Shard Re-spread (R5 Remedy) | **Landed (this PR)** | Degenerate sub-shard re-spread by slug tail; ids untouched. |
