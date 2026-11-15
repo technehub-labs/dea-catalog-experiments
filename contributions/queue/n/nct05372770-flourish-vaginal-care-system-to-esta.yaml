@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05372770
 name: NCT05372770 — Flourish Vaginal Care System to Establish Neovaginal Microbiome
-description: This study examines whether use of a commercially-available vaginal wellness system is able
-  to establish a microbiome in transgender women. (NCT NCT05372770; status COMPLETED).
-hypothesis: This study examines whether use of a commercially-available vaginal wellness system is able
-  to establish a microbiome in transgender women.
+description: This study examines whether use of a commercially-available vaginal wellness
+  system is able to establish a microbiome in transgender women. (NCT NCT05372770;
+  status COMPLETED).
+hypothesis: This study examines whether use of a commercially-available vaginal wellness
+  system is able to establish a microbiome in transgender women.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05372770 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05372770 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05372770-flourish-vaginal-care-system-to-esta
+assigned_id: dea:experiment-nct05372770-flourish-vaginal-care-system-to-esta-c87y3d
+admitted: '2026-11-15'

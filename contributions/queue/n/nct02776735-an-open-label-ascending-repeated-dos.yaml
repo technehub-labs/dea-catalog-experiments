@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02776735
-name: NCT02776735 — An Open-label, Ascending, Repeated Dose-finding Study of Sarilumab in Children and
-  Adolescents With Polyarticular-course Juvenile Idiopathic Arthritis (pcJIA)
-description: 'Primary Objective: To describe the pharmacokinetic (PK) profile of sarilumab in participants
-  aged 2-17 years with Polyarticular-course Juvenile Idiopathic Arthritis (pcJIA) in order to identify
-  the dose and regimen for adequate treatment of this population Secondary Objective: To describe the
-  pharmacodynamic (PD) profile, the efficacy and the long-term safety of sarilumab in participants with
-  pcJIA. (NCT NCT02776735; status COMPLETED).'
-hypothesis: 'Primary Objective: To describe the pharmacokinetic (PK) profile of sarilumab in participants
-  aged 2-17 years with Polyarticular-course Juvenile Idiopathic Arthritis (pcJIA) in order to identify
-  the do'
+name: NCT02776735 — An Open-label, Ascending, Repeated Dose-finding Study of Sarilumab
+  in Children and Adolescents With Polyarticular-course Juvenile Idiopathic Arthritis
+  (pcJIA)
+description: 'Primary Objective: To describe the pharmacokinetic (PK) profile of sarilumab
+  in participants aged 2-17 years with Polyarticular-course Juvenile Idiopathic Arthritis
+  (pcJIA) in order to identify the dose and regimen for adequate treatment of this
+  population Secondary Objective: To describe the pharmacodynamic (PD) profile, the
+  efficacy and the long-term safety of sarilumab in participants with pcJIA. (NCT
+  NCT02776735; status COMPLETED).'
+hypothesis: 'Primary Objective: To describe the pharmacokinetic (PK) profile of sarilumab
+  in participants aged 2-17 years with Polyarticular-course Juvenile Idiopathic Arthritis
+  (pcJIA) in order to identify the do'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02776735 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02776735 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02776735-an-open-label-ascending-repeated-dos
+assigned_id: dea:experiment-nct02776735-an-open-label-ascending-repeated-dos-wey79g
+admitted: '2026-11-15'

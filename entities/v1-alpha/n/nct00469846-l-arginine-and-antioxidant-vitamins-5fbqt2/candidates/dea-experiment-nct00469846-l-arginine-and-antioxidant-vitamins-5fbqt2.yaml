@@ -1,0 +1,39 @@
+id: dea:experiment-nct00469846-l-arginine-and-antioxidant-vitamins-5fbqt2
+type: Experiment
+name: NCT00469846 — L-Arginine and Antioxidant Vitamins During Pregnancy to Reduce
+  Preeclampsia
+description: This study is intended to assess the efficacy of L-arginine supplementation
+  with antioxidant vitamins delivered in a medical food in reducing the incidence
+  of preeclampsia in a high-risk population. (NCT NCT00469846; status TERMINATED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study is intended to assess the efficacy of L-arginine supplementation
+  with antioxidant vitamins delivered in a medical food in reducing the incidence
+  of preeclampsia in a high-risk population.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00469846 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- terminated

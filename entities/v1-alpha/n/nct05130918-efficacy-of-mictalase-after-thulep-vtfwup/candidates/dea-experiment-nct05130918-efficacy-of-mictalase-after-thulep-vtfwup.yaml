@@ -1,0 +1,46 @@
+id: dea:experiment-nct05130918-efficacy-of-mictalase-after-thulep-vtfwup
+type: Experiment
+name: NCT05130918 — Efficacy of Mictalase® After ThuLEP
+description: 'In this single-center, prospective, randomized, open label, phase-III
+  study, patients with indication to Thulium Laser Enucleation of Prostate were enrolled.
+  The report conformed to CONSORT 2010 guidelines. Eligible patients were 1:1 randomized.
+  Randomization defined Group A: patients who were administered Phenolmicin P3 and
+  Bosexil suppositories twice a day for 5 days, then once a day for other 10 days;
+  Group B: patients who did not receive the suppositories ("controls"). Study endpoints
+  were evaluated at 15 and 30 days postoperation. Primary endpoint included evaluation
+  of effects of the suppository on irritative symptoms by administering International
+  Prostate Symptom Score (IPSS) with Quality of Life (QoL) questionnaire. Secondary
+  endpoint included evaluation of effects on urinary tract infections by performance
+  of urinalysis with urine culture. (NCT NCT05130918; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: In this single-center, prospective, randomized, open label, phase-III
+  study, patients with indication to Thulium Laser Enucleation of Prostate were enrolled.
+  The report conformed to CONSORT 2010 guide
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05130918 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

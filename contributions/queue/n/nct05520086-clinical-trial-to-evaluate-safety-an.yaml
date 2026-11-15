@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05520086
-name: NCT05520086 — Clinical Trial to Evaluate Safety and Efficacy of Cell Therapy in Patients With Cicatricial
-  Conjuntivitis.
-description: A phase IIa, open label, non controlled clinical trial to assess the feasibility and safety
-  of allogeneic adipose-derived mesenchymal stem cells (ASC) in the treatment of cicatricial conjunctivitis
-  associated with Lyell's syndrome, Stevens-Johnson's syndrome and mucous membrane pemphigoid with ocular
-  involvement (NCT NCT05520086; status UNKNOWN).
-hypothesis: A phase IIa, open label, non controlled clinical trial to assess the feasibility and safety
-  of allogeneic adipose-derived mesenchymal stem cells (ASC) in the treatment of cicatricial conjunctivitis
-  as
+name: NCT05520086 — Clinical Trial to Evaluate Safety and Efficacy of Cell Therapy
+  in Patients With Cicatricial Conjuntivitis.
+description: A phase IIa, open label, non controlled clinical trial to assess the
+  feasibility and safety of allogeneic adipose-derived mesenchymal stem cells (ASC)
+  in the treatment of cicatricial conjunctivitis associated with Lyell's syndrome,
+  Stevens-Johnson's syndrome and mucous membrane pemphigoid with ocular involvement
+  (NCT NCT05520086; status UNKNOWN).
+hypothesis: A phase IIa, open label, non controlled clinical trial to assess the feasibility
+  and safety of allogeneic adipose-derived mesenchymal stem cells (ASC) in the treatment
+  of cicatricial conjunctivitis as
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05520086 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05520086 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05520086-clinical-trial-to-evaluate-safety-an
+assigned_id: dea:experiment-nct05520086-clinical-trial-to-evaluate-safety-an-f7dyue
+admitted: '2026-11-15'

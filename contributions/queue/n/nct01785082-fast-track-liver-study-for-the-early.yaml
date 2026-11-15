@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01785082
-name: 'NCT01785082 — Fast-track LiveR: Study for the Early Identification of Low-risk Patients After Partial
-  Liver Resection by the LiMAx-test'
-description: The purpose of this study is to investigate safety and efficacy of intravenously injected
-  0.4% 13-C-Methacetin solution for the determination of liver function with the LiMAx-test on patients
-  with partial liver resection. The LiMAx-test is compared with an untreated control group and post-surgical
-  management of both groups is investigated. (NCT NCT01785082; status COMPLETED).
-hypothesis: The purpose of this study is to investigate safety and efficacy of intravenously injected
-  0.4% 13-C-Methacetin solution for the determination of liver function with the LiMAx-test on patients
-  with par
+name: 'NCT01785082 — Fast-track LiveR: Study for the Early Identification of Low-risk
+  Patients After Partial Liver Resection by the LiMAx-test'
+description: The purpose of this study is to investigate safety and efficacy of intravenously
+  injected 0.4% 13-C-Methacetin solution for the determination of liver function with
+  the LiMAx-test on patients with partial liver resection. The LiMAx-test is compared
+  with an untreated control group and post-surgical management of both groups is investigated.
+  (NCT NCT01785082; status COMPLETED).
+hypothesis: The purpose of this study is to investigate safety and efficacy of intravenously
+  injected 0.4% 13-C-Methacetin solution for the determination of liver function with
+  the LiMAx-test on patients with par
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01785082 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01785082 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01785082-fast-track-liver-study-for-the-early
+assigned_id: dea:experiment-nct01785082-fast-track-liver-study-for-the-early-zepkr7
+admitted: '2026-11-15'

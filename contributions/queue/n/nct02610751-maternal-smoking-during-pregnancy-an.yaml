@@ -1,27 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02610751
-name: NCT02610751 — Maternal Smoking During Pregnancy and Female Fetal Testosterone Levels
-description: '* The investigators hope their study will answer the question of whether or not fetal testosterone
-  levels are increased in female newborns exposed to nicotine as a result of maternal smoking during pregnancy.
-  Secondarily they plan to also evaluate maternal cotinine and testosterone levels and newborn anogenital
-  distance, second digit to fourth digit (2D:4D) finger length ratio, newborn length and birth weight.
-  * The investigators hope by performing this study, they will help to uncover the effect of tobacco exposure
-  in utero on human female fetal testosterone levels, thus improving the counseling for tobacco use in
-  pregnancy. (NCT NCT02610751; status COMPLETED).'
-hypothesis: '* The investigators hope their study will answer the question of whether or not fetal testosterone
-  levels are increased in female newborns exposed to nicotine as a result of maternal smoking during pr'
+name: NCT02610751 — Maternal Smoking During Pregnancy and Female Fetal Testosterone
+  Levels
+description: '* The investigators hope their study will answer the question of whether
+  or not fetal testosterone levels are increased in female newborns exposed to nicotine
+  as a result of maternal smoking during pregnancy. Secondarily they plan to also
+  evaluate maternal cotinine and testosterone levels and newborn anogenital distance,
+  second digit to fourth digit (2D:4D) finger length ratio, newborn length and birth
+  weight. * The investigators hope by performing this study, they will help to uncover
+  the effect of tobacco exposure in utero on human female fetal testosterone levels,
+  thus improving the counseling for tobacco use in pregnancy. (NCT NCT02610751; status
+  COMPLETED).'
+hypothesis: '* The investigators hope their study will answer the question of whether
+  or not fetal testosterone levels are increased in female newborns exposed to nicotine
+  as a result of maternal smoking during pr'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02610751 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02610751 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02610751-maternal-smoking-during-pregnancy-an
+assigned_id: dea:experiment-nct02610751-maternal-smoking-during-pregnancy-an-7pgqcv
+admitted: '2026-11-15'

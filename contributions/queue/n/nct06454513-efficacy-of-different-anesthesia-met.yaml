@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06454513
 name: NCT06454513 — Efficacy of Different Anesthesia Methods in Transbronchial Biopsy
-description: This study investigates the efficacy of different anesthesia methods (general anesthesia
-  with laryngeal mask airway and local nebulized anesthesia) for transbronchial biopsy using an electronic
-  bronchoscope. The study retrospectively analyzed cases of transbronchial biopsy performed at the Respiratory
-  Endoscopy Center of Sichuan Provincial People's Hospital from June 5, 2020, to June 5, 2024. Data collected
-  included age, gender, primary diagnosis, anesthesia method, biopsy method, operation time (excluding
-  general anesthesia and laryngeal mask airway placement time), lesion location and size, pathological
-  results, and follow-up status. (NCT NCT06454513; status COMPLETED).
-hypothesis: This study investigates the efficacy of different anesthesia methods (general anesthesia with
-  laryngeal mask airway and local nebulized anesthesia) for transbronchial biopsy using an electronic
-  bronch
+description: This study investigates the efficacy of different anesthesia methods
+  (general anesthesia with laryngeal mask airway and local nebulized anesthesia) for
+  transbronchial biopsy using an electronic bronchoscope. The study retrospectively
+  analyzed cases of transbronchial biopsy performed at the Respiratory Endoscopy Center
+  of Sichuan Provincial People's Hospital from June 5, 2020, to June 5, 2024. Data
+  collected included age, gender, primary diagnosis, anesthesia method, biopsy method,
+  operation time (excluding general anesthesia and laryngeal mask airway placement
+  time), lesion location and size, pathological results, and follow-up status. (NCT
+  NCT06454513; status COMPLETED).
+hypothesis: This study investigates the efficacy of different anesthesia methods (general
+  anesthesia with laryngeal mask airway and local nebulized anesthesia) for transbronchial
+  biopsy using an electronic bronch
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06454513 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06454513 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06454513-efficacy-of-different-anesthesia-met
+assigned_id: dea:experiment-nct06454513-efficacy-of-different-anesthesia-met-7342nf
+admitted: '2026-11-15'

@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05773118
 name: NCT05773118 — A Unified Index to Predict the Success Probability of Myopia Control
-description: Orthokeratology lenses (OK-lens) and multifocal contact lenses (MFCL) are optical devices
-  designed to slow down the progression of myopia. Both treatments a long-term commitment from doctors
-  and patients. This study aims to develop a unified index to predict the success probability of myopia
-  control at the early stage of treatment. (NCT NCT05773118; status WITHDRAWN).
-hypothesis: Orthokeratology lenses (OK-lens) and multifocal contact lenses (MFCL) are optical devices
-  designed to slow down the progression of myopia. Both treatments a long-term commitment from doctors
-  and patie
+description: Orthokeratology lenses (OK-lens) and multifocal contact lenses (MFCL)
+  are optical devices designed to slow down the progression of myopia. Both treatments
+  a long-term commitment from doctors and patients. This study aims to develop a unified
+  index to predict the success probability of myopia control at the early stage of
+  treatment. (NCT NCT05773118; status WITHDRAWN).
+hypothesis: Orthokeratology lenses (OK-lens) and multifocal contact lenses (MFCL)
+  are optical devices designed to slow down the progression of myopia. Both treatments
+  a long-term commitment from doctors and patie
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05773118 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05773118 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct05773118-a-unified-index-to-predict-the-succe
+assigned_id: dea:experiment-nct05773118-a-unified-index-to-predict-the-succe-w8dgc3
+admitted: '2026-11-15'

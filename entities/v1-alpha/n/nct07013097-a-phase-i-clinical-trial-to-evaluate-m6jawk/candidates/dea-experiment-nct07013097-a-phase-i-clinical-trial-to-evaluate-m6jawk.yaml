@@ -1,0 +1,42 @@
+id: dea:experiment-nct07013097-a-phase-i-clinical-trial-to-evaluate-m6jawk
+type: Experiment
+name: NCT07013097 — A Phase I Clinical Trial to Evaluate the Single Dose Ascending
+  and Food Effects of PG-033 in Healthy Adults
+description: The goal of this study is to evaluate the safety, tolerability and pharmacokinetics
+  (PK) profiles of single ascending oral doses(SAD) of PG-033 by directly comparing
+  it with placebo. Meanwhile, the impact of a high-fat meal on the pharmacokinetics
+  of PG-033 will also be evaluated. The research will also explore the potential metabolites
+  and metabolic pathways of PG-033 within the human body，as well as investigate the
+  effect of PG-033 on the QTc interval. (NCT NCT07013097; status RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The goal of this study is to evaluate the safety, tolerability and pharmacokinetics
+  (PK) profiles of single ascending oral doses(SAD) of PG-033 by directly comparing
+  it with placebo. Meanwhile, the im
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07013097 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

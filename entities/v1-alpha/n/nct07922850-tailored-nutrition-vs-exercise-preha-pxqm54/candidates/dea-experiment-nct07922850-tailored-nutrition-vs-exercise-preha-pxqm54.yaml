@@ -1,0 +1,47 @@
+id: dea:experiment-nct07922850-tailored-nutrition-vs-exercise-preha-pxqm54
+type: Experiment
+name: NCT07922850 — Tailored Nutrition vs. Exercise Prehabilitation Before Colorectal
+  Cancer Surgery
+description: 'This study will test whether tailored nutritional support before surgery,
+  alone or combined with a structured exercise program, can help adult patients recover
+  better after surgery for colorectal (bowel) cancer. Participants will be randomly
+  assigned to one of three groups: usual care, tailored nutritional support alone,
+  or nutritional support combined with a structured exercise program (multimodal prehabilitation).
+  The main goal is to find out whether either approach improves physical function
+  30 days after surgery, measured by how far participants can walk in 6 minutes (the
+  6-minute walk test). The study will also look at nutritional intake, physical function,
+  quality of life, complications, hospital readmissions, and length of hospital stay.
+  A total of 140 adult patients scheduled for surgery for colorectal cancer at hospitals
+  in Northern Norway will be enrolled. (NCT NCT07922850; status NOT_YET_RECRUITING).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study will test whether tailored nutritional support before surgery,
+  alone or combined with a structured exercise program, can help adult patients recover
+  better after surgery for colorectal (bow
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07922850 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- not-yet-recruiting

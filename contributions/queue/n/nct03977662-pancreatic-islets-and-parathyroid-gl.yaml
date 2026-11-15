@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03977662
-name: NCT03977662 — Pancreatic Islets and Parathyroid Gland Co-transplantation for Treatment of Type 1
-  Diabetes
-description: The primary objective is to test the hypothesis that co-transplantation of allogeneic PTG
-  with adult pancreatic islets (derived from same deceased donor) in the IM site in people with Type 1
-  diabetes with functioning kidney and/or liver transplants is safe, allows islet engraftment, and leads
-  to insulin independence. (NCT NCT03977662; status COMPLETED).
-hypothesis: 'The primary objective is to test the hypothesis that co-transplantation of allogeneic PTG
-  with adult pancreatic islets (derived from same deceased donor) in the IM site in people with Type 1
-  diabetes '
+name: NCT03977662 — Pancreatic Islets and Parathyroid Gland Co-transplantation for
+  Treatment of Type 1 Diabetes
+description: The primary objective is to test the hypothesis that co-transplantation
+  of allogeneic PTG with adult pancreatic islets (derived from same deceased donor)
+  in the IM site in people with Type 1 diabetes with functioning kidney and/or liver
+  transplants is safe, allows islet engraftment, and leads to insulin independence.
+  (NCT NCT03977662; status COMPLETED).
+hypothesis: 'The primary objective is to test the hypothesis that co-transplantation
+  of allogeneic PTG with adult pancreatic islets (derived from same deceased donor)
+  in the IM site in people with Type 1 diabetes '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03977662 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03977662 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03977662-pancreatic-islets-and-parathyroid-gl
+assigned_id: dea:experiment-nct03977662-pancreatic-islets-and-parathyroid-gl-s37u7n
+admitted: '2026-11-15'

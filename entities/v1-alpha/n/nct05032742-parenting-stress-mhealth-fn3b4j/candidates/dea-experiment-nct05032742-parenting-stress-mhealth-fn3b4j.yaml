@@ -1,0 +1,40 @@
+id: dea:experiment-nct05032742-parenting-stress-mhealth-fn3b4j
+type: Experiment
+name: NCT05032742 — Parenting Stress mHealth
+description: Parenting stress is a well-documented barrier to youth engagement in
+  community-based substance use treatment. The current project aims to develop and
+  evaluate a mobile health parenting stress intervention for caregivers of justice-involved
+  youth, a population with high rates of substance use and low rates of treatment
+  engagement. (NCT NCT05032742; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Parenting stress is a well-documented barrier to youth engagement in community-based
+  substance use treatment. The current project aims to develop and evaluate a mobile
+  health parenting stress interven
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05032742 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

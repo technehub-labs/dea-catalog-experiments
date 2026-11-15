@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06084689
 name: NCT06084689 — Targeting MDMD and PD1 in Tumors With Tertiary Lymphoid Structures
-description: Phase II, multicenter, open-label, multi-cohort proof-of-concept study designed to evaluate
-  the safety and efficacy of Ezabenlimab combined with BI 907828 in patients with unresectable, locally
-  advanced or metastatic solid tumors. (NCT NCT06084689; status WITHDRAWN).
-hypothesis: Phase II, multicenter, open-label, multi-cohort proof-of-concept study designed to evaluate
-  the safety and efficacy of Ezabenlimab combined with BI 907828 in patients with unresectable, locally
-  advanc
+description: Phase II, multicenter, open-label, multi-cohort proof-of-concept study
+  designed to evaluate the safety and efficacy of Ezabenlimab combined with BI 907828
+  in patients with unresectable, locally advanced or metastatic solid tumors. (NCT
+  NCT06084689; status WITHDRAWN).
+hypothesis: Phase II, multicenter, open-label, multi-cohort proof-of-concept study
+  designed to evaluate the safety and efficacy of Ezabenlimab combined with BI 907828
+  in patients with unresectable, locally advanc
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06084689 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06084689 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct06084689-targeting-mdmd-and-pd1-in-tumors-wit
+assigned_id: dea:experiment-nct06084689-targeting-mdmd-and-pd1-in-tumors-wit-6qsq2d
+admitted: '2026-11-15'

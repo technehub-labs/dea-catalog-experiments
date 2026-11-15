@@ -1,0 +1,50 @@
+id: dea:experiment-nct07073118-safety-and-effectiveness-of-the-silk-by352h
+type: Experiment
+name: NCT07073118 — Safety and EffecTiveness of the Silk Vista Flow DiverteR in the
+  TrEatment of Unruptured IntracrAnial AneurysMs
+description: Intracranial aneurysms (IA) are abnormal outpouchings of cerebral arteries'
+  walls that occur mostly in arteries found in the Circle of Willis and the middle
+  cerebral artery bifurcation with a risk of rupture leading to subarachnoid hemorrhage
+  (SAH) and potentially death. If IA is treated before rupture, survival rates improve
+  dramatically. The IA can be treated with endovascular technique (coiling or stenting).
+  Specifically, the parent artery reconstruction with a flow-diverter stent allows
+  the treatment of a wide range of aneuryms with high rate of aneurysm occlusion.
+  However, during follow-up, up to 15% of FD present deformities, associated with
+  increased morbidity secondary to implant. This phenomenon is not predictable and
+  its mechanism remains unexplained. The objective of this STREAM study is to generate
+  longitudinal clinical and imaging data on the Silk Vista to further evaluate its
+  efficacy and safety in the treatment of unruptured IA, and in particular, to assess
+  and understand the impact of morphological changes over time associated with this
+  device (NCT NCT07073118; status NOT_YET_RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Intracranial aneurysms (IA) are abnormal outpouchings of cerebral arteries''
+  walls that occur mostly in arteries found in the Circle of Willis and the middle
+  cerebral artery bifurcation with a risk of '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07073118 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- not-yet-recruiting

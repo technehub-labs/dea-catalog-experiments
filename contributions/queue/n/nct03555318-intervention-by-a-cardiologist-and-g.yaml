@@ -1,28 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03555318
-name: NCT03555318 — Intervention by a Cardiologist and Geriatrician in Elderly Patients After Admission
-  Due to Heart Failure.
-description: Randomized clinical trial in which patients with a recent admission for heart failure in
-  the cardiology department of the Hospital de Mar will be randomized to usual follow-up (cardiologist
-  of the Heart Failure Unit) or follow-up by cardiologist and intervention by the geriatrician. This visit
-  will be done at the same time. The main gial of this study is to evaluate whether the combined intervention
-  of a cardiologist and a geriatrician reduces hospital all-cause rehospitalizations at 1 year. (NCT NCT03555318;
-  status COMPLETED).
-hypothesis: Randomized clinical trial in which patients with a recent admission for heart failure in the
-  cardiology department of the Hospital de Mar will be randomized to usual follow-up (cardiologist of
-  the Hea
+name: NCT03555318 — Intervention by a Cardiologist and Geriatrician in Elderly Patients
+  After Admission Due to Heart Failure.
+description: Randomized clinical trial in which patients with a recent admission for
+  heart failure in the cardiology department of the Hospital de Mar will be randomized
+  to usual follow-up (cardiologist of the Heart Failure Unit) or follow-up by cardiologist
+  and intervention by the geriatrician. This visit will be done at the same time.
+  The main gial of this study is to evaluate whether the combined intervention of
+  a cardiologist and a geriatrician reduces hospital all-cause rehospitalizations
+  at 1 year. (NCT NCT03555318; status COMPLETED).
+hypothesis: Randomized clinical trial in which patients with a recent admission for
+  heart failure in the cardiology department of the Hospital de Mar will be randomized
+  to usual follow-up (cardiologist of the Hea
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03555318 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03555318 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03555318-intervention-by-a-cardiologist-and-g
+assigned_id: dea:experiment-nct03555318-intervention-by-a-cardiologist-and-g-tn7mc3
+admitted: '2026-11-15'

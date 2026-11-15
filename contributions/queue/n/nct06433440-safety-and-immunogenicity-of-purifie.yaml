@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06433440
-name: NCT06433440 — Safety and Immunogenicity of Purified Verocell Rabies Vaccine PVRV Administered Intramuscularly
-  and Intradermally
-description: Rabies is fatal disease but preventable with rabies vaccines and immunoglobulins, conventionally
-  involves intramuscular (IM) administration of the vaccine. However, switching the intradermal (ID) route
-  offers potential advantages in dosing, time and cost without compromising efficacy and safety. Therefore,
-  this study aims to compare the safety and immunogenicity of a short-term three-doses intradermal regimen
-  (3D-ID) with a conventional five-doses intramuscular regimen (5D-IM) of the purified Vero cell rabies
-  vaccine (PVRV), administered via both intramuscular (IM) and intradermal (ID) routes as post-exposure
-  prophylaxis (PEP). (NCT NCT06433440; status COMPLETED).
-hypothesis: Rabies is fatal disease but preventable with rabies vaccines and immunoglobulins, conventionally
-  involves intramuscular (IM) administration of the vaccine. However, switching the intradermal (ID) rout
+name: NCT06433440 — Safety and Immunogenicity of Purified Verocell Rabies Vaccine
+  PVRV Administered Intramuscularly and Intradermally
+description: Rabies is fatal disease but preventable with rabies vaccines and immunoglobulins,
+  conventionally involves intramuscular (IM) administration of the vaccine. However,
+  switching the intradermal (ID) route offers potential advantages in dosing, time
+  and cost without compromising efficacy and safety. Therefore, this study aims to
+  compare the safety and immunogenicity of a short-term three-doses intradermal regimen
+  (3D-ID) with a conventional five-doses intramuscular regimen (5D-IM) of the purified
+  Vero cell rabies vaccine (PVRV), administered via both intramuscular (IM) and intradermal
+  (ID) routes as post-exposure prophylaxis (PEP). (NCT NCT06433440; status COMPLETED).
+hypothesis: Rabies is fatal disease but preventable with rabies vaccines and immunoglobulins,
+  conventionally involves intramuscular (IM) administration of the vaccine. However,
+  switching the intradermal (ID) rout
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06433440 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06433440 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06433440-safety-and-immunogenicity-of-purifie
+assigned_id: dea:experiment-nct06433440-safety-and-immunogenicity-of-purifie-j93qnf
+admitted: '2026-11-15'

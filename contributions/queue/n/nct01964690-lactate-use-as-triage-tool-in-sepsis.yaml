@@ -1,27 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01964690
-name: 'NCT01964690 — Lactate Use as Triage Tool in Sepsis : Veinous, Capillary or Arterial?'
-description: Severe sepsis and septic shocks are increasingly codified. A biomarker as Lactate is very
-  interesting to detect those situations. Usually, lactate used is arterial but results are often too
-  slow to obtain if we want to respect Surviving Sepsis Campaign guidelines. Some analyzers (EKF diagnostics
-  Lactate Scout\*) can give results in 15 seconds. We hypothesized that capillary lactate, easy to sample,
-  tested with this analyzer may detect earlier those infections states and we want to find the most accurate
-  site to detect severe sepsis (capillary, venous or arterial sample). (NCT NCT01964690; status COMPLETED).
-hypothesis: Severe sepsis and septic shocks are increasingly codified. A biomarker as Lactate is very
-  interesting to detect those situations. Usually, lactate used is arterial but results are often too
-  slow to ob
+name: 'NCT01964690 — Lactate Use as Triage Tool in Sepsis : Veinous, Capillary or
+  Arterial?'
+description: Severe sepsis and septic shocks are increasingly codified. A biomarker
+  as Lactate is very interesting to detect those situations. Usually, lactate used
+  is arterial but results are often too slow to obtain if we want to respect Surviving
+  Sepsis Campaign guidelines. Some analyzers (EKF diagnostics Lactate Scout\*) can
+  give results in 15 seconds. We hypothesized that capillary lactate, easy to sample,
+  tested with this analyzer may detect earlier those infections states and we want
+  to find the most accurate site to detect severe sepsis (capillary, venous or arterial
+  sample). (NCT NCT01964690; status COMPLETED).
+hypothesis: Severe sepsis and septic shocks are increasingly codified. A biomarker
+  as Lactate is very interesting to detect those situations. Usually, lactate used
+  is arterial but results are often too slow to ob
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01964690 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01964690 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01964690-lactate-use-as-triage-tool-in-sepsis
+assigned_id: dea:experiment-nct01964690-lactate-use-as-triage-tool-in-sepsis-mbg9ch
+admitted: '2026-11-15'

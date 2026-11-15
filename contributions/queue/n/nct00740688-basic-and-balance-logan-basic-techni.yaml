@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00740688
-name: 'NCT00740688 — Basic and Balance: Logan Basic Technique on Bilateral Weight Balance'
-description: This is an experimental study to examine whether a chiropractic intervention (specifically
-  Logan Basic Technique) can help restore balance distribution in individuals with or without vertebral
-  subluxations. (NCT NCT00740688; status COMPLETED).
-hypothesis: This is an experimental study to examine whether a chiropractic intervention (specifically
-  Logan Basic Technique) can help restore balance distribution in individuals with or without vertebral
-  subluxa
+name: 'NCT00740688 — Basic and Balance: Logan Basic Technique on Bilateral Weight
+  Balance'
+description: This is an experimental study to examine whether a chiropractic intervention
+  (specifically Logan Basic Technique) can help restore balance distribution in individuals
+  with or without vertebral subluxations. (NCT NCT00740688; status COMPLETED).
+hypothesis: This is an experimental study to examine whether a chiropractic intervention
+  (specifically Logan Basic Technique) can help restore balance distribution in individuals
+  with or without vertebral subluxa
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00740688 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00740688 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00740688-basic-and-balance-logan-basic-techni
+assigned_id: dea:experiment-nct00740688-basic-and-balance-logan-basic-techni-3eww9j
+admitted: '2026-11-15'

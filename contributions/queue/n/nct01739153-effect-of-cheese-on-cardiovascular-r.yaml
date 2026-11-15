@@ -1,31 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01739153
 name: NCT01739153 — Effect of Cheese on Cardiovascular Risk
-description: The main objective of the current study is to examine whether a high intake of regular-fat
-  cheeses (Danbo and Cheddar) affect blood lipids differently than an isocaloric intake of either other
-  fatty animal food products or of starchy carbohydrates. Furthermore, effects on fat digestibility, blood
-  pressure, anthropometry, bile acid metabolism and insulin sensitivity is investigated. To do this, a
-  randomized crossover intervention study with 3x14 days full diet periods (cheese diet, meat diet or
-  carb diet)will be conducted in 16 postmenopausal women. Between the diet periods there will be at least
-  14 days of wash-out where the subjects eat their habitual diets. Fasting blood samples will be drawn
-  before and after the diet periods, and also a non-fasting blood sample will be drawn after the diet
-  periods. Furthermore, total feces is collected the last 5 days of each diet period. (NCT NCT01739153;
+description: The main objective of the current study is to examine whether a high
+  intake of regular-fat cheeses (Danbo and Cheddar) affect blood lipids differently
+  than an isocaloric intake of either other fatty animal food products or of starchy
+  carbohydrates. Furthermore, effects on fat digestibility, blood pressure, anthropometry,
+  bile acid metabolism and insulin sensitivity is investigated. To do this, a randomized
+  crossover intervention study with 3x14 days full diet periods (cheese diet, meat
+  diet or carb diet)will be conducted in 16 postmenopausal women. Between the diet
+  periods there will be at least 14 days of wash-out where the subjects eat their
+  habitual diets. Fasting blood samples will be drawn before and after the diet periods,
+  and also a non-fasting blood sample will be drawn after the diet periods. Furthermore,
+  total feces is collected the last 5 days of each diet period. (NCT NCT01739153;
   status COMPLETED).
-hypothesis: The main objective of the current study is to examine whether a high intake of regular-fat
-  cheeses (Danbo and Cheddar) affect blood lipids differently than an isocaloric intake of either other
-  fatty a
+hypothesis: The main objective of the current study is to examine whether a high intake
+  of regular-fat cheeses (Danbo and Cheddar) affect blood lipids differently than
+  an isocaloric intake of either other fatty a
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01739153 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01739153 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01739153-effect-of-cheese-on-cardiovascular-r
+assigned_id: dea:experiment-nct01739153-effect-of-cheese-on-cardiovascular-r-q8ypu5
+admitted: '2026-11-15'

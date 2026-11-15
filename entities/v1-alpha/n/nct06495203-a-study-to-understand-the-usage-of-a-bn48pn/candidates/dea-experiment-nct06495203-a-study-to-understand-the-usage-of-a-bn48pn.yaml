@@ -1,0 +1,62 @@
+id: dea:experiment-nct06495203-a-study-to-understand-the-usage-of-a-bn48pn
+type: Experiment
+name: NCT06495203 — A Study to Understand the Usage of an Artificial Intelligence
+  Technology Called DARWEN for Eye Disorders and to Find Out the Factors Influencing
+  Treatment Frequencies in People With nAMD
+description: 'This is an observational study in which data already collected from
+  people with the eye disorders below are studied. In observational studies, only
+  observations are made without participants receiving any advice or any changes to
+  healthcare. Neovascular age-related macular edema (nAMD): an eye disorder caused
+  by the lack of oxygen in the retina. The lack of oxygen leads to the increase of
+  a protein called vascular endothelial growth factor (VEGF). VEGF causes new, weak
+  blood vessels to grow. These vessels can leak fluid or blood into the central part
+  of the retina at the back of the eye (macula). This leads to blurring or a blind
+  spot in the central (straight ahead) vision needed for reading or threading a needle.
+  Retinal vein occlusion (RVO): an eye disorder where a blood vessel that carries
+  blood away from the retina (vein) becomes blocked. The blocked vein causes a lack
+  of oxygen in the retina which leads to the increase of VEGF and then vision disturbances.
+  These eye disorders can be treated with a type of medicine called anti-vascular
+  endothelial growth factor (anti-VEGF). Anti-VEGF treatment helps control the growth
+  of new blood vessels in the eye and is given via injection into the eye. DARWEN
+  AI is a system using artificial intelligence (AI) technology. It has been proven
+  that DARWEN AI can be used to extract data accurately and efficiently in multiple
+  disease areas, including breast cancer, lung cancer, ambulatory care diseases and
+  skin disorders. The main purpose of this study is to validate if DARWEN AI can extract
+  and sort through information from participants'' health records accurately to identify
+  those who need more frequent injections and those who do not. The secondary purpose
+  of this study is to use DARWEN AI to describe the factors influencing treatment
+  frequencies in participants with nAMD or influencing treatment discontinuation in
+  participants with RVO. The data will come from the participants'' information stored
+  in EyeDoc Electronic Medical Rec'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This is an observational study in which data already collected from people
+  with the eye disorders below are studied. In observational studies, only observations
+  are made without participants receiving
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06495203 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

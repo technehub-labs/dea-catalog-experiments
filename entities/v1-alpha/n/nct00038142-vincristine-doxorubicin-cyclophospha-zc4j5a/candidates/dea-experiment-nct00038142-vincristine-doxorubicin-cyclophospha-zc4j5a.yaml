@@ -1,0 +1,43 @@
+id: dea:experiment-nct00038142-vincristine-doxorubicin-cyclophospha-zc4j5a
+type: Experiment
+name: NCT00038142 — Vincristine, Doxorubicin, Cyclophosphamide and Dexrazoxane (VACdxr)
+  in High Risk Ewing's Sarcoma Patients
+description: 'Objectives: 1. To determine if dose intensive Vincristine, Doxorubicin,
+  Cyclophosphamide and Dexrazoxane (VACdxr) with or without ImmTherTM can improve
+  the 2-year disease-free survival seen with standard VAC therapy. 2. To evaluate
+  the feasibility and describe the toxicity associated with VACdxr. 3. To evaluate
+  the feasibility and describe the toxicity of administering ImmTherTM on a weekly
+  basis for 50- 52 weeks. 4. To determine which therapy (VACdxr+ or VACdxr-) is worthy
+  of further evaluation. (NCT NCT00038142; status TERMINATED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Objectives: 1. To determine if dose intensive Vincristine, Doxorubicin,
+  Cyclophosphamide and Dexrazoxane (VACdxr) with or without ImmTherTM can improve
+  the 2-year disease-free survival seen with stand'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00038142 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- terminated

@@ -1,0 +1,45 @@
+id: dea:experiment-nct00615654-aquatic-physical-therapy-in-fibromya-byydpm
+type: Experiment
+name: NCT00615654 — Aquatic Physical Therapy in Fibromyalgia
+description: 'Objective: To investigate whether patients undergoing aquatic physiotherapy
+  in groups improve their functional capacity, by means of the distance covered in
+  the six-minute walk test (6WT), and to compare this with a control group. Methods:
+  Forty women that had not been practicing regular physical activity for one year
+  were randomly allocated either to the Study Group (SG) to undergo an aquatic physiotherapy
+  program in groups applied twice a week, including aerobic exercises, muscle strengthening
+  and relaxation for 12 weeks, or to the Control Group (CG), which did not do any
+  physical activity. Both groups maintained their treatment with medications. All
+  patients underwent two evaluations: one at the start and the other after 12 weeks.
+  (NCT NCT00615654; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Objective: To investigate whether patients undergoing aquatic physiotherapy
+  in groups improve their functional capacity, by means of the distance covered in
+  the six-minute walk test (6WT), and to comp'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00615654 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

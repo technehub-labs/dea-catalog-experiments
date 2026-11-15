@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07141550
-name: NCT07141550 — Kinesthetic Brain and Telerehab Pilates for Cognitive and Functional Outcomes in Women
-  With Fibromyalgia
-description: Fibromyalgia is a chronic pain syndrome often accompanied by fatigue, psychological problems,
-  and cognitive dysfunction, leading to reduced quality of life. Telerehabilitation-based Pilates has
-  been shown to improve symptoms and function in fibromyalgia, while kinesthetic brain exercises may enhance
-  cognitive performance through neuroplasticity. This study aims to evaluate the effects of adding kinesthetic
-  brain exercises to telerehabilitation-based Pilates on cognitive functions, symptom management, functional
-  performance, and quality of life in women with fibromyalgia. (NCT NCT07141550; status NOT_YET_RECRUITING).
-hypothesis: Fibromyalgia is a chronic pain syndrome often accompanied by fatigue, psychological problems,
-  and cognitive dysfunction, leading to reduced quality of life. Telerehabilitation-based Pilates has
-  been s
+name: NCT07141550 — Kinesthetic Brain and Telerehab Pilates for Cognitive and Functional
+  Outcomes in Women With Fibromyalgia
+description: Fibromyalgia is a chronic pain syndrome often accompanied by fatigue,
+  psychological problems, and cognitive dysfunction, leading to reduced quality of
+  life. Telerehabilitation-based Pilates has been shown to improve symptoms and function
+  in fibromyalgia, while kinesthetic brain exercises may enhance cognitive performance
+  through neuroplasticity. This study aims to evaluate the effects of adding kinesthetic
+  brain exercises to telerehabilitation-based Pilates on cognitive functions, symptom
+  management, functional performance, and quality of life in women with fibromyalgia.
+  (NCT NCT07141550; status NOT_YET_RECRUITING).
+hypothesis: Fibromyalgia is a chronic pain syndrome often accompanied by fatigue,
+  psychological problems, and cognitive dysfunction, leading to reduced quality of
+  life. Telerehabilitation-based Pilates has been s
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07141550 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07141550 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07141550-kinesthetic-brain-and-telerehab-pila
+assigned_id: dea:experiment-nct07141550-kinesthetic-brain-and-telerehab-pila-vp24ht
+admitted: '2026-11-15'

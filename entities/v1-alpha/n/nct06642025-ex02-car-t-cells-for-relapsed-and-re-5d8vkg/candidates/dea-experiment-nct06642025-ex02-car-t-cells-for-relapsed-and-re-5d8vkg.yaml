@@ -1,0 +1,42 @@
+id: dea:experiment-nct06642025-ex02-car-t-cells-for-relapsed-and-re-5d8vkg
+type: Experiment
+name: NCT06642025 — EX02 CAR-T Cells for Relapsed and Refractory Acute Myeloid Leukemia
+description: 'This is a early Phase 1 open-label, single-arm clinical study of EX02
+  CAR-T therapy for relapsed and refractory acute myeloid leukemia. Each participant
+  will undergo leukapheresis after enrolment, receive treatment of the conditioning
+  chemotherapy of cyclophosphamide and fludarabine, and an an intravenous infusion
+  of CAR-T cells. Each participant will proceed through the following study procedures:
+  * Screening * Enrollment/Leukapheresis * Conditioning chemotherapy * CAR T treatment
+  * Post-treatment assessment * Long-term follow-up (NCT NCT06642025; status RECRUITING).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This is a early Phase 1 open-label, single-arm clinical study of EX02
+  CAR-T therapy for relapsed and refractory acute myeloid leukemia. Each participant
+  will undergo leukapheresis after enrolment, rec
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06642025 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05468073
-name: NCT05468073 — Therapeutic Evaluation of Low-dose IL-2-based Immunomodulatory Approach in Patients
-  With Early AD
-description: Study aims at evaluating the therapeutic efficacy and safety of low-dose IL-2 immunomodulatory
-  treatment in patients with early AD, in a phase II, randomized, double blind, placebo-controlled phase
-  II clinical trial. Patients with AD at early stage will be recruited and randomized (2:1) in each treatment
-  group. The primary endpoint is the rate of decline assessed through CDR change at 18 months between
+name: NCT05468073 — Therapeutic Evaluation of Low-dose IL-2-based Immunomodulatory
+  Approach in Patients With Early AD
+description: Study aims at evaluating the therapeutic efficacy and safety of low-dose
+  IL-2 immunomodulatory treatment in patients with early AD, in a phase II, randomized,
+  double blind, placebo-controlled phase II clinical trial. Patients with AD at early
+  stage will be recruited and randomized (2:1) in each treatment group. The primary
+  endpoint is the rate of decline assessed through CDR change at 18 months between
   the placebo group and the treated patients. (NCT NCT05468073; status ACTIVE_NOT_RECRUITING).
-hypothesis: Study aims at evaluating the therapeutic efficacy and safety of low-dose IL-2 immunomodulatory
-  treatment in patients with early AD, in a phase II, randomized, double blind, placebo-controlled phase
-  II
+hypothesis: Study aims at evaluating the therapeutic efficacy and safety of low-dose
+  IL-2 immunomodulatory treatment in patients with early AD, in a phase II, randomized,
+  double blind, placebo-controlled phase II
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05468073 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05468073 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct05468073-therapeutic-evaluation-of-low-dose-i
+assigned_id: dea:experiment-nct05468073-therapeutic-evaluation-of-low-dose-i-sczaep
+admitted: '2026-11-15'

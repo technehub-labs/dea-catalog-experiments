@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02179073
 name: NCT02179073 — Health-related Quality of Life of Patients With Neurogenic Bladder
-description: Bladder management has a major impact on the quality of life in patients with neurogenic
-  bladder dysfunction. This a prospective investigation of the effects of the method for bladder evacuation
-  on the health-related quality of life in patients with neurogenic bladder dysfunction. The changes in
-  health-related quality of life over time (longitudinal investigation) and the differences between the
-  different methods for bladder evacuation will be investigated. Patients will be given a standardized
+description: Bladder management has a major impact on the quality of life in patients
+  with neurogenic bladder dysfunction. This a prospective investigation of the effects
+  of the method for bladder evacuation on the health-related quality of life in patients
+  with neurogenic bladder dysfunction. The changes in health-related quality of life
+  over time (longitudinal investigation) and the differences between the different
+  methods for bladder evacuation will be investigated. Patients will be given a standardized
   and validated questionnaire annually for 10 years. (NCT NCT02179073; status COMPLETED).
-hypothesis: Bladder management has a major impact on the quality of life in patients with neurogenic bladder
-  dysfunction. This a prospective investigation of the effects of the method for bladder evacuation on
-  th
+hypothesis: Bladder management has a major impact on the quality of life in patients
+  with neurogenic bladder dysfunction. This a prospective investigation of the effects
+  of the method for bladder evacuation on th
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02179073 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02179073 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02179073-health-related-quality-of-life-of-pa
+assigned_id: dea:experiment-nct02179073-health-related-quality-of-life-of-pa-pxpw5c
+admitted: '2026-11-15'

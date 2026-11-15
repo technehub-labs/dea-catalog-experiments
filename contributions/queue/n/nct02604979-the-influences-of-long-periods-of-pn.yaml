@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02604979
-name: NCT02604979 — The Influences of Long Periods of Pneumoperitoneum and Head up Position on the Variation
-  of Heart-rate Corrected QT Interval During Robotic-assisted Laparoscopic Gastrectomy - Observatio
-description: Sympathetic activity could be increased during robot-assisted laparoscopic gastrectomy, which
-  is performed in a head up position under CO2 pneumoperitoneum. Stimulation of the sympathetic nervous
-  system prolongs the QT interval and can increases the susceptibility to life threatening cardiac arrhythmias.
-  Thus the investigators decided to evaluate the heart-rate corrected QT interval (QTc interval) during
-  robotic-assisted laparoscopic gastrectomy. (NCT NCT02604979; status COMPLETED).
-hypothesis: Sympathetic activity could be increased during robot-assisted laparoscopic gastrectomy, which
-  is performed in a head up position under CO2 pneumoperitoneum. Stimulation of the sympathetic nervous
-  syst
+name: NCT02604979 — The Influences of Long Periods of Pneumoperitoneum and Head up
+  Position on the Variation of Heart-rate Corrected QT Interval During Robotic-assisted
+  Laparoscopic Gastrectomy - Observatio
+description: Sympathetic activity could be increased during robot-assisted laparoscopic
+  gastrectomy, which is performed in a head up position under CO2 pneumoperitoneum.
+  Stimulation of the sympathetic nervous system prolongs the QT interval and can increases
+  the susceptibility to life threatening cardiac arrhythmias. Thus the investigators
+  decided to evaluate the heart-rate corrected QT interval (QTc interval) during robotic-assisted
+  laparoscopic gastrectomy. (NCT NCT02604979; status COMPLETED).
+hypothesis: Sympathetic activity could be increased during robot-assisted laparoscopic
+  gastrectomy, which is performed in a head up position under CO2 pneumoperitoneum.
+  Stimulation of the sympathetic nervous syst
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02604979 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02604979 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02604979-the-influences-of-long-periods-of-pn
+assigned_id: dea:experiment-nct02604979-the-influences-of-long-periods-of-pn-wvn45k
+admitted: '2026-11-15'

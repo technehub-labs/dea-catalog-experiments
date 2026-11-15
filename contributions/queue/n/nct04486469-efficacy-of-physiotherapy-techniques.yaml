@@ -1,28 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04486469
-name: NCT04486469 — Efficacy of Physiotherapy Techniques on Irritable Bowel Syndrome (IBS). Pilot Study.
-description: Introduction and State of Question Irritable Bowel Syndrome can be classified as a functional
-  digestive disorder characterized by abdominal pain, bloating, and changes in the frequency and consistency
-  of bowel movements. Recent studies endorse the use of physical therapies for its symptomatic treatment.
-  With the present study investigators wanted to verify the effectiveness of physiotherapy techniques
-  in order to alleviate or eliminate the symptoms of Irritable Bowel Syndrome. Material and Methods Investigators
-  have carried out an uncontrolled pilot clinical trial in a sample of 24 patients diagnosed with Irritable
-  Bowel Syndrome in two hospitals in the Region of Murcia. Among the measurement tools used, we highlight
-  the use of the IBS-Severity Scale, IBS-QoL, STAI and spirometry tests. (NCT NCT04486469; status COMPLETED).
-hypothesis: Introduction and State of Question Irritable Bowel Syndrome can be classified as a functional
-  digestive disorder characterized by abdominal pain, bloating, and changes in the frequency and consistency
+name: NCT04486469 — Efficacy of Physiotherapy Techniques on Irritable Bowel Syndrome
+  (IBS). Pilot Study.
+description: Introduction and State of Question Irritable Bowel Syndrome can be classified
+  as a functional digestive disorder characterized by abdominal pain, bloating, and
+  changes in the frequency and consistency of bowel movements. Recent studies endorse
+  the use of physical therapies for its symptomatic treatment. With the present study
+  investigators wanted to verify the effectiveness of physiotherapy techniques in
+  order to alleviate or eliminate the symptoms of Irritable Bowel Syndrome. Material
+  and Methods Investigators have carried out an uncontrolled pilot clinical trial
+  in a sample of 24 patients diagnosed with Irritable Bowel Syndrome in two hospitals
+  in the Region of Murcia. Among the measurement tools used, we highlight the use
+  of the IBS-Severity Scale, IBS-QoL, STAI and spirometry tests. (NCT NCT04486469;
+  status COMPLETED).
+hypothesis: Introduction and State of Question Irritable Bowel Syndrome can be classified
+  as a functional digestive disorder characterized by abdominal pain, bloating, and
+  changes in the frequency and consistency
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04486469 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04486469 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04486469-efficacy-of-physiotherapy-techniques
+assigned_id: dea:experiment-nct04486469-efficacy-of-physiotherapy-techniques-68gaug
+admitted: '2026-11-15'

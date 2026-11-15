@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07424183
 name: NCT07424183 — T4/T3 Therapy in Hypothyroidism
-description: This study will test whether 6 months of combination therapy with levothyroxine (LT4) plus
-  liothyronine (LT3) is superior to LT4 plus placebo in participants with hypothyroidism who have residual
-  symptoms of hypothyroidism with TSH levels within the reference range. (NCT NCT07424183; status NOT_YET_RECRUITING).
-hypothesis: This study will test whether 6 months of combination therapy with levothyroxine (LT4) plus
-  liothyronine (LT3) is superior to LT4 plus placebo in participants with hypothyroidism who have residual
-  symp
+description: This study will test whether 6 months of combination therapy with levothyroxine
+  (LT4) plus liothyronine (LT3) is superior to LT4 plus placebo in participants with
+  hypothyroidism who have residual symptoms of hypothyroidism with TSH levels within
+  the reference range. (NCT NCT07424183; status NOT_YET_RECRUITING).
+hypothesis: This study will test whether 6 months of combination therapy with levothyroxine
+  (LT4) plus liothyronine (LT3) is superior to LT4 plus placebo in participants with
+  hypothyroidism who have residual symp
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07424183 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07424183 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07424183-t4-t3-therapy-in-hypothyroidism
+assigned_id: dea:experiment-nct07424183-t4-t3-therapy-in-hypothyroidism-2z8ndm
+admitted: '2026-11-15'

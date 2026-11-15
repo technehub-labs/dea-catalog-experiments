@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-EXP-CAT-01: Experiment Candidate Admission Batch 02
+
+Admitted 1200 new `Experiment` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +1200, canonical unchanged; queue entries flipped to `admitted`.
+
 ### CR-EXP-CAT-03: Experiment Candidate Corpus
 
 1200 Experiment candidate submissions landed in the contribution queue (sharded, gate-CONFORMANT) from 1 evidence bank(s); published prose + evidence citations + source_refs; provenance in ingestion/manifest.yaml. No catalog entities change; admission follows in EXP-CAT-04+.

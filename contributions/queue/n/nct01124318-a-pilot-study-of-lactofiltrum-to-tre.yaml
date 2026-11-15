@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01124318
 name: NCT01124318 — A Pilot Study of Lactofiltrum to Treat Atopic Dermatitis in Adults
-description: The purpose is to study efficacy of Lactofiltrum in adult patients with atopic dermatitis.
-  Lactofiltrum consists of 85% of hidrolytic lignin and 15% of lactulose and acts as an enterosorbent,
-  which enables to enhance metabolism and elimination of endotoxins and to normalize metabolic and immune
-  processes. Additionally, lactulose stimulates Bifidobacterium flora and in aggregate it could improve
-  skin condition afflicted by atopic dermatitis. (NCT NCT01124318; status COMPLETED).
-hypothesis: The purpose is to study efficacy of Lactofiltrum in adult patients with atopic dermatitis.
-  Lactofiltrum consists of 85% of hidrolytic lignin and 15% of lactulose and acts as an enterosorbent,
-  which en
+description: The purpose is to study efficacy of Lactofiltrum in adult patients with
+  atopic dermatitis. Lactofiltrum consists of 85% of hidrolytic lignin and 15% of
+  lactulose and acts as an enterosorbent, which enables to enhance metabolism and
+  elimination of endotoxins and to normalize metabolic and immune processes. Additionally,
+  lactulose stimulates Bifidobacterium flora and in aggregate it could improve skin
+  condition afflicted by atopic dermatitis. (NCT NCT01124318; status COMPLETED).
+hypothesis: The purpose is to study efficacy of Lactofiltrum in adult patients with
+  atopic dermatitis. Lactofiltrum consists of 85% of hidrolytic lignin and 15% of
+  lactulose and acts as an enterosorbent, which en
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01124318 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01124318 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01124318-a-pilot-study-of-lactofiltrum-to-tre
+assigned_id: dea:experiment-nct01124318-a-pilot-study-of-lactofiltrum-to-tre-qs3ds2
+admitted: '2026-11-15'

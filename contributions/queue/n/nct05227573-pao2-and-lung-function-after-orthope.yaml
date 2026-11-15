@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05227573
 name: NCT05227573 — PaO2 and Lung Function After Orthopedic Surgery
-description: 'Hypoxia and reduced oxygen partial pressure is commonly occurring after abdominal surgery.
-  This study aims to investigate whether similar changes also occur after orthopedic surgery in the form
-  of upper limb surgery. Inclusion: 60 patients undergoing orthopedic surgery in the form o knee-, hip-,
-  shoulder- or elbow surgery. Exclusion: Dementia or cognitive impairment that makes it impossible to
-  participate in studies. Arterial blood gas and lung function are undertaken before surgery, the day
-  after surgery and at follow-up. (NCT NCT05227573; status UNKNOWN).'
-hypothesis: Hypoxia and reduced oxygen partial pressure is commonly occurring after abdominal surgery.
-  This study aims to investigate whether similar changes also occur after orthopedic surgery in the form
-  of upp
+description: 'Hypoxia and reduced oxygen partial pressure is commonly occurring after
+  abdominal surgery. This study aims to investigate whether similar changes also occur
+  after orthopedic surgery in the form of upper limb surgery. Inclusion: 60 patients
+  undergoing orthopedic surgery in the form o knee-, hip-, shoulder- or elbow surgery.
+  Exclusion: Dementia or cognitive impairment that makes it impossible to participate
+  in studies. Arterial blood gas and lung function are undertaken before surgery,
+  the day after surgery and at follow-up. (NCT NCT05227573; status UNKNOWN).'
+hypothesis: Hypoxia and reduced oxygen partial pressure is commonly occurring after
+  abdominal surgery. This study aims to investigate whether similar changes also occur
+  after orthopedic surgery in the form of upp
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05227573 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05227573 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05227573-pao2-and-lung-function-after-orthope
+assigned_id: dea:experiment-nct05227573-pao2-and-lung-function-after-orthope-hk785g
+admitted: '2026-11-15'

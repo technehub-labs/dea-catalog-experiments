@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02746666
 name: NCT02746666 — Pharmacist's Influence on Breast Cancer Patient Quality of Life
-description: 'The purpose of this study is to investigate the impact of pharmacist behavioral intervention''s
-  influence on breast cancer patients'' quality of life. Croatian randomized controlled trial. Targeted
-  population: general population of breast cancer patients under the first adjuvant anthracycline chemotherapy.
-  Primary outcome: difference in EORTC QLQ-BR23 questionnaire result from the baseline to after 3 week
-  cycle. (NCT NCT02746666; status COMPLETED).'
-hypothesis: The purpose of this study is to investigate the impact of pharmacist behavioral intervention's
-  influence on breast cancer patients' quality of life. Croatian randomized controlled trial. Targeted
-  popu
+description: 'The purpose of this study is to investigate the impact of pharmacist
+  behavioral intervention''s influence on breast cancer patients'' quality of life.
+  Croatian randomized controlled trial. Targeted population: general population of
+  breast cancer patients under the first adjuvant anthracycline chemotherapy. Primary
+  outcome: difference in EORTC QLQ-BR23 questionnaire result from the baseline to
+  after 3 week cycle. (NCT NCT02746666; status COMPLETED).'
+hypothesis: The purpose of this study is to investigate the impact of pharmacist behavioral
+  intervention's influence on breast cancer patients' quality of life. Croatian randomized
+  controlled trial. Targeted popu
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02746666 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02746666 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02746666-pharmacist-s-influence-on-breast-can
+assigned_id: dea:experiment-nct02746666-pharmacist-s-influence-on-breast-can-pdm4aj
+admitted: '2026-11-15'

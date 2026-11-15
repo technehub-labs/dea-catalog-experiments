@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05663710
-name: NCT05663710 — Phase 1b/2 Study of Combination 177Lu Girentuximab Plus Cabozantinib and Nivolumab
-  in Treatment naïve Patients With Advanced Clear Cell RCC
-description: To learn if giving 177Lu girentuximab in combination with cabozantinib plus nivolumab can
-  help to control advanced clear cell renal cell carcinoma (ccRCC). (NCT NCT05663710; status RECRUITING).
-hypothesis: To learn if giving 177Lu girentuximab in combination with cabozantinib plus nivolumab can
-  help to control advanced clear cell renal cell carcinoma (ccRCC).
+name: NCT05663710 — Phase 1b/2 Study of Combination 177Lu Girentuximab Plus Cabozantinib
+  and Nivolumab in Treatment naïve Patients With Advanced Clear Cell RCC
+description: To learn if giving 177Lu girentuximab in combination with cabozantinib
+  plus nivolumab can help to control advanced clear cell renal cell carcinoma (ccRCC).
+  (NCT NCT05663710; status RECRUITING).
+hypothesis: To learn if giving 177Lu girentuximab in combination with cabozantinib
+  plus nivolumab can help to control advanced clear cell renal cell carcinoma (ccRCC).
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05663710 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05663710 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct05663710-phase-1b-2-study-of-combination-177l
+assigned_id: dea:experiment-nct05663710-phase-1b-2-study-of-combination-177l-v6tntq
+admitted: '2026-11-15'

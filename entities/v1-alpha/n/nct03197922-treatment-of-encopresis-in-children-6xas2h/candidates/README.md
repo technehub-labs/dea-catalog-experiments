@@ -1,0 +1,31 @@
+# NCT03197922 — Treatment of Encopresis in Children With Autism Spectrum Disorders
+
+> This study is comparing a multidisciplinary intervention for encopresis (MIE), consisting of both medical and behavioral components to treatment as usual control (TAU). Participants are first screened by a pediatric gastroenterologist and assessed and treated for any constipation or other potential medical complications. Following this, caregivers collect data on bowel movements and continence during a home baseline lasting no less than 14 days and no more than 21 days. Participants randomly assigned to treatment as usual or the treatment group, and begin attending daily appointments in clinic for 2 weeks. At appointments, the behavior team implements structured sits on the toilet to promote independent bowel movements (BMs). If an independent BM does not occur, the study team will administer a suppository to promote rapid release of the bowels and prompt the child to remain on the toilet following administration. In doing so, continent bowel movements are predictably evoked while the child is on the toilet, allowing for reinforcement with praise and preferred toys/activities. Eventually, suppositories are gradually decreased until the child is having BMs independently. Caregivers are trained to continue implementing the intervention following the clinic-based portion. The purpose of the current study is to evaluate MIE using a large randomized clinical trial (RCT), addressing the Department of Defense Autism Research Program, Area of Interest of Therapies to Alleviate Conditions Co-Occurring with autism spectrum disorder (ASD). The researchers will recruit 112 children diagnosed with ASD, randomizing them to two weeks of MIE, or treatment as usual (TAU) consisting of behavioral consultation and medical intervention. This study will evaluate MIE compared to TAU and determine the optimal treatment length. (NCT NCT03197922; status COMPLETED).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct03197922-treatment-of-encopresis-in-children-6xas2h`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT03197922 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

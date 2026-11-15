@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03628950
-name: NCT03628950 — Interscalene Versus Combined Infraclavicular-suprascapular Nerve Blocks
-description: The aim of this trial is to compare the analgesic efficiency and hemi-diaphragmatic paralysis
-  of the standard ultrasound-guided interscalene (ISB) brachial plexus block with the combined use of
-  costoclavicular approach of infraclavicular brachial plexus block and suprascapular nerve block (ICB-SSB)
-  for patients undergoing arthroscopic rotator cuff repair. Authors hypothesize that the combined use
-  of ICB-SSB could lead to equivalent postoperative analgesic effect to the standard ISB with less hemi-diaphragmatic
-  paralysis. (NCT NCT03628950; status COMPLETED).
-hypothesis: The aim of this trial is to compare the analgesic efficiency and hemi-diaphragmatic paralysis
-  of the standard ultrasound-guided interscalene (ISB) brachial plexus block with the combined use of
-  costoc
+name: NCT03628950 — Interscalene Versus Combined Infraclavicular-suprascapular Nerve
+  Blocks
+description: The aim of this trial is to compare the analgesic efficiency and hemi-diaphragmatic
+  paralysis of the standard ultrasound-guided interscalene (ISB) brachial plexus block
+  with the combined use of costoclavicular approach of infraclavicular brachial plexus
+  block and suprascapular nerve block (ICB-SSB) for patients undergoing arthroscopic
+  rotator cuff repair. Authors hypothesize that the combined use of ICB-SSB could
+  lead to equivalent postoperative analgesic effect to the standard ISB with less
+  hemi-diaphragmatic paralysis. (NCT NCT03628950; status COMPLETED).
+hypothesis: The aim of this trial is to compare the analgesic efficiency and hemi-diaphragmatic
+  paralysis of the standard ultrasound-guided interscalene (ISB) brachial plexus block
+  with the combined use of costoc
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03628950 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03628950 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03628950-interscalene-versus-combined-infracl
+assigned_id: dea:experiment-nct03628950-interscalene-versus-combined-infracl-zz2uwv
+admitted: '2026-11-15'

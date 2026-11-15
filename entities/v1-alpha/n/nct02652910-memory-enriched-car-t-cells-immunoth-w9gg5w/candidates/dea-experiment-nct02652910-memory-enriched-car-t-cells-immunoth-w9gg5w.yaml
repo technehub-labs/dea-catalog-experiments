@@ -1,0 +1,56 @@
+id: dea:experiment-nct02652910-memory-enriched-car-t-cells-immunoth-w9gg5w
+type: Experiment
+name: NCT02652910 — Memory-enriched CAR-T Cells Immunotherapy for B Cell Lymphoma
+description: The goal of this clinical trial is to study how approaches for manufacturing
+  chimeric antigen receptor (CAR)-modified T (CAR-T) cells affect their in vivo persistence
+  and therapeutic efficacy against B lymphoma. Recently, cancer immunotherapy, treatments
+  aiming to arm patients with immunity specifically against cancer cells, has emerged
+  as a promising therapeutic strategy. Among the many emerging immunotherapeutic approaches,
+  clinical trials utilizing CARs against B cell malignancies have demonstrated remarkable
+  potential. CARs combine the variable region of an antibody with T-cell signaling
+  moieties to confer T-cell activation with the targeting specificity of an antibody.
+  Thus, CARs are not MHC-restricted so they are not vulnerable to MHC down regulation
+  by tumors. However, defined by the activation and contraction program of their mother
+  cells, the persistency and function of CAR-T cells are also restricted by the protocol
+  of manufacturing. Previous clinical studies largely utilized interleukin-2 (IL-2)
+  for the ex vivo expansion of CAR-T cells, which preferentially generate CAR-T cells
+  with characteristics of terminally differentiated effector cells. Our preliminary
+  data indicated that two common gamma chain cytokines, IL-7 and IL-15, can help to
+  selectively expand CAR-T cells with various memory phenotypes. CAR-T Cells prepared
+  under this condition resulted in improved therapeutic efficacy in preclinical animal
+  models. This clinical investigation is to test a hypothesis whether IL-7/IL-15-programmed
+  anti-CD19 CAR-T cells persist longer in lymphoma patients after infusion and whether
+  the persistency of CAR-T cells can lead to improved anti-lymphoma efficacy. (NCT
+  NCT02652910; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'The goal of this clinical trial is to study how approaches for manufacturing
+  chimeric antigen receptor (CAR)-modified T (CAR-T) cells affect their in vivo persistence
+  and therapeutic efficacy against '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02652910 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

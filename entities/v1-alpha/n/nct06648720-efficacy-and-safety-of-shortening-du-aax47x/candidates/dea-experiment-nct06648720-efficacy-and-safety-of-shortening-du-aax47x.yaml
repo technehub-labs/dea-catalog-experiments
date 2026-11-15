@@ -1,0 +1,44 @@
+id: dea:experiment-nct06648720-efficacy-and-safety-of-shortening-du-aax47x
+type: Experiment
+name: NCT06648720 — Efficacy and Safety of Shortening Dual Antiplatelet Therapy Duration
+  with IVUS Guidance in PCI Patients
+description: This study is designed to assess the efficacy and safety of de-escalating
+  dual antiplatelet therapy (DAPT) at 1 month compared to the standard 12 months of
+  therapy in patients undergoing percutaneous coronary intervention (PCI) guided by
+  intravascular ultrasound (IVUS). The main outcomes measured will include major adverse
+  cardiovascular and cerebrovascular events (NACCE), bleeding events, and target vessel
+  failure (TVF). The goal is to evaluate whether a shorter duration of DAPT is non-inferior
+  to the standard 12-month regimen in preventing ischemic events while reducing the
+  incidence of bleeding. (NCT NCT06648720; status NOT_YET_RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'This study is designed to assess the efficacy and safety of de-escalating
+  dual antiplatelet therapy (DAPT) at 1 month compared to the standard 12 months of
+  therapy in patients undergoing percutaneous '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06648720 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- not-yet-recruiting

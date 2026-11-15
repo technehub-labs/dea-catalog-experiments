@@ -1,0 +1,45 @@
+id: dea:experiment-nct06872437-evaluation-of-the-efficacy-of-therap-xh73v4
+type: Experiment
+name: NCT06872437 — Evaluation of the Efficacy of Therapeutic Infiltrations of the
+  Pudendal Nerve, Performed Under Neurostimulation on Pain, 1 Month After an Infiltration
+  of Local Anaesthetic, in the Treatm
+description: Pudendal neuralgia (PN) is a chronic nerve compression syndrome causing
+  neuropathic pain. Treatment includes medication, infiltration and decompressive
+  surgery. Medicinal treatment involves the use of drugs that have proved effective
+  in other areas, such as shingles or diabetes. There is no consensus on the molecules
+  to be used for pudendal nerve infiltration (PNTI), and less than half of patients
+  experience short-term relief. The only risk factor for failure is the duration of
+  pain. Our study proposes to compare the usual treatment with a placebo, as no type
+  of infiltration has been compared with a placebo. (NCT NCT06872437; status RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Pudendal neuralgia (PN) is a chronic nerve compression syndrome causing
+  neuropathic pain. Treatment includes medication, infiltration and decompressive
+  surgery. Medicinal treatment involves the use of
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06872437 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

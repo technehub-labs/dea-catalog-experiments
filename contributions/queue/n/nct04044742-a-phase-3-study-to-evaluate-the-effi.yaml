@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04044742
-name: NCT04044742 — A Phase 3 Study to Evaluate the Efficacy and Safety of Resiniferatoxin for Pain Due
-  to Osteoarthritis of the Knee
-description: This study evaluates the efficacy and safety of intra-articular injection of resiniferatoxin
-  in patients with moderate to severe knee pain due to osteoarthritis. (NCT NCT04044742; status WITHDRAWN).
-hypothesis: This study evaluates the efficacy and safety of intra-articular injection of resiniferatoxin
-  in patients with moderate to severe knee pain due to osteoarthritis.
+name: NCT04044742 — A Phase 3 Study to Evaluate the Efficacy and Safety of Resiniferatoxin
+  for Pain Due to Osteoarthritis of the Knee
+description: This study evaluates the efficacy and safety of intra-articular injection
+  of resiniferatoxin in patients with moderate to severe knee pain due to osteoarthritis.
+  (NCT NCT04044742; status WITHDRAWN).
+hypothesis: This study evaluates the efficacy and safety of intra-articular injection
+  of resiniferatoxin in patients with moderate to severe knee pain due to osteoarthritis.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04044742 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04044742 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct04044742-a-phase-3-study-to-evaluate-the-effi
+assigned_id: dea:experiment-nct04044742-a-phase-3-study-to-evaluate-the-effi-96w6z8
+admitted: '2026-11-15'

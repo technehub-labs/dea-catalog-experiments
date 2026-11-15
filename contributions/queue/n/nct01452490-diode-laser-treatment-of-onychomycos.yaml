@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01452490
 name: NCT01452490 — Diode Laser Treatment of Onychomycosis
-description: The purpose of this study is to evaluate the V-Raser diode laser system with investigational
-  Nail Fungus Handpiece in the treatment of onychomycosis. (NCT NCT01452490; status COMPLETED).
-hypothesis: The purpose of this study is to evaluate the V-Raser diode laser system with investigational
-  Nail Fungus Handpiece in the treatment of onychomycosis.
+description: The purpose of this study is to evaluate the V-Raser diode laser system
+  with investigational Nail Fungus Handpiece in the treatment of onychomycosis. (NCT
+  NCT01452490; status COMPLETED).
+hypothesis: The purpose of this study is to evaluate the V-Raser diode laser system
+  with investigational Nail Fungus Handpiece in the treatment of onychomycosis.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01452490 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01452490 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01452490-diode-laser-treatment-of-onychomycos
+assigned_id: dea:experiment-nct01452490-diode-laser-treatment-of-onychomycos-n7wrqu
+admitted: '2026-11-15'

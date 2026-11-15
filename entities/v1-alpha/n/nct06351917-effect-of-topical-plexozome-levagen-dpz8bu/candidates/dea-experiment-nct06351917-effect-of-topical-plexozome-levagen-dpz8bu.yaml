@@ -1,0 +1,40 @@
+id: dea:experiment-nct06351917-effect-of-topical-plexozome-levagen-dpz8bu
+type: Experiment
+name: NCT06351917 — Effect of Topical PlexoZome® Levagen® Spray on Relief of Post
+  Exercise Knee Joint Pain
+description: This is a randomised, double-blind, placebo controlled, 2 arm parallel
+  clinical trial to evaluate the effect of topical PlexoZome® Levagen® spray on relief
+  of post exercise knee joint pain in healthy adults compared to placebo over 4 weeks
+  duration. (NCT NCT06351917; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'This is a randomised, double-blind, placebo controlled, 2 arm parallel
+  clinical trial to evaluate the effect of topical PlexoZome® Levagen® spray on relief
+  of post exercise knee joint pain in healthy '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06351917 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

@@ -1,25 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04255524
 name: NCT04255524 — Choroidal Change on OCTA in Eyes With High Myopia
-description: Myopia is a global healthy concern, especially the high myopia and pathological myopia among
-  Asian populations. However, its mechanism still remains largely unclear. Recent findings suggested choroidal
-  changes might be related to the development of myopia. This study is to useOCT angiography (OCT-A) to
-  investigate parapapillary choroidal microvasculature change in myopic eyes, and try to find the cause-and-effect
-  relationship between choroidal change and the development of myopia. (NCT NCT04255524; status NOT_YET_RECRUITING).
-hypothesis: Myopia is a global healthy concern, especially the high myopia and pathological myopia among
-  Asian populations. However, its mechanism still remains largely unclear. Recent findings suggested choroida
+description: Myopia is a global healthy concern, especially the high myopia and pathological
+  myopia among Asian populations. However, its mechanism still remains largely unclear.
+  Recent findings suggested choroidal changes might be related to the development
+  of myopia. This study is to useOCT angiography (OCT-A) to investigate parapapillary
+  choroidal microvasculature change in myopic eyes, and try to find the cause-and-effect
+  relationship between choroidal change and the development of myopia. (NCT NCT04255524;
+  status NOT_YET_RECRUITING).
+hypothesis: Myopia is a global healthy concern, especially the high myopia and pathological
+  myopia among Asian populations. However, its mechanism still remains largely unclear.
+  Recent findings suggested choroida
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04255524 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04255524 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct04255524-choroidal-change-on-octa-in-eyes-wit
+assigned_id: dea:experiment-nct04255524-choroidal-change-on-octa-in-eyes-wit-cr7px4
+admitted: '2026-11-15'

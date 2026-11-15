@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03427476
-name: NCT03427476 — CTT1057, a Small Molecular Inhibitor of PSMA, as a Novel Imaging Agent of Neovascularization
-  in Renal Cell Carcinoma
-description: The purpose of this study is to test a novel diagnostic PET imaging agent for safety and
-  biodistribution. The agent binds PSMA and is designed to detect Prostate Specific Membrane Antigen expressing
-  tumors, such as has been described for some renal cell carcinoma tumors. (NCT NCT03427476; status COMPLETED).
-hypothesis: The purpose of this study is to test a novel diagnostic PET imaging agent for safety and biodistribution.
-  The agent binds PSMA and is designed to detect Prostate Specific Membrane Antigen expressing t
+name: NCT03427476 — CTT1057, a Small Molecular Inhibitor of PSMA, as a Novel Imaging
+  Agent of Neovascularization in Renal Cell Carcinoma
+description: The purpose of this study is to test a novel diagnostic PET imaging agent
+  for safety and biodistribution. The agent binds PSMA and is designed to detect Prostate
+  Specific Membrane Antigen expressing tumors, such as has been described for some
+  renal cell carcinoma tumors. (NCT NCT03427476; status COMPLETED).
+hypothesis: The purpose of this study is to test a novel diagnostic PET imaging agent
+  for safety and biodistribution. The agent binds PSMA and is designed to detect Prostate
+  Specific Membrane Antigen expressing t
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03427476 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03427476 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03427476-ctt1057-a-small-molecular-inhibitor
+assigned_id: dea:experiment-nct03427476-ctt1057-a-small-molecular-inhibitor-yk5rqk
+admitted: '2026-11-15'

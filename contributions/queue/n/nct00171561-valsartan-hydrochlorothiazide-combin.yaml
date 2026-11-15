@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00171561
-name: NCT00171561 — Valsartan/Hydrochlorothiazide Combination vs Amlodipine in Patients With Hypertension,
-  Diabetes, and Albuminuria.
-description: The purpose of this study is assess if treatment with valsartan and a diuretic, hydrochlorothiazide,
-  has beneficial effects in people with high blood pressure, diabetes, and albuminuria (protein in the
-  urine) compared with amlodipine. In particular, the study will assess whether the treatment will decrease
-  the stiffness of the blood vessels. (NCT NCT00171561; status COMPLETED).
-hypothesis: The purpose of this study is assess if treatment with valsartan and a diuretic, hydrochlorothiazide,
-  has beneficial effects in people with high blood pressure, diabetes, and albuminuria (protein in th
+name: NCT00171561 — Valsartan/Hydrochlorothiazide Combination vs Amlodipine in Patients
+  With Hypertension, Diabetes, and Albuminuria.
+description: The purpose of this study is assess if treatment with valsartan and a
+  diuretic, hydrochlorothiazide, has beneficial effects in people with high blood
+  pressure, diabetes, and albuminuria (protein in the urine) compared with amlodipine.
+  In particular, the study will assess whether the treatment will decrease the stiffness
+  of the blood vessels. (NCT NCT00171561; status COMPLETED).
+hypothesis: The purpose of this study is assess if treatment with valsartan and a
+  diuretic, hydrochlorothiazide, has beneficial effects in people with high blood
+  pressure, diabetes, and albuminuria (protein in th
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00171561 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00171561 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00171561-valsartan-hydrochlorothiazide-combin
+assigned_id: dea:experiment-nct00171561-valsartan-hydrochlorothiazide-combin-8hxdrm
+admitted: '2026-11-15'

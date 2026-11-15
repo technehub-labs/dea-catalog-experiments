@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04119713
 name: NCT04119713 — Autoimmunity After Checkpoint Blockade
-description: The purpose of this study is to better understand how the treatment of cancer with immune
-  checkpoint inhibitors (ICI) leads to the development of autoimmunity. Specifically, we wish to understand
-  the genetics and immune system features that cause a subset of cancer patients treated with checkpoint
-  inhibitor therapy to develop an immune-related adverse event (irAE). (NCT NCT04119713; status RECRUITING).
-hypothesis: 'The purpose of this study is to better understand how the treatment of cancer with immune
-  checkpoint inhibitors (ICI) leads to the development of autoimmunity. Specifically, we wish to understand
-  the '
+description: The purpose of this study is to better understand how the treatment of
+  cancer with immune checkpoint inhibitors (ICI) leads to the development of autoimmunity.
+  Specifically, we wish to understand the genetics and immune system features that
+  cause a subset of cancer patients treated with checkpoint inhibitor therapy to develop
+  an immune-related adverse event (irAE). (NCT NCT04119713; status RECRUITING).
+hypothesis: 'The purpose of this study is to better understand how the treatment of
+  cancer with immune checkpoint inhibitors (ICI) leads to the development of autoimmunity.
+  Specifically, we wish to understand the '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04119713 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04119713 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct04119713-autoimmunity-after-checkpoint-blocka
+assigned_id: dea:experiment-nct04119713-autoimmunity-after-checkpoint-blocka-kuu6pb
+admitted: '2026-11-15'

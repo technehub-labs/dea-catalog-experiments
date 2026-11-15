@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03542422
 name: NCT03542422 — Apatinib as First -Line Treatment for Advanced Esophagus Cancer
-description: An Exploratory study of Amapinib for patients with advanced esophagus cancer . (NCT NCT03542422;
-  status UNKNOWN).
-hypothesis: An Exploratory study of Amapinib for patients with advanced esophagus cancer .
+description: An Exploratory study of Amapinib for patients with advanced esophagus
+  cancer . (NCT NCT03542422; status UNKNOWN).
+hypothesis: An Exploratory study of Amapinib for patients with advanced esophagus
+  cancer .
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03542422 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03542422 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03542422-apatinib-as-first-line-treatment-for
+assigned_id: dea:experiment-nct03542422-apatinib-as-first-line-treatment-for-4eyf5e
+admitted: '2026-11-15'

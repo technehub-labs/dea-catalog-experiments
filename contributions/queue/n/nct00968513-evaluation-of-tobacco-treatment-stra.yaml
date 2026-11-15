@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00968513
 name: NCT00968513 — Evaluation of Tobacco Treatment Strategies for Inpatient Psychiatry
-description: This study aims to evaluate, in a randomized controlled trial, tobacco treatments of varying
-  intensities for smokers hospitalized on acute psychiatric inpatient units. (NCT NCT00968513; status
-  COMPLETED).
-hypothesis: This study aims to evaluate, in a randomized controlled trial, tobacco treatments of varying
-  intensities for smokers hospitalized on acute psychiatric inpatient units.
+description: This study aims to evaluate, in a randomized controlled trial, tobacco
+  treatments of varying intensities for smokers hospitalized on acute psychiatric
+  inpatient units. (NCT NCT00968513; status COMPLETED).
+hypothesis: This study aims to evaluate, in a randomized controlled trial, tobacco
+  treatments of varying intensities for smokers hospitalized on acute psychiatric
+  inpatient units.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00968513 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00968513 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00968513-evaluation-of-tobacco-treatment-stra
+assigned_id: dea:experiment-nct00968513-evaluation-of-tobacco-treatment-stra-7hgqav
+admitted: '2026-11-15'

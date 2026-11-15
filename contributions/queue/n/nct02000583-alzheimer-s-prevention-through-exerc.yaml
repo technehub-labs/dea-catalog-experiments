@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02000583
 name: NCT02000583 — Alzheimer's Prevention Through Exercise
-description: The purpose of this study is to learn about the possible benefits of aerobic exercise in
-  controlling or reducing the amount of amyloid present in the brain, reducing changes in brain structure
-  that may lead to Alzheimer's Disease (AD), and increasing cognitive ability in individuals that have
-  amyloid deposits and are at risk to develop AD. (NCT NCT02000583; status COMPLETED).
-hypothesis: The purpose of this study is to learn about the possible benefits of aerobic exercise in controlling
-  or reducing the amount of amyloid present in the brain, reducing changes in brain structure that ma
+description: The purpose of this study is to learn about the possible benefits of
+  aerobic exercise in controlling or reducing the amount of amyloid present in the
+  brain, reducing changes in brain structure that may lead to Alzheimer's Disease
+  (AD), and increasing cognitive ability in individuals that have amyloid deposits
+  and are at risk to develop AD. (NCT NCT02000583; status COMPLETED).
+hypothesis: The purpose of this study is to learn about the possible benefits of aerobic
+  exercise in controlling or reducing the amount of amyloid present in the brain,
+  reducing changes in brain structure that ma
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02000583 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02000583 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02000583-alzheimer-s-prevention-through-exerc
+assigned_id: dea:experiment-nct02000583-alzheimer-s-prevention-through-exerc-fgcy93
+admitted: '2026-11-15'

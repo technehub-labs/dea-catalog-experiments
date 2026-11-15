@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03726970
-name: NCT03726970 — Effect of Metal Artifacts Reduction Orotocols and Electric Potential Difference on
-  Metal Artifacts in Cone Beam Computed Tomography
-description: The effect of metal artifacts reduction protocols and tube potential difference on the metallic
-  artifacts in cone beam computed tomography (NCT NCT03726970; status UNKNOWN).
-hypothesis: The effect of metal artifacts reduction protocols and tube potential difference on the metallic
-  artifacts in cone beam computed tomography
+name: NCT03726970 — Effect of Metal Artifacts Reduction Orotocols and Electric Potential
+  Difference on Metal Artifacts in Cone Beam Computed Tomography
+description: The effect of metal artifacts reduction protocols and tube potential
+  difference on the metallic artifacts in cone beam computed tomography (NCT NCT03726970;
+  status UNKNOWN).
+hypothesis: The effect of metal artifacts reduction protocols and tube potential difference
+  on the metallic artifacts in cone beam computed tomography
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03726970 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03726970 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03726970-effect-of-metal-artifacts-reduction
+assigned_id: dea:experiment-nct03726970-effect-of-metal-artifacts-reduction-kt9j6u
+admitted: '2026-11-15'

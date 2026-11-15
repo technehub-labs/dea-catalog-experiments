@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04358679
-name: NCT04358679 — Upper Limb Ergometer on Pulmonary Function Among Patients With Spinal Cord Injury.
-description: Randomized Control Trial, To determine the effects of arm ergometer exercise on pulmonary
-  function of Spinal Cord Injury. (NCT NCT04358679; status COMPLETED).
-hypothesis: Randomized Control Trial, To determine the effects of arm ergometer exercise on pulmonary
-  function of Spinal Cord Injury.
+name: NCT04358679 — Upper Limb Ergometer on Pulmonary Function Among Patients With
+  Spinal Cord Injury.
+description: Randomized Control Trial, To determine the effects of arm ergometer exercise
+  on pulmonary function of Spinal Cord Injury. (NCT NCT04358679; status COMPLETED).
+hypothesis: Randomized Control Trial, To determine the effects of arm ergometer exercise
+  on pulmonary function of Spinal Cord Injury.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04358679 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04358679 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04358679-upper-limb-ergometer-on-pulmonary-fu
+assigned_id: dea:experiment-nct04358679-upper-limb-ergometer-on-pulmonary-fu-qynf7v
+admitted: '2026-11-15'

@@ -1,35 +1,41 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03294473
 name: NCT03294473 — Centralized Reminder Recall - Flu RCT2
-description: 'This study is related to a previous study, Clinicaltrials.gov ID: NCT02924467. There are
-  some modifications in relation to the intervention arms as well as the use of a different cohort, thereby
-  justifying the second submission to Clinicaltrials.gov. This trial is taking place in New York State,
-  through partnership with the New York State Health Department (excluding New York City), and Colorado.
-  Each state will have it''s own Clinicaltrial.gov submission -- this was decided as some of the intervention
-  components are different enough that separate registrations were warranted. Despite U.S. guidelines
-  for influenza vaccination of all children starting at 6 months, only about half of children are vaccinated
-  annually leading to substantial influenza disease in children and spread of disease to adults. A major
-  barrier is that families are not reminded about the need for their children to receive influenza vaccination.
-  The investigators will evaluate the impact of patient reminder/recall (R/R) performed by state immunization
-  information systems to improve influenza vaccination rates by using 4 clinical trials (2 per state)
-  in two different states. The investigators will assess effectiveness and cost-effectiveness of 1) autodialer
-  R/R 2) text messages R/R 3) mailed postcard R/R as compared to 4) standard of care control (no R/R).
+description: 'This study is related to a previous study, Clinicaltrials.gov ID: NCT02924467.
+  There are some modifications in relation to the intervention arms as well as the
+  use of a different cohort, thereby justifying the second submission to Clinicaltrials.gov.
+  This trial is taking place in New York State, through partnership with the New York
+  State Health Department (excluding New York City), and Colorado. Each state will
+  have it''s own Clinicaltrial.gov submission -- this was decided as some of the intervention
+  components are different enough that separate registrations were warranted. Despite
+  U.S. guidelines for influenza vaccination of all children starting at 6 months,
+  only about half of children are vaccinated annually leading to substantial influenza
+  disease in children and spread of disease to adults. A major barrier is that families
+  are not reminded about the need for their children to receive influenza vaccination.
+  The investigators will evaluate the impact of patient reminder/recall (R/R) performed
+  by state immunization information systems to improve influenza vaccination rates
+  by using 4 clinical trials (2 per state) in two different states. The investigators
+  will assess effectiveness and cost-effectiveness of 1) autodialer R/R 2) text messages
+  R/R 3) mailed postcard R/R as compared to 4) standard of care control (no R/R).
   (NCT NCT03294473; status COMPLETED).'
-hypothesis: 'This study is related to a previous study, Clinicaltrials.gov ID: NCT02924467. There are
-  some modifications in relation to the intervention arms as well as the use of a different cohort, thereby
-  justi'
+hypothesis: 'This study is related to a previous study, Clinicaltrials.gov ID: NCT02924467.
+  There are some modifications in relation to the intervention arms as well as the
+  use of a different cohort, thereby justi'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03294473 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03294473 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03294473-centralized-reminder-recall-flu-rct2
+assigned_id: dea:experiment-nct03294473-centralized-reminder-recall-flu-rct2-xu82uz
+admitted: '2026-11-15'

@@ -1,23 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05279313
-name: NCT05279313 — A Trial of Centanafadine Long-term Safety in Children and Adolescents With Attention-deficit/Hyperactivity
-  Disorder.
-description: 'A Trial of Centanafadine Long-term Safety in Children and Adolescents With Attention-deficit/Hyperactivity
-  Disorder. — a registered study in the ClinicalTrials.gov registry (status: COMPLETED). (NCT NCT05279313;
-  status COMPLETED).'
+name: NCT05279313 — A Trial of Centanafadine Long-term Safety in Children and Adolescents
+  With Attention-deficit/Hyperactivity Disorder.
+description: 'A Trial of Centanafadine Long-term Safety in Children and Adolescents
+  With Attention-deficit/Hyperactivity Disorder. — a registered study in the ClinicalTrials.gov
+  registry (status: COMPLETED). (NCT NCT05279313; status COMPLETED).'
 hypothesis: To evaluate long-term safety exposure
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05279313 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05279313 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05279313-a-trial-of-centanafadine-long-term-s
+assigned_id: dea:experiment-nct05279313-a-trial-of-centanafadine-long-term-s-whbfr5
+admitted: '2026-11-15'

@@ -1,32 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00642629
-name: NCT00642629 — A Randomized, Double-blind, Placebo-controlled Clinical Study of the Oral IL-12/23
-  Inhibitor, STA-5326 Mesylate, Administered to Patients With Rheumatoid Arthritis to Determine Safety,
-  T
-description: It is not fully clear how rheumatoid arthritis originates and develops, but it is understood
-  that multiple genetic and environmental factors interact to trigger its onset. The immune system attacks
-  the joint synovium, which damages the cartilage and bone in the joint by increasing the number of inflammatory
-  cells and forming new blood vessels in the joint space. STA-5326 mesylate inhibits the production of
-  IL-12 and IL-23 and therefore may inhibit Th-1 cytokine production. A reduction in the Th-1 response
-  has the potential to minimize or eliminate joint damage caused by the immune response in rheumatoid
-  arthritis. This study is designed to assess whether the proposed mechanism of action is associated with
-  a reduction in inflammation in the synovium of patients who have rheumatoid arthritis. (NCT NCT00642629;
-  status COMPLETED).
-hypothesis: It is not fully clear how rheumatoid arthritis originates and develops, but it is understood
-  that multiple genetic and environmental factors interact to trigger its onset. The immune system attacks
-  th
+name: NCT00642629 — A Randomized, Double-blind, Placebo-controlled Clinical Study
+  of the Oral IL-12/23 Inhibitor, STA-5326 Mesylate, Administered to Patients With
+  Rheumatoid Arthritis to Determine Safety, T
+description: It is not fully clear how rheumatoid arthritis originates and develops,
+  but it is understood that multiple genetic and environmental factors interact to
+  trigger its onset. The immune system attacks the joint synovium, which damages the
+  cartilage and bone in the joint by increasing the number of inflammatory cells and
+  forming new blood vessels in the joint space. STA-5326 mesylate inhibits the production
+  of IL-12 and IL-23 and therefore may inhibit Th-1 cytokine production. A reduction
+  in the Th-1 response has the potential to minimize or eliminate joint damage caused
+  by the immune response in rheumatoid arthritis. This study is designed to assess
+  whether the proposed mechanism of action is associated with a reduction in inflammation
+  in the synovium of patients who have rheumatoid arthritis. (NCT NCT00642629; status
+  COMPLETED).
+hypothesis: It is not fully clear how rheumatoid arthritis originates and develops,
+  but it is understood that multiple genetic and environmental factors interact to
+  trigger its onset. The immune system attacks th
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00642629 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00642629 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00642629-a-randomized-double-blind-placebo-co
+assigned_id: dea:experiment-nct00642629-a-randomized-double-blind-placebo-co-cnfhmq
+admitted: '2026-11-15'

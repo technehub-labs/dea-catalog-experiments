@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06316505
 name: NCT06316505 — Oral Photographs of Patients on Oral Hygiene Motivation
-description: Based on these considerations, this randomized controlled trial aimed to determine the effectiveness
-  of a personalized visual oral health education program in addition to conventional education on oral
-  hygiene by comparing changes in clinical periodontal parameters. Participants will get conventional
-  oral hygiene education (COHE) with/without visual motivation using self oral photographs of patients.
-  Researchers will compare Intervention group and control groups on oral hygiene by comparing changes
-  in clinical periodontal parameters. (NCT NCT06316505; status COMPLETED).
-hypothesis: Based on these considerations, this randomized controlled trial aimed to determine the effectiveness
-  of a personalized visual oral health education program in addition to conventional education on ora
+description: Based on these considerations, this randomized controlled trial aimed
+  to determine the effectiveness of a personalized visual oral health education program
+  in addition to conventional education on oral hygiene by comparing changes in clinical
+  periodontal parameters. Participants will get conventional oral hygiene education
+  (COHE) with/without visual motivation using self oral photographs of patients. Researchers
+  will compare Intervention group and control groups on oral hygiene by comparing
+  changes in clinical periodontal parameters. (NCT NCT06316505; status COMPLETED).
+hypothesis: Based on these considerations, this randomized controlled trial aimed
+  to determine the effectiveness of a personalized visual oral health education program
+  in addition to conventional education on ora
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06316505 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06316505 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06316505-oral-photographs-of-patients-on-oral
+assigned_id: dea:experiment-nct06316505-oral-photographs-of-patients-on-oral-d369e2
+admitted: '2026-11-15'

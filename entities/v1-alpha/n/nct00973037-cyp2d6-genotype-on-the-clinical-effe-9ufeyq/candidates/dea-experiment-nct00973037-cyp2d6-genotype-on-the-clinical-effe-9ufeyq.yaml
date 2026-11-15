@@ -1,0 +1,38 @@
+id: dea:experiment-nct00973037-cyp2d6-genotype-on-the-clinical-effe-9ufeyq
+type: Experiment
+name: NCT00973037 — CYP2D6 Genotype on the Clinical Effect of Tamoxifen
+description: The purpose of this study is to investigate the impact of CYP2D6 Genotype
+  on the clinical effects of tamoxifen using with samples from prospective randomized
+  multicenter study(ASTRRA). (NCT NCT00973037; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The purpose of this study is to investigate the impact of CYP2D6 Genotype
+  on the clinical effects of tamoxifen using with samples from prospective randomized
+  multicenter study(ASTRRA).
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00973037 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

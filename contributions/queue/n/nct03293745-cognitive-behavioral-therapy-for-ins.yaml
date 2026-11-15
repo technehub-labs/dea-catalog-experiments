@@ -1,23 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03293745
-name: 'NCT03293745 — Cognitive Behavioral Therapy for Insomnia: Face-to-Face Versus Telemedicine'
-description: The purpose of this study is to compare the effectiveness of Cognitive-Behavioral Therapy
-  (CBT) for insomnia conducted face-to-face with a therapist versus CBT for insomnia conducted using Internet-based
-  videoconference technology. (NCT NCT03293745; status COMPLETED).
-hypothesis: The purpose of this study is to compare the effectiveness of Cognitive-Behavioral Therapy
-  (CBT) for insomnia conducted face-to-face with a therapist versus CBT for insomnia conducted using Internet-ba
+name: 'NCT03293745 — Cognitive Behavioral Therapy for Insomnia: Face-to-Face Versus
+  Telemedicine'
+description: The purpose of this study is to compare the effectiveness of Cognitive-Behavioral
+  Therapy (CBT) for insomnia conducted face-to-face with a therapist versus CBT for
+  insomnia conducted using Internet-based videoconference technology. (NCT NCT03293745;
+  status COMPLETED).
+hypothesis: The purpose of this study is to compare the effectiveness of Cognitive-Behavioral
+  Therapy (CBT) for insomnia conducted face-to-face with a therapist versus CBT for
+  insomnia conducted using Internet-ba
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03293745 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03293745 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03293745-cognitive-behavioral-therapy-for-ins
+assigned_id: dea:experiment-nct03293745-cognitive-behavioral-therapy-for-ins-nrznjp
+admitted: '2026-11-15'

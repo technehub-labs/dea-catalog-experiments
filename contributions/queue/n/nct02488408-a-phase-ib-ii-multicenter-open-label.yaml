@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02488408
-name: NCT02488408 — A Phase Ib/II Multicenter Open-label Study of Bemcentinib (BGB324) in Patients With
-  AML or MDS
-description: A Phase Ib/II multicentre open label study of bemcentinib (BGB324) as a single agent in participants
-  with Acute Myeloid Leukemia (AML) or Myelodysplastic syndrome (MDS) or in a combination with cytarabine
-  or decitabine in AML participants. Bemcentinib is a potent selective small molecule inhibitor of AXL
-  a surface membrane protein kinase receptor which is overexpressed in up to half of AML cases. (NCT NCT02488408;
-  status COMPLETED).
-hypothesis: A Phase Ib/II multicentre open label study of bemcentinib (BGB324) as a single agent in participants
-  with Acute Myeloid Leukemia (AML) or Myelodysplastic syndrome (MDS) or in a combination with cytara
+name: NCT02488408 — A Phase Ib/II Multicenter Open-label Study of Bemcentinib (BGB324)
+  in Patients With AML or MDS
+description: A Phase Ib/II multicentre open label study of bemcentinib (BGB324) as
+  a single agent in participants with Acute Myeloid Leukemia (AML) or Myelodysplastic
+  syndrome (MDS) or in a combination with cytarabine or decitabine in AML participants.
+  Bemcentinib is a potent selective small molecule inhibitor of AXL a surface membrane
+  protein kinase receptor which is overexpressed in up to half of AML cases. (NCT
+  NCT02488408; status COMPLETED).
+hypothesis: A Phase Ib/II multicentre open label study of bemcentinib (BGB324) as
+  a single agent in participants with Acute Myeloid Leukemia (AML) or Myelodysplastic
+  syndrome (MDS) or in a combination with cytara
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02488408 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02488408 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02488408-a-phase-ib-ii-multicenter-open-label
+assigned_id: dea:experiment-nct02488408-a-phase-ib-ii-multicenter-open-label-udjgxe
+admitted: '2026-11-15'

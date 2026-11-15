@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01408641
 name: NCT01408641 — Topiramate for Alcohol Use in Posttraumatic Stress Disorder
-description: Alcohol abuse and dependence (alcohol use disorders, AUDs) and posttraumatic stress disorder
-  (PTSD) are both prevalent in Veterans. Treating AUDs in Veterans with PTSD may be more difficult than
-  treating AUDs in the general population. The FDA-approved medication topiramate has been shown to improve
-  drinking outcomes in people with AUDs. Topiramate has also improved symptoms in people with PTSD. This
-  study is designed to investigate whether topiramate will improve drinking outcomes in Veterans with
-  PTSD. (NCT NCT01408641; status TERMINATED).
-hypothesis: Alcohol abuse and dependence (alcohol use disorders, AUDs) and posttraumatic stress disorder
-  (PTSD) are both prevalent in Veterans. Treating AUDs in Veterans with PTSD may be more difficult than
-  treat
+description: Alcohol abuse and dependence (alcohol use disorders, AUDs) and posttraumatic
+  stress disorder (PTSD) are both prevalent in Veterans. Treating AUDs in Veterans
+  with PTSD may be more difficult than treating AUDs in the general population. The
+  FDA-approved medication topiramate has been shown to improve drinking outcomes in
+  people with AUDs. Topiramate has also improved symptoms in people with PTSD. This
+  study is designed to investigate whether topiramate will improve drinking outcomes
+  in Veterans with PTSD. (NCT NCT01408641; status TERMINATED).
+hypothesis: Alcohol abuse and dependence (alcohol use disorders, AUDs) and posttraumatic
+  stress disorder (PTSD) are both prevalent in Veterans. Treating AUDs in Veterans
+  with PTSD may be more difficult than treat
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01408641 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01408641 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct01408641-topiramate-for-alcohol-use-in-posttr
+assigned_id: dea:experiment-nct01408641-topiramate-for-alcohol-use-in-posttr-dxkxuu
+admitted: '2026-11-15'

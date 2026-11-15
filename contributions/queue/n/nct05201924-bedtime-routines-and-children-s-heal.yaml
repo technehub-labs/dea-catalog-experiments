@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05201924
 name: NCT05201924 — Bedtime Routines and Children's Health
-description: In Taiwan, the prevalence of sleep problems, myopia, and dental caries in school-age children
-  is high. Little is known regarding the implementation of oral and vision health outcomes around bedtime.
-  A bedtime routine intervention was conducted to improve children's oral, vision and sleep health. (NCT
-  NCT05201924; status COMPLETED).
-hypothesis: In Taiwan, the prevalence of sleep problems, myopia, and dental caries in school-age children
-  is high. Little is known regarding the implementation of oral and vision health outcomes around bedtime.
-  A
+description: In Taiwan, the prevalence of sleep problems, myopia, and dental caries
+  in school-age children is high. Little is known regarding the implementation of
+  oral and vision health outcomes around bedtime. A bedtime routine intervention was
+  conducted to improve children's oral, vision and sleep health. (NCT NCT05201924;
+  status COMPLETED).
+hypothesis: In Taiwan, the prevalence of sleep problems, myopia, and dental caries
+  in school-age children is high. Little is known regarding the implementation of
+  oral and vision health outcomes around bedtime. A
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05201924 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05201924 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05201924-bedtime-routines-and-children-s-heal
+assigned_id: dea:experiment-nct05201924-bedtime-routines-and-children-s-heal-jprpme
+admitted: '2026-11-15'

@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06733194
 name: NCT06733194 — Complications of Bladder Augmentation in Children
-description: 'The goal of this observational study is to describe the complications in participants who
-  underwent enterocystoplasty in childhood. The main question\[s\] it aims to answer are: * what kind
-  of complications are there * the kind of complications depending on the type of enterocystoplasty Participants
-  data will be collected in the medical field. There is no comparison group. (NCT NCT06733194; status
-  COMPLETED).'
-hypothesis: 'The goal of this observational study is to describe the complications in participants who
-  underwent enterocystoplasty in childhood. The main question\[s\] it aims to answer are: * what kind
-  of complic'
+description: 'The goal of this observational study is to describe the complications
+  in participants who underwent enterocystoplasty in childhood. The main question\[s\]
+  it aims to answer are: * what kind of complications are there * the kind of complications
+  depending on the type of enterocystoplasty Participants data will be collected in
+  the medical field. There is no comparison group. (NCT NCT06733194; status COMPLETED).'
+hypothesis: 'The goal of this observational study is to describe the complications
+  in participants who underwent enterocystoplasty in childhood. The main question\[s\]
+  it aims to answer are: * what kind of complic'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06733194 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06733194 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06733194-complications-of-bladder-augmentatio
+assigned_id: dea:experiment-nct06733194-complications-of-bladder-augmentatio-ex8f5h
+admitted: '2026-11-15'

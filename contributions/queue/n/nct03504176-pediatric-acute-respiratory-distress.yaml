@@ -1,32 +1,38 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03504176
 name: NCT03504176 — Pediatric Acute Respiratory Distress Syndrome Ventilation Bundle
-description: Mortality rates in children with pediatric acute respiratory distress syndrome (PARDS) are
-  higher in Asia compared to other regions. In adults with acute respiratory distress syndrome, the only
-  therapy that improves mortality rates is a lung protective ventilation strategy. The pediatric ventilation
-  recommendations by the Pediatric Acute Lung Injury Consensus Conference (PALICC) are extrapolated from
-  evidence in adults, including ventilation with low tidal volume, low peak/plateau pressures and high
-  end expiratory pressure. A recent retrospective study of ventilation practices in Asia including Singapore
-  showed that a majority of patients with PARDS were being ventilated with high tidal volume, high peak
-  pressure and low end expiratory pressure, not in compliance with PALICC recommendations. We postulate
-  that currently used ventilation strategies could have contributed to the high PARDS mortality rates
-  in Asia. We aim to determine if implementing a ventilation bundle comprising PALICC recommendations
-  lowers PARDS and pediatric intensive care unit (PICU) mortality rates. (NCT NCT03504176; status COMPLETED).
-hypothesis: Mortality rates in children with pediatric acute respiratory distress syndrome (PARDS) are
-  higher in Asia compared to other regions. In adults with acute respiratory distress syndrome, the only
-  therap
+description: Mortality rates in children with pediatric acute respiratory distress
+  syndrome (PARDS) are higher in Asia compared to other regions. In adults with acute
+  respiratory distress syndrome, the only therapy that improves mortality rates is
+  a lung protective ventilation strategy. The pediatric ventilation recommendations
+  by the Pediatric Acute Lung Injury Consensus Conference (PALICC) are extrapolated
+  from evidence in adults, including ventilation with low tidal volume, low peak/plateau
+  pressures and high end expiratory pressure. A recent retrospective study of ventilation
+  practices in Asia including Singapore showed that a majority of patients with PARDS
+  were being ventilated with high tidal volume, high peak pressure and low end expiratory
+  pressure, not in compliance with PALICC recommendations. We postulate that currently
+  used ventilation strategies could have contributed to the high PARDS mortality rates
+  in Asia. We aim to determine if implementing a ventilation bundle comprising PALICC
+  recommendations lowers PARDS and pediatric intensive care unit (PICU) mortality
+  rates. (NCT NCT03504176; status COMPLETED).
+hypothesis: Mortality rates in children with pediatric acute respiratory distress
+  syndrome (PARDS) are higher in Asia compared to other regions. In adults with acute
+  respiratory distress syndrome, the only therap
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03504176 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03504176 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03504176-pediatric-acute-respiratory-distress
+assigned_id: dea:experiment-nct03504176-pediatric-acute-respiratory-distress-c2geqx
+admitted: '2026-11-15'

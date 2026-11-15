@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04088890
-name: NCT04088890 — Autologous CD22 CAR T Cells in Adults w/ Recurrent or Refractory B Cell Malignancies
-description: The primary purpose of this study is to test whether CD22-CAR T cells can be successfully
-  made from immune cells collected from adults with relapsed/refractory B-cell malignancies (leukemia
-  and lymphoma). (NCT NCT04088890; status COMPLETED).
-hypothesis: The primary purpose of this study is to test whether CD22-CAR T cells can be successfully
-  made from immune cells collected from adults with relapsed/refractory B-cell malignancies (leukemia
-  and lympho
+name: NCT04088890 — Autologous CD22 CAR T Cells in Adults w/ Recurrent or Refractory
+  B Cell Malignancies
+description: The primary purpose of this study is to test whether CD22-CAR T cells
+  can be successfully made from immune cells collected from adults with relapsed/refractory
+  B-cell malignancies (leukemia and lymphoma). (NCT NCT04088890; status COMPLETED).
+hypothesis: The primary purpose of this study is to test whether CD22-CAR T cells
+  can be successfully made from immune cells collected from adults with relapsed/refractory
+  B-cell malignancies (leukemia and lympho
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04088890 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04088890 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04088890-autologous-cd22-car-t-cells-in-adult
+assigned_id: dea:experiment-nct04088890-autologous-cd22-car-t-cells-in-adult-ceyp6a
+admitted: '2026-11-15'

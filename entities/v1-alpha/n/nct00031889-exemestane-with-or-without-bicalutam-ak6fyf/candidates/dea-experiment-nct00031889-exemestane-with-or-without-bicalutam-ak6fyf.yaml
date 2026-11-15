@@ -1,0 +1,43 @@
+id: dea:experiment-nct00031889-exemestane-with-or-without-bicalutam-ak6fyf
+type: Experiment
+name: NCT00031889 — Exemestane With or Without Bicalutamide in Treating Patients With
+  Stage IV Prostate Cancer
+description: 'RATIONALE: Androgens can stimulate the growth of prostate cancer cells.
+  Hormone therapy using exemestane plus bicalutamide may fight prostate cancer by
+  reducing the production of androgens. It is not yet known if exemestane is more
+  effective with or without bicalutamide in treating prostate cancer. PURPOSE: Randomized
+  phase II trial to study the effectiveness of exemestane with or without bicalutamide
+  in treating patients who have stage IV prostate cancer that has been previously
+  treated with hormone therapy or surgery. (NCT NCT00031889; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'RATIONALE: Androgens can stimulate the growth of prostate cancer cells.
+  Hormone therapy using exemestane plus bicalutamide may fight prostate cancer by
+  reducing the production of androgens. It is not '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00031889 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

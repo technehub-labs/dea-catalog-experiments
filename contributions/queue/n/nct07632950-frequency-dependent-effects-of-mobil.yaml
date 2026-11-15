@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07632950
-name: 'NCT07632950 — Frequency-Dependent Effects of Mobilization-Based Exercise on Dynamic Postural Control
-  in Orchestra Musicians: An Exploratory Randomized Controlled Trial'
-description: Orchestra musicians are exposed to prolonged asymmetric postures and repetitive upper-quarter
-  loading that may affect postural control. This exploratory randomized controlled trial examined whether
-  a four-week mobilization-based exercise program, delivered once or twice weekly, was associated with
-  changes in static sensory-dependent balance and dynamic voluntary weight-shifting control. (NCT NCT07632950;
-  status COMPLETED).
-hypothesis: 'Orchestra musicians are exposed to prolonged asymmetric postures and repetitive upper-quarter
-  loading that may affect postural control. This exploratory randomized controlled trial examined whether
-  a '
+name: 'NCT07632950 — Frequency-Dependent Effects of Mobilization-Based Exercise on
+  Dynamic Postural Control in Orchestra Musicians: An Exploratory Randomized Controlled
+  Trial'
+description: Orchestra musicians are exposed to prolonged asymmetric postures and
+  repetitive upper-quarter loading that may affect postural control. This exploratory
+  randomized controlled trial examined whether a four-week mobilization-based exercise
+  program, delivered once or twice weekly, was associated with changes in static sensory-dependent
+  balance and dynamic voluntary weight-shifting control. (NCT NCT07632950; status
+  COMPLETED).
+hypothesis: 'Orchestra musicians are exposed to prolonged asymmetric postures and
+  repetitive upper-quarter loading that may affect postural control. This exploratory
+  randomized controlled trial examined whether a '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07632950 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07632950 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct07632950-frequency-dependent-effects-of-mobil
+assigned_id: dea:experiment-nct07632950-frequency-dependent-effects-of-mobil-ju97qg
+admitted: '2026-11-15'

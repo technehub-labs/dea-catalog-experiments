@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05566262
 name: NCT05566262 — Bodewell Products for the Treatment of Atopic Dermatitis
-description: This study aims to examine the safety and efficacy of topical application of the Bodewell
-  eczema products (NCT NCT05566262; status ACTIVE_NOT_RECRUITING).
-hypothesis: This study aims to examine the safety and efficacy of topical application of the Bodewell
-  eczema products
+description: This study aims to examine the safety and efficacy of topical application
+  of the Bodewell eczema products (NCT NCT05566262; status ACTIVE_NOT_RECRUITING).
+hypothesis: This study aims to examine the safety and efficacy of topical application
+  of the Bodewell eczema products
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05566262 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05566262 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct05566262-bodewell-products-for-the-treatment
+assigned_id: dea:experiment-nct05566262-bodewell-products-for-the-treatment-qbj2wd
+admitted: '2026-11-15'

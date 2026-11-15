@@ -1,0 +1,31 @@
+# NCT03919760 — Early Psychosis Intervention - Spreading Evidence-based Treatment
+
+> Implementation of 'NAVIGATE' in Ontario aims to help youth and emerging adults suffering from a first episode of psychosis. Although Ontario already has early psychosis intervention programs, the team's recent work has identified major challenges of delivering coordinated care, particularly those elements of care that enhance recovery. These challenges also exist nationally and internationally. By building on the already existing early psychosis intervention community of practice through the Early Psychosis Intervention Ontario Network, the investigators will implement NAVIGATE with the help of CAMH's Provincial System Support Program facilitators. The use of tele-videoconferencing through ECHO Mental Health Ontario and ECHO processes and protocols provide us with an opportunity to ensure sustainability. Using health administrative data held at the Institute for Clinical Evaluative Sciences (ICES), the investigators can examine system-level outcomes, including hospitalizations, emergency department visits, and outpatient physician visits of youth and emerging adults suffering from a first episode psychosis who are treated with NAVIGATE compared with those treated in early psychosis intervention programs without NAVIGATE and those who are not treated in early psychosis intervention programs. In addition, the investigators can also evaluate health care costs. Prior to initiating this project, the investigators obtained the input of youth and emerging adults with a first episode psychosis and family members. The investigators will also continue to measure engagement across the study. Hypotheses: 1. Following the implementation of NAVIGATE, program fidelity (i.e. adaptability) to the Ontario early psychosis intervention standard will improve. 2. Compared to patients not receiving NAVIGATE, those who receive NAVIGATE through this implementation study will have fewer days in hospital, fewer emergency department visits, fewer suicide attempts, lower mortality, and lower he
+
+## Identity
+
+- **Record id**: `dea:experiment-nct03919760-early-psychosis-intervention-spreadi-3egwcg`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT03919760 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

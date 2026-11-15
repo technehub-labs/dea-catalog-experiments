@@ -1,23 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00648154
-name: NCT00648154 — Food Study of Letrozole Tablets 2.5 mg and Femara® Tablets 2.5 mg
-description: The objective of this study was to investigate the bioequivalence of Mylan's letrozole 2.5
-  mg tablets to Novartis' Femara® 2.5 mg tablets following a single, oral 2.5 mg (1 x 2.5 mg) dose administered
-  under fed conditions. (NCT NCT00648154; status COMPLETED).
-hypothesis: The objective of this study was to investigate the bioequivalence of Mylan's letrozole 2.5
-  mg tablets to Novartis' Femara® 2.5 mg tablets following a single, oral 2.5 mg (1 x 2.5 mg) dose administered
+name: NCT00648154 — Food Study of Letrozole Tablets 2.5 mg and Femara® Tablets 2.5
+  mg
+description: The objective of this study was to investigate the bioequivalence of
+  Mylan's letrozole 2.5 mg tablets to Novartis' Femara® 2.5 mg tablets following a
+  single, oral 2.5 mg (1 x 2.5 mg) dose administered under fed conditions. (NCT NCT00648154;
+  status COMPLETED).
+hypothesis: The objective of this study was to investigate the bioequivalence of Mylan's
+  letrozole 2.5 mg tablets to Novartis' Femara® 2.5 mg tablets following a single,
+  oral 2.5 mg (1 x 2.5 mg) dose administered
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00648154 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00648154 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00648154-food-study-of-letrozole-tablets-2-5
+assigned_id: dea:experiment-nct00648154-food-study-of-letrozole-tablets-2-5-stf5xh
+admitted: '2026-11-15'

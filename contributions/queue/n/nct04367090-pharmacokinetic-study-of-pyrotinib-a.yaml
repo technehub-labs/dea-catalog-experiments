@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04367090
-name: NCT04367090 — Pharmacokinetic Study of Pyrotinib and Docetaxel in Combination With Trastuzumab in
-  Patients With HER2 Metastatic Breast Cancer
-description: The primary objective of the study is to study the pharmacokinetics of pyrotinib and docetaxel
-  plus Trastuzumab in HER2 Positive MBC. The secondary objective of the study is to evaluate the safety
-  and efficacy (ORR) of pyrotinib and docetaxel plus Trastuzumab in HER2 Positive MBC. (NCT NCT04367090;
-  status COMPLETED).
-hypothesis: The primary objective of the study is to study the pharmacokinetics of pyrotinib and docetaxel
-  plus Trastuzumab in HER2 Positive MBC. The secondary objective of the study is to evaluate the safety
-  and
+name: NCT04367090 — Pharmacokinetic Study of Pyrotinib and Docetaxel in Combination
+  With Trastuzumab in Patients With HER2 Metastatic Breast Cancer
+description: The primary objective of the study is to study the pharmacokinetics of
+  pyrotinib and docetaxel plus Trastuzumab in HER2 Positive MBC. The secondary objective
+  of the study is to evaluate the safety and efficacy (ORR) of pyrotinib and docetaxel
+  plus Trastuzumab in HER2 Positive MBC. (NCT NCT04367090; status COMPLETED).
+hypothesis: The primary objective of the study is to study the pharmacokinetics of
+  pyrotinib and docetaxel plus Trastuzumab in HER2 Positive MBC. The secondary objective
+  of the study is to evaluate the safety and
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04367090 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04367090 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04367090-pharmacokinetic-study-of-pyrotinib-a
+assigned_id: dea:experiment-nct04367090-pharmacokinetic-study-of-pyrotinib-a-9vsjfy
+admitted: '2026-11-15'

@@ -1,0 +1,39 @@
+id: dea:experiment-nct06787196-intravenous-dexamethasone-on-postope-hyyxeu
+type: Experiment
+name: NCT06787196 — Intravenous Dexamethasone on Postoperative Pain and Complications
+  in Jaw Surgery
+description: This study aims to evaluate the effect of single-dose intravenous dexamethasone
+  on postoperative pain and other complications in compacted tooth and cyst enucleation
+  procedures performed under general anesthesia. (NCT NCT06787196; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study aims to evaluate the effect of single-dose intravenous dexamethasone
+  on postoperative pain and other complications in compacted tooth and cyst enucleation
+  procedures performed under general
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06787196 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

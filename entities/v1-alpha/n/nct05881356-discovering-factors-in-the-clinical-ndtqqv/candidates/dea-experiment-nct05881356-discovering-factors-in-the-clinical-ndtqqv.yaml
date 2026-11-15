@@ -1,0 +1,43 @@
+id: dea:experiment-nct05881356-discovering-factors-in-the-clinical-ndtqqv
+type: Experiment
+name: NCT05881356 — Discovering Factors in the Clinical Study Journey of Patients
+  With OCD
+description: This research aims to collect comprehensive data on the clinical trial
+  experience of OCD patients. Its goal is to identify the factors that limit patients'
+  ability to join or complete a trial successfully. Clinical trial participation often
+  favors specific demographic groups, and limited research exists on the impact of
+  trial attributes on participation. Therefore, this study aims to analyze data from
+  various demographic groups and identify any recurring trends that could provide
+  valuable insights for future OCD patients. (NCT NCT05881356; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This research aims to collect comprehensive data on the clinical trial
+  experience of OCD patients. Its goal is to identify the factors that limit patients'
+  ability to join or complete a trial successf
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05881356 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

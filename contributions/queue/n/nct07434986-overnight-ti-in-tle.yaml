@@ -1,32 +1,38 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07434986
 name: NCT07434986 — Overnight TI in TLE
-description: 'The goal of this clinical trial is to gauge whether overnight, non-invasive temporal interference
-  (TI) stimulation aimed at the hippocampus can reduce abnormal brain activity linked to seizures and
-  improve sleep in adults with drug-resistant temporal lobe epilepsy. The main questions are: Does overnight
-  TI stimulation lower seizure-related EEG activity during sleep? Does overnight TI stimulation improve
-  sleep quality and sleep patterns measured overnight in the lab? Researchers will compare each participant''s
-  nights without stimulation to nights with active stimulation, and will also look at a night after stimulation
-  ends to see whether any changes last. Participants will: Stay in-lab for six days for overnight sleep
-  and EEG monitoring Have one night of monitoring without stimulation Receive TI stimulation during sleep
-  for several nights Have another night of monitoring without stimulation after the stimulation nights
-  Complete brief questionnaires and thinking/memory tasks before and after the stimulation nights Be checked
-  for side effects and comfort during the study and at follow-up (NCT NCT07434986; status RECRUITING).'
-hypothesis: The goal of this clinical trial is to gauge whether overnight, non-invasive temporal interference
-  (TI) stimulation aimed at the hippocampus can reduce abnormal brain activity linked to seizures and
-  im
+description: 'The goal of this clinical trial is to gauge whether overnight, non-invasive
+  temporal interference (TI) stimulation aimed at the hippocampus can reduce abnormal
+  brain activity linked to seizures and improve sleep in adults with drug-resistant
+  temporal lobe epilepsy. The main questions are: Does overnight TI stimulation lower
+  seizure-related EEG activity during sleep? Does overnight TI stimulation improve
+  sleep quality and sleep patterns measured overnight in the lab? Researchers will
+  compare each participant''s nights without stimulation to nights with active stimulation,
+  and will also look at a night after stimulation ends to see whether any changes
+  last. Participants will: Stay in-lab for six days for overnight sleep and EEG monitoring
+  Have one night of monitoring without stimulation Receive TI stimulation during sleep
+  for several nights Have another night of monitoring without stimulation after the
+  stimulation nights Complete brief questionnaires and thinking/memory tasks before
+  and after the stimulation nights Be checked for side effects and comfort during
+  the study and at follow-up (NCT NCT07434986; status RECRUITING).'
+hypothesis: The goal of this clinical trial is to gauge whether overnight, non-invasive
+  temporal interference (TI) stimulation aimed at the hippocampus can reduce abnormal
+  brain activity linked to seizures and im
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07434986 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07434986 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07434986-overnight-ti-in-tle
+assigned_id: dea:experiment-nct07434986-overnight-ti-in-tle-5fuk5w
+admitted: '2026-11-15'

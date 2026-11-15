@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05442853
-name: NCT05442853 — Continuous Glucose Monitoring for Hyperglycemia in Critically Ill Patients
-description: The investigators intend to conduct a single-center, prospective, randomized comparative
-  trial of patients admitted to the intensive care unit (ICU) who received continuous glucose monitoring
-  (CGM) vs point of care (POC) glucose monitoring. The study will examine relevant outcomes for patients
-  in the ICU with diabetes mellitus and/or hyperglycemia. The primary outcome of the study will be the
-  proportion of time in target range (blood glucose 70-180 mg/dL). (NCT NCT05442853; status COMPLETED).
-hypothesis: The investigators intend to conduct a single-center, prospective, randomized comparative trial
-  of patients admitted to the intensive care unit (ICU) who received continuous glucose monitoring (CGM)
-  vs
+name: NCT05442853 — Continuous Glucose Monitoring for Hyperglycemia in Critically
+  Ill Patients
+description: The investigators intend to conduct a single-center, prospective, randomized
+  comparative trial of patients admitted to the intensive care unit (ICU) who received
+  continuous glucose monitoring (CGM) vs point of care (POC) glucose monitoring. The
+  study will examine relevant outcomes for patients in the ICU with diabetes mellitus
+  and/or hyperglycemia. The primary outcome of the study will be the proportion of
+  time in target range (blood glucose 70-180 mg/dL). (NCT NCT05442853; status COMPLETED).
+hypothesis: The investigators intend to conduct a single-center, prospective, randomized
+  comparative trial of patients admitted to the intensive care unit (ICU) who received
+  continuous glucose monitoring (CGM) vs
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05442853 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05442853 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05442853-continuous-glucose-monitoring-for-hy
+assigned_id: dea:experiment-nct05442853-continuous-glucose-monitoring-for-hy-u9c3xh
+admitted: '2026-11-15'

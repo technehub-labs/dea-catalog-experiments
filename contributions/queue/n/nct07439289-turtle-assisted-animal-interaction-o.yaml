@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07439289
-name: NCT07439289 — Turtle-Assisted Animal Interaction on Dental Anxiety and Physiological Parameters
-  in Children
-description: This study aims to measure the effect of a structured AAT session with a turtle present on
-  dental anxiety and behavioral compliance in children during routine procedures that do not require local
-  anesthesia in a pediatric dental clinic. (NCT NCT07439289; status RECRUITING).
-hypothesis: This study aims to measure the effect of a structured AAT session with a turtle present on
-  dental anxiety and behavioral compliance in children during routine procedures that do not require local
-  anes
+name: NCT07439289 — Turtle-Assisted Animal Interaction on Dental Anxiety and Physiological
+  Parameters in Children
+description: This study aims to measure the effect of a structured AAT session with
+  a turtle present on dental anxiety and behavioral compliance in children during
+  routine procedures that do not require local anesthesia in a pediatric dental clinic.
+  (NCT NCT07439289; status RECRUITING).
+hypothesis: This study aims to measure the effect of a structured AAT session with
+  a turtle present on dental anxiety and behavioral compliance in children during
+  routine procedures that do not require local anes
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07439289 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07439289 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07439289-turtle-assisted-animal-interaction-o
+assigned_id: dea:experiment-nct07439289-turtle-assisted-animal-interaction-o-yh97an
+admitted: '2026-11-15'

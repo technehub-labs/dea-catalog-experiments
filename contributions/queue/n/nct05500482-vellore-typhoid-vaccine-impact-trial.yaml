@@ -1,24 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05500482
 name: NCT05500482 — Vellore Typhoid Vaccine Impact Trial
-description: This cluster randomised trial will examine the impact of introducing TyphiBEV, a typhoid
-  conjugate vaccine licensed in India, on the incidence of typhoid fever in a high burden urban setting
-  in South India. (NCT NCT05500482; status COMPLETED).
-hypothesis: 'This cluster randomised trial will examine the impact of introducing TyphiBEV, a typhoid
-  conjugate vaccine licensed in India, on the incidence of typhoid fever in a high burden urban setting
-  in South '
+description: This cluster randomised trial will examine the impact of introducing
+  TyphiBEV, a typhoid conjugate vaccine licensed in India, on the incidence of typhoid
+  fever in a high burden urban setting in South India. (NCT NCT05500482; status COMPLETED).
+hypothesis: 'This cluster randomised trial will examine the impact of introducing
+  TyphiBEV, a typhoid conjugate vaccine licensed in India, on the incidence of typhoid
+  fever in a high burden urban setting in South '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05500482 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05500482 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05500482-vellore-typhoid-vaccine-impact-trial
+assigned_id: dea:experiment-nct05500482-vellore-typhoid-vaccine-impact-trial-rnqrbe
+admitted: '2026-11-15'

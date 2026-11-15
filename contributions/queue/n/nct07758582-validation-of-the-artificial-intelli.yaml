@@ -1,28 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07758582
-name: 'NCT07758582 — Validation of the Artificial Intelligence Subsystem of the DDART Medical Device for
-  the Automated Detection of Lesions Compatible With Diabetic Retinopathy in a Random Sample of Retinal '
-description: To validate the artificial intelligence subsystem of the DDART medical device for the automated
-  detection of lesions compatible with diabetic retinopathy in a random sample of retinal fundus photographs.
-  Secondary Objectives To determine the sensitivity and specificity of the artificial intelligence subsystem
-  for the detection of diabetic retinopathy. To estimate the overall diagnostic accuracy and the area
-  under the receiver operating characteristic (ROC) curve (AUC). To compare the performance of the algorithm
-  with that of experienced ophthalmologists. To evaluate the ability of the model to distinguish between
-  different stages of disease severity (NCT NCT07758582; status RECRUITING).
-hypothesis: To validate the artificial intelligence subsystem of the DDART medical device for the automated
-  detection of lesions compatible with diabetic retinopathy in a random sample of retinal fundus photograp
+name: 'NCT07758582 — Validation of the Artificial Intelligence Subsystem of the DDART
+  Medical Device for the Automated Detection of Lesions Compatible With Diabetic Retinopathy
+  in a Random Sample of Retinal '
+description: To validate the artificial intelligence subsystem of the DDART medical
+  device for the automated detection of lesions compatible with diabetic retinopathy
+  in a random sample of retinal fundus photographs. Secondary Objectives To determine
+  the sensitivity and specificity of the artificial intelligence subsystem for the
+  detection of diabetic retinopathy. To estimate the overall diagnostic accuracy and
+  the area under the receiver operating characteristic (ROC) curve (AUC). To compare
+  the performance of the algorithm with that of experienced ophthalmologists. To evaluate
+  the ability of the model to distinguish between different stages of disease severity
+  (NCT NCT07758582; status RECRUITING).
+hypothesis: To validate the artificial intelligence subsystem of the DDART medical
+  device for the automated detection of lesions compatible with diabetic retinopathy
+  in a random sample of retinal fundus photograp
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07758582 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07758582 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07758582-validation-of-the-artificial-intelli
+assigned_id: dea:experiment-nct07758582-validation-of-the-artificial-intelli-e2jvfu
+admitted: '2026-11-15'

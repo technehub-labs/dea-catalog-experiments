@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02869061
-name: NCT02869061 — Effectiveness and Safety of Adipose-derived Regenerative Cells for Reduction of Risk
-  of Bladder Neck Contracture
-description: Autologous adipose-derived regenerative cells (ADRC) will be extracted from lipoaspirate
-  by enzymatic digestion from a portion of the fat harvested from the patient's front abdominal wall.
-  Transurethral bladder neck resection followed by the injection of ADRCs suspension will be performed.
-  This is a single arm study with no control. All patients receive cell therapy. (NCT NCT02869061; status
-  UNKNOWN).
-hypothesis: Autologous adipose-derived regenerative cells (ADRC) will be extracted from lipoaspirate by
-  enzymatic digestion from a portion of the fat harvested from the patient's front abdominal wall. Transurethr
+name: NCT02869061 — Effectiveness and Safety of Adipose-derived Regenerative Cells
+  for Reduction of Risk of Bladder Neck Contracture
+description: Autologous adipose-derived regenerative cells (ADRC) will be extracted
+  from lipoaspirate by enzymatic digestion from a portion of the fat harvested from
+  the patient's front abdominal wall. Transurethral bladder neck resection followed
+  by the injection of ADRCs suspension will be performed. This is a single arm study
+  with no control. All patients receive cell therapy. (NCT NCT02869061; status UNKNOWN).
+hypothesis: Autologous adipose-derived regenerative cells (ADRC) will be extracted
+  from lipoaspirate by enzymatic digestion from a portion of the fat harvested from
+  the patient's front abdominal wall. Transurethr
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02869061 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02869061 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct02869061-effectiveness-and-safety-of-adipose
+assigned_id: dea:experiment-nct02869061-effectiveness-and-safety-of-adipose-j5ytsq
+admitted: '2026-11-15'

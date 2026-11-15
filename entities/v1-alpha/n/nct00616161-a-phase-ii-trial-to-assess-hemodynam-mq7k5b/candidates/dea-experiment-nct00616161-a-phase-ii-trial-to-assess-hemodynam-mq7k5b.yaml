@@ -1,0 +1,45 @@
+id: dea:experiment-nct00616161-a-phase-ii-trial-to-assess-hemodynam-mq7k5b
+type: Experiment
+name: NCT00616161 — A Phase II Trial to Assess Hemodynamic Effects of Istaroxime in
+  Pts With Worsening HF and Reduced LV Systolic Function
+description: The purpose of this study is to determine the minimum effective dose
+  of Istaroxime, in patients requiring hospitalization for deterioration of chronic
+  heart failure and left ventricular systolic dysfunction. This goal will be reached
+  by comparing the hemodynamic effect of three different doses of the drug versus
+  placebo. Efficacy will be measured as a change in Pulmonary Capillary Wedge Pressure
+  from pre-infusion to the last assessment at six hours intravenous infusion.Secondary
+  objectives will be to evaluate safety, tolerability and efficacy on other main hemodynamic
+  parameters, echocardiographic and echo-doppler measurements, plus preliminary pharmacokinetics
+  of the drug. (NCT NCT00616161; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The purpose of this study is to determine the minimum effective dose of
+  Istaroxime, in patients requiring hospitalization for deterioration of chronic heart
+  failure and left ventricular systolic dysfu
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00616161 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

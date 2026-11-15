@@ -1,28 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00006027
-name: NCT00006027 — Comparison of Radiation Therapy With or Without Combination Chemotherapy Following
-  Surgery in Treating Patients With Stage I or Stage II Endometrial Cancer
-description: 'RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor tissue. Drugs used
-  in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. It
-  is not yet known if radiation therapy is more effective with or without combination chemotherapy for
-  endometrial cancer. PURPOSE: Randomized phase III trial to compare the effectiveness of radiation therapy
-  with or without combination chemotherapy following surgery in treating patients who have stage I or
-  stage II endometrial cancer. (NCT NCT00006027; status COMPLETED).'
-hypothesis: 'RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor tissue. Drugs used in
-  chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. It is
-  not yet '
+name: NCT00006027 — Comparison of Radiation Therapy With or Without Combination Chemotherapy
+  Following Surgery in Treating Patients With Stage I or Stage II Endometrial Cancer
+description: 'RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor
+  tissue. Drugs used in chemotherapy use different ways to stop tumor cells from dividing
+  so they stop growing or die. It is not yet known if radiation therapy is more effective
+  with or without combination chemotherapy for endometrial cancer. PURPOSE: Randomized
+  phase III trial to compare the effectiveness of radiation therapy with or without
+  combination chemotherapy following surgery in treating patients who have stage I
+  or stage II endometrial cancer. (NCT NCT00006027; status COMPLETED).'
+hypothesis: 'RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor
+  tissue. Drugs used in chemotherapy use different ways to stop tumor cells from dividing
+  so they stop growing or die. It is not yet '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00006027 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00006027 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00006027-comparison-of-radiation-therapy-with
+assigned_id: dea:experiment-nct00006027-comparison-of-radiation-therapy-with-pergj7
+admitted: '2026-11-15'

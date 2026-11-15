@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02387866
-name: NCT02387866 — PK and Safety Study of AG-221 in Healthy Male Japanese Subjects and Healthy Male Caucasian
-  Subjects
-description: This is a single ascending dose, open-label study that will evaluate the pharmacokinetics
-  and safety of the AG-221 compound in normal, healthy volunteer male subjects (both Japanese and Caucasian).
-  (NCT NCT02387866; status COMPLETED).
-hypothesis: This is a single ascending dose, open-label study that will evaluate the pharmacokinetics
-  and safety of the AG-221 compound in normal, healthy volunteer male subjects (both Japanese and Caucasian).
+name: NCT02387866 — PK and Safety Study of AG-221 in Healthy Male Japanese Subjects
+  and Healthy Male Caucasian Subjects
+description: This is a single ascending dose, open-label study that will evaluate
+  the pharmacokinetics and safety of the AG-221 compound in normal, healthy volunteer
+  male subjects (both Japanese and Caucasian). (NCT NCT02387866; status COMPLETED).
+hypothesis: This is a single ascending dose, open-label study that will evaluate the
+  pharmacokinetics and safety of the AG-221 compound in normal, healthy volunteer
+  male subjects (both Japanese and Caucasian).
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02387866 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02387866 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02387866-pk-and-safety-study-of-ag-221-in-hea
+assigned_id: dea:experiment-nct02387866-pk-and-safety-study-of-ag-221-in-hea-sjk6x4
+admitted: '2026-11-15'

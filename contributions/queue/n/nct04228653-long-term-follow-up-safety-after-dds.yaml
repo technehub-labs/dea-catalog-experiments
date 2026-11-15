@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04228653
-name: NCT04228653 — Long-Term Follow-up Safety After DDS Implantation With/Without CDNF Infusions
-description: This study is a follow up to the HP-CD-CL-2002 clinical study. It evaluates the long-term
-  safety in patients with Parkinson's disease after implantation of an investigational drug delivery system
-  (DDS) with or without infusions of CDNF. All patients will have at least the port explanted. (NCT NCT04228653;
-  status UNKNOWN).
-hypothesis: This study is a follow up to the HP-CD-CL-2002 clinical study. It evaluates the long-term
-  safety in patients with Parkinson's disease after implantation of an investigational drug delivery system
-  (DDS
+name: NCT04228653 — Long-Term Follow-up Safety After DDS Implantation With/Without
+  CDNF Infusions
+description: This study is a follow up to the HP-CD-CL-2002 clinical study. It evaluates
+  the long-term safety in patients with Parkinson's disease after implantation of
+  an investigational drug delivery system (DDS) with or without infusions of CDNF.
+  All patients will have at least the port explanted. (NCT NCT04228653; status UNKNOWN).
+hypothesis: This study is a follow up to the HP-CD-CL-2002 clinical study. It evaluates
+  the long-term safety in patients with Parkinson's disease after implantation of
+  an investigational drug delivery system (DDS
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04228653 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04228653 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct04228653-long-term-follow-up-safety-after-dds
+assigned_id: dea:experiment-nct04228653-long-term-follow-up-safety-after-dds-zua9yd
+admitted: '2026-11-15'

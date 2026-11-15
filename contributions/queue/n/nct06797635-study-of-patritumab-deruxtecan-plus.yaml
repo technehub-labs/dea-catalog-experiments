@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06797635
-name: 'NCT06797635 — Study of Patritumab Deruxtecan Plus Pembrolizumab With Other Anticancer Agents in
-  Participants With High-Risk Early-Stage Triple-Negative or Hormone Receptor-Low Positive/HER-2 Negative '
-description: 'Researchers are looking for new ways to treat triple-negative breast cancer (TNBC) and hormone
-  receptor (HR) low positive/human epidermal growth factor receptor-2 (HER2) negative breast cancer. The
-  main goals of this study are to learn: * About the safety of the study treatments and if people tolerate
-  them * If people who receive patritumab deruxtecan, pembrolizumab, and chemotherapy before surgery have
-  fewer cancer cells removed during surgery compared to those who receive only pembrolizumab (pembro)
-  and chemotherapy. (NCT NCT06797635; status RECRUITING).'
-hypothesis: Researchers are looking for new ways to treat triple-negative breast cancer (TNBC) and hormone
-  receptor (HR) low positive/human epidermal growth factor receptor-2 (HER2) negative breast cancer. The
-  ma
+name: 'NCT06797635 — Study of Patritumab Deruxtecan Plus Pembrolizumab With Other
+  Anticancer Agents in Participants With High-Risk Early-Stage Triple-Negative or
+  Hormone Receptor-Low Positive/HER-2 Negative '
+description: 'Researchers are looking for new ways to treat triple-negative breast
+  cancer (TNBC) and hormone receptor (HR) low positive/human epidermal growth factor
+  receptor-2 (HER2) negative breast cancer. The main goals of this study are to learn:
+  * About the safety of the study treatments and if people tolerate them * If people
+  who receive patritumab deruxtecan, pembrolizumab, and chemotherapy before surgery
+  have fewer cancer cells removed during surgery compared to those who receive only
+  pembrolizumab (pembro) and chemotherapy. (NCT NCT06797635; status RECRUITING).'
+hypothesis: Researchers are looking for new ways to treat triple-negative breast cancer
+  (TNBC) and hormone receptor (HR) low positive/human epidermal growth factor receptor-2
+  (HER2) negative breast cancer. The ma
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06797635 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06797635 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06797635-study-of-patritumab-deruxtecan-plus
+assigned_id: dea:experiment-nct06797635-study-of-patritumab-deruxtecan-plus-63y4br
+admitted: '2026-11-15'

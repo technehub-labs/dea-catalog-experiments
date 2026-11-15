@@ -1,0 +1,43 @@
+id: dea:experiment-nct07059741-integrated-radiotherapy-optimized-as-k2ucmf
+type: Experiment
+name: NCT07059741 — Integrated Radiotherapy-optimized ASCT Sequential CAR-T Therapy
+  for Patients With Relapsed and Refractory B-NHL
+description: This study aims to investigate a novel therapeutic strategy of integrated
+  radiotherapy before autologous stem cell transplantation (ASCT) sequential chimeric
+  antigen receptor T-cell(CAR-T) therapy for patients with relapsed/refractory(R/R)
+  aggressive B-cell non-Hodgkin lymphoma (B-NHL). By evaluating the efficacy and safety
+  of this multimodal approach, we seek to provide a theoretical foundation and clinical
+  data to optimize outcomes for relapsed/refractory aggressive B-NHL patients. (NCT
+  NCT07059741; status RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study aims to investigate a novel therapeutic strategy of integrated
+  radiotherapy before autologous stem cell transplantation (ASCT) sequential chimeric
+  antigen receptor T-cell(CAR-T) therapy for
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07059741 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

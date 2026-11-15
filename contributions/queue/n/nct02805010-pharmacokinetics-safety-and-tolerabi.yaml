@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02805010
-name: NCT02805010 — Pharmacokinetics, Safety and Tolerability Study of Single Dose of Abatacept 125mg
-  Administered Subcutaneously
-description: The objective of the study is to assess the single dose PK, safety, tolerability and immunogenicity
-  of abatacept 125mg administered SC in Chinese healthy subjects. (NCT NCT02805010; status UNKNOWN).
-hypothesis: The objective of the study is to assess the single dose PK, safety, tolerability and immunogenicity
-  of abatacept 125mg administered SC in Chinese healthy subjects.
+name: NCT02805010 — Pharmacokinetics, Safety and Tolerability Study of Single Dose
+  of Abatacept 125mg Administered Subcutaneously
+description: The objective of the study is to assess the single dose PK, safety, tolerability
+  and immunogenicity of abatacept 125mg administered SC in Chinese healthy subjects.
+  (NCT NCT02805010; status UNKNOWN).
+hypothesis: The objective of the study is to assess the single dose PK, safety, tolerability
+  and immunogenicity of abatacept 125mg administered SC in Chinese healthy subjects.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02805010 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02805010 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct02805010-pharmacokinetics-safety-and-tolerabi
+assigned_id: dea:experiment-nct02805010-pharmacokinetics-safety-and-tolerabi-47e5vh
+admitted: '2026-11-15'

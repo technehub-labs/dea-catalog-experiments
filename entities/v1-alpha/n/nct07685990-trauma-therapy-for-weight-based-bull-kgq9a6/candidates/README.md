@@ -1,0 +1,31 @@
+# NCT07685990 — Trauma Therapy for Weight-Based Bullying in Children
+
+> The goal of this feasibility study is to learn whether a trauma therapy intervention for children and adolescents who have experienced weight-based bullying can be successfully delivered within a pediatric weight management program. The intervention is informed by Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) principles and is designed to address trauma-related distress, body image concerns, emotional difficulties, and eating-related challenges associated with weight-based bullying. The main questions this study aims to answer are: * Can this trauma therapy intervention be feasibly implemented within the HEAL Program at Children's Hospital, London Health Sciences Centre? * Is the intervention acceptable and helpful for participating children, adolescents, and caregivers? * Are exploratory changes observed in trauma symptoms, emotional well-being, self-esteem, eating-related concerns, and weight-related distress following participation in the intervention? Participants will: * Participate in approximately 12 weekly virtual therapy sessions, with flexibility for additional sessions if clinically needed * Complete questionnaires before and after treatment related to emotional well-being, trauma symptoms, eating-related concerns, and body image * Participate in selected caregiver-supported sessions during treatment * Optionally complete a brief feedback interview about their experience in the program after treatment is completed The study will also examine recruitment, attendance, treatment completion, and participant satisfaction to help determine whether this intervention can be implemented in routine clinical care settings. (NCT NCT07685990; status NOT_YET_RECRUITING).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct07685990-trauma-therapy-for-weight-based-bull-kgq9a6`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT07685990 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

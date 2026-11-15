@@ -1,0 +1,44 @@
+id: dea:experiment-nct03643731-pain-relief-in-patients-with-chronic-32y4dp
+type: Experiment
+name: NCT03643731 — Pain Relief in Patients With Chronic Low Back Pain Using HeatTens
+  vs. Standard Care.
+description: A two-armed randomized controlled clinical trial with blind assessments
+  and a follow-up period of 4 weeks is developed. The aim of this study is to investigate
+  the effects of the combination of heat and TENS (HeatTENS device) on pain in people
+  with chronic low back pain. A sample of 70 patients will be recruited. Following
+  baseline measurements, subjects will be randomly allocated to the experimental or
+  the control group. The experimental group will be asked to use the device on a daily
+  basis, 30 minutes per day. The control group will have no device. After 4 weeks
+  of FU, measurements will be repeated. (NCT NCT03643731; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: A two-armed randomized controlled clinical trial with blind assessments
+  and a follow-up period of 4 weeks is developed. The aim of this study is to investigate
+  the effects of the combination of heat a
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03643731 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

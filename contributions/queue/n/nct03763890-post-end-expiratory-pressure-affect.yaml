@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03763890
-name: NCT03763890 — Post- End- Expiratory Pressure Affect the Alveolar Heterogeneity in Moderate and Sever
-  ARDS Patients
-description: This study try to use EIT ( Electronic impedance tomography ) to evaluate the alveolar heterogeneity
-  and use trans-pulmonary pressure and stain to evaluate the lung injury . The study use these methods
-  to figure out how PEEP impact the alveolar heterogeneity and VILI. (NCT NCT03763890; status UNKNOWN).
-hypothesis: This study try to use EIT ( Electronic impedance tomography ) to evaluate the alveolar heterogeneity
-  and use trans-pulmonary pressure and stain to evaluate the lung injury . The study use these method
+name: NCT03763890 — Post- End- Expiratory Pressure Affect the Alveolar Heterogeneity
+  in Moderate and Sever ARDS Patients
+description: This study try to use EIT ( Electronic impedance tomography ) to evaluate
+  the alveolar heterogeneity and use trans-pulmonary pressure and stain to evaluate
+  the lung injury . The study use these methods to figure out how PEEP impact the
+  alveolar heterogeneity and VILI. (NCT NCT03763890; status UNKNOWN).
+hypothesis: This study try to use EIT ( Electronic impedance tomography ) to evaluate
+  the alveolar heterogeneity and use trans-pulmonary pressure and stain to evaluate
+  the lung injury . The study use these method
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03763890 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03763890 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03763890-post-end-expiratory-pressure-affect
+assigned_id: dea:experiment-nct03763890-post-end-expiratory-pressure-affect-uqt5p5
+admitted: '2026-11-15'

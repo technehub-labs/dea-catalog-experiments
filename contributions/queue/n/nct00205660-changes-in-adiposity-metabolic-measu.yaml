@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00205660
 name: NCT00205660 — Changes in Adiposity, Metabolic Measures From Atypicals to Aripiprazole
-description: This proposal aims to use well-validated methodologies such as dual energy x-ray absorptiometry
-  (DEXA), frequently sampled oral glucose tolerance tests (fsOGTTs), and hyperinsulinemic euglycemic clamps
-  to characterize the metabolic effects of 12 weeks of aripiprazole treatment following chronic pretreatment
-  with olanzapine, quetiapine, risperidone or ziprasidone. We hypothesize that switching to aripiprazole
-  treatment will induce improvements in total body adiposity, inflammation (e.g., high sensitivity C-reactive
-  protein \[hsCRP\]), glucose metabolism (e.g., insulin sensitivity) and lipid metabolism (e.g., fasting
-  plasma triglyceride), in comparison to chronic pretreatment with olanzapine, risperidone and quetiapine.
-  (NCT NCT00205660; status COMPLETED).
-hypothesis: This proposal aims to use well-validated methodologies such as dual energy x-ray absorptiometry
-  (DEXA), frequently sampled oral glucose tolerance tests (fsOGTTs), and hyperinsulinemic euglycemic clamp
+description: This proposal aims to use well-validated methodologies such as dual energy
+  x-ray absorptiometry (DEXA), frequently sampled oral glucose tolerance tests (fsOGTTs),
+  and hyperinsulinemic euglycemic clamps to characterize the metabolic effects of
+  12 weeks of aripiprazole treatment following chronic pretreatment with olanzapine,
+  quetiapine, risperidone or ziprasidone. We hypothesize that switching to aripiprazole
+  treatment will induce improvements in total body adiposity, inflammation (e.g.,
+  high sensitivity C-reactive protein \[hsCRP\]), glucose metabolism (e.g., insulin
+  sensitivity) and lipid metabolism (e.g., fasting plasma triglyceride), in comparison
+  to chronic pretreatment with olanzapine, risperidone and quetiapine. (NCT NCT00205660;
+  status COMPLETED).
+hypothesis: This proposal aims to use well-validated methodologies such as dual energy
+  x-ray absorptiometry (DEXA), frequently sampled oral glucose tolerance tests (fsOGTTs),
+  and hyperinsulinemic euglycemic clamp
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00205660 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00205660 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00205660-changes-in-adiposity-metabolic-measu
+assigned_id: dea:experiment-nct00205660-changes-in-adiposity-metabolic-measu-a9re56
+admitted: '2026-11-15'

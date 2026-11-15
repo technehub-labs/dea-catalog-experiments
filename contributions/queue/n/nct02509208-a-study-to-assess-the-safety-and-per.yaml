@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02509208
-name: NCT02509208 — A Study to Assess the Safety and Performance of SurgiClot® in the Treatment of Cancellous
-  Bone Bleeding
-description: The purpose of this European study is to demonstrate the safety and performance of the SurgiClot®
-  dressing in the treatment of cancellous bone bleeding. (NCT NCT02509208; status COMPLETED).
-hypothesis: The purpose of this European study is to demonstrate the safety and performance of the SurgiClot®
-  dressing in the treatment of cancellous bone bleeding.
+name: NCT02509208 — A Study to Assess the Safety and Performance of SurgiClot® in
+  the Treatment of Cancellous Bone Bleeding
+description: The purpose of this European study is to demonstrate the safety and performance
+  of the SurgiClot® dressing in the treatment of cancellous bone bleeding. (NCT NCT02509208;
+  status COMPLETED).
+hypothesis: The purpose of this European study is to demonstrate the safety and performance
+  of the SurgiClot® dressing in the treatment of cancellous bone bleeding.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02509208 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02509208 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02509208-a-study-to-assess-the-safety-and-per
+assigned_id: dea:experiment-nct02509208-a-study-to-assess-the-safety-and-per-dk77ga
+admitted: '2026-11-15'

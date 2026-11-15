@@ -1,34 +1,40 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07087782
-name: NCT07087782 — Impact of Early Fortini Initiation on Growth and Interstage Outcomes in Infants With
-  Single Ventricle Physiology
-description: This study is testing whether a special formula called Fortini, which is a high-calorie,
-  low osmolality formula can help high-risk babies with single ventricle physiology grow better after
-  their initial Stage 1 surgical palliation. These babies often struggle to gain weight, which can lead
-  to more health problems before their next surgery. After their first heart surgery, but prior to discharge,
-  babies will be randomly placed into two groups. One group will get Fortini formula when they leave the
-  hospital, and the other group will get the standard of care high-calorie formula. The primary goal is
-  to see if Fortini helps babies grow better by the time they are ready for their second surgery. The
-  study will also check if the babies tolerate the formula well, how much they eat, how often they are
-  re-admitted to the hospital, and how their caregivers feel about feeding. The babies will be followed
-  for up to 4 months, until they return for their next surgery. About 100 infants are expected to join
-  the study at Driscoll Children's Hospital. This research may help improve nutrition care for infants
-  with complex heart conditions and reduce stress for their families. (NCT NCT07087782; status RECRUITING).
-hypothesis: This study is testing whether a special formula called Fortini, which is a high-calorie, low
-  osmolality formula can help high-risk babies with single ventricle physiology grow better after their
-  initi
+name: NCT07087782 — Impact of Early Fortini Initiation on Growth and Interstage Outcomes
+  in Infants With Single Ventricle Physiology
+description: This study is testing whether a special formula called Fortini, which
+  is a high-calorie, low osmolality formula can help high-risk babies with single
+  ventricle physiology grow better after their initial Stage 1 surgical palliation.
+  These babies often struggle to gain weight, which can lead to more health problems
+  before their next surgery. After their first heart surgery, but prior to discharge,
+  babies will be randomly placed into two groups. One group will get Fortini formula
+  when they leave the hospital, and the other group will get the standard of care
+  high-calorie formula. The primary goal is to see if Fortini helps babies grow better
+  by the time they are ready for their second surgery. The study will also check if
+  the babies tolerate the formula well, how much they eat, how often they are re-admitted
+  to the hospital, and how their caregivers feel about feeding. The babies will be
+  followed for up to 4 months, until they return for their next surgery. About 100
+  infants are expected to join the study at Driscoll Children's Hospital. This research
+  may help improve nutrition care for infants with complex heart conditions and reduce
+  stress for their families. (NCT NCT07087782; status RECRUITING).
+hypothesis: This study is testing whether a special formula called Fortini, which
+  is a high-calorie, low osmolality formula can help high-risk babies with single
+  ventricle physiology grow better after their initi
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07087782 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07087782 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07087782-impact-of-early-fortini-initiation-o
+assigned_id: dea:experiment-nct07087782-impact-of-early-fortini-initiation-o-vaywcg
+admitted: '2026-11-15'

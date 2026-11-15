@@ -1,0 +1,42 @@
+id: dea:experiment-nct07449429-ai-assisted-coronary-syndrome-subtyp-55xjwd
+type: Experiment
+name: 'NCT07449429 — AI-Assisted Coronary Syndrome Subtyping From Admission History
+  of Present Illness: A Clinician Reader Study'
+description: This study will evaluate whether an OCR-LLM-based clinical decision support
+  framework improves clinicians' accuracy in classifying coronary syndrome subtypes
+  from admission history of present illness. Participating clinicians will classify
+  a set of cases first without AI assistance and then with assistance from the OCR-LLM
+  framework. The primary outcome is the change in classification accuracy between
+  unaided and AI-assisted assessments. (NCT NCT07449429; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study will evaluate whether an OCR-LLM-based clinical decision support
+  framework improves clinicians' accuracy in classifying coronary syndrome subtypes
+  from admission history of present illness.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07449429 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

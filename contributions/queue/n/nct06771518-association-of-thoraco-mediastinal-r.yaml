@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06771518
-name: NCT06771518 — Association of Thoraco-mediastinal Radiotherapy With Maintenance Immunotherapy Treatment
-  With Atezolizumab
-description: Investigate the role of consolidative radiotherapy treatment at the thoraco-mediastinal level
-  in the patient suffering from lung microcytoma - extensive disease and treated with chemo-immunotherapy
-  with atezolizumab, in association with maintenance therapy with atezolizumab. (NCT NCT06771518; status
-  RECRUITING).
-hypothesis: Investigate the role of consolidative radiotherapy treatment at the thoraco-mediastinal level
-  in the patient suffering from lung microcytoma - extensive disease and treated with chemo-immunotherapy
-  wi
+name: NCT06771518 — Association of Thoraco-mediastinal Radiotherapy With Maintenance
+  Immunotherapy Treatment With Atezolizumab
+description: Investigate the role of consolidative radiotherapy treatment at the thoraco-mediastinal
+  level in the patient suffering from lung microcytoma - extensive disease and treated
+  with chemo-immunotherapy with atezolizumab, in association with maintenance therapy
+  with atezolizumab. (NCT NCT06771518; status RECRUITING).
+hypothesis: Investigate the role of consolidative radiotherapy treatment at the thoraco-mediastinal
+  level in the patient suffering from lung microcytoma - extensive disease and treated
+  with chemo-immunotherapy wi
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06771518 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06771518 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06771518-association-of-thoraco-mediastinal-r
+assigned_id: dea:experiment-nct06771518-association-of-thoraco-mediastinal-r-ewj32d
+admitted: '2026-11-15'

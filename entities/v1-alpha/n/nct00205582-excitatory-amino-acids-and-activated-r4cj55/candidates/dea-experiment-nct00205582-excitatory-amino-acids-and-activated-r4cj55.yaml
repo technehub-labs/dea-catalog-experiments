@@ -1,0 +1,40 @@
+id: dea:experiment-nct00205582-excitatory-amino-acids-and-activated-r4cj55
+type: Experiment
+name: 'NCT00205582 — Excitatory Amino Acids and Activated Microglia After Traumatic
+  Brain Injury: a (R)-[11C]PK11195 PET Study'
+description: Excitatory amino acids may be involved in secondary neuronal damage after
+  traumatic brain injury. The amount of microglia activation is an indirect measure
+  of neuronal damage. Micorglia activation will be measured R)-\[11C\]PK11195 PET
+  1 week, 1 month and 6 months after brain injury. (NCT NCT00205582; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Excitatory amino acids may be involved in secondary neuronal damage after
+  traumatic brain injury. The amount of microglia activation is an indirect measure
+  of neuronal damage. Micorglia activation wil
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00205582 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

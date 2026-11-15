@@ -1,0 +1,41 @@
+id: dea:experiment-nct00372424-study-of-su011248-in-combination-wit-gngshe
+type: Experiment
+name: NCT00372424 — Study Of SU011248 In Combination With Docetaxel And Trastuzumab
+  In Patients With Advanced Breast Cancer HER-2 Positive
+description: This is an exploratory trial evaluating the tolerability and preliminary
+  anti-tumor activity of SU011248 combined with docetaxel and trastuzumab in patients
+  with locally recurrent or metastatic breast cancer over-expressing Her-2, who have
+  not received chemotherapy treatment in the advanced disease setting. (NCT NCT00372424;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This is an exploratory trial evaluating the tolerability and preliminary
+  anti-tumor activity of SU011248 combined with docetaxel and trastuzumab in patients
+  with locally recurrent or metastatic breast
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00372424 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

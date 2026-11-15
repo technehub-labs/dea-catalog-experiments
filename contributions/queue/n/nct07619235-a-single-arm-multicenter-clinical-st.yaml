@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07619235
-name: NCT07619235 — A Single-arm, Multicenter Clinical Study of Iparomlimab and Toripalimab in Combination
-  With Bevacizumab and Chemotherapy as First-line Treatment for Advanced Biliary Tract Cancer
-description: This is a single-arm, multicenter clinical study designed to evaluate the efficacy and safety
-  of Iparomlimab and Toripalimab (QL1706) in combination with bevacizumab and chemotherapy as first-line
-  treatment for patients with advanced biliary tract cancer (NCT NCT07619235; status RECRUITING).
-hypothesis: This is a single-arm, multicenter clinical study designed to evaluate the efficacy and safety
-  of Iparomlimab and Toripalimab (QL1706) in combination with bevacizumab and chemotherapy as first-line
-  tre
+name: NCT07619235 — A Single-arm, Multicenter Clinical Study of Iparomlimab and Toripalimab
+  in Combination With Bevacizumab and Chemotherapy as First-line Treatment for Advanced
+  Biliary Tract Cancer
+description: This is a single-arm, multicenter clinical study designed to evaluate
+  the efficacy and safety of Iparomlimab and Toripalimab (QL1706) in combination with
+  bevacizumab and chemotherapy as first-line treatment for patients with advanced
+  biliary tract cancer (NCT NCT07619235; status RECRUITING).
+hypothesis: This is a single-arm, multicenter clinical study designed to evaluate
+  the efficacy and safety of Iparomlimab and Toripalimab (QL1706) in combination with
+  bevacizumab and chemotherapy as first-line tre
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07619235 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07619235 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07619235-a-single-arm-multicenter-clinical-st
+assigned_id: dea:experiment-nct07619235-a-single-arm-multicenter-clinical-st-ug5n9b
+admitted: '2026-11-15'

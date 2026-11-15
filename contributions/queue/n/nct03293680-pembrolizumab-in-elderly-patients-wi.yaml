@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03293680
 name: NCT03293680 — Pembrolizumab in Elderly Patients With Advanced Lung Cancer
-description: This is a multi-center phase II trial of intravenous (IV) Pembrolizumab MK-3475 in subjects
-  older than 70 years with advanced Non-small cell Lung Cancer (NSCLC) expressing Programmed death-ligand
-  1 (PD-L1). 82 patients will be enrolled in this trial to examine the efficacy, the impact on geriatric
-  assessments, the quality of life and the self-reported outcomes. (NCT NCT03293680; status COMPLETED).
-hypothesis: This is a multi-center phase II trial of intravenous (IV) Pembrolizumab MK-3475 in subjects
-  older than 70 years with advanced Non-small cell Lung Cancer (NSCLC) expressing Programmed death-ligand
-  1 (P
+description: This is a multi-center phase II trial of intravenous (IV) Pembrolizumab
+  MK-3475 in subjects older than 70 years with advanced Non-small cell Lung Cancer
+  (NSCLC) expressing Programmed death-ligand 1 (PD-L1). 82 patients will be enrolled
+  in this trial to examine the efficacy, the impact on geriatric assessments, the
+  quality of life and the self-reported outcomes. (NCT NCT03293680; status COMPLETED).
+hypothesis: This is a multi-center phase II trial of intravenous (IV) Pembrolizumab
+  MK-3475 in subjects older than 70 years with advanced Non-small cell Lung Cancer
+  (NSCLC) expressing Programmed death-ligand 1 (P
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03293680 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03293680 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03293680-pembrolizumab-in-elderly-patients-wi
+assigned_id: dea:experiment-nct03293680-pembrolizumab-in-elderly-patients-wi-3dyskh
+admitted: '2026-11-15'

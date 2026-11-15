@@ -1,34 +1,40 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03135470
 name: NCT03135470 — Pain Medication After Ambulatory Surgery
-description: 'In Finland, there are no guidelines concerning post-operative pain medication of ambulatory
-  surgery patients. There is a wide variety in drug prescription and medication practices of various doctors
-  and clinics. To treat patients'' pain safely, type of surgery, unique patient needs, risks, adverse
-  effects and patient''s capacity to follow instructions should be assessed during the few hour visit
-  at the clinic. In many clinics, pain is treated after hospital discharge with strong opioid oxycodone,
-  but the amount and dose of prescribed oxycodone varies. In Helsinki Universitys Hospital, Peijas Hospital,
-  investigators have over 2000 ambulatory surgery procedures annually. Investigators have strict policy
-  in oxycodone use after patient discharge compared to some other Finnish ambulatory surgery clinics.
-  The aim of this study is to evaluate, whether the prescribed pain medication is sufficient and whether
-  patients'' suffer from adverse effects after discharge from ambulatory surgery (letter interview). The
-  study proceeds in three phases: 1) observation of current medication practice, 2) observation after
-  optimization and standardization of hospitals drug prescription protocol, 3) evaluation of mobile phone
-  app in pain medication follow up. (NCT NCT03135470; status TERMINATED).'
-hypothesis: In Finland, there are no guidelines concerning post-operative pain medication of ambulatory
-  surgery patients. There is a wide variety in drug prescription and medication practices of various doctors
-  a
+description: 'In Finland, there are no guidelines concerning post-operative pain medication
+  of ambulatory surgery patients. There is a wide variety in drug prescription and
+  medication practices of various doctors and clinics. To treat patients'' pain safely,
+  type of surgery, unique patient needs, risks, adverse effects and patient''s capacity
+  to follow instructions should be assessed during the few hour visit at the clinic.
+  In many clinics, pain is treated after hospital discharge with strong opioid oxycodone,
+  but the amount and dose of prescribed oxycodone varies. In Helsinki Universitys
+  Hospital, Peijas Hospital, investigators have over 2000 ambulatory surgery procedures
+  annually. Investigators have strict policy in oxycodone use after patient discharge
+  compared to some other Finnish ambulatory surgery clinics. The aim of this study
+  is to evaluate, whether the prescribed pain medication is sufficient and whether
+  patients'' suffer from adverse effects after discharge from ambulatory surgery (letter
+  interview). The study proceeds in three phases: 1) observation of current medication
+  practice, 2) observation after optimization and standardization of hospitals drug
+  prescription protocol, 3) evaluation of mobile phone app in pain medication follow
+  up. (NCT NCT03135470; status TERMINATED).'
+hypothesis: In Finland, there are no guidelines concerning post-operative pain medication
+  of ambulatory surgery patients. There is a wide variety in drug prescription and
+  medication practices of various doctors a
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03135470 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03135470 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct03135470-pain-medication-after-ambulatory-sur
+assigned_id: dea:experiment-nct03135470-pain-medication-after-ambulatory-sur-2cuv2q
+admitted: '2026-11-15'

@@ -1,30 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07637435
-name: NCT07637435 — Role of Vascular Endothelial Markers in Predicting Renal Prognosis and Mortality in
-  Patients Undergoing HD-AKI
-description: 'The aim of this study was to evaluate the role of Activin A, Nostrin, and Angiopoetin-2
-  levels in predicting the prognosis of renal function and in-hospital and 6-month mortality in patients
-  undergoing emergency hemodialysis treatment for acute kidney injury. The main questions it aims to answer
-  are: Acute renal injury is a clinical entity with very important consequences. Mortality and morbidity
-  are high in patients requiring hemodialysis. This study aims to evaluate the predictive effects of certain
-  biomarkers on outcomes such as short- and long-term monitoring of renal function, weaning or continuation
-  of hemodialysis, in-hospital and 6-month mortality in these patients. In patients with an indication
-  for emergency hemodialysis, the following levels will be measured before hemodialysis: * Serum Activin
-  A, * Serum Nostrin, * Serum Angiopoetin-2 (NCT NCT07637435; status COMPLETED).'
-hypothesis: The aim of this study was to evaluate the role of Activin A, Nostrin, and Angiopoetin-2 levels
-  in predicting the prognosis of renal function and in-hospital and 6-month mortality in patients undergoin
+name: NCT07637435 — Role of Vascular Endothelial Markers in Predicting Renal Prognosis
+  and Mortality in Patients Undergoing HD-AKI
+description: 'The aim of this study was to evaluate the role of Activin A, Nostrin,
+  and Angiopoetin-2 levels in predicting the prognosis of renal function and in-hospital
+  and 6-month mortality in patients undergoing emergency hemodialysis treatment for
+  acute kidney injury. The main questions it aims to answer are: Acute renal injury
+  is a clinical entity with very important consequences. Mortality and morbidity are
+  high in patients requiring hemodialysis. This study aims to evaluate the predictive
+  effects of certain biomarkers on outcomes such as short- and long-term monitoring
+  of renal function, weaning or continuation of hemodialysis, in-hospital and 6-month
+  mortality in these patients. In patients with an indication for emergency hemodialysis,
+  the following levels will be measured before hemodialysis: * Serum Activin A, *
+  Serum Nostrin, * Serum Angiopoetin-2 (NCT NCT07637435; status COMPLETED).'
+hypothesis: The aim of this study was to evaluate the role of Activin A, Nostrin,
+  and Angiopoetin-2 levels in predicting the prognosis of renal function and in-hospital
+  and 6-month mortality in patients undergoin
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07637435 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07637435 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct07637435-role-of-vascular-endothelial-markers
+assigned_id: dea:experiment-nct07637435-role-of-vascular-endothelial-markers-2rd4cc
+admitted: '2026-11-15'

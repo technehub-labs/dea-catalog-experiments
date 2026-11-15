@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04672954
-name: NCT04672954 — A Study in Healthy Men to Test How Different Doses of BI 474121 Are Taken up and How
-  They Influence the Amount of a Molecular Messenger (cGMP) in the Spinal Fluid
-description: 'The main objectives of this trial are: * To evaluate the effect of BI 474121 on cyclic guanosine
-  monophosphate (cGMP) levels in cerebrospinal fluid (CSF) * To assess the exposure of BI 474121 in CSF
-  relative to plasma * To determine the exposure effect relationship in CSF with different oral doses
-  of BI 474121 (NCT NCT04672954; status COMPLETED).'
-hypothesis: 'The main objectives of this trial are: * To evaluate the effect of BI 474121 on cyclic guanosine
-  monophosphate (cGMP) levels in cerebrospinal fluid (CSF) * To assess the exposure of BI 474121 in CSF
-  r'
+name: NCT04672954 — A Study in Healthy Men to Test How Different Doses of BI 474121
+  Are Taken up and How They Influence the Amount of a Molecular Messenger (cGMP) in
+  the Spinal Fluid
+description: 'The main objectives of this trial are: * To evaluate the effect of BI
+  474121 on cyclic guanosine monophosphate (cGMP) levels in cerebrospinal fluid (CSF)
+  * To assess the exposure of BI 474121 in CSF relative to plasma * To determine the
+  exposure effect relationship in CSF with different oral doses of BI 474121 (NCT
+  NCT04672954; status COMPLETED).'
+hypothesis: 'The main objectives of this trial are: * To evaluate the effect of BI
+  474121 on cyclic guanosine monophosphate (cGMP) levels in cerebrospinal fluid (CSF)
+  * To assess the exposure of BI 474121 in CSF r'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04672954 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04672954 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04672954-a-study-in-healthy-men-to-test-how-d
+assigned_id: dea:experiment-nct04672954-a-study-in-healthy-men-to-test-how-d-szhec8
+admitted: '2026-11-15'

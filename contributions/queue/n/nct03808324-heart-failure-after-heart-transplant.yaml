@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03808324
 name: NCT03808324 — Heart Failure After Heart Transplantation Due to Chronic Rejection
-description: This study will investigate the prevalence of allograft vasculopathy and unexplained graft
-  dysfunction during long-term follow-up after heart transplantation. Risk factors as well diagnostic
-  approaches will be investigated. (NCT NCT03808324; status UNKNOWN).
-hypothesis: This study will investigate the prevalence of allograft vasculopathy and unexplained graft
-  dysfunction during long-term follow-up after heart transplantation. Risk factors as well diagnostic
-  approache
+description: This study will investigate the prevalence of allograft vasculopathy
+  and unexplained graft dysfunction during long-term follow-up after heart transplantation.
+  Risk factors as well diagnostic approaches will be investigated. (NCT NCT03808324;
+  status UNKNOWN).
+hypothesis: This study will investigate the prevalence of allograft vasculopathy and
+  unexplained graft dysfunction during long-term follow-up after heart transplantation.
+  Risk factors as well diagnostic approache
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03808324 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03808324 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03808324-heart-failure-after-heart-transplant
+assigned_id: dea:experiment-nct03808324-heart-failure-after-heart-transplant-2fy74w
+admitted: '2026-11-15'

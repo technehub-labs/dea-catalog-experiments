@@ -1,0 +1,37 @@
+id: dea:experiment-nct01740076-soy-nuts-and-cardiovascular-risk-in-kkn6ju
+type: Experiment
+name: NCT01740076 — Soy Nuts and Cardiovascular Risk in Postmenopausal Women
+description: To determine the effect of a whole soy food, dietary soy nuts, on blood
+  pressure, lipid levels, inflammation and menopausal symptoms in postmenopausal women.
+  (NCT NCT01740076; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: To determine the effect of a whole soy food, dietary soy nuts, on blood
+  pressure, lipid levels, inflammation and menopausal symptoms in postmenopausal women.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01740076 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

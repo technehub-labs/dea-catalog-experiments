@@ -1,0 +1,51 @@
+id: dea:experiment-nct05492435-ceeg-changes-after-tdcs-and-dual-tas-c2v6y8
+type: Experiment
+name: NCT05492435 — CEEG Changes After Tdcs and Dual-task Training
+description: Stroke has been considered one of the main causes of long-term disability
+  in the adult population. Technological advances in the neurological area have been
+  observed in the last decades, which accentuates the interest in promoting non-invasive
+  stimulation techniques, capable of modulating brain polarity, where among these
+  techniques is the transcranial direct current stimulation - tDCS. Previous studies
+  analyzed by systematic reviews suggest that the effects of tDCS may vary between
+  individuals, where some stroke patients may not receive any additional benefit from
+  the therapy. Thus, it is necessary to use a biomarker that can choose those that
+  will possibly benefit from the electric current. Therefore, the aim of this study
+  is to identify the dynamics of EEG microstates after tDCS and dual-task training
+  in subjects after chronic stroke, as well as to assess how microstate parameters
+  in stroke patients are altered by tDCS and dual-task training. at three different
+  moments (Stimulation in M1 + dual-task training; Stimulation in M1 and DLPF + dual-task
+  training; Sham stimulation) and to observe whether the microstates encode information
+  that reflects the motor and/or cognitive capacity of these patients. (NCT NCT05492435;
+  status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Stroke has been considered one of the main causes of long-term disability
+  in the adult population. Technological advances in the neurological area have been
+  observed in the last decades, which accentu
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05492435 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

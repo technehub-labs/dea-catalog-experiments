@@ -1,0 +1,46 @@
+id: dea:experiment-nct07572266-adjuvant-nitrate-to-boost-exercise-i-53utru
+type: Experiment
+name: NCT07572266 — Adjuvant Nitrate to Boost Exercise-induced Health Benefits in
+  Older Adults
+description: Aging-related functional declines are thought to be caused by hallmark
+  biological processes that ultimately manifest in physical, mental, and metabolic
+  impairments to compromise intrinsic capacity and healthspan. Exercise is the only
+  multipotent treatment with promise to mitigate many of the aging hallmarks, but
+  there is substantial variability in individual exercise responsiveness. Thus, the
+  investigators approach to boosting exercise responsiveness in aging is to combine
+  an exercise training prescription containing both endurance and resistance training
+  (in alignment with DHHS guidelines) with a nitrate-enriched dietary supplement to
+  augment the cellular, tissue, and systemic adaptations that induce myriad health
+  benefits of exercise in older adults. (NCT NCT07572266; status NOT_YET_RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Aging-related functional declines are thought to be caused by hallmark
+  biological processes that ultimately manifest in physical, mental, and metabolic
+  impairments to compromise intrinsic capacity and
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07572266 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- not-yet-recruiting

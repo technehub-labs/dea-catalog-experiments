@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06393166
-name: NCT06393166 — Sequential AG and mFOLFOX Combined With Serplulimab Injection and Bevacizumab Injection
-  in Untreated Advanced Pancreatic Cancer
-description: It is a single arm, open-label, multicenter, phase II cinical trial to evaluate the efficacy
-  and safety of the Sequential AG and mFOLFOX in Combination With Serplulimab Injection and Bevacizumab
-  Injection in first-line treatment of patients with Advanced or Metastatic Pancreatic Cancer. (NCT NCT06393166;
-  status UNKNOWN).
-hypothesis: It is a single arm, open-label, multicenter, phase II cinical trial to evaluate the efficacy
-  and safety of the Sequential AG and mFOLFOX in Combination With Serplulimab Injection and Bevacizumab
-  Injec
+name: NCT06393166 — Sequential AG and mFOLFOX Combined With Serplulimab Injection
+  and Bevacizumab Injection in Untreated Advanced Pancreatic Cancer
+description: It is a single arm, open-label, multicenter, phase II cinical trial to
+  evaluate the efficacy and safety of the Sequential AG and mFOLFOX in Combination
+  With Serplulimab Injection and Bevacizumab Injection in first-line treatment of
+  patients with Advanced or Metastatic Pancreatic Cancer. (NCT NCT06393166; status
+  UNKNOWN).
+hypothesis: It is a single arm, open-label, multicenter, phase II cinical trial to
+  evaluate the efficacy and safety of the Sequential AG and mFOLFOX in Combination
+  With Serplulimab Injection and Bevacizumab Injec
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06393166 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06393166 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct06393166-sequential-ag-and-mfolfox-combined-w
+assigned_id: dea:experiment-nct06393166-sequential-ag-and-mfolfox-combined-w-zqp7vs
+admitted: '2026-11-15'

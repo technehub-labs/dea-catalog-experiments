@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02801773
 name: NCT02801773 — Clinical Effect of Lactobacillus Reuteri in Treatment of Gingivitis
-description: 'The aim of this randomized placebo- controlled clinical trials is to evaluate the effects
-  of Lactobacillus reuteri containing probiotic lozenges as an adjunct to scaling and root planning (SRP).
-  Material and methods: Thirty six gingivitis patients will be recruited and monitored clinically at baseline,
-  3 and 6 month after therapy. All patients will receive scaling and periodontal treatment and randomly
-  will be assigned over an experimental (SRP + probiotic, N=18) or control (SRP+ placebo, n=18) group.
-  The lozenges will be used once per day during 3 month. (NCT NCT02801773; status UNKNOWN).'
-hypothesis: The aim of this randomized placebo- controlled clinical trials is to evaluate the effects
-  of Lactobacillus reuteri containing probiotic lozenges as an adjunct to scaling and root planning (SRP).
-  Mater
+description: 'The aim of this randomized placebo- controlled clinical trials is to
+  evaluate the effects of Lactobacillus reuteri containing probiotic lozenges as an
+  adjunct to scaling and root planning (SRP). Material and methods: Thirty six gingivitis
+  patients will be recruited and monitored clinically at baseline, 3 and 6 month after
+  therapy. All patients will receive scaling and periodontal treatment and randomly
+  will be assigned over an experimental (SRP + probiotic, N=18) or control (SRP+ placebo,
+  n=18) group. The lozenges will be used once per day during 3 month. (NCT NCT02801773;
+  status UNKNOWN).'
+hypothesis: The aim of this randomized placebo- controlled clinical trials is to evaluate
+  the effects of Lactobacillus reuteri containing probiotic lozenges as an adjunct
+  to scaling and root planning (SRP). Mater
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02801773 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02801773 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct02801773-clinical-effect-of-lactobacillus-reu
+assigned_id: dea:experiment-nct02801773-clinical-effect-of-lactobacillus-reu-ehmeg7
+admitted: '2026-11-15'

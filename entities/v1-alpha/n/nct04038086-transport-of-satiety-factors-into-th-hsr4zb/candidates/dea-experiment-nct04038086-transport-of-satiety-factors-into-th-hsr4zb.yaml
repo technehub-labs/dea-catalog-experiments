@@ -1,0 +1,54 @@
+id: dea:experiment-nct04038086-transport-of-satiety-factors-into-th-hsr4zb
+type: Experiment
+name: NCT04038086 — Transport of Satiety Factors Into the CSF
+description: The blood-brain barrier regulates the passage of peripheral built appetite-suppressing
+  hormones from the blood to the brain and informs the brain about the nutritional-
+  and energy status. The aim of this study is to investigate in which extent the hormones
+  are able to overcome the blood-brain barrier and how long it takes after food intake.
+  Relating thereto indications to the effect of peripheral hormones in the central
+  nervous system and the role of these hormones in the development of overweight are
+  provided. In this study 30 patients (10 per intervention group) will be recruited.
+  The patients are hospitalized in the local neurosurgery and they have a CSF-drainage
+  due to their neurological primary disease or due to neurosurgical interventions.
+  The patients are examined in each case on the same day. Simultaneous samplings of
+  blood and CSF are taken from 10 patients after an oral glucose tolerance test. These
+  interventions are carried out to investigate in which extent the appetite-suppressing
+  hormones (e.g. Leptin, Insulin, GLP 1 and Glucagon) reach the liquor and so the
+  central nervous system. In order to understand the temporal sequence, simultaneous
+  samplings of blood and CSF are taken from 10 other patients at certain points throughout
+  the day. In a further group of 10 patients will be investigated how the central
+  effective insulin modulates the transport of the other appetite-suppressing hormones.
+  Therefore samplings of blood and CSF are investigated before and after intranasal
+  insulin administration. (NCT NCT04038086; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The blood-brain barrier regulates the passage of peripheral built appetite-suppressing
+  hormones from the blood to the brain and informs the brain about the nutritional-
+  and energy status. The aim of t
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04038086 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

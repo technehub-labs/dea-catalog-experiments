@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07411469
 name: NCT07411469 — Comparison Between Using Cardiometry and IVC Collapsibility
-description: Sepsis is a life-threatening condition caused by a dysregulated host response to infection,
-  leading to organ dysfunction. Septic shock, a severe form of sepsis, is characterized by persistent
-  hypotension and cellular/metabolic abnormalities despite adequate fluid resuscitation. It is associated
-  with high mortality rates globally, necessitating timely diagnosis and treatment. Fluid resuscitation
-  and vasopressor use are cornerstones of management, but they must be tailored to the individual to prevent
-  complications such as fluid overload. (NCT NCT07411469; status RECRUITING).
-hypothesis: Sepsis is a life-threatening condition caused by a dysregulated host response to infection,
-  leading to organ dysfunction. Septic shock, a severe form of sepsis, is characterized by persistent
-  hypotens
+description: Sepsis is a life-threatening condition caused by a dysregulated host
+  response to infection, leading to organ dysfunction. Septic shock, a severe form
+  of sepsis, is characterized by persistent hypotension and cellular/metabolic abnormalities
+  despite adequate fluid resuscitation. It is associated with high mortality rates
+  globally, necessitating timely diagnosis and treatment. Fluid resuscitation and
+  vasopressor use are cornerstones of management, but they must be tailored to the
+  individual to prevent complications such as fluid overload. (NCT NCT07411469; status
+  RECRUITING).
+hypothesis: Sepsis is a life-threatening condition caused by a dysregulated host response
+  to infection, leading to organ dysfunction. Septic shock, a severe form of sepsis,
+  is characterized by persistent hypotens
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07411469 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07411469 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07411469-comparison-between-using-cardiometry
+assigned_id: dea:experiment-nct07411469-comparison-between-using-cardiometry-zr2tnx
+admitted: '2026-11-15'

@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01397253
-name: NCT01397253 — Virtual Continuity and Its Impact on Complex Hospitalized Patients' Care
-description: Communication between physicians caring for a patient in the hospital and that patient's
-  primary care provider is less than optimal, and can lead to diminished health care quality and safety.
-  This project will lead to better communication between physicians and could decrease medication errors
-  that tend to occur as the patient goes from hospital to home. (NCT NCT01397253; status COMPLETED).
-hypothesis: Communication between physicians caring for a patient in the hospital and that patient's primary
-  care provider is less than optimal, and can lead to diminished health care quality and safety. This
-  pro
+name: NCT01397253 — Virtual Continuity and Its Impact on Complex Hospitalized Patients'
+  Care
+description: Communication between physicians caring for a patient in the hospital
+  and that patient's primary care provider is less than optimal, and can lead to diminished
+  health care quality and safety. This project will lead to better communication between
+  physicians and could decrease medication errors that tend to occur as the patient
+  goes from hospital to home. (NCT NCT01397253; status COMPLETED).
+hypothesis: Communication between physicians caring for a patient in the hospital
+  and that patient's primary care provider is less than optimal, and can lead to diminished
+  health care quality and safety. This pro
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01397253 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01397253 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01397253-virtual-continuity-and-its-impact-on
+assigned_id: dea:experiment-nct01397253-virtual-continuity-and-its-impact-on-9qw6ad
+admitted: '2026-11-15'

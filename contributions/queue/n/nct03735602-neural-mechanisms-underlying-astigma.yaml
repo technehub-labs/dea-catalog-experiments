@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03735602
 name: NCT03735602 — Neural Mechanisms Underlying Astigmatism
-description: This study is to compare the contrast sensitivity function and neural response to gratings
-  before and after the orientation discrimination task in the astigmatism or amblyopia patients. (NCT
-  NCT03735602; status UNKNOWN).
-hypothesis: This study is to compare the contrast sensitivity function and neural response to gratings
-  before and after the orientation discrimination task in the astigmatism or amblyopia patients.
+description: This study is to compare the contrast sensitivity function and neural
+  response to gratings before and after the orientation discrimination task in the
+  astigmatism or amblyopia patients. (NCT NCT03735602; status UNKNOWN).
+hypothesis: This study is to compare the contrast sensitivity function and neural
+  response to gratings before and after the orientation discrimination task in the
+  astigmatism or amblyopia patients.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03735602 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03735602 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03735602-neural-mechanisms-underlying-astigma
+assigned_id: dea:experiment-nct03735602-neural-mechanisms-underlying-astigma-vhun8p
+admitted: '2026-11-15'

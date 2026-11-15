@@ -1,0 +1,62 @@
+id: dea:experiment-nct07063979-use-of-transcutaneous-electrical-ner-phkjj6
+type: Experiment
+name: NCT07063979 — Use of Transcutaneous Electrical Nerve Stimulation Device, Reletex
+  Reliefband, With Current ERAS (Enhanced Recovery After Surgery) Protocol to Further
+  Decrease Postoperative Nausea and V
+description: 'The goal of this clinical trial is to learn if the Reletex Reliefband
+  device when used in conjunction with our current treatments will further decrease
+  postoperative nausea and vomiting. The Investigators want to test how well it works,
+  specifically in bariatric surgery patients that are at a higher risk for nausea
+  and vomiting after surgery. Furthermore, the investigators would like to see if
+  using this non-drug treatment option might allow for the same or better control
+  of nausea and vomiting with fewer side effects than the current medications used.
+  This may decrease drowsiness, and allow for earlier mobility, increase comfort,
+  and generally accelerate recovery after surgery. The main questions it aims to answer
+  are: * Does the use of Reletex Reliefband decrease postoperative nausea and vomiting
+  (PONV) in the Bariatric surgical patient, therefore decreasing need for additional
+  anti-emetics. * Does the use of Reletex Reliefband the use of the Reletex Reliefband
+  during the immediate post-operative period reduce PONV, allowing for early mobility,
+  decreased pain and length of stay (LOS). * Does the use of Reletex Reliefband decrease
+  the use of medications for nausea and therefore decrease costs. * Does the use of
+  Reletex Reliefband reduce prolonged PONV and therefore prevent the downstream effects,
+  i.e. less mobility, increased pain, inhibit the patients'' ability to comply with
+  recommended treatments. * If reducing PONV using non-pharmaceutical approaches will
+  improve outcomes and patient experiences. Researchers will compare to a placebo
+  (a look-alike device) to see if the Reletex Reliefband works to decrease PONV. Participants
+  will: * All receive the standard Enhanced Recovery After Surgery (ERAS) Protocol
+  before, during and after surgery. (This includes use of premedications for pain,
+  and nausea) * Have a band applied and turned on at the completion of the patient''s
+  bariatric sleeve surgery. The band will be adjusted based on need and worn for a
+  total of 24 hours '
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The goal of this clinical trial is to learn if the Reletex Reliefband
+  device when used in conjunction with our current treatments will further decrease
+  postoperative nausea and vomiting. The Investiga
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07063979 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

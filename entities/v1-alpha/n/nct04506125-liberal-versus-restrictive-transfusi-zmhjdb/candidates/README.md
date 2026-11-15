@@ -1,0 +1,31 @@
+# NCT04506125 — Liberal Versus Restrictive Transfusion Threshold in Oncologic surgerY
+
+> Anemia is common in oncology. Up to three-quarters of cancer patients are exposed to an episode of anemia. In oncology surgery, perioperative bleeding is a major risk factor for anemia. Indeed, 13 to 40% of patients are transfused in perioperative oncologic surgery. There is an association between anemia and prognosis. Several epidemiological studies have shown a strong association between anemia and altered quality of life. In oncology cohort studies, anemic patients had a significantly lower quality of life compared to patients without anemia. In non-cardiac surgery, preoperative anaemia was significantly associated with post-operative mortality. There is also an association between preoperative anaemia and the occurrence of post-operative complications. In oncology surgery, cohort studies conducted in colorectal surgery and neurosurgery found an association between the occurrence of perioperative anemia and post-operative morbidity and mortality. The optimal transfusion strategy is unknown in oncology patients. Several multicentre randomised trials, conducted in resuscitation patients or in perioperative settings, have compared a "restrictive" to a "liberal" transfusion strategy. These studies did not show a superiority of one strategy over another on patient outcomes but a lower exposure to red blood cell concentrates in patients transfused with the restrictive transfusion strategy. Thus, the French High Authority for Health (HAS) has adopted a haemoglobin level of 7 g/dl as the transfusion threshold for any transfusion of red blood cell concentrate carried out in the operating theatre and in intensive care in the absence of special cases such as the presence of acute coronary syndrome. For oncology patients, no recommendation could be made due to the lack of evidence-based literature and the optimal transfusion strategy for these patients remains unknown. Only 2 monocentric trials performed in oncology (critical care and perioperative) suggest a benefit of a li
+
+## Identity
+
+- **Record id**: `dea:experiment-nct04506125-liberal-versus-restrictive-transfusi-zmhjdb`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT04506125 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

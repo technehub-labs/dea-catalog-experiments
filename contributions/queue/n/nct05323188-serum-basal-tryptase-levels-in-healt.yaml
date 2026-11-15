@@ -1,36 +1,43 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05323188
 name: NCT05323188 — Serum Basal Tryptase Levels in Healthy Children
-description: 'The National REference Center for MASTocytosis (CEREMAST), located at the Necker-Enfants
-  Malades Hospital, is particularly interested in two groups of rare diseases whose common point is excessive
-  activation of mast cells: mastocytosis and mast cell activation syndromes (MCAS). Unlike MCAS, whose
-  symptoms result solely from this aberrant mast cell activation, in mastocytosis there is, in addition,
-  an expansion and a clonal accumulation of mast cells in different target organs. These two diseases
-  are heterogeneous in their clinical presentation and can begin in early childhood. While the diagnostic
-  criteria for mastocytosis are well established, those for MCAS are unclear, causing major diagnostic
-  error and therefore poor patient care. To date, there is no study evaluating tryptase standards in children
-  less than 18 years of age. The research focuses on the dosage of tryptase in a control population of
-  children aged 0 to 18 years. Each patient receiving a complete blood count (CBC) in a surgery department
-  of the Necker-Enfants Malades hospital will be selected to participate in the study. After the CBC analysis,
-  the rest of the sample will be kept for this research instead of being discarded. Knowing the norms
-  of tryptase according to age would be an important tool for dermatologists, allergists and pediatricians
-  caring for patients suspected of MCAS or mastocytosis. A blood test could thus avoid a few years of
-  diagnostic wandering in the MCAS and mastocytosis. (NCT NCT05323188; status COMPLETED).'
-hypothesis: The National REference Center for MASTocytosis (CEREMAST), located at the Necker-Enfants Malades
-  Hospital, is particularly interested in two groups of rare diseases whose common point is excessive
-  act
+description: 'The National REference Center for MASTocytosis (CEREMAST), located at
+  the Necker-Enfants Malades Hospital, is particularly interested in two groups of
+  rare diseases whose common point is excessive activation of mast cells: mastocytosis
+  and mast cell activation syndromes (MCAS). Unlike MCAS, whose symptoms result solely
+  from this aberrant mast cell activation, in mastocytosis there is, in addition,
+  an expansion and a clonal accumulation of mast cells in different target organs.
+  These two diseases are heterogeneous in their clinical presentation and can begin
+  in early childhood. While the diagnostic criteria for mastocytosis are well established,
+  those for MCAS are unclear, causing major diagnostic error and therefore poor patient
+  care. To date, there is no study evaluating tryptase standards in children less
+  than 18 years of age. The research focuses on the dosage of tryptase in a control
+  population of children aged 0 to 18 years. Each patient receiving a complete blood
+  count (CBC) in a surgery department of the Necker-Enfants Malades hospital will
+  be selected to participate in the study. After the CBC analysis, the rest of the
+  sample will be kept for this research instead of being discarded. Knowing the norms
+  of tryptase according to age would be an important tool for dermatologists, allergists
+  and pediatricians caring for patients suspected of MCAS or mastocytosis. A blood
+  test could thus avoid a few years of diagnostic wandering in the MCAS and mastocytosis.
+  (NCT NCT05323188; status COMPLETED).'
+hypothesis: The National REference Center for MASTocytosis (CEREMAST), located at
+  the Necker-Enfants Malades Hospital, is particularly interested in two groups of
+  rare diseases whose common point is excessive act
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05323188 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05323188 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05323188-serum-basal-tryptase-levels-in-healt
+assigned_id: dea:experiment-nct05323188-serum-basal-tryptase-levels-in-healt-6tdnkm
+admitted: '2026-11-15'

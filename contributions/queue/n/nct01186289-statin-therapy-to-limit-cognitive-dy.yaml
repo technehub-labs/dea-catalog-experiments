@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01186289
 name: NCT01186289 — Statin Therapy To Limit Cognitive Dysfunction After Cardiac Surgery
-description: The primary aim of our prospective, randomized, double-blind interventional clinical trial
-  is to determine the effectiveness of high dose atorvastatin therapy to reduce post operative cognitive
-  dysfunction (POCD) in patients undergoing cardiac valve surgery. We hypothesize that therapy with high
-  dose atorvastatin will significantly reduce the incidence and/or severity of POCD. (NCT NCT01186289;
-  status WITHDRAWN).
-hypothesis: The primary aim of our prospective, randomized, double-blind interventional clinical trial
-  is to determine the effectiveness of high dose atorvastatin therapy to reduce post operative cognitive
-  dysfun
+description: The primary aim of our prospective, randomized, double-blind interventional
+  clinical trial is to determine the effectiveness of high dose atorvastatin therapy
+  to reduce post operative cognitive dysfunction (POCD) in patients undergoing cardiac
+  valve surgery. We hypothesize that therapy with high dose atorvastatin will significantly
+  reduce the incidence and/or severity of POCD. (NCT NCT01186289; status WITHDRAWN).
+hypothesis: The primary aim of our prospective, randomized, double-blind interventional
+  clinical trial is to determine the effectiveness of high dose atorvastatin therapy
+  to reduce post operative cognitive dysfun
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01186289 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01186289 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct01186289-statin-therapy-to-limit-cognitive-dy
+assigned_id: dea:experiment-nct01186289-statin-therapy-to-limit-cognitive-dy-dr9mgb
+admitted: '2026-11-15'

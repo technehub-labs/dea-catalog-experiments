@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05494762
-name: NCT05494762 — Safety, Pharmacokinetics, and Antitumor Activity of BGB-B167 Alone and in Combination
-  With Tislelizumab (BGB-A317) in Participants With Advanced Solid Tumors
-description: This study will evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary
-  antitumor activity of BGB-B167 monotherapy and in combination with tislelizumab (BGB-A317) in participants
-  with select advanced solid tumors. (NCT NCT05494762; status TERMINATED).
-hypothesis: This study will evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary
-  antitumor activity of BGB-B167 monotherapy and in combination with tislelizumab (BGB-A317) in participants
-  wit
+name: NCT05494762 — Safety, Pharmacokinetics, and Antitumor Activity of BGB-B167 Alone
+  and in Combination With Tislelizumab (BGB-A317) in Participants With Advanced Solid
+  Tumors
+description: This study will evaluate the safety, tolerability, pharmacokinetics (PK),
+  and preliminary antitumor activity of BGB-B167 monotherapy and in combination with
+  tislelizumab (BGB-A317) in participants with select advanced solid tumors. (NCT
+  NCT05494762; status TERMINATED).
+hypothesis: This study will evaluate the safety, tolerability, pharmacokinetics (PK),
+  and preliminary antitumor activity of BGB-B167 monotherapy and in combination with
+  tislelizumab (BGB-A317) in participants wit
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05494762 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05494762 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct05494762-safety-pharmacokinetics-and-antitumo
+assigned_id: dea:experiment-nct05494762-safety-pharmacokinetics-and-antitumo-5xnpgz
+admitted: '2026-11-15'

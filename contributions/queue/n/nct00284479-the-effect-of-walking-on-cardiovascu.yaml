@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00284479
 name: NCT00284479 — The Effect of Walking on Cardiovascular Risk
-description: The purpose of this study was to investigate the effects of an 8 week program of walking
-  for 45 minutes, twice a week, on fitness, body composition , blood pressure and blood markers of cardiovascular
-  risk. We hypothesised that this 90 minutes of walking per week would result in measurable increases
-  in fitness and reductions in body fat, resting blood pressure and improved blood lipid profiles. (NCT
-  NCT00284479; status COMPLETED).
-hypothesis: The purpose of this study was to investigate the effects of an 8 week program of walking for
-  45 minutes, twice a week, on fitness, body composition , blood pressure and blood markers of cardiovascular
+description: The purpose of this study was to investigate the effects of an 8 week
+  program of walking for 45 minutes, twice a week, on fitness, body composition ,
+  blood pressure and blood markers of cardiovascular risk. We hypothesised that this
+  90 minutes of walking per week would result in measurable increases in fitness and
+  reductions in body fat, resting blood pressure and improved blood lipid profiles.
+  (NCT NCT00284479; status COMPLETED).
+hypothesis: The purpose of this study was to investigate the effects of an 8 week
+  program of walking for 45 minutes, twice a week, on fitness, body composition ,
+  blood pressure and blood markers of cardiovascular
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00284479 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00284479 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00284479-the-effect-of-walking-on-cardiovascu
+assigned_id: dea:experiment-nct00284479-the-effect-of-walking-on-cardiovascu-sssg4q
+admitted: '2026-11-15'

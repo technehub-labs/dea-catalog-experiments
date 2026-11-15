@@ -1,0 +1,39 @@
+id: dea:experiment-nct05575882-anti-relapse-efficacy-and-tolerance-e9adza
+type: Experiment
+name: NCT05575882 — Anti-relapse Efficacy and Tolerance Assessment of a Cosmetic Cream
+  for Very Dry, Irritated to Atopic Sensitive Skin.
+description: 'Multicentric, double blind, randomized, comparative study with two parallel
+  group: study group vs placebo group. 5 visits: inclusion visit \[day (D) 0\] and
+  4 follow-up visits (D30, D60, D90, and D120). (NCT NCT05575882; status RECRUITING).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Multicentric, double blind, randomized, comparative study with two parallel
+  group: study group vs placebo group. 5 visits: inclusion visit \[day (D) 0\] and
+  4 follow-up visits (D30, D60, D90, and D120'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05575882 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

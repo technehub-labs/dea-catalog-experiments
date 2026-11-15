@@ -1,31 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03230890
 name: NCT03230890 — HIRREM in Military Personnel
-description: The purpose of this study is to evaluate the effects associated with the use of in-office
-  High-resolution, relational, resonance-based, electroencephalic mirroring (HIRREM) for participants
-  with symptoms of military-related traumatic stress. This is a single site, non-randomized, open label
-  pilot study. Outcome measures collected before, and after the intervention evaluate effects on self-reported
-  symptoms, autonomic cardiovascular regulation, functional measures, blood and saliva biomarkers of stress
-  and inflammation, and network connectivity on whole brain, rest MRI testing. Self-reported symptom outcomes
-  will also be collected remotely at 1, 3, and 6 months after completion of intervention. The study will
-  assess feasibility in this cohort, focused on the Special Operations community, will provide estimates
-  of effect size, and durability of symptom changes, while providing important pilot data for future proposals
-  and investigations. (NCT NCT03230890; status COMPLETED).
-hypothesis: The purpose of this study is to evaluate the effects associated with the use of in-office
-  High-resolution, relational, resonance-based, electroencephalic mirroring (HIRREM) for participants
-  with sympt
+description: The purpose of this study is to evaluate the effects associated with
+  the use of in-office High-resolution, relational, resonance-based, electroencephalic
+  mirroring (HIRREM) for participants with symptoms of military-related traumatic
+  stress. This is a single site, non-randomized, open label pilot study. Outcome measures
+  collected before, and after the intervention evaluate effects on self-reported symptoms,
+  autonomic cardiovascular regulation, functional measures, blood and saliva biomarkers
+  of stress and inflammation, and network connectivity on whole brain, rest MRI testing.
+  Self-reported symptom outcomes will also be collected remotely at 1, 3, and 6 months
+  after completion of intervention. The study will assess feasibility in this cohort,
+  focused on the Special Operations community, will provide estimates of effect size,
+  and durability of symptom changes, while providing important pilot data for future
+  proposals and investigations. (NCT NCT03230890; status COMPLETED).
+hypothesis: The purpose of this study is to evaluate the effects associated with the
+  use of in-office High-resolution, relational, resonance-based, electroencephalic
+  mirroring (HIRREM) for participants with sympt
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03230890 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03230890 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03230890-hirrem-in-military-personnel
+assigned_id: dea:experiment-nct03230890-hirrem-in-military-personnel-cdqs83
+admitted: '2026-11-15'

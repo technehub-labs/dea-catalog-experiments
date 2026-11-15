@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07193160
-name: NCT07193160 — Sacituzumab Tirumotecan in Combination With Furmonertinib as Second-line Treatment
-  for EGFR-mutant Advanced or Metastatic NSCLC After Failure of First-line Third-generation EGFR-TKI Ther
-description: This study is a multicenter, single-arm, phase II clincial trial. The main objective of the
-  study is to evaluate the efficacy and safety of the combination of Sacituzumab Tirumotecan (sac-TMT)
-  and Furmonertinib in the treatment of EGFR-mutant advanced or metastatic NSCLC after failure of first-line
-  Third-generation EGFR-TKI therapy. (NCT NCT07193160; status NOT_YET_RECRUITING).
-hypothesis: This study is a multicenter, single-arm, phase II clincial trial. The main objective of the
-  study is to evaluate the efficacy and safety of the combination of Sacituzumab Tirumotecan (sac-TMT)
-  and Fur
+name: NCT07193160 — Sacituzumab Tirumotecan in Combination With Furmonertinib as Second-line
+  Treatment for EGFR-mutant Advanced or Metastatic NSCLC After Failure of First-line
+  Third-generation EGFR-TKI Ther
+description: This study is a multicenter, single-arm, phase II clincial trial. The
+  main objective of the study is to evaluate the efficacy and safety of the combination
+  of Sacituzumab Tirumotecan (sac-TMT) and Furmonertinib in the treatment of EGFR-mutant
+  advanced or metastatic NSCLC after failure of first-line Third-generation EGFR-TKI
+  therapy. (NCT NCT07193160; status NOT_YET_RECRUITING).
+hypothesis: This study is a multicenter, single-arm, phase II clincial trial. The
+  main objective of the study is to evaluate the efficacy and safety of the combination
+  of Sacituzumab Tirumotecan (sac-TMT) and Fur
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07193160 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07193160 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07193160-sacituzumab-tirumotecan-in-combinati
+assigned_id: dea:experiment-nct07193160-sacituzumab-tirumotecan-in-combinati-2k2w24
+admitted: '2026-11-15'

@@ -1,0 +1,41 @@
+id: dea:experiment-nct02869061-effectiveness-and-safety-of-adipose-j5ytsq
+type: Experiment
+name: NCT02869061 — Effectiveness and Safety of Adipose-derived Regenerative Cells
+  for Reduction of Risk of Bladder Neck Contracture
+description: Autologous adipose-derived regenerative cells (ADRC) will be extracted
+  from lipoaspirate by enzymatic digestion from a portion of the fat harvested from
+  the patient's front abdominal wall. Transurethral bladder neck resection followed
+  by the injection of ADRCs suspension will be performed. This is a single arm study
+  with no control. All patients receive cell therapy. (NCT NCT02869061; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Autologous adipose-derived regenerative cells (ADRC) will be extracted
+  from lipoaspirate by enzymatic digestion from a portion of the fat harvested from
+  the patient's front abdominal wall. Transurethr
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02869061 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04102046
 name: NCT04102046 — Quality of Life in Hemophilia by Clinical Scoring System (FISH)Score
-description: To asses quality of life in patients with hemophilia clinically.- -To avoid or minimize structural
-  damage to goints and muscles by making patients aware of importance of rehabilitation (NCT NCT04102046;
-  status UNKNOWN).
-hypothesis: To asses quality of life in patients with hemophilia clinically.- -To avoid or minimize structural
-  damage to goints and muscles by making patients aware of importance of rehabilitation
+description: To asses quality of life in patients with hemophilia clinically.- -To
+  avoid or minimize structural damage to goints and muscles by making patients aware
+  of importance of rehabilitation (NCT NCT04102046; status UNKNOWN).
+hypothesis: To asses quality of life in patients with hemophilia clinically.- -To
+  avoid or minimize structural damage to goints and muscles by making patients aware
+  of importance of rehabilitation
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04102046 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04102046 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct04102046-quality-of-life-in-hemophilia-by-cli
+assigned_id: dea:experiment-nct04102046-quality-of-life-in-hemophilia-by-cli-69sab9
+admitted: '2026-11-15'

@@ -1,0 +1,49 @@
+id: dea:experiment-nct07280962-packing-versus-no-packing-in-periana-by6yeu
+type: Experiment
+name: NCT07280962 — Packing Versus no Packing in Perianal Abscess
+description: Perianal abscess is a common surgical emergency that causes significant
+  pain and discomfort. The standard treatment involves incision and drainage (I\&D)
+  of the abscess cavity, traditionally followed by packing to prevent re-accumulation
+  of pus and to promote healing. However, packing is often painful, requires frequent
+  dressing changes, and increases patient discomfort as well as healthcare costs.
+  Recent studies suggest that leaving the cavity unpacked may result in similar healing
+  outcomes while reducing postoperative pain and shortening the length of hospital
+  stay. This randomized controlled trial aims to compare the outcomes of packing versus
+  no packing of the perianal abscess cavity following I\&D. The study will evaluate
+  postoperative pain using the Visual Analogue Scale at 6, 12, and 24 hours, duration
+  of hospital stay, and the recurrence rate within one month. The findings of this
+  research are expected to guide evidence-based clinical practice by improving patient
+  comfort, reducing hospital burden, and optimizing postoperative care protocols.
+  (NCT NCT07280962; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Perianal abscess is a common surgical emergency that causes significant
+  pain and discomfort. The standard treatment involves incision and drainage (I\&D)
+  of the abscess cavity, traditionally followed '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07280962 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

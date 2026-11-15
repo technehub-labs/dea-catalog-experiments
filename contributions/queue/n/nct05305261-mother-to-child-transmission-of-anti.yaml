@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05305261
-name: NCT05305261 — Mother to Child Transmission of Antibody to Covid-19 The TRAB CoV-19 Study.
-description: This is a prospective clinical study aiming to investigate on the transplacental antibody
-  transmission post Covid-19 infection during pregnancy. (NCT NCT05305261; status COMPLETED).
-hypothesis: This is a prospective clinical study aiming to investigate on the transplacental antibody
-  transmission post Covid-19 infection during pregnancy.
+name: NCT05305261 — Mother to Child Transmission of Antibody to Covid-19 The TRAB
+  CoV-19 Study.
+description: This is a prospective clinical study aiming to investigate on the transplacental
+  antibody transmission post Covid-19 infection during pregnancy. (NCT NCT05305261;
+  status COMPLETED).
+hypothesis: This is a prospective clinical study aiming to investigate on the transplacental
+  antibody transmission post Covid-19 infection during pregnancy.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05305261 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05305261 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05305261-mother-to-child-transmission-of-anti
+assigned_id: dea:experiment-nct05305261-mother-to-child-transmission-of-anti-kz8wa5
+admitted: '2026-11-15'

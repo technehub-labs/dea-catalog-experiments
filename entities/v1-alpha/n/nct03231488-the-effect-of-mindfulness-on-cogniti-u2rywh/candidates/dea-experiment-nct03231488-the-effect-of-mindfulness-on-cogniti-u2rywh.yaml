@@ -1,0 +1,54 @@
+id: dea:experiment-nct03231488-the-effect-of-mindfulness-on-cogniti-u2rywh
+type: Experiment
+name: NCT03231488 — The Effect of Mindfulness on Cognition and Emotion Following Acquired
+  Brain Injury
+description: Can mindfulness help with attention and emotion difficulties after a
+  brain injury? People who have a brain injury often have problems with their attention
+  and emotions. This study will see if a short mindfulness task can help with these
+  problems. So far, there are not many studies looking at this and those that do show
+  mixed results. When being mindful someone is aware of their attention and focuses
+  on the present moment without passing judgement. This study focuses on over-selectivity
+  and selective attention to threat after a brain injury. These are two concepts involved
+  in attention and emotion problems. Over-selectivity is when someone focuses on only
+  one thing around them and misses other key things. Selective attention to threat
+  is when someone's focus is drawn to something around them that is seen as threatening.
+  This has been shown to cause and keep anxious feelings going. This research will
+  see if a short mindfulness task can help those with a brain injury by reducing overselectivity
+  and selective attention to threat on two tasks. Participants will be recruited from
+  NHS and non-NHS brain injury services. The study will take around two hours to complete
+  for each participant. In summary, this study looks to see if a specific mindfulness
+  exercise can be helpful for specific attention and emotion problems. It could be
+  a first step in making treatment better and giving more treatment options for those
+  with a brain injury. (NCT NCT03231488; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Can mindfulness help with attention and emotion difficulties after a
+  brain injury? People who have a brain injury often have problems with their attention
+  and emotions. This study will see if a short '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03231488 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00470496
-name: NCT00470496 — Photodynamic Therapy Using HPPH in Treating Patients Undergoing Surgery for Primary
-  or Recurrent Head and Neck Cancer
-description: This phase I trial studies the side effects and best dose of photodynamic therapy using HPPH
-  in treating patients who are undergoing surgery for primary or recurrent head and neck cancer. Photodynamic
-  therapy (PDT) uses a drug, such as HPPH, that becomes active when it is exposed to a certain kind of
-  light. When the drug is active, tumor cells are killed. Giving photodynamic therapy after surgery may
-  kill any tumor cells that remain after surgery. (NCT NCT00470496; status COMPLETED).
-hypothesis: This phase I trial studies the side effects and best dose of photodynamic therapy using HPPH
-  in treating patients who are undergoing surgery for primary or recurrent head and neck cancer. Photodynamic
+name: NCT00470496 — Photodynamic Therapy Using HPPH in Treating Patients Undergoing
+  Surgery for Primary or Recurrent Head and Neck Cancer
+description: This phase I trial studies the side effects and best dose of photodynamic
+  therapy using HPPH in treating patients who are undergoing surgery for primary or
+  recurrent head and neck cancer. Photodynamic therapy (PDT) uses a drug, such as
+  HPPH, that becomes active when it is exposed to a certain kind of light. When the
+  drug is active, tumor cells are killed. Giving photodynamic therapy after surgery
+  may kill any tumor cells that remain after surgery. (NCT NCT00470496; status COMPLETED).
+hypothesis: This phase I trial studies the side effects and best dose of photodynamic
+  therapy using HPPH in treating patients who are undergoing surgery for primary or
+  recurrent head and neck cancer. Photodynamic
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00470496 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00470496 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00470496-photodynamic-therapy-using-hpph-in-t
+assigned_id: dea:experiment-nct00470496-photodynamic-therapy-using-hpph-in-t-qday36
+admitted: '2026-11-15'

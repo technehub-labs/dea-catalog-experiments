@@ -1,0 +1,40 @@
+id: dea:experiment-nct03863613-pessary-versus-cerclage-with-or-with-ewr5yx
+type: Experiment
+name: NCT03863613 — Pessary Versus Cerclage With or Without Progesterone in Twins
+description: This study compares the effectiveness of cervical pessary and cervical
+  cerclage with or without vaginal progesterone for prevention of preterm birth in
+  women with a twin pregnancy and a cervix ≤28 mm. Participants will be randomly assigned
+  in a 1:1:1:1 ratio to receive cerclage, pessary, cerclage plus progesterone or pessary
+  plus progesterone. (NCT NCT03863613; status TERMINATED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study compares the effectiveness of cervical pessary and cervical
+  cerclage with or without vaginal progesterone for prevention of preterm birth in
+  women with a twin pregnancy and a cervix ≤28 mm.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03863613 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- terminated

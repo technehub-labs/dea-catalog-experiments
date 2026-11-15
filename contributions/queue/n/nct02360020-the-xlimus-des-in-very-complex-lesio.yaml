@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02360020
 name: NCT02360020 — The XLIMUS-DES in Very Complex Lesions
-description: Stent delivery failure occurs in 4% of all percutaneous coronary interventions (PCI) and
-  \>90% of these failures are due to vessel tortuosity and/or calcification. The XLIMUS eluting coronary
-  stent (CARDIONOVUM GmbH, Bonn, Germany) is a new type of endovascular prostheses characterised by better
-  mechanical properties than traditional DES. This is a prospective, non-randomized, single-center pilot
-  study, aiming to evaluate the performance of the XLIMUS DES in severely complex coronary lesions in
-  real-world clinical practice. (NCT NCT02360020; status COMPLETED).
-hypothesis: Stent delivery failure occurs in 4% of all percutaneous coronary interventions (PCI) and \>90%
-  of these failures are due to vessel tortuosity and/or calcification. The XLIMUS eluting coronary stent
-  (C
+description: Stent delivery failure occurs in 4% of all percutaneous coronary interventions
+  (PCI) and \>90% of these failures are due to vessel tortuosity and/or calcification.
+  The XLIMUS eluting coronary stent (CARDIONOVUM GmbH, Bonn, Germany) is a new type
+  of endovascular prostheses characterised by better mechanical properties than traditional
+  DES. This is a prospective, non-randomized, single-center pilot study, aiming to
+  evaluate the performance of the XLIMUS DES in severely complex coronary lesions
+  in real-world clinical practice. (NCT NCT02360020; status COMPLETED).
+hypothesis: Stent delivery failure occurs in 4% of all percutaneous coronary interventions
+  (PCI) and \>90% of these failures are due to vessel tortuosity and/or calcification.
+  The XLIMUS eluting coronary stent (C
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02360020 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02360020 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02360020-the-xlimus-des-in-very-complex-lesio
+assigned_id: dea:experiment-nct02360020-the-xlimus-des-in-very-complex-lesio-tfmu48
+admitted: '2026-11-15'

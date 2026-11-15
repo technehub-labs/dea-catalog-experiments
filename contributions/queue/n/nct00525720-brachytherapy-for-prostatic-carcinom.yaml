@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00525720
 name: NCT00525720 — Brachytherapy for Prostatic Carcinoma Patients
-description: The goal of this clinical research study is to learn if a prostate implant (brachytherapy)
-  can help to control intermediate risk prostate cancer. The safety of this procedure will also be studied.
-  Prostate brachytherapy is performed by inserting permanent seeds (which are radioactive pellets) into
-  your prostate in order to treat the prostate cancer with radiation therapy. (NCT NCT00525720; status
-  ACTIVE_NOT_RECRUITING).
-hypothesis: The goal of this clinical research study is to learn if a prostate implant (brachytherapy)
-  can help to control intermediate risk prostate cancer. The safety of this procedure will also be studied.
-  Pro
+description: The goal of this clinical research study is to learn if a prostate implant
+  (brachytherapy) can help to control intermediate risk prostate cancer. The safety
+  of this procedure will also be studied. Prostate brachytherapy is performed by inserting
+  permanent seeds (which are radioactive pellets) into your prostate in order to treat
+  the prostate cancer with radiation therapy. (NCT NCT00525720; status ACTIVE_NOT_RECRUITING).
+hypothesis: The goal of this clinical research study is to learn if a prostate implant
+  (brachytherapy) can help to control intermediate risk prostate cancer. The safety
+  of this procedure will also be studied. Pro
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00525720 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00525720 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct00525720-brachytherapy-for-prostatic-carcinom
+assigned_id: dea:experiment-nct00525720-brachytherapy-for-prostatic-carcinom-t94r23
+admitted: '2026-11-15'

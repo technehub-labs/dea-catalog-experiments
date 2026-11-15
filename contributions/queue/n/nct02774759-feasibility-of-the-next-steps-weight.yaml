@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02774759
-name: 'NCT02774759 — Feasibility of the NEXT Steps Weight Loss Intervention +/- Resistance Training for
-  Endometrial Cancer Survivors: Effect on Lean Mass & Biomarkers'
-description: The goal of this research study is to learn if a home-based physical activity program is
-  feasible and can help endometrial cancer survivors lose weight. (NCT NCT02774759; status ACTIVE_NOT_RECRUITING).
-hypothesis: The goal of this research study is to learn if a home-based physical activity program is feasible
-  and can help endometrial cancer survivors lose weight.
+name: 'NCT02774759 — Feasibility of the NEXT Steps Weight Loss Intervention +/- Resistance
+  Training for Endometrial Cancer Survivors: Effect on Lean Mass & Biomarkers'
+description: The goal of this research study is to learn if a home-based physical
+  activity program is feasible and can help endometrial cancer survivors lose weight.
+  (NCT NCT02774759; status ACTIVE_NOT_RECRUITING).
+hypothesis: The goal of this research study is to learn if a home-based physical activity
+  program is feasible and can help endometrial cancer survivors lose weight.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02774759 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02774759 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct02774759-feasibility-of-the-next-steps-weight
+assigned_id: dea:experiment-nct02774759-feasibility-of-the-next-steps-weight-cnp78a
+admitted: '2026-11-15'

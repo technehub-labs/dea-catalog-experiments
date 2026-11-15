@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03711266
 name: NCT03711266 — Implementing PTSD Treatment in FQHCs for Michigan Medicaid Enrollees
-description: The purpose of this project is to expand access to trauma-focused treatment among Medicaid
-  Enrollees with PTSD, thereby improving the quality of mental health services delivered to this population.
-  Specifically, the project goals are to evaluate the delivery and sustainability of a brief trauma-focused
-  treatment, Prolonged Exposure for Primary Care (PE-PC), an evidence-based intervention for PTSD, when
-  delivered via telehealth to patients enrolled at CHCs in Michigan. (NCT NCT03711266; status COMPLETED).
-hypothesis: The purpose of this project is to expand access to trauma-focused treatment among Medicaid
-  Enrollees with PTSD, thereby improving the quality of mental health services delivered to this population.
-  Sp
+description: The purpose of this project is to expand access to trauma-focused treatment
+  among Medicaid Enrollees with PTSD, thereby improving the quality of mental health
+  services delivered to this population. Specifically, the project goals are to evaluate
+  the delivery and sustainability of a brief trauma-focused treatment, Prolonged Exposure
+  for Primary Care (PE-PC), an evidence-based intervention for PTSD, when delivered
+  via telehealth to patients enrolled at CHCs in Michigan. (NCT NCT03711266; status
+  COMPLETED).
+hypothesis: The purpose of this project is to expand access to trauma-focused treatment
+  among Medicaid Enrollees with PTSD, thereby improving the quality of mental health
+  services delivered to this population. Sp
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03711266 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03711266 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03711266-implementing-ptsd-treatment-in-fqhcs
+assigned_id: dea:experiment-nct03711266-implementing-ptsd-treatment-in-fqhcs-7x4tqt
+admitted: '2026-11-15'

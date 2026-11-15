@@ -1,0 +1,31 @@
+# NCT06903624 — Cannabis in Postoperative Pain Management
+
+> Postoperative pain management is critical for surgical recovery, affecting patient outcomes, hospitalization duration, and quality of life. Variability in pain perception and medication needs among surgical patients poses a challenge in clinical practice. Identifying predictive factors for pain severity and analgesic use could enhance personalized pain management strategies. Cannabis, containing cannabinoids with analgesic and anti-inflammatory properties, has garnered attention as a potential pain management option for surgical patients. The effectiveness of cannabis varies, depending on surgery type, severity, and individual pain tolerance. Some studies suggest cannabis users may experience heightened pain sensitivity and require more analgesics, while others highlight its potential to reduce opioid use. Despite growing interest, the use of cannabis in surgery remains controversial due to a lack of large-scale clinical trials evaluating its safety and efficacy in this setting. Some research indicates cannabis use could lower pain levels post-surgery and reduce opioid needs. However, other studies raise safety concerns, and conflicting findings have yet to establish its role conclusively. Given these uncertainties, healthcare professionals must carefully monitor cannabis use in surgical patients. Patients should inform providers of any cannabis use before surgery to ensure appropriate pain management and minimize risks. This study aims to analyze pain intensity and analgesic usage patterns across various surgeries using real-world medical data. Machine learning models will predict high analgesic needs, focusing on cannabis users. This research seeks to optimize postoperative pain treatment and personalize clinical strategies. (NCT NCT06903624; status COMPLETED).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct06903624-cannabis-in-postoperative-pain-manag-q72cvr`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT06903624 (ClinicalTrials.gov; status COMPLETED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

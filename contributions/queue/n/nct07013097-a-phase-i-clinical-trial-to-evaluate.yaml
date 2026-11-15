@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07013097
-name: NCT07013097 — A Phase I Clinical Trial to Evaluate the Single Dose Ascending and Food Effects of
-  PG-033 in Healthy Adults
-description: The goal of this study is to evaluate the safety, tolerability and pharmacokinetics (PK)
-  profiles of single ascending oral doses(SAD) of PG-033 by directly comparing it with placebo. Meanwhile,
-  the impact of a high-fat meal on the pharmacokinetics of PG-033 will also be evaluated. The research
-  will also explore the potential metabolites and metabolic pathways of PG-033 within the human body，as
-  well as investigate the effect of PG-033 on the QTc interval. (NCT NCT07013097; status RECRUITING).
-hypothesis: The goal of this study is to evaluate the safety, tolerability and pharmacokinetics (PK) profiles
-  of single ascending oral doses(SAD) of PG-033 by directly comparing it with placebo. Meanwhile, the
-  im
+name: NCT07013097 — A Phase I Clinical Trial to Evaluate the Single Dose Ascending
+  and Food Effects of PG-033 in Healthy Adults
+description: The goal of this study is to evaluate the safety, tolerability and pharmacokinetics
+  (PK) profiles of single ascending oral doses(SAD) of PG-033 by directly comparing
+  it with placebo. Meanwhile, the impact of a high-fat meal on the pharmacokinetics
+  of PG-033 will also be evaluated. The research will also explore the potential metabolites
+  and metabolic pathways of PG-033 within the human body，as well as investigate the
+  effect of PG-033 on the QTc interval. (NCT NCT07013097; status RECRUITING).
+hypothesis: The goal of this study is to evaluate the safety, tolerability and pharmacokinetics
+  (PK) profiles of single ascending oral doses(SAD) of PG-033 by directly comparing
+  it with placebo. Meanwhile, the im
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07013097 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07013097 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07013097-a-phase-i-clinical-trial-to-evaluate
+assigned_id: dea:experiment-nct07013097-a-phase-i-clinical-trial-to-evaluate-m6jawk
+admitted: '2026-11-15'

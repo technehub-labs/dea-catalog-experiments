@@ -1,25 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01457560
-name: NCT01457560 — Immunogenicity and Reactogenicity of DTPa-HBV-IPV/Hib Vaccine Followed by the Same
-  Vaccine and Oral Polio Vaccine
-description: This study will assess the immunogenicity and safety of the GlaxoSmithKline (GSK) Biologicals'
-  (formerly SmithKline Beecham Biologicals') combined DTPa-HBV-IPV/Hib (Infanrix hexa™) vaccine administered
-  in the 3rd, 5th, 11th month of life. The last dose of DTPa-HBV-IPV/Hib will be given simultaneously
-  with one dose of OPV vaccine. (NCT NCT01457560; status COMPLETED).
-hypothesis: This study will assess the immunogenicity and safety of the GlaxoSmithKline (GSK) Biologicals'
-  (formerly SmithKline Beecham Biologicals') combined DTPa-HBV-IPV/Hib (Infanrix hexa™) vaccine administere
+name: NCT01457560 — Immunogenicity and Reactogenicity of DTPa-HBV-IPV/Hib Vaccine
+  Followed by the Same Vaccine and Oral Polio Vaccine
+description: This study will assess the immunogenicity and safety of the GlaxoSmithKline
+  (GSK) Biologicals' (formerly SmithKline Beecham Biologicals') combined DTPa-HBV-IPV/Hib
+  (Infanrix hexa™) vaccine administered in the 3rd, 5th, 11th month of life. The last
+  dose of DTPa-HBV-IPV/Hib will be given simultaneously with one dose of OPV vaccine.
+  (NCT NCT01457560; status COMPLETED).
+hypothesis: This study will assess the immunogenicity and safety of the GlaxoSmithKline
+  (GSK) Biologicals' (formerly SmithKline Beecham Biologicals') combined DTPa-HBV-IPV/Hib
+  (Infanrix hexa™) vaccine administere
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01457560 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01457560 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01457560-immunogenicity-and-reactogenicity-of
+assigned_id: dea:experiment-nct01457560-immunogenicity-and-reactogenicity-of-2pnbwg
+admitted: '2026-11-15'

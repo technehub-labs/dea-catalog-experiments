@@ -1,25 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02716194
 name: NCT02716194 — BAX 826 Dose-Escalation Safety Study
-description: 1. To assess tolerability and safety of BAX 826 after a single infusion in previously treated
-  patients (PTPs) with severe hemophilia A 2. To determine the pharmacokinetic (PK) parameters of BAX
-  826 compared to ADVATE 3. To evaluate immunogenicity of polysialic acid linked to Factor VIII (FVIII)
-  (NCT NCT02716194; status COMPLETED).
-hypothesis: 1. To assess tolerability and safety of BAX 826 after a single infusion in previously treated
-  patients (PTPs) with severe hemophilia A 2. To determine the pharmacokinetic (PK) parameters of BAX
-  826 co
+description: 1. To assess tolerability and safety of BAX 826 after a single infusion
+  in previously treated patients (PTPs) with severe hemophilia A 2. To determine the
+  pharmacokinetic (PK) parameters of BAX 826 compared to ADVATE 3. To evaluate immunogenicity
+  of polysialic acid linked to Factor VIII (FVIII) (NCT NCT02716194; status COMPLETED).
+hypothesis: 1. To assess tolerability and safety of BAX 826 after a single infusion
+  in previously treated patients (PTPs) with severe hemophilia A 2. To determine the
+  pharmacokinetic (PK) parameters of BAX 826 co
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02716194 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02716194 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02716194-bax-826-dose-escalation-safety-study
+assigned_id: dea:experiment-nct02716194-bax-826-dose-escalation-safety-study-dp7ezt
+admitted: '2026-11-15'

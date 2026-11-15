@@ -1,0 +1,44 @@
+id: dea:experiment-nct06352320-risk-stratification-and-new-early-pr-p6pvf8
+type: Experiment
+name: NCT06352320 — Risk Stratification and New Early Prevention and Treatment Strategies
+  for Patients With Cardiomyopathy (STRENGTH）
+description: This study will include patients with different types of cardiomyopathy
+  from multiple centers were prospectively enrolled in a retrospective study to establish
+  a natural population cohort of cardiomyopathy patients. By collecting clinical data
+  and biological samples from surgical patients, we will construct a prognostic system
+  for cardiomyopathy, optimize risk stratification, explore new strategies for the
+  early prevention and treatment of cardiomyopathy, and improve the efficiency of
+  clinical cardiomyopathy patients' diagnosis and treatment. (NCT NCT06352320; status
+  RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: This study will include patients with different types of cardiomyopathy
+  from multiple centers were prospectively enrolled in a retrospective study to establish
+  a natural population cohort of cardiomyo
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06352320 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

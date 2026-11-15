@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04522141
-name: NCT04522141 — Testing Self-Control as a Behavior Change Mechanism to Increase Physical Activity
-description: The goal of this study is to test self-control as a behavior change mechanism for physical
-  activity and to investigate whether a smartphone-based self-control intervention can increase physical
-  activity among sedentary middle-aged adults. (NCT NCT04522141; status COMPLETED).
-hypothesis: The goal of this study is to test self-control as a behavior change mechanism for physical
-  activity and to investigate whether a smartphone-based self-control intervention can increase physical
-  activi
+name: NCT04522141 — Testing Self-Control as a Behavior Change Mechanism to Increase
+  Physical Activity
+description: The goal of this study is to test self-control as a behavior change mechanism
+  for physical activity and to investigate whether a smartphone-based self-control
+  intervention can increase physical activity among sedentary middle-aged adults.
+  (NCT NCT04522141; status COMPLETED).
+hypothesis: The goal of this study is to test self-control as a behavior change mechanism
+  for physical activity and to investigate whether a smartphone-based self-control
+  intervention can increase physical activi
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04522141 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04522141 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04522141-testing-self-control-as-a-behavior-c
+assigned_id: dea:experiment-nct04522141-testing-self-control-as-a-behavior-c-w9k6cj
+admitted: '2026-11-15'

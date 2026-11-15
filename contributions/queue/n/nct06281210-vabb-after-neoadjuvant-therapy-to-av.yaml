@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06281210
-name: NCT06281210 — Vabb After Neoadjuvant Therapy to Avoid Surgery-pCR to Avoid Breast Surgery
-description: This single arm study aims to evaluate the efficacy and safety of a non-surgical approach,
-  consisting of radiotherapy (RT) alone, for patients who have achieved a complete pathological response
-  (pCR) following neoadjuvant chemotherapy (NACT). The study design involves the histological confirmation
-  of pCR using vacuum-assisted biopsy (VABB) or vacuum-assisted excision (VAE) guided by ultrasound. The
-  primary objective is to demonstrate that the non-surgical, RT-only treatment and follow-up approach
-  is not inferior to the traditional surgical approach in patients with pCR after NACT. (NCT NCT06281210;
-  status RECRUITING).
-hypothesis: 'This single arm study aims to evaluate the efficacy and safety of a non-surgical approach,
-  consisting of radiotherapy (RT) alone, for patients who have achieved a complete pathological response
-  (pCR) '
+name: NCT06281210 — Vabb After Neoadjuvant Therapy to Avoid Surgery-pCR to Avoid Breast
+  Surgery
+description: This single arm study aims to evaluate the efficacy and safety of a non-surgical
+  approach, consisting of radiotherapy (RT) alone, for patients who have achieved
+  a complete pathological response (pCR) following neoadjuvant chemotherapy (NACT).
+  The study design involves the histological confirmation of pCR using vacuum-assisted
+  biopsy (VABB) or vacuum-assisted excision (VAE) guided by ultrasound. The primary
+  objective is to demonstrate that the non-surgical, RT-only treatment and follow-up
+  approach is not inferior to the traditional surgical approach in patients with pCR
+  after NACT. (NCT NCT06281210; status RECRUITING).
+hypothesis: 'This single arm study aims to evaluate the efficacy and safety of a non-surgical
+  approach, consisting of radiotherapy (RT) alone, for patients who have achieved
+  a complete pathological response (pCR) '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06281210 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06281210 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06281210-vabb-after-neoadjuvant-therapy-to-av
+assigned_id: dea:experiment-nct06281210-vabb-after-neoadjuvant-therapy-to-av-nptbq6
+admitted: '2026-11-15'

@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07092397
-name: NCT07092397 — Artificial Intelligence-based Tumor Microenvironment Analysis for Prognosis Prediction
-  in Gallbladder Cancer
-description: This retrospective study aims to investigate the prognostic significance of artificial intelligence
-  (AI)-powered analysis of tumor-infiltrating lymphocytes (TILs) and the tumor microenvironment (TME)
-  in patients with resected gallbladder cancer. Using hematoxylin and eosin (H\&E)-stained slides, the
-  study quantifies spatial TME features, including TIL density, tertiary lymphoid structures, and fibroblast
-  density, to identify potential TME-related risk factors associated with survival. (NCT NCT07092397;
-  status COMPLETED).
-hypothesis: 'This retrospective study aims to investigate the prognostic significance of artificial intelligence
-  (AI)-powered analysis of tumor-infiltrating lymphocytes (TILs) and the tumor microenvironment (TME) '
+name: NCT07092397 — Artificial Intelligence-based Tumor Microenvironment Analysis
+  for Prognosis Prediction in Gallbladder Cancer
+description: This retrospective study aims to investigate the prognostic significance
+  of artificial intelligence (AI)-powered analysis of tumor-infiltrating lymphocytes
+  (TILs) and the tumor microenvironment (TME) in patients with resected gallbladder
+  cancer. Using hematoxylin and eosin (H\&E)-stained slides, the study quantifies
+  spatial TME features, including TIL density, tertiary lymphoid structures, and fibroblast
+  density, to identify potential TME-related risk factors associated with survival.
+  (NCT NCT07092397; status COMPLETED).
+hypothesis: 'This retrospective study aims to investigate the prognostic significance
+  of artificial intelligence (AI)-powered analysis of tumor-infiltrating lymphocytes
+  (TILs) and the tumor microenvironment (TME) '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07092397 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07092397 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct07092397-artificial-intelligence-based-tumor
+assigned_id: dea:experiment-nct07092397-artificial-intelligence-based-tumor-5rafy5
+admitted: '2026-11-15'

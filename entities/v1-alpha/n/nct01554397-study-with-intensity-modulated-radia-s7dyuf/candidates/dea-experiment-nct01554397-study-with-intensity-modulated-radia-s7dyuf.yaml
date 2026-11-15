@@ -1,0 +1,42 @@
+id: dea:experiment-nct01554397-study-with-intensity-modulated-radia-s7dyuf
+type: Experiment
+name: NCT01554397 — Study With Intensity Modulated Radiation Therapy With Cisplatin
+  to Treat Stage I-IVA Cervical Cancer
+description: The purpose of this study is to find out whether patients with cervical
+  cancer treated with PET-guided Bone Marrow Sparing IMRT have less side effects with
+  equal cancer control compared to standard radiation techniques (IMRT). The hypothesis
+  is that PET-guided Bone Marrow Sparing IMRT will reduce acute hematologic and gastrointestinal
+  toxicity and increase chemotherapy tolerance for cervical cancer patients treated
+  with concurrent cisplatin. (NCT NCT01554397; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The purpose of this study is to find out whether patients with cervical
+  cancer treated with PET-guided Bone Marrow Sparing IMRT have less side effects with
+  equal cancer control compared to standard ra
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01554397 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

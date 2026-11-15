@@ -1,0 +1,49 @@
+id: dea:experiment-nct06182605-multifunctional-cataract-surgery-ass-p7a49j
+type: Experiment
+name: NCT06182605 — Multifunctional Cataract Surgery Assistive Instruments Used in
+  Cataract Surgery
+description: In order to better cope with complex situations of cataract surgery,
+  we designed and improved a new set of multi-functional cataract surgery auxiliary
+  devices, including ophthalmic surgery auxiliary hooks, eye retractor hooks and membranous
+  cataract scissors. Their common feature is that they have the function of 2-3 traditional
+  surgical instruments, which can be switched in operations, reducing the replacement
+  of different surgical instruments, lowing the number of surgical instruments in
+  and out of the incision, reducing trauma and improving surgical efficiency. The
+  purpose of this multi-center prospective clinical study is to verify the advantages
+  of this new group of multifunctional devices and further summarize the experience
+  and improvement by comparing the safety and effectiveness of traditional cataract
+  surgical instruments combined with new multifunctional cataract assisted surgical
+  instruments and traditional cataract surgical instruments alone. (NCT NCT06182605;
+  status RECRUITING).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: In order to better cope with complex situations of cataract surgery, we
+  designed and improved a new set of multi-functional cataract surgery auxiliary devices,
+  including ophthalmic surgery auxiliary h
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06182605 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- recruiting

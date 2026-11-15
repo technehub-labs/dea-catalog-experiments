@@ -1,39 +1,47 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03476161
 name: NCT03476161 — Bond Failure of Two Types of Molar Buccal Tubes
-description: This study looks at two new types of orthodontic brackets (metal squares of the brace) that
-  have recently been released. Both types have been developed to allow the brackets to stick better to
-  the tooth surface. The difference between the two groups is the adhesive ('glue') that is used. One
-  uses a more conventional type of pre-coated adhesive (APC-II). The other type uses a new flash-free
-  adhesive that does not require the excess to be removed once placed. It is claimed by the manufacturer
-  that this new adhesive has a far lower failure rate than other types. However, there are very few studies
-  that have looked into the bond failures of these adhesives comparatively, with most being lab-based
-  studies outside of the mouth. The purpose of this study is to investigate which of the two bracket types
-  lasts longest when glued to teeth for brace treatment and if there are any particular reasons why they
-  may fail. This in turn will provide good evidence and research for future use of different bracket types,
-  with an aim to prevent brackets from coming loose as little as possible during treatment. This could
-  potentially result in smoother treatment for the participants and fewer visits. A total of 56 participants
-  within the Orthodontic Department at Guy's Hospital London, shall be recruited to the trial and randomly
-  placed into one of the two groups. The participants invited to take part in the trial will require fixed
-  braces ('train-tracks') and meet the specific criteria that the investigators are looking for. Once
-  the braces are fitted, regular appointments are made and participants are asked to return for emergency
-  appointments if any of the brace comes loose. The total time for follow-up after the brace is fitted
-  is a maximum of 3 months. The results shall then be analysed. (NCT NCT03476161; status COMPLETED).
-hypothesis: This study looks at two new types of orthodontic brackets (metal squares of the brace) that
-  have recently been released. Both types have been developed to allow the brackets to stick better to
-  the too
+description: This study looks at two new types of orthodontic brackets (metal squares
+  of the brace) that have recently been released. Both types have been developed to
+  allow the brackets to stick better to the tooth surface. The difference between
+  the two groups is the adhesive ('glue') that is used. One uses a more conventional
+  type of pre-coated adhesive (APC-II). The other type uses a new flash-free adhesive
+  that does not require the excess to be removed once placed. It is claimed by the
+  manufacturer that this new adhesive has a far lower failure rate than other types.
+  However, there are very few studies that have looked into the bond failures of these
+  adhesives comparatively, with most being lab-based studies outside of the mouth.
+  The purpose of this study is to investigate which of the two bracket types lasts
+  longest when glued to teeth for brace treatment and if there are any particular
+  reasons why they may fail. This in turn will provide good evidence and research
+  for future use of different bracket types, with an aim to prevent brackets from
+  coming loose as little as possible during treatment. This could potentially result
+  in smoother treatment for the participants and fewer visits. A total of 56 participants
+  within the Orthodontic Department at Guy's Hospital London, shall be recruited to
+  the trial and randomly placed into one of the two groups. The participants invited
+  to take part in the trial will require fixed braces ('train-tracks') and meet the
+  specific criteria that the investigators are looking for. Once the braces are fitted,
+  regular appointments are made and participants are asked to return for emergency
+  appointments if any of the brace comes loose. The total time for follow-up after
+  the brace is fitted is a maximum of 3 months. The results shall then be analysed.
+  (NCT NCT03476161; status COMPLETED).
+hypothesis: This study looks at two new types of orthodontic brackets (metal squares
+  of the brace) that have recently been released. Both types have been developed to
+  allow the brackets to stick better to the too
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03476161 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03476161 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03476161-bond-failure-of-two-types-of-molar-b
+assigned_id: dea:experiment-nct03476161-bond-failure-of-two-types-of-molar-b-ux583m
+admitted: '2026-11-15'

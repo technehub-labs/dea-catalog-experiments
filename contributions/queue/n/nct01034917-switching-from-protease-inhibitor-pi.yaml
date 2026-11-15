@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01034917
-name: NCT01034917 — Switching From Protease Inhibitor (PI) to Etravirine in HIV-1 Infected Subjects With
-  Viremia Suppression
-description: This is a 48 week randomized, prospective, controlled, open-label, proof-of-concept pilot
-  clinical trial. Patients with HIV-1 infection on HAART PI-based regimen will be randomized to switch
-  from the PI to etravirine (400 mg dissolved in water every 24 hours) or to continue with the same approach.
-  The aim of the study is to compare the virological efficacy of the etravirine-based regimen with standard
-  PI-containing regimen. (NCT NCT01034917; status COMPLETED).
-hypothesis: 'This is a 48 week randomized, prospective, controlled, open-label, proof-of-concept pilot
-  clinical trial. Patients with HIV-1 infection on HAART PI-based regimen will be randomized to switch
-  from the '
+name: NCT01034917 — Switching From Protease Inhibitor (PI) to Etravirine in HIV-1
+  Infected Subjects With Viremia Suppression
+description: This is a 48 week randomized, prospective, controlled, open-label, proof-of-concept
+  pilot clinical trial. Patients with HIV-1 infection on HAART PI-based regimen will
+  be randomized to switch from the PI to etravirine (400 mg dissolved in water every
+  24 hours) or to continue with the same approach. The aim of the study is to compare
+  the virological efficacy of the etravirine-based regimen with standard PI-containing
+  regimen. (NCT NCT01034917; status COMPLETED).
+hypothesis: 'This is a 48 week randomized, prospective, controlled, open-label, proof-of-concept
+  pilot clinical trial. Patients with HIV-1 infection on HAART PI-based regimen will
+  be randomized to switch from the '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01034917 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01034917 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01034917-switching-from-protease-inhibitor-pi
+assigned_id: dea:experiment-nct01034917-switching-from-protease-inhibitor-pi-jejfsx
+admitted: '2026-11-15'

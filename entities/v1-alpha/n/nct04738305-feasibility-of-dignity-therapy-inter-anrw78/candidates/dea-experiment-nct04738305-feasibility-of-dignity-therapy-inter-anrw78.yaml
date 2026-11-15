@@ -1,0 +1,41 @@
+id: dea:experiment-nct04738305-feasibility-of-dignity-therapy-inter-anrw78
+type: Experiment
+name: NCT04738305 — Feasibility of Dignity Therapy Intervention on Cancer Patients
+  in Charge to an Hospital Palliative Care Unit.
+description: Aim of the study was to asses feasibility and acceptability of a nurse
+  delivered Dignity Therapy (DT) intervention on advanced cancer patients referring
+  to an Hospital palliative care unit. To achieve this aim a mixed-method approach
+  using before and after evaluation and semi-structured interviews has been used.
+  (NCT NCT04738305; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Aim of the study was to asses feasibility and acceptability of a nurse
+  delivered Dignity Therapy (DT) intervention on advanced cancer patients referring
+  to an Hospital palliative care unit. To achieve
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04738305 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

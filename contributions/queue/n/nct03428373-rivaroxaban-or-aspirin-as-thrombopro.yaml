@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03428373
 name: NCT03428373 — Rivaroxaban or Aspirin As Thromboprophylaxis in Multiple Myeloma
-description: The intended study is designed as a a phase IV pragmatic multicenter randomized controlled
-  clinical trial, comparing the impact of two different therapies including ASA vs. Rivaroxaban in newly
-  diagnosed or relapsed and refractory multiple myeloma patients treated with Lenalidomide Dexamethasone
-  (Len-Dex) combination therapy. The pilot feasibility study was conducted in preparation for this randomized
-  controlled trial designed to assess the effect of an intervention. (NCT NCT03428373; status UNKNOWN).
-hypothesis: The intended study is designed as a a phase IV pragmatic multicenter randomized controlled
-  clinical trial, comparing the impact of two different therapies including ASA vs. Rivaroxaban in newly
-  diagno
+description: The intended study is designed as a a phase IV pragmatic multicenter
+  randomized controlled clinical trial, comparing the impact of two different therapies
+  including ASA vs. Rivaroxaban in newly diagnosed or relapsed and refractory multiple
+  myeloma patients treated with Lenalidomide Dexamethasone (Len-Dex) combination therapy.
+  The pilot feasibility study was conducted in preparation for this randomized controlled
+  trial designed to assess the effect of an intervention. (NCT NCT03428373; status
+  UNKNOWN).
+hypothesis: The intended study is designed as a a phase IV pragmatic multicenter randomized
+  controlled clinical trial, comparing the impact of two different therapies including
+  ASA vs. Rivaroxaban in newly diagno
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03428373 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03428373 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct03428373-rivaroxaban-or-aspirin-as-thrombopro
+assigned_id: dea:experiment-nct03428373-rivaroxaban-or-aspirin-as-thrombopro-g9v4g7
+admitted: '2026-11-15'

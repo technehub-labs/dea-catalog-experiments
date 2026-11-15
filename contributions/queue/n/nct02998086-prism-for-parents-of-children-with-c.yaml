@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02998086
-name: NCT02998086 — PRISM for Parents of Children With Cancer Promoting Resilience in Stress Management
-  (PRISM) Intervention for Parents of Children With Cancer
-description: Parenting a child with cancer is highly stressful. The investigators have designed a promising
-  parent-centered intervention to bolster parent resilience and reduce stress and distress. This study
-  will test 2 formats of the intervention (individual or group-based) and compare them to usual care.
-  (NCT NCT02998086; status COMPLETED).
-hypothesis: Parenting a child with cancer is highly stressful. The investigators have designed a promising
-  parent-centered intervention to bolster parent resilience and reduce stress and distress. This study
-  will
+name: NCT02998086 — PRISM for Parents of Children With Cancer Promoting Resilience
+  in Stress Management (PRISM) Intervention for Parents of Children With Cancer
+description: Parenting a child with cancer is highly stressful. The investigators
+  have designed a promising parent-centered intervention to bolster parent resilience
+  and reduce stress and distress. This study will test 2 formats of the intervention
+  (individual or group-based) and compare them to usual care. (NCT NCT02998086; status
+  COMPLETED).
+hypothesis: Parenting a child with cancer is highly stressful. The investigators have
+  designed a promising parent-centered intervention to bolster parent resilience and
+  reduce stress and distress. This study will
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02998086 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02998086 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02998086-prism-for-parents-of-children-with-c
+assigned_id: dea:experiment-nct02998086-prism-for-parents-of-children-with-c-nv6vqm
+admitted: '2026-11-15'

@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06648720
-name: NCT06648720 — Efficacy and Safety of Shortening Dual Antiplatelet Therapy Duration with IVUS Guidance
-  in PCI Patients
-description: This study is designed to assess the efficacy and safety of de-escalating dual antiplatelet
-  therapy (DAPT) at 1 month compared to the standard 12 months of therapy in patients undergoing percutaneous
-  coronary intervention (PCI) guided by intravascular ultrasound (IVUS). The main outcomes measured will
-  include major adverse cardiovascular and cerebrovascular events (NACCE), bleeding events, and target
-  vessel failure (TVF). The goal is to evaluate whether a shorter duration of DAPT is non-inferior to
-  the standard 12-month regimen in preventing ischemic events while reducing the incidence of bleeding.
-  (NCT NCT06648720; status NOT_YET_RECRUITING).
-hypothesis: 'This study is designed to assess the efficacy and safety of de-escalating dual antiplatelet
-  therapy (DAPT) at 1 month compared to the standard 12 months of therapy in patients undergoing percutaneous '
+name: NCT06648720 — Efficacy and Safety of Shortening Dual Antiplatelet Therapy Duration
+  with IVUS Guidance in PCI Patients
+description: This study is designed to assess the efficacy and safety of de-escalating
+  dual antiplatelet therapy (DAPT) at 1 month compared to the standard 12 months of
+  therapy in patients undergoing percutaneous coronary intervention (PCI) guided by
+  intravascular ultrasound (IVUS). The main outcomes measured will include major adverse
+  cardiovascular and cerebrovascular events (NACCE), bleeding events, and target vessel
+  failure (TVF). The goal is to evaluate whether a shorter duration of DAPT is non-inferior
+  to the standard 12-month regimen in preventing ischemic events while reducing the
+  incidence of bleeding. (NCT NCT06648720; status NOT_YET_RECRUITING).
+hypothesis: 'This study is designed to assess the efficacy and safety of de-escalating
+  dual antiplatelet therapy (DAPT) at 1 month compared to the standard 12 months of
+  therapy in patients undergoing percutaneous '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06648720 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06648720 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct06648720-efficacy-and-safety-of-shortening-du
+assigned_id: dea:experiment-nct06648720-efficacy-and-safety-of-shortening-du-aax47x
+admitted: '2026-11-15'

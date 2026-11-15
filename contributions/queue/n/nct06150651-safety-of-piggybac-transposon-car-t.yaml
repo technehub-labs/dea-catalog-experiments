@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06150651
-name: NCT06150651 — Safety of PiggyBac Transposon CAR T-cells Targeting CD-19 in Refractory Lupus.
-description: A Phase 1 clinical trial to evaluate the safety and efficacy of PiggyBac transposon-mediated
-  Chimeric Antigen Receptor(CAR) T-cells targeting CD19 in refractory Systemic Lupus Erythematosus (SLE)
-  patients who have not responded to standard immunosuppressive treatments. (NCT NCT06150651; status COMPLETED).
-hypothesis: A Phase 1 clinical trial to evaluate the safety and efficacy of PiggyBac transposon-mediated
-  Chimeric Antigen Receptor(CAR) T-cells targeting CD19 in refractory Systemic Lupus Erythematosus (SLE)
-  pati
+name: NCT06150651 — Safety of PiggyBac Transposon CAR T-cells Targeting CD-19 in Refractory
+  Lupus.
+description: A Phase 1 clinical trial to evaluate the safety and efficacy of PiggyBac
+  transposon-mediated Chimeric Antigen Receptor(CAR) T-cells targeting CD19 in refractory
+  Systemic Lupus Erythematosus (SLE) patients who have not responded to standard immunosuppressive
+  treatments. (NCT NCT06150651; status COMPLETED).
+hypothesis: A Phase 1 clinical trial to evaluate the safety and efficacy of PiggyBac
+  transposon-mediated Chimeric Antigen Receptor(CAR) T-cells targeting CD19 in refractory
+  Systemic Lupus Erythematosus (SLE) pati
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06150651 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06150651 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06150651-safety-of-piggybac-transposon-car-t
+assigned_id: dea:experiment-nct06150651-safety-of-piggybac-transposon-car-t-wyky4a
+admitted: '2026-11-15'

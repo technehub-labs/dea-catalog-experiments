@@ -1,30 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07293650
 name: NCT07293650 — PREcision MEDicine In Achalasia (PREMEDIA)
-description: 'The goal of this clinical trial is to learn if shorter Per-Oral Endoscopic Myotomy (POEM)
-  works as well as a longer POEM in patients with trouble swallowing due to certain conditions. The main
-  question\[s\] it aims to answer \[is/are\]: * Does making a smaller cut in the muscle at the bottom
-  of the esophagus work just as well as making the standard bigger cut in relieving symptoms? * Does making
-  the smaller cut reduce the side effects of the procedure compared to the standard bigger cut? Researchers
-  will compare the symptoms and side effects of making a shorter cut to the symptoms and side effects
-  of a longer cut. Participants will allow researchers to access their standard of care information in
-  their medical record, complete questionnaires at up to 6 times over a 2-year period. (NCT NCT07293650;
-  status RECRUITING).'
-hypothesis: The goal of this clinical trial is to learn if shorter Per-Oral Endoscopic Myotomy (POEM)
-  works as well as a longer POEM in patients with trouble swallowing due to certain conditions. The main
-  questio
+description: 'The goal of this clinical trial is to learn if shorter Per-Oral Endoscopic
+  Myotomy (POEM) works as well as a longer POEM in patients with trouble swallowing
+  due to certain conditions. The main question\[s\] it aims to answer \[is/are\]:
+  * Does making a smaller cut in the muscle at the bottom of the esophagus work just
+  as well as making the standard bigger cut in relieving symptoms? * Does making the
+  smaller cut reduce the side effects of the procedure compared to the standard bigger
+  cut? Researchers will compare the symptoms and side effects of making a shorter
+  cut to the symptoms and side effects of a longer cut. Participants will allow researchers
+  to access their standard of care information in their medical record, complete questionnaires
+  at up to 6 times over a 2-year period. (NCT NCT07293650; status RECRUITING).'
+hypothesis: The goal of this clinical trial is to learn if shorter Per-Oral Endoscopic
+  Myotomy (POEM) works as well as a longer POEM in patients with trouble swallowing
+  due to certain conditions. The main questio
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07293650 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07293650 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07293650-precision-medicine-in-achalasia-prem
+assigned_id: dea:experiment-nct07293650-precision-medicine-in-achalasia-prem-a6es2j
+admitted: '2026-11-15'

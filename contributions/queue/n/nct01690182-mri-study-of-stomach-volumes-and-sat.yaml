@@ -1,27 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01690182
 name: NCT01690182 — MRI Study of Stomach Volumes and Satiety
-description: The GI MRI Research group at the University of Nottingham has been developing new, non-invasive
-  magnetic resonance imaging (MRI) techniques to image the gastrointestinal tract. In collaboration with
-  food manufacturer Unilever, the investigators want to image the abdomen of healthy volunteers after
-  consumption of test meals of varying volume and energy density to determine levels of gastric distension
-  and investigate possible correlations of this with the subjects' sense of satiety. (NCT NCT01690182;
+description: The GI MRI Research group at the University of Nottingham has been developing
+  new, non-invasive magnetic resonance imaging (MRI) techniques to image the gastrointestinal
+  tract. In collaboration with food manufacturer Unilever, the investigators want
+  to image the abdomen of healthy volunteers after consumption of test meals of varying
+  volume and energy density to determine levels of gastric distension and investigate
+  possible correlations of this with the subjects' sense of satiety. (NCT NCT01690182;
   status COMPLETED).
-hypothesis: The GI MRI Research group at the University of Nottingham has been developing new, non-invasive
-  magnetic resonance imaging (MRI) techniques to image the gastrointestinal tract. In collaboration with
-  f
+hypothesis: The GI MRI Research group at the University of Nottingham has been developing
+  new, non-invasive magnetic resonance imaging (MRI) techniques to image the gastrointestinal
+  tract. In collaboration with f
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01690182 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01690182 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01690182-mri-study-of-stomach-volumes-and-sat
+assigned_id: dea:experiment-nct01690182-mri-study-of-stomach-volumes-and-sat-usgdfh
+admitted: '2026-11-15'

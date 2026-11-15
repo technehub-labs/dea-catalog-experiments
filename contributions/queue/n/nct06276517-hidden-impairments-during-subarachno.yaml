@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06276517
-name: NCT06276517 — Hidden Impairments During Subarachnoid Haemorrhage Recovery, Description and Evolution
-  of a Newly Described Syndrom
-description: Descriptive observational study in patients with spontaneous subarachnoid hemorrhage or following
-  aneurysmal rupture to assess the presence of a post-HSA syndrome at 3 months, 6 months and 1 year, and
-  its impact on functional outcome using the Rivermead questionnaire (NCT NCT06276517; status WITHDRAWN).
-hypothesis: Descriptive observational study in patients with spontaneous subarachnoid hemorrhage or following
-  aneurysmal rupture to assess the presence of a post-HSA syndrome at 3 months, 6 months and 1 year, and
+name: NCT06276517 — Hidden Impairments During Subarachnoid Haemorrhage Recovery, Description
+  and Evolution of a Newly Described Syndrom
+description: Descriptive observational study in patients with spontaneous subarachnoid
+  hemorrhage or following aneurysmal rupture to assess the presence of a post-HSA
+  syndrome at 3 months, 6 months and 1 year, and its impact on functional outcome
+  using the Rivermead questionnaire (NCT NCT06276517; status WITHDRAWN).
+hypothesis: Descriptive observational study in patients with spontaneous subarachnoid
+  hemorrhage or following aneurysmal rupture to assess the presence of a post-HSA
+  syndrome at 3 months, 6 months and 1 year, and
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06276517 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06276517 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct06276517-hidden-impairments-during-subarachno
+assigned_id: dea:experiment-nct06276517-hidden-impairments-during-subarachno-uepeuq
+admitted: '2026-11-15'

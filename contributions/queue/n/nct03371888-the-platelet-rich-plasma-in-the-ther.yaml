@@ -1,27 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03371888
 name: NCT03371888 — The Platelet-Rich Plasma in the Therapy of Temporomandibular Disorders
-description: 'The Platelet-Rich Plasma intramuscular injections into the masseter and temporalis muscle
-  were performed to reduce painful temporomandibular disorder symptoms,such as myalgia, myofascial pain
-  and myofascial pain with referrals. Patients(n=120) were randomly divided into two groups: experimental(n=60)
-  and control group(n=60). In controls injections with 0,9% NaCl were performed. Pain intensity was measured
-  with NPRS (numeriic pain rating scale, 0= no pain, 11= the worst pain that one can imagine) before(0
-  day), during(10 day) and after(20 day) the therapy with PRP injections. (NCT NCT03371888; status COMPLETED).'
-hypothesis: The Platelet-Rich Plasma intramuscular injections into the masseter and temporalis muscle
-  were performed to reduce painful temporomandibular disorder symptoms,such as myalgia, myofascial pain
-  and myof
+description: 'The Platelet-Rich Plasma intramuscular injections into the masseter
+  and temporalis muscle were performed to reduce painful temporomandibular disorder
+  symptoms,such as myalgia, myofascial pain and myofascial pain with referrals. Patients(n=120)
+  were randomly divided into two groups: experimental(n=60) and control group(n=60).
+  In controls injections with 0,9% NaCl were performed. Pain intensity was measured
+  with NPRS (numeriic pain rating scale, 0= no pain, 11= the worst pain that one can
+  imagine) before(0 day), during(10 day) and after(20 day) the therapy with PRP injections.
+  (NCT NCT03371888; status COMPLETED).'
+hypothesis: The Platelet-Rich Plasma intramuscular injections into the masseter and
+  temporalis muscle were performed to reduce painful temporomandibular disorder symptoms,such
+  as myalgia, myofascial pain and myof
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03371888 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03371888 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03371888-the-platelet-rich-plasma-in-the-ther
+assigned_id: dea:experiment-nct03371888-the-platelet-rich-plasma-in-the-ther-r92ndr
+admitted: '2026-11-15'

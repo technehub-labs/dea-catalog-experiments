@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01599845
-name: NCT01599845 — The Differential Pattern of Deposition of Nano Particles in the Airways of Exposed
-  Workers
-description: Investigation of the differences between the levels of extracellular and intracellular nano-particles
-  in workers exposed to environmental particles during their employment to enhance understanding the process
-  of penetration of the particles to respiratory epithelial cells. (NCT NCT01599845; status UNKNOWN).
-hypothesis: Investigation of the differences between the levels of extracellular and intracellular nano-particles
-  in workers exposed to environmental particles during their employment to enhance understanding the
+name: NCT01599845 — The Differential Pattern of Deposition of Nano Particles in the
+  Airways of Exposed Workers
+description: Investigation of the differences between the levels of extracellular
+  and intracellular nano-particles in workers exposed to environmental particles during
+  their employment to enhance understanding the process of penetration of the particles
+  to respiratory epithelial cells. (NCT NCT01599845; status UNKNOWN).
+hypothesis: Investigation of the differences between the levels of extracellular and
+  intracellular nano-particles in workers exposed to environmental particles during
+  their employment to enhance understanding the
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01599845 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01599845 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct01599845-the-differential-pattern-of-depositi
+assigned_id: dea:experiment-nct01599845-the-differential-pattern-of-depositi-qwhe23
+admitted: '2026-11-15'

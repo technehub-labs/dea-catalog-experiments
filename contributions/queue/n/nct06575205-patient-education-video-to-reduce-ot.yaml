@@ -1,31 +1,36 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06575205
 name: NCT06575205 — Patient Education Video to Reduce OTC NSAIDs
-description: The goal of this study is to assess the efficacy of a brief 3 to 5-minute educational video
-  on influencing intent to change behavior regarding potentially harmful over-the-counter (OTC) NSAID
-  use in adults with chronic kidney disease (CKD), heart failure (HF), and/or hypertension (HTN). Informed
-  by the COM-B model of behavior change, the video reviews identifying OTC NSAIDs, potential risks of
-  NSAIDs, and general alternatives to potentially harmful NSAIDs. Participants with CKD, HF, and/or HTN
-  identified as regular OTC NSAID users will be randomized to the VIDEO or CONTROL group. They will complete
-  surveys immediately and 4 weeks after viewing the VIDEO or CONTROL to assess actual NSAIDs use, intent
-  to change behavior related to NSAIDs use, capability/opportunity/motivation to change behavior, pain,
-  and barriers to decreasing OTC NSAIDs. Findings will inform future population health initiatives to
-  reduce potentially harmful OTC NSAIDs use. (NCT NCT06575205; status UNKNOWN).
-hypothesis: The goal of this study is to assess the efficacy of a brief 3 to 5-minute educational video
-  on influencing intent to change behavior regarding potentially harmful over-the-counter (OTC) NSAID
-  use in a
+description: The goal of this study is to assess the efficacy of a brief 3 to 5-minute
+  educational video on influencing intent to change behavior regarding potentially
+  harmful over-the-counter (OTC) NSAID use in adults with chronic kidney disease (CKD),
+  heart failure (HF), and/or hypertension (HTN). Informed by the COM-B model of behavior
+  change, the video reviews identifying OTC NSAIDs, potential risks of NSAIDs, and
+  general alternatives to potentially harmful NSAIDs. Participants with CKD, HF, and/or
+  HTN identified as regular OTC NSAID users will be randomized to the VIDEO or CONTROL
+  group. They will complete surveys immediately and 4 weeks after viewing the VIDEO
+  or CONTROL to assess actual NSAIDs use, intent to change behavior related to NSAIDs
+  use, capability/opportunity/motivation to change behavior, pain, and barriers to
+  decreasing OTC NSAIDs. Findings will inform future population health initiatives
+  to reduce potentially harmful OTC NSAIDs use. (NCT NCT06575205; status UNKNOWN).
+hypothesis: The goal of this study is to assess the efficacy of a brief 3 to 5-minute
+  educational video on influencing intent to change behavior regarding potentially
+  harmful over-the-counter (OTC) NSAID use in a
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06575205 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06575205 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct06575205-patient-education-video-to-reduce-ot
+assigned_id: dea:experiment-nct06575205-patient-education-video-to-reduce-ot-ss5b6a
+admitted: '2026-11-15'

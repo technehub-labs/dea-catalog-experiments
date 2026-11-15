@@ -1,33 +1,39 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07622888
-name: NCT07622888 — Postoperative GI Dysfunction and Nutrition in Malnourished Cancer Surgery Patients
-description: This is a prospective two-center observational cohort study in adult patients undergoing
-  major abdominal and/or pelvic oncologic surgery with pre-existing malnutrition. The study describes
-  the course of postoperative gastrointestinal dysfunction and evaluates whether real-world exposure to
-  parenteral serotonin as part of routine postoperative care is associated with a higher proportion of
-  patients whose gastrointestinal dysfunction regresses to LIFE score less than or equal to 1 by postoperative
-  day 5 (plus or minus 1 day), compared with patients not exposed to serotonin. All treatment decisions,
-  including the use of parenteral serotonin, metoclopramide, neostigmine, nutritional support, and other
-  postoperative management, are made solely by the treating physicians in accordance with routine clinical
-  practice. The protocol does not assign, randomize, require, or restrict any drug treatment; it records
-  real-world care, daily LIFE assessments during postoperative days 1 through 7, nutritional status measures,
-  body composition where available, delirium screening, complications, length of stay, and mortality.
-  (NCT NCT07622888; status NOT_YET_RECRUITING).
-hypothesis: 'This is a prospective two-center observational cohort study in adult patients undergoing
-  major abdominal and/or pelvic oncologic surgery with pre-existing malnutrition. The study describes
-  the course '
+name: NCT07622888 — Postoperative GI Dysfunction and Nutrition in Malnourished Cancer
+  Surgery Patients
+description: This is a prospective two-center observational cohort study in adult
+  patients undergoing major abdominal and/or pelvic oncologic surgery with pre-existing
+  malnutrition. The study describes the course of postoperative gastrointestinal dysfunction
+  and evaluates whether real-world exposure to parenteral serotonin as part of routine
+  postoperative care is associated with a higher proportion of patients whose gastrointestinal
+  dysfunction regresses to LIFE score less than or equal to 1 by postoperative day
+  5 (plus or minus 1 day), compared with patients not exposed to serotonin. All treatment
+  decisions, including the use of parenteral serotonin, metoclopramide, neostigmine,
+  nutritional support, and other postoperative management, are made solely by the
+  treating physicians in accordance with routine clinical practice. The protocol does
+  not assign, randomize, require, or restrict any drug treatment; it records real-world
+  care, daily LIFE assessments during postoperative days 1 through 7, nutritional
+  status measures, body composition where available, delirium screening, complications,
+  length of stay, and mortality. (NCT NCT07622888; status NOT_YET_RECRUITING).
+hypothesis: 'This is a prospective two-center observational cohort study in adult
+  patients undergoing major abdominal and/or pelvic oncologic surgery with pre-existing
+  malnutrition. The study describes the course '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07622888 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07622888 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07622888-postoperative-gi-dysfunction-and-nut
+assigned_id: dea:experiment-nct07622888-postoperative-gi-dysfunction-and-nut-btapf3
+admitted: '2026-11-15'

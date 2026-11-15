@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06264596
-name: NCT06264596 — Epinephrine in Irrigation Fluid for Visualization During Ankle Surgery
-description: The purpose of this study is to evaluate the effect of epinephrine in irrigation fluid for
-  visual clarity in ankle arthroscopic surgery. (NCT NCT06264596; status WITHDRAWN).
-hypothesis: The purpose of this study is to evaluate the effect of epinephrine in irrigation fluid for
-  visual clarity in ankle arthroscopic surgery.
+name: NCT06264596 — Epinephrine in Irrigation Fluid for Visualization During Ankle
+  Surgery
+description: The purpose of this study is to evaluate the effect of epinephrine in
+  irrigation fluid for visual clarity in ankle arthroscopic surgery. (NCT NCT06264596;
+  status WITHDRAWN).
+hypothesis: The purpose of this study is to evaluate the effect of epinephrine in
+  irrigation fluid for visual clarity in ankle arthroscopic surgery.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06264596 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06264596 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct06264596-epinephrine-in-irrigation-fluid-for
+assigned_id: dea:experiment-nct06264596-epinephrine-in-irrigation-fluid-for-44b3zm
+admitted: '2026-11-15'

@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02320253
 name: 'NCT02320253 — REAL HEALTH-Diabetes: Reach Ahead for Lifestyle and Health-Diabetes'
-description: The goal of this project is to translate the Look AHEAD intensive lifestyle intervention
-  for type 2 diabetes and obesity into usual care at community health centers, comparing an in-person
-  group program (IP), a telephone conference call (TCC) group program, and referral to medical nutrition
-  therapy (MNT), the current standard of care. (NCT NCT02320253; status COMPLETED).
-hypothesis: The goal of this project is to translate the Look AHEAD intensive lifestyle intervention for
-  type 2 diabetes and obesity into usual care at community health centers, comparing an in-person group
-  progr
+description: The goal of this project is to translate the Look AHEAD intensive lifestyle
+  intervention for type 2 diabetes and obesity into usual care at community health
+  centers, comparing an in-person group program (IP), a telephone conference call
+  (TCC) group program, and referral to medical nutrition therapy (MNT), the current
+  standard of care. (NCT NCT02320253; status COMPLETED).
+hypothesis: The goal of this project is to translate the Look AHEAD intensive lifestyle
+  intervention for type 2 diabetes and obesity into usual care at community health
+  centers, comparing an in-person group progr
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02320253 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02320253 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02320253-real-health-diabetes-reach-ahead-for
+assigned_id: dea:experiment-nct02320253-real-health-diabetes-reach-ahead-for-z9cg4h
+admitted: '2026-11-15'

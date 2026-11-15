@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06163196
 name: NCT06163196 — The Effect of Acupressure on Pain in Children With Thalassemia
-description: This randomized controlled trial evaluates the effect of acupressure on reducing the pain
-  of blood collection in children with Thalassemia. The hypothesis of this study is that acupressure application
-  reduces acute pain. (NCT NCT06163196; status COMPLETED).
-hypothesis: This randomized controlled trial evaluates the effect of acupressure on reducing the pain
-  of blood collection in children with Thalassemia. The hypothesis of this study is that acupressure application
+description: This randomized controlled trial evaluates the effect of acupressure
+  on reducing the pain of blood collection in children with Thalassemia. The hypothesis
+  of this study is that acupressure application reduces acute pain. (NCT NCT06163196;
+  status COMPLETED).
+hypothesis: This randomized controlled trial evaluates the effect of acupressure on
+  reducing the pain of blood collection in children with Thalassemia. The hypothesis
+  of this study is that acupressure application
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06163196 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06163196 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06163196-the-effect-of-acupressure-on-pain-in
+assigned_id: dea:experiment-nct06163196-the-effect-of-acupressure-on-pain-in-dfjvne
+admitted: '2026-11-15'

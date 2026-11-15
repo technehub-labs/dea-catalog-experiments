@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00380991
-name: NCT00380991 — Topic Compatibility Dermacyd Delicata - New Fragrance - Lactoserum - Hygiene
-description: The purpose of this study is to demonstrate the absence of potential irritation (primary
-  dermic irritability and cumulated dermic irritability) and allergy (sensibilization) of the product
-  Dermacyd Delicata (new fragrance of Dermacyd) (NCT NCT00380991; status COMPLETED).
-hypothesis: The purpose of this study is to demonstrate the absence of potential irritation (primary dermic
-  irritability and cumulated dermic irritability) and allergy (sensibilization) of the product Dermacyd
-  De
+name: NCT00380991 — Topic Compatibility Dermacyd Delicata - New Fragrance - Lactoserum
+  - Hygiene
+description: The purpose of this study is to demonstrate the absence of potential
+  irritation (primary dermic irritability and cumulated dermic irritability) and allergy
+  (sensibilization) of the product Dermacyd Delicata (new fragrance of Dermacyd) (NCT
+  NCT00380991; status COMPLETED).
+hypothesis: The purpose of this study is to demonstrate the absence of potential irritation
+  (primary dermic irritability and cumulated dermic irritability) and allergy (sensibilization)
+  of the product Dermacyd De
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00380991 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00380991 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00380991-topic-compatibility-dermacyd-delicat
+assigned_id: dea:experiment-nct00380991-topic-compatibility-dermacyd-delicat-4jmwkm
+admitted: '2026-11-15'

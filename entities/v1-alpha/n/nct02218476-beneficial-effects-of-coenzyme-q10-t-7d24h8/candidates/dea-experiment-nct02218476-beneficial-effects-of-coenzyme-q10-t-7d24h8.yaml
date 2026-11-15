@@ -1,0 +1,49 @@
+id: dea:experiment-nct02218476-beneficial-effects-of-coenzyme-q10-t-7d24h8
+type: Experiment
+name: NCT02218476 — Beneficial Effects of Coenzyme Q10 Treatment on the Mitochondrial
+  Dysfunction and Oxidative Stress Associated to Atherothrombosis Developement in
+  Antiphospholipidid Syndrome Patients
+description: 'The study will be performed on 50 APS (antiphospholipid Syndrome) patients,
+  which will be randomized to receive either CoQ10 (200mg/day) or placebo for one
+  month. Blood will be drawn at time 0 and at the end of the treatment. Studies will
+  be conducted in plasma and purified leukocytes from APS. Design: 1) Study of endothelial
+  function: 2) Analysis of changes operated on various prothrombotic/proinflammatory
+  parameters and their associated intracellular signalling. 3) Analysis of mitochondrial
+  ultra structure and activity; mitochondrial antioxidant system characterization;
+  Expression levels and activity of transcription factors/proteins involved in oxidative
+  stress (Foxo 3, NFkB, Nrf2), Quantification of CoQ10 (Coenzyme Q10). 4) Biomarkers
+  of oxidative stress. 5) miRNAs microarrays, RT-PCR validation and correlation/association
+  studies. 6) Induction of over-expression of miRNAs of interest; luciferase constructs.
+  7)Studies of methylation. (NCT NCT02218476; status UNKNOWN).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'The study will be performed on 50 APS (antiphospholipid Syndrome) patients,
+  which will be randomized to receive either CoQ10 (200mg/day) or placebo for one
+  month. Blood will be drawn at time 0 and at '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02218476 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

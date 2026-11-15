@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02770586
-name: NCT02770586 — Comparison of Positron Emission Mammography and Contrast-enhanced Breast MRI
-description: The hypothesis of this study is that positron emission mammography will provide comparable
-  sensitivity to contrast-enhanced breast MRI in women with a high suspicion of breast cancer. The aim
-  of this study is to determine the sensitivity of Positron Emission Mammography (PEM) relative to that
-  of Contrast-enhanced breast MRI (CE-MRI) in women with a high suspicion of breast cancer (NCT NCT02770586;
-  status COMPLETED).
-hypothesis: 'The hypothesis of this study is that positron emission mammography will provide comparable
-  sensitivity to contrast-enhanced breast MRI in women with a high suspicion of breast cancer. The aim
-  of this '
+name: NCT02770586 — Comparison of Positron Emission Mammography and Contrast-enhanced
+  Breast MRI
+description: The hypothesis of this study is that positron emission mammography will
+  provide comparable sensitivity to contrast-enhanced breast MRI in women with a high
+  suspicion of breast cancer. The aim of this study is to determine the sensitivity
+  of Positron Emission Mammography (PEM) relative to that of Contrast-enhanced breast
+  MRI (CE-MRI) in women with a high suspicion of breast cancer (NCT NCT02770586; status
+  COMPLETED).
+hypothesis: 'The hypothesis of this study is that positron emission mammography will
+  provide comparable sensitivity to contrast-enhanced breast MRI in women with a high
+  suspicion of breast cancer. The aim of this '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02770586 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02770586 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02770586-comparison-of-positron-emission-mamm
+assigned_id: dea:experiment-nct02770586-comparison-of-positron-emission-mamm-2tje4u
+admitted: '2026-11-15'

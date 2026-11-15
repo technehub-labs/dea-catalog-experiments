@@ -1,28 +1,33 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00007761
-name: NCT00007761 — Does Bipolar Disease Program (BDP) Intervention Improve Long Term Manic and Depressive
-  Symptoms.
-description: Based on highly promising preliminary data, it is proposed to conduct a multi-site randomized
-  controlled trial of a high-intensity ambulatory treatment program for bipolar disorder against standard
-  office-based, physician-centered care. The major characteristics of this program are that it emphasizes
-  (1) aggressive guideline-driven pharmacotherapy, (2) continuity of care with identified primary mental
-  health nurse clinicians supported by psychiatrist back-up, and (3) patient education to improve treatment
-  alliance and illness management skills. (NCT NCT00007761; status COMPLETED).
-hypothesis: Based on highly promising preliminary data, it is proposed to conduct a multi-site randomized
-  controlled trial of a high-intensity ambulatory treatment program for bipolar disorder against standard
-  of
+name: NCT00007761 — Does Bipolar Disease Program (BDP) Intervention Improve Long Term
+  Manic and Depressive Symptoms.
+description: Based on highly promising preliminary data, it is proposed to conduct
+  a multi-site randomized controlled trial of a high-intensity ambulatory treatment
+  program for bipolar disorder against standard office-based, physician-centered care.
+  The major characteristics of this program are that it emphasizes (1) aggressive
+  guideline-driven pharmacotherapy, (2) continuity of care with identified primary
+  mental health nurse clinicians supported by psychiatrist back-up, and (3) patient
+  education to improve treatment alliance and illness management skills. (NCT NCT00007761;
+  status COMPLETED).
+hypothesis: Based on highly promising preliminary data, it is proposed to conduct
+  a multi-site randomized controlled trial of a high-intensity ambulatory treatment
+  program for bipolar disorder against standard of
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00007761 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00007761 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00007761-does-bipolar-disease-program-bdp-int
+assigned_id: dea:experiment-nct00007761-does-bipolar-disease-program-bdp-int-nug55u
+admitted: '2026-11-15'

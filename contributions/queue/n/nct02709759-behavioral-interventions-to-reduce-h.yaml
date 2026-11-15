@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02709759
-name: NCT02709759 — Behavioral Interventions to Reduce Heavy Drinking Among MSM in HIV Primary Care
-description: The purpose of the present study is to conduct a fully-crossed 2 X 2 X 2 factorial randomized
-  controlled trial with a diverse sample of 224 MSM recruited from 2 urban HIV primary care clinics (one
-  in the Northeast and one in the South). The first study factor will compare brief advice (BA) vs. a
-  motivational intervention (MI) that contains detailed personalized normative and HIV-specific feedback.
-  The second factor compares an interactive text messaging (ITM) intervention vs. no text messaging. The
-  final factor compares intervention of low intensity and duration (two sessions over 1 month) to extended
-  intervention (EI) entailing 5 sessions over 9 months. (NCT NCT02709759; status COMPLETED).
-hypothesis: 'The purpose of the present study is to conduct a fully-crossed 2 X 2 X 2 factorial randomized
-  controlled trial with a diverse sample of 224 MSM recruited from 2 urban HIV primary care clinics (one
-  in '
+name: NCT02709759 — Behavioral Interventions to Reduce Heavy Drinking Among MSM in
+  HIV Primary Care
+description: The purpose of the present study is to conduct a fully-crossed 2 X 2
+  X 2 factorial randomized controlled trial with a diverse sample of 224 MSM recruited
+  from 2 urban HIV primary care clinics (one in the Northeast and one in the South).
+  The first study factor will compare brief advice (BA) vs. a motivational intervention
+  (MI) that contains detailed personalized normative and HIV-specific feedback. The
+  second factor compares an interactive text messaging (ITM) intervention vs. no text
+  messaging. The final factor compares intervention of low intensity and duration
+  (two sessions over 1 month) to extended intervention (EI) entailing 5 sessions over
+  9 months. (NCT NCT02709759; status COMPLETED).
+hypothesis: 'The purpose of the present study is to conduct a fully-crossed 2 X 2
+  X 2 factorial randomized controlled trial with a diverse sample of 224 MSM recruited
+  from 2 urban HIV primary care clinics (one in '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02709759 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02709759 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02709759-behavioral-interventions-to-reduce-h
+assigned_id: dea:experiment-nct02709759-behavioral-interventions-to-reduce-h-gnn5cp
+admitted: '2026-11-15'

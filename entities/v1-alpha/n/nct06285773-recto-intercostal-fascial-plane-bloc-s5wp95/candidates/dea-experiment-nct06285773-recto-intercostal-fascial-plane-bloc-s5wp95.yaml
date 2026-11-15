@@ -1,0 +1,44 @@
+id: dea:experiment-nct06285773-recto-intercostal-fascial-plane-bloc-s5wp95
+type: Experiment
+name: NCT06285773 — Recto-intercostal Fascial Plane Block and Pecto-intercostal Fascial
+  Plane Block for Cardiac Surgery
+description: In cardiac surgeries performed with median sternotomy, mediastinal and
+  thoracic tube placement sites are outside the area of effect of parasternal blocks,
+  and sometimes the sternotomy incision extends below the T6 dermatome. Recto intercostal
+  fascial plane block (RIFPB) has been defined as a complementary block for analgesia
+  of this region. This study aims to evaluate the effectiveness of the combination
+  of ultrasound-guided recto-intercostal fascial plane block and pectointercostal
+  fascial block for postoperative analgesia management after open heart surgery (coronary
+  artery bypass) with median sternotomy. (NCT NCT06285773; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: In cardiac surgeries performed with median sternotomy, mediastinal and
+  thoracic tube placement sites are outside the area of effect of parasternal blocks,
+  and sometimes the sternotomy incision extends
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06285773 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

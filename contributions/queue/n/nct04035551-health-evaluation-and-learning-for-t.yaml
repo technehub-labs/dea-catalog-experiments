@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04035551
-name: NCT04035551 — Health Evaluation And Learning for Total Parenteral Nutrition (TPN) at Home Patient
-  Registry
-description: The HEALTH Registry is a prospective, observational, non-interventional registry study of
-  patients receiving home parenteral nutrition therapy in the US for a variety of indications. (NCT NCT04035551;
-  status UNKNOWN).
-hypothesis: The HEALTH Registry is a prospective, observational, non-interventional registry study of
-  patients receiving home parenteral nutrition therapy in the US for a variety of indications.
+name: NCT04035551 — Health Evaluation And Learning for Total Parenteral Nutrition
+  (TPN) at Home Patient Registry
+description: The HEALTH Registry is a prospective, observational, non-interventional
+  registry study of patients receiving home parenteral nutrition therapy in the US
+  for a variety of indications. (NCT NCT04035551; status UNKNOWN).
+hypothesis: The HEALTH Registry is a prospective, observational, non-interventional
+  registry study of patients receiving home parenteral nutrition therapy in the US
+  for a variety of indications.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04035551 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04035551 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct04035551-health-evaluation-and-learning-for-t
+assigned_id: dea:experiment-nct04035551-health-evaluation-and-learning-for-t-gsv6gz
+admitted: '2026-11-15'

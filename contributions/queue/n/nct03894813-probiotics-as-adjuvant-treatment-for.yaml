@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03894813
 name: NCT03894813 — Probiotics as Adjuvant Treatment for Bacterial Vaginosis
-description: The investigators are trying to determine if oral probiotics (Umeta-Miyue, Lactobacillus
-  rhamnosus GR-1 and Lactobacillus reuteri RC-14) (30 days)with metronidazole vaginal suppositories(7
-  days) is better than using metronidazole vaginal suppositories only in preventing the recurrence of
-  bacterial vaginosis (BV). (NCT NCT03894813; status COMPLETED).
-hypothesis: The investigators are trying to determine if oral probiotics (Umeta-Miyue, Lactobacillus rhamnosus
-  GR-1 and Lactobacillus reuteri RC-14) (30 days)with metronidazole vaginal suppositories(7 days) is be
+description: The investigators are trying to determine if oral probiotics (Umeta-Miyue,
+  Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14) (30 days)with metronidazole
+  vaginal suppositories(7 days) is better than using metronidazole vaginal suppositories
+  only in preventing the recurrence of bacterial vaginosis (BV). (NCT NCT03894813;
+  status COMPLETED).
+hypothesis: The investigators are trying to determine if oral probiotics (Umeta-Miyue,
+  Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14) (30 days)with metronidazole
+  vaginal suppositories(7 days) is be
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03894813 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03894813 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03894813-probiotics-as-adjuvant-treatment-for
+assigned_id: dea:experiment-nct03894813-probiotics-as-adjuvant-treatment-for-hdgn8d
+admitted: '2026-11-15'

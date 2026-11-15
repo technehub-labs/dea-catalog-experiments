@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00439140
-name: NCT00439140 — Safety and Efficacy Study of Botulinum Toxin Type A for the Treatment of Neurogenic
-  Overactive Bladder
-description: This study will assess the safety and efficacy of botulinum toxin Type A for the treatment
-  of urinary incontinence overactive bladder in patients with a spinal cord injury or multiple sclerosis.
-  (NCT NCT00439140; status TERMINATED).
-hypothesis: This study will assess the safety and efficacy of botulinum toxin Type A for the treatment
-  of urinary incontinence overactive bladder in patients with a spinal cord injury or multiple sclerosis.
+name: NCT00439140 — Safety and Efficacy Study of Botulinum Toxin Type A for the Treatment
+  of Neurogenic Overactive Bladder
+description: This study will assess the safety and efficacy of botulinum toxin Type
+  A for the treatment of urinary incontinence overactive bladder in patients with
+  a spinal cord injury or multiple sclerosis. (NCT NCT00439140; status TERMINATED).
+hypothesis: This study will assess the safety and efficacy of botulinum toxin Type
+  A for the treatment of urinary incontinence overactive bladder in patients with
+  a spinal cord injury or multiple sclerosis.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00439140 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00439140 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct00439140-safety-and-efficacy-study-of-botulin
+assigned_id: dea:experiment-nct00439140-safety-and-efficacy-study-of-botulin-ffzged
+admitted: '2026-11-15'

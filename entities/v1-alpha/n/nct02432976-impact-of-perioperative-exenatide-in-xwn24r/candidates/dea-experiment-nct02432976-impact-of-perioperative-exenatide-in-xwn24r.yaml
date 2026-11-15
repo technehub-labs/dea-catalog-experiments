@@ -1,0 +1,47 @@
+id: dea:experiment-nct02432976-impact-of-perioperative-exenatide-in-xwn24r
+type: Experiment
+name: NCT02432976 — Impact of Perioperative Exenatide Infusion on Quality of Life
+  in Cardiac Surgery Patients
+description: A diminution of quality of life is often reported by patients after coronary
+  artery bypass graft (CABG) surgery. A part of this diminution could be explain by
+  postoperative left ventricular (LV) dysfunction. Exenatide (Byetta®) is an incretin
+  mimetic, characterized by an anti-hyperglycemic effect that depends on the blood
+  glucose level. Recent data have suggested that exenatide could improve LV function
+  by an inotropic effect in patients suffering from cardiogenic shock or from congestive
+  heart failure. Moreover, patients suffering from congestive heart failure reported
+  a better quality of life when they were treated with exenatide compared to placebo.
+  The investigators hypothesize that perioperative exenatide infusion could improve
+  postoperative quality of life in CABG surgery patients. (NCT NCT02432976; status
+  COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: A diminution of quality of life is often reported by patients after coronary
+  artery bypass graft (CABG) surgery. A part of this diminution could be explain by
+  postoperative left ventricular (LV) dysfu
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02432976 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

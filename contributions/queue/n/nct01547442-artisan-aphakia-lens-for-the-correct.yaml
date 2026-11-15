@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01547442
 name: NCT01547442 — Artisan Aphakia Lens for the Correction of Aphakia in Children
-description: The purpose of this study is to determine the safety and effectiveness of the Artisan Aphakia
-  Lens in the treatment of aphakia in children. (NCT NCT01547442; status SUSPENDED).
-hypothesis: The purpose of this study is to determine the safety and effectiveness of the Artisan Aphakia
-  Lens in the treatment of aphakia in children.
+description: The purpose of this study is to determine the safety and effectiveness
+  of the Artisan Aphakia Lens in the treatment of aphakia in children. (NCT NCT01547442;
+  status SUSPENDED).
+hypothesis: The purpose of this study is to determine the safety and effectiveness
+  of the Artisan Aphakia Lens in the treatment of aphakia in children.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01547442 (ClinicalTrials.gov; status SUSPENDED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01547442 (ClinicalTrials.gov; status
+      SUSPENDED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - suspended
 slug: nct01547442-artisan-aphakia-lens-for-the-correct
+assigned_id: dea:experiment-nct01547442-artisan-aphakia-lens-for-the-correct-hk2ywh
+admitted: '2026-11-15'

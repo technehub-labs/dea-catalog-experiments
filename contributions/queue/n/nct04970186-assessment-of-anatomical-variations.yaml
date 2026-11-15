@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04970186
-name: NCT04970186 — Assessment of Anatomical Variations of Greater Palatine Foramen in a Sample of Egyptian
-  Population (CBCT)
-description: A cross-sectional study to assess the anatomical variations of greater palatine foramen in
-  a sample of Egyptian population using cone beam computed tomography through retrospective data analysis
-  (NCT NCT04970186; status UNKNOWN).
-hypothesis: A cross-sectional study to assess the anatomical variations of greater palatine foramen in
-  a sample of Egyptian population using cone beam computed tomography through retrospective data analysis
+name: NCT04970186 — Assessment of Anatomical Variations of Greater Palatine Foramen
+  in a Sample of Egyptian Population (CBCT)
+description: A cross-sectional study to assess the anatomical variations of greater
+  palatine foramen in a sample of Egyptian population using cone beam computed tomography
+  through retrospective data analysis (NCT NCT04970186; status UNKNOWN).
+hypothesis: A cross-sectional study to assess the anatomical variations of greater
+  palatine foramen in a sample of Egyptian population using cone beam computed tomography
+  through retrospective data analysis
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04970186 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04970186 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct04970186-assessment-of-anatomical-variations
+assigned_id: dea:experiment-nct04970186-assessment-of-anatomical-variations-p22wt2
+admitted: '2026-11-15'

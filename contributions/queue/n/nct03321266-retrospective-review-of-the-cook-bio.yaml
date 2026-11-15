@@ -1,24 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03321266
-name: NCT03321266 — Retrospective Review of the Cook Biodesign® Fistula Plug to Treat Anorectal Fistulas
-description: The study is a retrospective review of the use of the Biodesign® Fistula Plug (C-FPS-\[X\]).
-  A total of 73 patients will be enrolled who have had a fistula plug placed to treat anorectal fistulas
-  and will therefore be eligible for statistical analysis. (NCT NCT03321266; status COMPLETED).
-hypothesis: 'The study is a retrospective review of the use of the Biodesign® Fistula Plug (C-FPS-\[X\]).
-  A total of 73 patients will be enrolled who have had a fistula plug placed to treat anorectal fistulas
-  and '
+name: NCT03321266 — Retrospective Review of the Cook Biodesign® Fistula Plug to Treat
+  Anorectal Fistulas
+description: The study is a retrospective review of the use of the Biodesign® Fistula
+  Plug (C-FPS-\[X\]). A total of 73 patients will be enrolled who have had a fistula
+  plug placed to treat anorectal fistulas and will therefore be eligible for statistical
+  analysis. (NCT NCT03321266; status COMPLETED).
+hypothesis: 'The study is a retrospective review of the use of the Biodesign® Fistula
+  Plug (C-FPS-\[X\]). A total of 73 patients will be enrolled who have had a fistula
+  plug placed to treat anorectal fistulas and '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03321266 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03321266 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct03321266-retrospective-review-of-the-cook-bio
+assigned_id: dea:experiment-nct03321266-retrospective-review-of-the-cook-bio-v8hb3n
+admitted: '2026-11-15'

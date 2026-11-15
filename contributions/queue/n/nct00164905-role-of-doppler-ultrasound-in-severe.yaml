@@ -1,24 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00164905
 name: NCT00164905 — Role of Doppler Ultrasound in Severe Peptic Ulcer Hemorrhage
-description: The aim of study is to evaluate whether Doppler ultrasound can accurately identify patients
-  who are at risk of recurrent bleeding, who will require endoscopic therapy, and who will fail endoscopic
-  therapy. (NCT NCT00164905; status TERMINATED).
-hypothesis: The aim of study is to evaluate whether Doppler ultrasound can accurately identify patients
-  who are at risk of recurrent bleeding, who will require endoscopic therapy, and who will fail endoscopic
-  the
+description: The aim of study is to evaluate whether Doppler ultrasound can accurately
+  identify patients who are at risk of recurrent bleeding, who will require endoscopic
+  therapy, and who will fail endoscopic therapy. (NCT NCT00164905; status TERMINATED).
+hypothesis: The aim of study is to evaluate whether Doppler ultrasound can accurately
+  identify patients who are at risk of recurrent bleeding, who will require endoscopic
+  therapy, and who will fail endoscopic the
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00164905 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00164905 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct00164905-role-of-doppler-ultrasound-in-severe
+assigned_id: dea:experiment-nct00164905-role-of-doppler-ultrasound-in-severe-zgs54n
+admitted: '2026-11-15'

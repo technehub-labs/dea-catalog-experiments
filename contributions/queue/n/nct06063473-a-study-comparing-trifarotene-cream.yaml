@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06063473
-name: NCT06063473 — A Study Comparing Trifarotene Cream 0.005% to AKLIEF® Cream in the Treatment of Acne
-  Vulgaris
-description: To demonstrate therapeutic equivalence and safety of Trifarotene cream 0.005% (Taro Pharmaceuticals
-  U.S.A., Inc.) and AKLIEF® cream in the treatment of acne vulgaris (NCT NCT06063473; status COMPLETED).
-hypothesis: To demonstrate therapeutic equivalence and safety of Trifarotene cream 0.005% (Taro Pharmaceuticals
-  U.S.A., Inc.) and AKLIEF® cream in the treatment of acne vulgaris
+name: NCT06063473 — A Study Comparing Trifarotene Cream 0.005% to AKLIEF® Cream in
+  the Treatment of Acne Vulgaris
+description: To demonstrate therapeutic equivalence and safety of Trifarotene cream
+  0.005% (Taro Pharmaceuticals U.S.A., Inc.) and AKLIEF® cream in the treatment of
+  acne vulgaris (NCT NCT06063473; status COMPLETED).
+hypothesis: To demonstrate therapeutic equivalence and safety of Trifarotene cream
+  0.005% (Taro Pharmaceuticals U.S.A., Inc.) and AKLIEF® cream in the treatment of
+  acne vulgaris
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06063473 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06063473 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct06063473-a-study-comparing-trifarotene-cream
+assigned_id: dea:experiment-nct06063473-a-study-comparing-trifarotene-cream-4nnrzw
+admitted: '2026-11-15'

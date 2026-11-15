@@ -1,28 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07023523
 name: NCT07023523 — Self-regulation of Real-time fMRI Brain Activity in Chronic Pain
-description: This study aims to explore the usefulness of self-regulation of brain activity in patients
-  with fibromyalgia. Patients will use real-time functional magnetic resonance imaging (fMRI) neurofeedback
-  to observe and regulate their own brain activity while applying mental strategies to reduce fibromyalgia
-  pain. The study consists of 2 magnetic resonance imaging (MRI) visits that involve brain neuroimaging
-  for fMRI neurofeedback tasks, as well as 8 weekly intervention sessions with a pain psychologist. Patients
-  will be randomized to either Cognitive Behavioral Therapy (CBT) or Fibromyalgia Education groups. (NCT
-  NCT07023523; status RECRUITING).
-hypothesis: 'This study aims to explore the usefulness of self-regulation of brain activity in patients
-  with fibromyalgia. Patients will use real-time functional magnetic resonance imaging (fMRI) neurofeedback
-  to '
+description: This study aims to explore the usefulness of self-regulation of brain
+  activity in patients with fibromyalgia. Patients will use real-time functional magnetic
+  resonance imaging (fMRI) neurofeedback to observe and regulate their own brain activity
+  while applying mental strategies to reduce fibromyalgia pain. The study consists
+  of 2 magnetic resonance imaging (MRI) visits that involve brain neuroimaging for
+  fMRI neurofeedback tasks, as well as 8 weekly intervention sessions with a pain
+  psychologist. Patients will be randomized to either Cognitive Behavioral Therapy
+  (CBT) or Fibromyalgia Education groups. (NCT NCT07023523; status RECRUITING).
+hypothesis: 'This study aims to explore the usefulness of self-regulation of brain
+  activity in patients with fibromyalgia. Patients will use real-time functional magnetic
+  resonance imaging (fMRI) neurofeedback to '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07023523 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07023523 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct07023523-self-regulation-of-real-time-fmri-br
+assigned_id: dea:experiment-nct07023523-self-regulation-of-real-time-fmri-br-v4uncq
+admitted: '2026-11-15'

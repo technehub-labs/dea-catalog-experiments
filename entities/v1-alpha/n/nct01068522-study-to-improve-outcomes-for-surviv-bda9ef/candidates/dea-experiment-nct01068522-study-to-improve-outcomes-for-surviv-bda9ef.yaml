@@ -1,0 +1,51 @@
+id: dea:experiment-nct01068522-study-to-improve-outcomes-for-surviv-bda9ef
+type: Experiment
+name: NCT01068522 — Study to Improve Outcomes for Survivors of Traumatic Brain Injury
+  in Latin America
+description: People who survive severe traumatic brain injury (TBI) live with profound
+  cognitive impairments that alter their developmental course and define their future
+  possibilities. Worldwide, TBI is the leading cause of death and disability among
+  children and adolescents (Murgio, 2000). In the United States, the annual incidence
+  of TBI is six times greater than that of multiple sclerosis, HIV/AIDS, spinal cord
+  injury, and breast cancer combined \[Centers for Disease Control, American Cancer
+  Society, National Multiple Sclerosis Society\]. The burden of TBI may be even greater
+  in developing countries, due to civil unrest and war, and to the absence of mandated
+  prevention such as seat belt laws. The long-term objective of the investigators'
+  research group is to improve outcomes for survivors of TBI in Latin America. To
+  that end, the investigators have created a structure for professionals and institutions
+  involved in the treatment of TBI to generate research; to facilitate education,
+  standardization, certification, the dissemination of information and resources;
+  and to foster the development of evidence-based guidelines. The structure is the
+  Latin American Brain Injury Consortium (LABIC). (NCT NCT01068522; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: People who survive severe traumatic brain injury (TBI) live with profound
+  cognitive impairments that alter their developmental course and define their future
+  possibilities. Worldwide, TBI is the leadi
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01068522 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

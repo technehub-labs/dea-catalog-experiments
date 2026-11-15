@@ -1,29 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06337929
-name: NCT06337929 — Effects of Capoeira on the Physical and Psychological Performance of Adults
-description: Regular physical activity (PA) promotes benefits for both physical and mental health. Among
-  the numerous PA\&#39;s with a collective nature that can add to the existing recommendations, combat
-  sports training interventions are viable alternatives since they integrate benefits in different aspects
-  for health. In this way, capoeira can be a strategy for the prescription of exercise, aiming to serve
-  participants collectively and maintaining the adherence of this practitioner to the intervention. However,
-  little is known about this issue. So, the aim of the present study is to verify the effect of 12 weeks
-  of capoeira training on the physical performance and psychological aspects of previously physically
-  inactive adults. (NCT NCT06337929; status UNKNOWN).
-hypothesis: 'Regular physical activity (PA) promotes benefits for both physical and mental health. Among
-  the numerous PA\&#39;s with a collective nature that can add to the existing recommendations, combat
-  sports '
+name: NCT06337929 — Effects of Capoeira on the Physical and Psychological Performance
+  of Adults
+description: Regular physical activity (PA) promotes benefits for both physical and
+  mental health. Among the numerous PA\&#39;s with a collective nature that can add
+  to the existing recommendations, combat sports training interventions are viable
+  alternatives since they integrate benefits in different aspects for health. In this
+  way, capoeira can be a strategy for the prescription of exercise, aiming to serve
+  participants collectively and maintaining the adherence of this practitioner to
+  the intervention. However, little is known about this issue. So, the aim of the
+  present study is to verify the effect of 12 weeks of capoeira training on the physical
+  performance and psychological aspects of previously physically inactive adults.
+  (NCT NCT06337929; status UNKNOWN).
+hypothesis: 'Regular physical activity (PA) promotes benefits for both physical and
+  mental health. Among the numerous PA\&#39;s with a collective nature that can add
+  to the existing recommendations, combat sports '
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06337929 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06337929 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct06337929-effects-of-capoeira-on-the-physical
+assigned_id: dea:experiment-nct06337929-effects-of-capoeira-on-the-physical-7vkt9f
+admitted: '2026-11-15'

@@ -1,32 +1,37 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05607173
-name: NCT05607173 — A Pharmacokinetic and Tolerability Study of Fexinidazole in a Single Oral Dose in
-  Adult Participants With Mild and Moderate Hepatic Impairment
-description: In human, metabolic hepatic clearance represents a significant part of the total clearance
-  of fexinidazole and could be decreased in patients with liver impairment, leading to some overexposure,
-  and conversely, the formation of the 2 active metabolites could be decreased, leading to decreased exposure
-  in hepatic impairment (HI). As there is no experience of use in patients with hepatic impairment, in
-  fexinidazole summary of product characteristics (SmPC) approved by the European Medicines Agency (EMA),
-  fexinidazole is contra-indicated in patients with clinical signs of cirrhosis or jaundice, and in the
-  proposed USA product information, fexinidazole is contra-indicated in patients with liver impairment.
-  Therefore, FDA requested a study with the objective to evaluate the effect of mild and moderate hepatic
-  impairment (HI) on the pharmacokinetics (PK) of fexinidazole and its 2 metabolites, as a post-marketing
+name: NCT05607173 — A Pharmacokinetic and Tolerability Study of Fexinidazole in a
+  Single Oral Dose in Adult Participants With Mild and Moderate Hepatic Impairment
+description: In human, metabolic hepatic clearance represents a significant part of
+  the total clearance of fexinidazole and could be decreased in patients with liver
+  impairment, leading to some overexposure, and conversely, the formation of the 2
+  active metabolites could be decreased, leading to decreased exposure in hepatic
+  impairment (HI). As there is no experience of use in patients with hepatic impairment,
+  in fexinidazole summary of product characteristics (SmPC) approved by the European
+  Medicines Agency (EMA), fexinidazole is contra-indicated in patients with clinical
+  signs of cirrhosis or jaundice, and in the proposed USA product information, fexinidazole
+  is contra-indicated in patients with liver impairment. Therefore, FDA requested
+  a study with the objective to evaluate the effect of mild and moderate hepatic impairment
+  (HI) on the pharmacokinetics (PK) of fexinidazole and its 2 metabolites, as a post-marketing
   requirement. (NCT NCT05607173; status COMPLETED).
-hypothesis: In human, metabolic hepatic clearance represents a significant part of the total clearance
-  of fexinidazole and could be decreased in patients with liver impairment, leading to some overexposure,
-  and c
+hypothesis: In human, metabolic hepatic clearance represents a significant part of
+  the total clearance of fexinidazole and could be decreased in patients with liver
+  impairment, leading to some overexposure, and c
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05607173 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05607173 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05607173-a-pharmacokinetic-and-tolerability-s
+assigned_id: dea:experiment-nct05607173-a-pharmacokinetic-and-tolerability-s-krabw7
+admitted: '2026-11-15'

@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07413003
-name: NCT07413003 — Comparison of Orthodontic Aligner Treatment Protocols Managed Through Remote Monitoring
-  Versus In-Person Care
-description: This study aims to assess patient adherence to orthodontic treatment with dental aligners
-  delivered through remote monitoring compared with in-person care. (NCT NCT07413003; status NOT_YET_RECRUITING).
-hypothesis: This study aims to assess patient adherence to orthodontic treatment with dental aligners
-  delivered through remote monitoring compared with in-person care.
+name: NCT07413003 — Comparison of Orthodontic Aligner Treatment Protocols Managed
+  Through Remote Monitoring Versus In-Person Care
+description: This study aims to assess patient adherence to orthodontic treatment
+  with dental aligners delivered through remote monitoring compared with in-person
+  care. (NCT NCT07413003; status NOT_YET_RECRUITING).
+hypothesis: This study aims to assess patient adherence to orthodontic treatment with
+  dental aligners delivered through remote monitoring compared with in-person care.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07413003 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07413003 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07413003-comparison-of-orthodontic-aligner-tr
+assigned_id: dea:experiment-nct07413003-comparison-of-orthodontic-aligner-tr-4ebsk5
+admitted: '2026-11-15'

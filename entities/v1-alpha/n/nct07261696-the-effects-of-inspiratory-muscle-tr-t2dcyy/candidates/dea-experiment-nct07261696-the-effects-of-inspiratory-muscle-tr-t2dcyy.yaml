@@ -1,0 +1,53 @@
+id: dea:experiment-nct07261696-the-effects-of-inspiratory-muscle-tr-t2dcyy
+type: Experiment
+name: NCT07261696 — The Effects of Inspiratory Muscle Training Female Patients With
+  Fibromyalgia
+description: 'Fibromyalgia is a chronic condition characterized by widespread musculoskeletal
+  pain, fatigue, sleep disturbances, and psychological symptoms. Autonomic nervous
+  system (ANS) dysfunction, marked by increased sympathetic and reduced parasympathetic
+  activity, is considered one of its possible mechanisms. Although exercise is recommended
+  in treatment, low motivation and fatigue often limit participation. Therefore, inspiratory
+  muscle training (IMT), which targets the respiratory muscles, is seen as an easy-to-apply
+  alternative.This randomized, controlled, double-blind study will be conducted at
+  Niğde Ömer Halisdemir University Hospital. Fifty-one women aged 18-65 years who
+  meet the 2010/2016 ACR criteria for fibromyalgia will be randomly assigned to three
+  groups: training (30% of maximal inspiratory pressure), sham (0-10%), and control
+  (no training). ANS functions will be assessed using heart rate variability and the
+  COMPASS-31 questionnaire. Pain, sleep quality, fatigue, anxiety, depression, and
+  respiratory muscle strength will also be evaluated. Training will be performed with
+  the Powerbreathe® device twice daily for six weeks.The study aims to investigate
+  the effects of IMT on ANS functions in fibromyalgia and to explore its relationship
+  with symptoms such as pain, fatigue, sleep disturbances, anxiety, and depression.
+  (NCT NCT07261696; status NOT_YET_RECRUITING).'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: Fibromyalgia is a chronic condition characterized by widespread musculoskeletal
+  pain, fatigue, sleep disturbances, and psychological symptoms. Autonomic nervous
+  system (ANS) dysfunction, marked by inc
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07261696 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- not-yet-recruiting

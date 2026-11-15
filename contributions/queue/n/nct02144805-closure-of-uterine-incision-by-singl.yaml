@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02144805
 name: NCT02144805 — Closure of Uterine Incision by Single or Double Layer Technique
-description: The study compares short-term and long-term effects on myometrial thickness in women sutured
-  by single- or double-layer technique by closure of cesarean uterine incision. The study is a randomized
-  clinically controlled study. (NCT NCT02144805; status COMPLETED).
-hypothesis: The study compares short-term and long-term effects on myometrial thickness in women sutured
-  by single- or double-layer technique by closure of cesarean uterine incision. The study is a randomized
-  cli
+description: The study compares short-term and long-term effects on myometrial thickness
+  in women sutured by single- or double-layer technique by closure of cesarean uterine
+  incision. The study is a randomized clinically controlled study. (NCT NCT02144805;
+  status COMPLETED).
+hypothesis: The study compares short-term and long-term effects on myometrial thickness
+  in women sutured by single- or double-layer technique by closure of cesarean uterine
+  incision. The study is a randomized cli
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02144805 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02144805 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02144805-closure-of-uterine-incision-by-singl
+assigned_id: dea:experiment-nct02144805-closure-of-uterine-incision-by-singl-548tq9
+admitted: '2026-11-15'

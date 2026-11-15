@@ -1,26 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05007951
-name: NCT05007951 — Immunogenicity and Safety Study of SK SARS-CoV-2 Recombinant Nanoparticle Vaccine
-  (GBP510) Adjuvanted With AS03 (COVID-19)
-description: This is a 2-Stage, Phase III, randomized, active-controlled, observer-blind, parallel-group,
-  multi-center study to compare the immunogenicity and safety of SK SARS-CoV-2 recombinant nanoparticle
-  vaccine adjuvanted with AS03 (GBP510) to ChAdOx1-S in adults aged 18 years and older. (NCT NCT05007951;
-  status COMPLETED).
-hypothesis: This is a 2-Stage, Phase III, randomized, active-controlled, observer-blind, parallel-group,
-  multi-center study to compare the immunogenicity and safety of SK SARS-CoV-2 recombinant nanoparticle
-  vacci
+name: NCT05007951 — Immunogenicity and Safety Study of SK SARS-CoV-2 Recombinant Nanoparticle
+  Vaccine (GBP510) Adjuvanted With AS03 (COVID-19)
+description: This is a 2-Stage, Phase III, randomized, active-controlled, observer-blind,
+  parallel-group, multi-center study to compare the immunogenicity and safety of SK
+  SARS-CoV-2 recombinant nanoparticle vaccine adjuvanted with AS03 (GBP510) to ChAdOx1-S
+  in adults aged 18 years and older. (NCT NCT05007951; status COMPLETED).
+hypothesis: This is a 2-Stage, Phase III, randomized, active-controlled, observer-blind,
+  parallel-group, multi-center study to compare the immunogenicity and safety of SK
+  SARS-CoV-2 recombinant nanoparticle vacci
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05007951 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05007951 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05007951-immunogenicity-and-safety-study-of-s
+assigned_id: dea:experiment-nct05007951-immunogenicity-and-safety-study-of-s-v66vbt
+admitted: '2026-11-15'

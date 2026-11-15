@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00315276
-name: NCT00315276 — Dose-Finding Study to Evaluate the Efficacy and Safety of Modafinil as Treatment for
-  Adults With ADHD
-description: The purpose of the study is to evaluate the efficacy and safety of modafinil administered
-  once daily for 9 weeks at doses of 255, 340, 425, and 510 mg as treatment for adults with ADHD. (NCT
-  NCT00315276; status COMPLETED).
-hypothesis: The purpose of the study is to evaluate the efficacy and safety of modafinil administered
-  once daily for 9 weeks at doses of 255, 340, 425, and 510 mg as treatment for adults with ADHD.
+name: NCT00315276 — Dose-Finding Study to Evaluate the Efficacy and Safety of Modafinil
+  as Treatment for Adults With ADHD
+description: The purpose of the study is to evaluate the efficacy and safety of modafinil
+  administered once daily for 9 weeks at doses of 255, 340, 425, and 510 mg as treatment
+  for adults with ADHD. (NCT NCT00315276; status COMPLETED).
+hypothesis: The purpose of the study is to evaluate the efficacy and safety of modafinil
+  administered once daily for 9 weeks at doses of 255, 340, 425, and 510 mg as treatment
+  for adults with ADHD.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00315276 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00315276 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00315276-dose-finding-study-to-evaluate-the-e
+assigned_id: dea:experiment-nct00315276-dose-finding-study-to-evaluate-the-e-p9pexc
+admitted: '2026-11-15'

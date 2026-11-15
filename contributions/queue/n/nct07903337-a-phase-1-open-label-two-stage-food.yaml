@@ -1,25 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07903337
-name: NCT07903337 — A Phase 1, Open-Label, Two-Stage, Food Effect Study to Assess the Safety, Tolerability,
-  and Pharmacokinetics of EI-1071 Under Fasted or Fed Conditions in Healthy Volunteers
-description: This is a phase 1, open-label, two-stage, sequential food effect study to evaluate the safety,
-  tolerability, and PK of EI-1071 under fasted or fed conditions in HVs. Approximately 25 evaluable participants
-  will be enrolled in this study, including 11 participants in Stage 1 and 14 participants in Stage 2.
-  Stage 2 study may be conducted based on the results of Stage 1 study. (NCT NCT07903337; status NOT_YET_RECRUITING).
-hypothesis: This is a phase 1, open-label, two-stage, sequential food effect study to evaluate the safety,
-  tolerability, and PK of EI-1071 under fasted or fed conditions in HVs. Approximately 25 evaluable partici
+name: NCT07903337 — A Phase 1, Open-Label, Two-Stage, Food Effect Study to Assess
+  the Safety, Tolerability, and Pharmacokinetics of EI-1071 Under Fasted or Fed Conditions
+  in Healthy Volunteers
+description: This is a phase 1, open-label, two-stage, sequential food effect study
+  to evaluate the safety, tolerability, and PK of EI-1071 under fasted or fed conditions
+  in HVs. Approximately 25 evaluable participants will be enrolled in this study,
+  including 11 participants in Stage 1 and 14 participants in Stage 2. Stage 2 study
+  may be conducted based on the results of Stage 1 study. (NCT NCT07903337; status
+  NOT_YET_RECRUITING).
+hypothesis: This is a phase 1, open-label, two-stage, sequential food effect study
+  to evaluate the safety, tolerability, and PK of EI-1071 under fasted or fed conditions
+  in HVs. Approximately 25 evaluable partici
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07903337 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07903337 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - not-yet-recruiting
 slug: nct07903337-a-phase-1-open-label-two-stage-food
+assigned_id: dea:experiment-nct07903337-a-phase-1-open-label-two-stage-food-t5z7zv
+admitted: '2026-11-15'

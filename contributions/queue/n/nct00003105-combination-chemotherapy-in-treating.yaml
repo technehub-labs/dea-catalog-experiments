@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00003105
-name: NCT00003105 — Combination Chemotherapy in Treating Patients With Metastatic or Locally Advanced
-  Bladder Cancer
-description: 'RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing
-  so they stop growing or die. Combining more than one drug may kill more tumor cells. PURPOSE: Phase
-  I/II trial to study the effectiveness of combination chemotherapy in treating patients with metastatic
-  or locally advanced bladder cancer. (NCT NCT00003105; status COMPLETED).'
-hypothesis: 'RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing
-  so they stop growing or die. Combining more than one drug may kill more tumor cells. PURPOSE: Phase
-  I/II tria'
+name: NCT00003105 — Combination Chemotherapy in Treating Patients With Metastatic
+  or Locally Advanced Bladder Cancer
+description: 'RATIONALE: Drugs used in chemotherapy use different ways to stop tumor
+  cells from dividing so they stop growing or die. Combining more than one drug may
+  kill more tumor cells. PURPOSE: Phase I/II trial to study the effectiveness of combination
+  chemotherapy in treating patients with metastatic or locally advanced bladder cancer.
+  (NCT NCT00003105; status COMPLETED).'
+hypothesis: 'RATIONALE: Drugs used in chemotherapy use different ways to stop tumor
+  cells from dividing so they stop growing or die. Combining more than one drug may
+  kill more tumor cells. PURPOSE: Phase I/II tria'
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00003105 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00003105 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00003105-combination-chemotherapy-in-treating
+assigned_id: dea:experiment-nct00003105-combination-chemotherapy-in-treating-ux6eyt
+admitted: '2026-11-15'

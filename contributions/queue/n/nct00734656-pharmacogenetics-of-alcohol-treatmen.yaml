@@ -1,26 +1,31 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00734656
 name: 'NCT00734656 — Pharmacogenetics of Alcohol: Treatment Implications'
-description: This study will explore the hypothesis that effects of alcohol are in part mediated by increased
-  production of neuroactive steroids, which interact with GABAA-receptors. We propose to study non-dependent
-  drinkers using a 4-session within-subjects design in which alcohol / placebo is paired with dutasteride
-  / placebo pretreatment. Dutasteride is a 5-alpha steroid reductase (5AR) inhibitor that limits the production
-  of dihydrotestosterone and the 5a-reduced neuroactive steroids allopregnanolone, pregnanolone and 3a,5a-androstanediol.
-  (NCT NCT00734656; status COMPLETED).
-hypothesis: This study will explore the hypothesis that effects of alcohol are in part mediated by increased
-  production of neuroactive steroids, which interact with GABAA-receptors. We propose to study non-depend
+description: This study will explore the hypothesis that effects of alcohol are in
+  part mediated by increased production of neuroactive steroids, which interact with
+  GABAA-receptors. We propose to study non-dependent drinkers using a 4-session within-subjects
+  design in which alcohol / placebo is paired with dutasteride / placebo pretreatment.
+  Dutasteride is a 5-alpha steroid reductase (5AR) inhibitor that limits the production
+  of dihydrotestosterone and the 5a-reduced neuroactive steroids allopregnanolone,
+  pregnanolone and 3a,5a-androstanediol. (NCT NCT00734656; status COMPLETED).
+hypothesis: This study will explore the hypothesis that effects of alcohol are in
+  part mediated by increased production of neuroactive steroids, which interact with
+  GABAA-receptors. We propose to study non-depend
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00734656 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00734656 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00734656-pharmacogenetics-of-alcohol-treatmen
+assigned_id: dea:experiment-nct00734656-pharmacogenetics-of-alcohol-treatmen-cnbnrj
+admitted: '2026-11-15'

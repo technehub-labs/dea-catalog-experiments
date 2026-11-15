@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00077831
 name: NCT00077831 — Child and Infant Learning Project
-description: To learn more about the cognitive and motor development of infants and young children born
-  with a craniofacial defect called craniosynostosis. (NCT NCT00077831; status COMPLETED).
-hypothesis: To learn more about the cognitive and motor development of infants and young children born
-  with a craniofacial defect called craniosynostosis.
+description: To learn more about the cognitive and motor development of infants and
+  young children born with a craniofacial defect called craniosynostosis. (NCT NCT00077831;
+  status COMPLETED).
+hypothesis: To learn more about the cognitive and motor development of infants and
+  young children born with a craniofacial defect called craniosynostosis.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00077831 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00077831 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00077831-child-and-infant-learning-project
+assigned_id: dea:experiment-nct00077831-child-and-infant-learning-project-9ak4bj
+admitted: '2026-11-15'

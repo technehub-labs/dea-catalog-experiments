@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05809024
-name: NCT05809024 — Select the Appropriate Population for Adding CDK4/6i to Neoadjuvant Endocrine Therapy
-description: Select the appropriate population for adding CDK4/6 inhibitors therapy in high risk early
-  HR+/HER2-breast cancer based on molecular detection (NCT NCT05809024; status UNKNOWN).
-hypothesis: Select the appropriate population for adding CDK4/6 inhibitors therapy in high risk early
-  HR+/HER2-breast cancer based on molecular detection
+name: NCT05809024 — Select the Appropriate Population for Adding CDK4/6i to Neoadjuvant
+  Endocrine Therapy
+description: Select the appropriate population for adding CDK4/6 inhibitors therapy
+  in high risk early HR+/HER2-breast cancer based on molecular detection (NCT NCT05809024;
+  status UNKNOWN).
+hypothesis: Select the appropriate population for adding CDK4/6 inhibitors therapy
+  in high risk early HR+/HER2-breast cancer based on molecular detection
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05809024 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05809024 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05809024-select-the-appropriate-population-fo
+assigned_id: dea:experiment-nct05809024-select-the-appropriate-population-fo-ed5ypd
+admitted: '2026-11-15'

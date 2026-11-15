@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01968473
-name: NCT01968473 — Comfort and Tolerance of Surface Neuro Muscular Electrical Stimulation in Parkinson's
-  Disease.
-description: The purpose of this study is to investigate issues relating to comfort and tolerance to surface
-  neuro muscular electrical stimulation in a parkinson disease population. (NCT NCT01968473; status UNKNOWN).
-hypothesis: The purpose of this study is to investigate issues relating to comfort and tolerance to surface
-  neuro muscular electrical stimulation in a parkinson disease population.
+name: NCT01968473 — Comfort and Tolerance of Surface Neuro Muscular Electrical Stimulation
+  in Parkinson's Disease.
+description: The purpose of this study is to investigate issues relating to comfort
+  and tolerance to surface neuro muscular electrical stimulation in a parkinson disease
+  population. (NCT NCT01968473; status UNKNOWN).
+hypothesis: The purpose of this study is to investigate issues relating to comfort
+  and tolerance to surface neuro muscular electrical stimulation in a parkinson disease
+  population.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01968473 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01968473 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct01968473-comfort-and-tolerance-of-surface-neu
+assigned_id: dea:experiment-nct01968473-comfort-and-tolerance-of-surface-neu-2etuzf
+admitted: '2026-11-15'

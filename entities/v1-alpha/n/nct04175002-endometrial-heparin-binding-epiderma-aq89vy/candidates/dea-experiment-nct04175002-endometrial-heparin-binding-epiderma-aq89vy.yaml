@@ -1,0 +1,50 @@
+id: dea:experiment-nct04175002-endometrial-heparin-binding-epiderma-aq89vy
+type: Experiment
+name: NCT04175002 — Endometrial Heparin-binding Epidermal Growth Factor Expression
+description: Women with PCOS comprise a majority of fertility clinic attendees. Unfortunately,
+  a high failure rate following fertility treatment was observed especially in obese
+  women due to implantation failure. The local study on PCOS women has shown significant
+  changes in an endometrial tumor - regulatory genes but not focusing on the endometrial
+  implantation failure. Many previous attempts using human chorionic gonadotrophin
+  (HCG) infused embryo, gonadotrophin agonist therapy or progesterone support aiming
+  to improve implantation failure in the assisted reproductive technique still unable
+  to enhance pregnancy rate beyond 40% despite a higher' fertilization rate up to
+  95%. There is still a research gap on what makes obese PCOS women prone to coincides
+  with implantation failure. Endometrial component related to the expression of growth
+  factors play an integral role in establishing cellular context necessary for successful
+  pregnancy. Thus, a new fundamental knowledge on endometrial specific heparin-binding
+  epidermal growth factor expression in the obese PCOS women is vitally important,
+  not only to predict implantation failure but a potential therapy to improve pregnancy
+  outcome. (NCT NCT04175002; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Women with PCOS comprise a majority of fertility clinic attendees. Unfortunately,
+  a high failure rate following fertility treatment was observed especially in obese
+  women due to implantation failure. '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04175002 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

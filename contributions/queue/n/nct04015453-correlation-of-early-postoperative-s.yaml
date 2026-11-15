@@ -1,28 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04015453
-name: NCT04015453 — Correlation of Early Postoperative Scar Appearance With Long-term Scar Outcomes
-description: A retrospective cohort study of early and late period postoperative scars using previously
-  validated survey measures and clinical photographs. The target population consists of participants treated
-  with Mohs micrographic surgery (MMS) for a facial skin cancer by the division of dermatologic surgery.
-  This study aims to determine if patient assessment of scar appearance correlates with physician ratings
-  and/or third-person observer ratings. Secondary goals are to assess for correlations between early post-operative
-  scar appearance and long-term scar appearance as well as identification of predictive factors for scar
-  healing. (NCT NCT04015453; status COMPLETED).
-hypothesis: A retrospective cohort study of early and late period postoperative scars using previously
-  validated survey measures and clinical photographs. The target population consists of participants treated
-  wi
+name: NCT04015453 — Correlation of Early Postoperative Scar Appearance With Long-term
+  Scar Outcomes
+description: A retrospective cohort study of early and late period postoperative scars
+  using previously validated survey measures and clinical photographs. The target
+  population consists of participants treated with Mohs micrographic surgery (MMS)
+  for a facial skin cancer by the division of dermatologic surgery. This study aims
+  to determine if patient assessment of scar appearance correlates with physician
+  ratings and/or third-person observer ratings. Secondary goals are to assess for
+  correlations between early post-operative scar appearance and long-term scar appearance
+  as well as identification of predictive factors for scar healing. (NCT NCT04015453;
+  status COMPLETED).
+hypothesis: A retrospective cohort study of early and late period postoperative scars
+  using previously validated survey measures and clinical photographs. The target
+  population consists of participants treated wi
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04015453 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04015453 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04015453-correlation-of-early-postoperative-s
+assigned_id: dea:experiment-nct04015453-correlation-of-early-postoperative-s-kn6xhc
+admitted: '2026-11-15'

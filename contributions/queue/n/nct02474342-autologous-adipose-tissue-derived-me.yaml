@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02474342
-name: NCT02474342 — Autologous Adipose Tissue Derived Mesenchymal Stem Cells for Rotator Cuff Disease
-description: The purpose of this study is to evaluate safety and efficacy of Autologous Adipose Tissue
-  Derived Mesenchymal Stem Cells injection in patient with Rotator Cuff disease. (NCT NCT02474342; status
-  COMPLETED).
-hypothesis: The purpose of this study is to evaluate safety and efficacy of Autologous Adipose Tissue
-  Derived Mesenchymal Stem Cells injection in patient with Rotator Cuff disease.
+name: NCT02474342 — Autologous Adipose Tissue Derived Mesenchymal Stem Cells for Rotator
+  Cuff Disease
+description: The purpose of this study is to evaluate safety and efficacy of Autologous
+  Adipose Tissue Derived Mesenchymal Stem Cells injection in patient with Rotator
+  Cuff disease. (NCT NCT02474342; status COMPLETED).
+hypothesis: The purpose of this study is to evaluate safety and efficacy of Autologous
+  Adipose Tissue Derived Mesenchymal Stem Cells injection in patient with Rotator
+  Cuff disease.
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02474342 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02474342 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02474342-autologous-adipose-tissue-derived-me
+assigned_id: dea:experiment-nct02474342-autologous-adipose-tissue-derived-me-nwsyxc
+admitted: '2026-11-15'

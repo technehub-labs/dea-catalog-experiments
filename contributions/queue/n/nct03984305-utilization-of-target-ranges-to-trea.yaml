@@ -1,24 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03984305
-name: NCT03984305 — Utilization of Target Ranges to Treat Parkinson's Disease With the PKG
-description: The main objective of this study is to evaluate whether people whose PD symptoms are uncontrolled
-  who are managed with the aid of objective measurement and use of target ranges have improved PD symptoms
-  and outcomes as compared to individuals treated using only standard of care (medical history, neurological
-  examination). (NCT NCT03984305; status TERMINATED).
-hypothesis: The main objective of this study is to evaluate whether people whose PD symptoms are uncontrolled
-  who are managed with the aid of objective measurement and use of target ranges have improved PD sympto
+name: NCT03984305 — Utilization of Target Ranges to Treat Parkinson's Disease With
+  the PKG
+description: The main objective of this study is to evaluate whether people whose
+  PD symptoms are uncontrolled who are managed with the aid of objective measurement
+  and use of target ranges have improved PD symptoms and outcomes as compared to individuals
+  treated using only standard of care (medical history, neurological examination).
+  (NCT NCT03984305; status TERMINATED).
+hypothesis: The main objective of this study is to evaluate whether people whose PD
+  symptoms are uncontrolled who are managed with the aid of objective measurement
+  and use of target ranges have improved PD sympto
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03984305 (ClinicalTrials.gov; status TERMINATED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03984305 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - terminated
 slug: nct03984305-utilization-of-target-ranges-to-trea
+assigned_id: dea:experiment-nct03984305-utilization-of-target-ranges-to-trea-hqdwe7
+admitted: '2026-11-15'

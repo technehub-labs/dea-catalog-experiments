@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00942929
 name: NCT00942929 — Lung Function Tests in Adolescents With Anorexia Nervosa
-description: The investigators hypothesize that lung function would be adversely affected at the hypocaloric
-  stage of adolescents suffering from anorexia nervosa. (NCT NCT00942929; status UNKNOWN).
-hypothesis: The investigators hypothesize that lung function would be adversely affected at the hypocaloric
-  stage of adolescents suffering from anorexia nervosa.
+description: The investigators hypothesize that lung function would be adversely affected
+  at the hypocaloric stage of adolescents suffering from anorexia nervosa. (NCT NCT00942929;
+  status UNKNOWN).
+hypothesis: The investigators hypothesize that lung function would be adversely affected
+  at the hypocaloric stage of adolescents suffering from anorexia nervosa.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00942929 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00942929 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct00942929-lung-function-tests-in-adolescents-w
+assigned_id: dea:experiment-nct00942929-lung-function-tests-in-adolescents-w-p3cfkb
+admitted: '2026-11-15'

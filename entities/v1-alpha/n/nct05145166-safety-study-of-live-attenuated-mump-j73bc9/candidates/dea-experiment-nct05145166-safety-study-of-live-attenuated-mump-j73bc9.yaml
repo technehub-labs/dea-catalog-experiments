@@ -1,0 +1,44 @@
+id: dea:experiment-nct05145166-safety-study-of-live-attenuated-mump-j73bc9
+type: Experiment
+name: NCT05145166 — Safety Study of Live Attenuated Mumps Vaccines in Junior High
+  School Students Under 14 Years Old
+description: This study of live attenuated mumps vaccines is an observational study
+  in which active monitoring and passive monitoring were combined to conduct safety
+  observation.The live attenuated mumps vaccines manufactured by Sinovac (Dalian)
+  Vaccine Technology Co., Ltd.The purpose of this study is to evaluate the safety
+  of live attenuated mumps vaccines after large-scale application and accumulate safety
+  data for the application of live attenuated mumps vaccines,and provide scientific
+  basis for the formulation of vaccine immunization prevention strategies. (NCT NCT05145166;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'This study of live attenuated mumps vaccines is an observational study
+  in which active monitoring and passive monitoring were combined to conduct safety
+  observation.The live attenuated mumps vaccines '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05145166 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

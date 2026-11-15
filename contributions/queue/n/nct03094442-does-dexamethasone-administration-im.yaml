@@ -1,25 +1,29 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT03094442
-name: NCT03094442 — Does Dexamethasone Administration Improve Recovery In Patients Undergoing Minimally
-  Invasive Sacrocolpopexy?
-description: The primary aim is to evaluate whether standard administration of Dexamethasone at the time
-  of general anesthesia induction at the time of minimally invasive sacrocolpopexy (MISC) would result
-  in improved quality of recovery (QoR). (NCT NCT03094442; status WITHDRAWN).
-hypothesis: The primary aim is to evaluate whether standard administration of Dexamethasone at the time
-  of general anesthesia induction at the time of minimally invasive sacrocolpopexy (MISC) would result
-  in impr
+name: NCT03094442 — Does Dexamethasone Administration Improve Recovery In Patients
+  Undergoing Minimally Invasive Sacrocolpopexy?
+description: The primary aim is to evaluate whether standard administration of Dexamethasone
+  at the time of general anesthesia induction at the time of minimally invasive sacrocolpopexy
+  (MISC) would result in improved quality of recovery (QoR). (NCT NCT03094442; status
+  WITHDRAWN).
+hypothesis: The primary aim is to evaluate whether standard administration of Dexamethasone
+  at the time of general anesthesia induction at the time of minimally invasive sacrocolpopexy
+  (MISC) would result in impr
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT03094442 (ClinicalTrials.gov; status WITHDRAWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT03094442 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - withdrawn
 slug: nct03094442-does-dexamethasone-administration-im
+assigned_id: dea:experiment-nct03094442-does-dexamethasone-administration-im-949adg
+admitted: '2026-11-15'

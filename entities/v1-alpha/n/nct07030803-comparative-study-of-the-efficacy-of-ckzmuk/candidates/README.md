@@ -1,0 +1,31 @@
+# NCT07030803 — Comparative Study of the Efficacy of Treatment of Idiopathic Overactive Bladder (OAB) in Children: Oxybutynine vs. Transcutaneous Neurostimulation
+
+> The absence of infectious, urological and neurological causes defines the idiopathic character of overactive bladder (OAB). Although a progressive approach starting with behavioural therapy (urotherapy) is recommended, anticholinergic agents remain the mainstay of medical treatment of overactive bladder (OAB) in children. Bladder neuromodulation is also used but no study with sufficient evidence has assessed its effectiveness and tolerance compared to the reference treatment. The purpose of HAV-O-TENS is to demonstrate the non-inferiority of treating idiopathic overactive bladder (OAB) in children using posterior tibial nerve stimulation (PTNS) compared to the reference treatment with oxybutynin after three months of treatment. Before inclusion, patients will receive instructions for urotherapy and a treatment plan. After confirming the diagnosis and obtaining informed consent, patients will be randomly assigned to either oxybutynin or PTNS (posterior tibial nerve stimulation) treatment, and their effectiveness, tolerance, and adherence will be monitored. (NCT NCT07030803; status RECRUITING).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct07030803-comparative-study-of-the-efficacy-of-ckzmuk`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT07030803 (ClinicalTrials.gov; status RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

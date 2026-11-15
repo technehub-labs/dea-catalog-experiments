@@ -1,28 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT00031889
-name: NCT00031889 — Exemestane With or Without Bicalutamide in Treating Patients With Stage IV Prostate
-  Cancer
-description: 'RATIONALE: Androgens can stimulate the growth of prostate cancer cells. Hormone therapy
-  using exemestane plus bicalutamide may fight prostate cancer by reducing the production of androgens.
-  It is not yet known if exemestane is more effective with or without bicalutamide in treating prostate
-  cancer. PURPOSE: Randomized phase II trial to study the effectiveness of exemestane with or without
-  bicalutamide in treating patients who have stage IV prostate cancer that has been previously treated
-  with hormone therapy or surgery. (NCT NCT00031889; status COMPLETED).'
-hypothesis: 'RATIONALE: Androgens can stimulate the growth of prostate cancer cells. Hormone therapy using
-  exemestane plus bicalutamide may fight prostate cancer by reducing the production of androgens. It is
-  not '
+name: NCT00031889 — Exemestane With or Without Bicalutamide in Treating Patients With
+  Stage IV Prostate Cancer
+description: 'RATIONALE: Androgens can stimulate the growth of prostate cancer cells.
+  Hormone therapy using exemestane plus bicalutamide may fight prostate cancer by
+  reducing the production of androgens. It is not yet known if exemestane is more
+  effective with or without bicalutamide in treating prostate cancer. PURPOSE: Randomized
+  phase II trial to study the effectiveness of exemestane with or without bicalutamide
+  in treating patients who have stage IV prostate cancer that has been previously
+  treated with hormone therapy or surgery. (NCT NCT00031889; status COMPLETED).'
+hypothesis: 'RATIONALE: Androgens can stimulate the growth of prostate cancer cells.
+  Hormone therapy using exemestane plus bicalutamide may fight prostate cancer by
+  reducing the production of androgens. It is not '
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT00031889 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT00031889 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct00031889-exemestane-with-or-without-bicalutam
+assigned_id: dea:experiment-nct00031889-exemestane-with-or-without-bicalutam-ak6fyf
+admitted: '2026-11-15'

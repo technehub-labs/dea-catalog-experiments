@@ -1,37 +1,45 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04032496
-name: NCT04032496 — Contemplation-Based Intervention and Health Outcomes RCT in Lupus Patients
-description: The objective of this study is to test the efficacy of an innovative contemplative-based
-  and caregiver-inclusive intervention can modify pathogenic processes in systemic lupus erythematosus
-  (SLE) compared to a psychoeducation-based intervention. Contemplative techniques such as meditation,
-  mindfulness and yoga may have an impact on the disease burden and may decrease psychological distress,
-  increase self-regulation capabilities, and reduce pain. It is also well documented that social relationships
-  moderate physical health. Incorporating patients' caregivers may strengthen their relationships and
-  thereby improve their health and well-being. It is anticipated that the successful outcome of the mindfulness-based
-  intervention described in this proposal will provide the basis for a new and effective contemplative-based
-  and caregiver-inclusive therapy for SLE and other rheumatic diseases. Although we expect our mindfulness-based
-  intervention to outperform our psychoeducation intervention, we note that the psychoeducation intervention
-  is much closer to treatment as usual (especially insofar as many lupus patients are provided no psychosocial
-  intervention whatever), and to that degree can reasonably be considered our best initial point of comparison.
-  In practice, most patients would be provided medication and some basic information about living with
-  the disease, as well as, perhaps, some additional guidance about coping with chronic stress and pain.
-  We believe that our comparison condition goes beyond this to provide a bona fide intervention in itself.
-  (NCT NCT04032496; status UNKNOWN).
-hypothesis: The objective of this study is to test the efficacy of an innovative contemplative-based and
-  caregiver-inclusive intervention can modify pathogenic processes in systemic lupus erythematosus (SLE)
-  comp
+name: NCT04032496 — Contemplation-Based Intervention and Health Outcomes RCT in Lupus
+  Patients
+description: The objective of this study is to test the efficacy of an innovative
+  contemplative-based and caregiver-inclusive intervention can modify pathogenic processes
+  in systemic lupus erythematosus (SLE) compared to a psychoeducation-based intervention.
+  Contemplative techniques such as meditation, mindfulness and yoga may have an impact
+  on the disease burden and may decrease psychological distress, increase self-regulation
+  capabilities, and reduce pain. It is also well documented that social relationships
+  moderate physical health. Incorporating patients' caregivers may strengthen their
+  relationships and thereby improve their health and well-being. It is anticipated
+  that the successful outcome of the mindfulness-based intervention described in this
+  proposal will provide the basis for a new and effective contemplative-based and
+  caregiver-inclusive therapy for SLE and other rheumatic diseases. Although we expect
+  our mindfulness-based intervention to outperform our psychoeducation intervention,
+  we note that the psychoeducation intervention is much closer to treatment as usual
+  (especially insofar as many lupus patients are provided no psychosocial intervention
+  whatever), and to that degree can reasonably be considered our best initial point
+  of comparison. In practice, most patients would be provided medication and some
+  basic information about living with the disease, as well as, perhaps, some additional
+  guidance about coping with chronic stress and pain. We believe that our comparison
+  condition goes beyond this to provide a bona fide intervention in itself. (NCT NCT04032496;
+  status UNKNOWN).
+hypothesis: The objective of this study is to test the efficacy of an innovative contemplative-based
+  and caregiver-inclusive intervention can modify pathogenic processes in systemic
+  lupus erythematosus (SLE) comp
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04032496 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04032496 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct04032496-contemplation-based-intervention-and
+assigned_id: dea:experiment-nct04032496-contemplation-based-intervention-and-zdbg25
+admitted: '2026-11-15'

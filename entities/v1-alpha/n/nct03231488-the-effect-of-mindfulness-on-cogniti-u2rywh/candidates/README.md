@@ -1,0 +1,31 @@
+# NCT03231488 — The Effect of Mindfulness on Cognition and Emotion Following Acquired Brain Injury
+
+> Can mindfulness help with attention and emotion difficulties after a brain injury? People who have a brain injury often have problems with their attention and emotions. This study will see if a short mindfulness task can help with these problems. So far, there are not many studies looking at this and those that do show mixed results. When being mindful someone is aware of their attention and focuses on the present moment without passing judgement. This study focuses on over-selectivity and selective attention to threat after a brain injury. These are two concepts involved in attention and emotion problems. Over-selectivity is when someone focuses on only one thing around them and misses other key things. Selective attention to threat is when someone's focus is drawn to something around them that is seen as threatening. This has been shown to cause and keep anxious feelings going. This research will see if a short mindfulness task can help those with a brain injury by reducing overselectivity and selective attention to threat on two tasks. Participants will be recruited from NHS and non-NHS brain injury services. The study will take around two hours to complete for each participant. In summary, this study looks to see if a specific mindfulness exercise can be helpful for specific attention and emotion problems. It could be a first step in making treatment better and giving more treatment options for those with a brain injury. (NCT NCT03231488; status UNKNOWN).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct03231488-the-effect-of-mindfulness-on-cogniti-u2rywh`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT03231488 (ClinicalTrials.gov; status UNKNOWN)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

@@ -1,29 +1,34 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT07598240
-name: NCT07598240 — Is a Standard Hand Rehabilitation Program Sufficient in Rheumatoid Arthritis Patients
-  With Central Sensitization
-description: The presence of central sensitization leads to overestimation of pain sensitivity and disease
-  activity in rheumatoid arthritis (RA) patients. Central sensitization should not be overlooked in RA
-  patients to avoid over-treatment for inflammation and to determine the need for treatment of nociplastic
-  pain. While literature contains no studies comparing alternative programs with the standard hand rehabilitation
-  program in the presence of central sensitization in rheumatoid arthritis patients, the objective of
-  this study is to investigate whether desensitization exercises provide additional benefit in this patient
-  group. (NCT NCT07598240; status ACTIVE_NOT_RECRUITING).
-hypothesis: The presence of central sensitization leads to overestimation of pain sensitivity and disease
-  activity in rheumatoid arthritis (RA) patients. Central sensitization should not be overlooked in RA
-  patie
+name: NCT07598240 — Is a Standard Hand Rehabilitation Program Sufficient in Rheumatoid
+  Arthritis Patients With Central Sensitization
+description: The presence of central sensitization leads to overestimation of pain
+  sensitivity and disease activity in rheumatoid arthritis (RA) patients. Central
+  sensitization should not be overlooked in RA patients to avoid over-treatment for
+  inflammation and to determine the need for treatment of nociplastic pain. While
+  literature contains no studies comparing alternative programs with the standard
+  hand rehabilitation program in the presence of central sensitization in rheumatoid
+  arthritis patients, the objective of this study is to investigate whether desensitization
+  exercises provide additional benefit in this patient group. (NCT NCT07598240; status
+  ACTIVE_NOT_RECRUITING).
+hypothesis: The presence of central sensitization leads to overestimation of pain
+  sensitivity and disease activity in rheumatoid arthritis (RA) patients. Central
+  sensitization should not be overlooked in RA patie
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT07598240 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT07598240 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - active-not-recruitin
 slug: nct07598240-is-a-standard-hand-rehabilitation-pr
+assigned_id: dea:experiment-nct07598240-is-a-standard-hand-rehabilitation-pr-kxrhd7
+admitted: '2026-11-15'

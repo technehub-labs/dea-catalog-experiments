@@ -1,23 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05920473
-name: 'NCT05920473 — Efficacy and Safety Study: Repetitive Transcranial Magnetic Stimulation (rTMS) for
-  Treating Movement Disorders in Patients With Intracranial Hemorrhage (ICH).'
-description: This pilot study aims to assess the effectiveness and safety of rTMS in the treatment of
-  movement disorders in patients with ICH. (NCT NCT05920473; status UNKNOWN).
-hypothesis: This pilot study aims to assess the effectiveness and safety of rTMS in the treatment of movement
-  disorders in patients with ICH.
+name: 'NCT05920473 — Efficacy and Safety Study: Repetitive Transcranial Magnetic Stimulation
+  (rTMS) for Treating Movement Disorders in Patients With Intracranial Hemorrhage
+  (ICH).'
+description: This pilot study aims to assess the effectiveness and safety of rTMS
+  in the treatment of movement disorders in patients with ICH. (NCT NCT05920473; status
+  UNKNOWN).
+hypothesis: This pilot study aims to assess the effectiveness and safety of rTMS in
+  the treatment of movement disorders in patients with ICH.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05920473 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05920473 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct05920473-efficacy-and-safety-study-repetitive
+assigned_id: dea:experiment-nct05920473-efficacy-and-safety-study-repetitive-u4hkqs
+admitted: '2026-11-15'

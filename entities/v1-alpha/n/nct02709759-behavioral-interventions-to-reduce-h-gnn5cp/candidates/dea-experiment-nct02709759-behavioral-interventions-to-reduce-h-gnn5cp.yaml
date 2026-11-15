@@ -1,0 +1,45 @@
+id: dea:experiment-nct02709759-behavioral-interventions-to-reduce-h-gnn5cp
+type: Experiment
+name: NCT02709759 — Behavioral Interventions to Reduce Heavy Drinking Among MSM in
+  HIV Primary Care
+description: The purpose of the present study is to conduct a fully-crossed 2 X 2
+  X 2 factorial randomized controlled trial with a diverse sample of 224 MSM recruited
+  from 2 urban HIV primary care clinics (one in the Northeast and one in the South).
+  The first study factor will compare brief advice (BA) vs. a motivational intervention
+  (MI) that contains detailed personalized normative and HIV-specific feedback. The
+  second factor compares an interactive text messaging (ITM) intervention vs. no text
+  messaging. The final factor compares intervention of low intensity and duration
+  (two sessions over 1 month) to extended intervention (EI) entailing 5 sessions over
+  9 months. (NCT NCT02709759; status COMPLETED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'The purpose of the present study is to conduct a fully-crossed 2 X 2
+  X 2 factorial randomized controlled trial with a diverse sample of 224 MSM recruited
+  from 2 urban HIV primary care clinics (one in '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02709759 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- completed

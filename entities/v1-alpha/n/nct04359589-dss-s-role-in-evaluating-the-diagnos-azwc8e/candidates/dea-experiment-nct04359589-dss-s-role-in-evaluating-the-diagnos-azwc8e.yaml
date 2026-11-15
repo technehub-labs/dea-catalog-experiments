@@ -1,0 +1,60 @@
+id: dea:experiment-nct04359589-dss-s-role-in-evaluating-the-diagnos-azwc8e
+type: Experiment
+name: NCT04359589 — DSS's Role in Evaluating the Diagnosis and Treatment System of
+  Ischemic Cardiovascular and Cerebrovascular Diseases
+description: 'Background: Acute ischemic cardiovascular and cerebrovascular diseases
+  are a kind of diseases with high incidence, rapid progression, poor prognosis and
+  high mortality and disability rate of the circulatory system, mainly including acute
+  myocardial infarction, acute ischemic stroke and acute limb ischemia, which place
+  a heavy burden on individuals, families and society due to their severe prognosis
+  and high medical costs. At present, the diagnosis and treatment of ischemic cardiovascular
+  and cerebrovascular diseases mainly focus on single organ diagnosis and treatment
+  of target organs, lacking of indicators to comprehensively evaluate the body''s
+  pathophysiology. As ischemic disease of the circulatory system, ischemic cardiovascular
+  and cerebrovascular diseases have common pathophysiological basis such as ischemia,
+  hypoxia and inflammation. These common pathophysiological basis suggests that different
+  acute ischemic cardiovascular and cerebrovascular diseases can be monitored and
+  evaluated from an integrated perspective, it suggests the possibility of comprehensive
+  diagnosis, evaluation and treatment guidance. At present, the "circulatory integration"
+  therapy represented by the combined treatment of heart and brain has achieved certain
+  results, but there is no corresponding evaluation system to provide accurate guidance.
+  Therefore, with the concept of "circulation integration", it is an urgent problem
+  to find the common indicators of the circulation system and construct the hierarchical
+  diagnosis and subsequent evaluation system of acute cardiovascular and cerebrovascular
+  integration. The development of efficient and comprehensive stratified diagnosis
+  and prognosis evaluation system is of great significance in clinical, market and
+  social aspects. At the early stage of the efforts our team, it was found that Dan
+  Shen Su-(±)-3, 4-dihydroxyphenylacetic acid (DSS) could be detected in the plasma
+  and urine of patients with acute myocardial infarction and ischemic stroke t'
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: 'Background: Acute ischemic cardiovascular and cerebrovascular diseases
+  are a kind of diseases with high incidence, rapid progression, poor prognosis and
+  high mortality and disability rate of the circu'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04359589 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- unknown

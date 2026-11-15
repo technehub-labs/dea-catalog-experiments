@@ -1,0 +1,31 @@
+# NCT04299373 — Surgical Weight Loss and Alcohol Perception
+
+> The study will involve administration of alcohol in a controlled laboratory setting to individuals who are scheduled for Roux-en-Y gastric bypass surgery, and then asking them to return for another laboratory session 3 months following their surgery. A small number will be asked to return again 9 months following their surgery. The primary objective for this research is to collect pilot data on the effects of metabolic surgery (MS), also known as bariatric surgery, on the metabolism of alcohol. These data will be used as preliminary evidence in support of a subsequent application for funding, to be submitted to the National Institutes of Health. A secondary objective for this research is to determine the extent to which MS changes reactivity to alcohol-related cues. Heightened reactivity (e.g., attention bias; craving) to alcohol-related cues is known to signify increased risk for heavy drinking and AUD. No research to date has examined whether the increased sensitivity to alcohol that occurs as a result of MS changes cue-reactivity responses, which in theory reflect an individual's history of learning to associate alcohol consumption with its subjective effects. An exploratory objective is to compare metabolism of alcohol administered orally versus intravenously. IV infusion of alcohol bypasses so-called "first pass metabolism" of alcohol after absorption by the gastrointestinal tract. Thus, compared to oral ingestion, infusion can achieve the same blood alcohol concentration (BAC) with substantially less total alcohol dosage. Following the hypothesis, this should mean that, compared to oral ingestion, infusion will be associated with less production of liver fat, while also mimicking in pre-surgery patients what the investigators observe with oral ingestion following surgery. This comparison will permit better specification of when (during metabolism) and how alcohol is converted to liver fat, and will allow the investigators to separate effects of initial sensiti
+
+## Identity
+
+- **Record id**: `dea:experiment-nct04299373-surgical-weight-loss-and-alcohol-per-dz3g6j`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT04299373 (ClinicalTrials.gov; status TERMINATED)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

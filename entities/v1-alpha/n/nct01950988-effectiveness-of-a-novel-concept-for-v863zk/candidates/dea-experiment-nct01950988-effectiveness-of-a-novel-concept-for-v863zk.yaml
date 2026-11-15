@@ -1,0 +1,40 @@
+id: dea:experiment-nct01950988-effectiveness-of-a-novel-concept-for-v863zk
+type: Experiment
+name: NCT01950988 — Effectiveness of a Novel Concept for a Manual Toothbrush Broscyl®
+description: The aim is to determine the efficacy and the satisfaction/adaptability
+  of the manual Broscyl® toothbrush as compared with a standard " soft " manual toothbrush
+  ADA (American Dental Association) reference using the modified Stillman brushing
+  technique, in children, adults and elderly persons, after 3 months of daily use.
+  (NCT NCT01950988; status TERMINATED).
+version: 0.1.0
+lifecycle_status: proposed
+hypothesis: The aim is to determine the efficacy and the satisfaction/adaptability
+  of the manual Broscyl® toothbrush as compared with a standard " soft " manual toothbrush
+  ADA (American Dental Association) refere
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01950988 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: proposed
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: proposed
+tags:
+- clinical-trial
+- terminated

@@ -1,27 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01879423
-name: NCT01879423 — The Bioequivalence Study of Lamotrigine Dispersible/Chewable Tablets 5mg×5 Compared
-  With Lamotrigine Compressed Tablet 25mg in Chinese Healthy Male Subjects
-description: This is a single dose, open-label, randomized, two-period crossover study to demonstrate
-  the bioequivalence of lamotrigine dispersible/chewable tablets (5mg×5) and lamotrigine compressed tablets
-  (25mg) in healthy Chinese male subjects in fasting conditions. The safety, tolerability and pharmacokinetic
-  profile of lamotrigine dispersible/chewable tablets will also be assessed. (NCT NCT01879423; status
-  COMPLETED).
-hypothesis: This is a single dose, open-label, randomized, two-period crossover study to demonstrate the
-  bioequivalence of lamotrigine dispersible/chewable tablets (5mg×5) and lamotrigine compressed tablets
-  (25mg
+name: NCT01879423 — The Bioequivalence Study of Lamotrigine Dispersible/Chewable Tablets
+  5mg×5 Compared With Lamotrigine Compressed Tablet 25mg in Chinese Healthy Male Subjects
+description: This is a single dose, open-label, randomized, two-period crossover study
+  to demonstrate the bioequivalence of lamotrigine dispersible/chewable tablets (5mg×5)
+  and lamotrigine compressed tablets (25mg) in healthy Chinese male subjects in fasting
+  conditions. The safety, tolerability and pharmacokinetic profile of lamotrigine
+  dispersible/chewable tablets will also be assessed. (NCT NCT01879423; status COMPLETED).
+hypothesis: This is a single dose, open-label, randomized, two-period crossover study
+  to demonstrate the bioequivalence of lamotrigine dispersible/chewable tablets (5mg×5)
+  and lamotrigine compressed tablets (25mg
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01879423 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01879423 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct01879423-the-bioequivalence-study-of-lamotrig
+assigned_id: dea:experiment-nct01879423-the-bioequivalence-study-of-lamotrig-5rabfn
+admitted: '2026-11-15'

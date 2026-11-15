@@ -1,26 +1,32 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT05975502
 name: NCT05975502 — Congenital Syphilis in Switzerland
-description: A retrospective national epidemiological Swiss study was conducted to establish a real prevalence
-  and description of congenital syphilis, and to better classify the reported congenital syphilis. Maternal
-  risk factors to contract syphilis (i.e. socio-demographic, cultural and clinical factors) were also
-  evaluated, in order to focus on prevention of these targeted population. Follow up of the children born
-  from mother with syphilis during pregnancy, until age 6, was recorded to evaluate the risk of congenital
-  syphilis following treatment of maternal syphilis. (NCT NCT05975502; status COMPLETED).
-hypothesis: A retrospective national epidemiological Swiss study was conducted to establish a real prevalence
-  and description of congenital syphilis, and to better classify the reported congenital syphilis. Mater
+description: A retrospective national epidemiological Swiss study was conducted to
+  establish a real prevalence and description of congenital syphilis, and to better
+  classify the reported congenital syphilis. Maternal risk factors to contract syphilis
+  (i.e. socio-demographic, cultural and clinical factors) were also evaluated, in
+  order to focus on prevention of these targeted population. Follow up of the children
+  born from mother with syphilis during pregnancy, until age 6, was recorded to evaluate
+  the risk of congenital syphilis following treatment of maternal syphilis. (NCT NCT05975502;
+  status COMPLETED).
+hypothesis: A retrospective national epidemiological Swiss study was conducted to
+  establish a real prevalence and description of congenital syphilis, and to better
+  classify the reported congenital syphilis. Mater
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT05975502 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT05975502 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct05975502-congenital-syphilis-in-switzerland
+assigned_id: dea:experiment-nct05975502-congenital-syphilis-in-switzerland-fvpmz5
+admitted: '2026-11-15'

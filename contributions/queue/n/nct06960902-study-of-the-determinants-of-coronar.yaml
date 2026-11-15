@@ -1,30 +1,35 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT06960902
-name: NCT06960902 — Study of the Determinants of Coronary Atherosclerosis in Familial Hypercholesterolemia
-  (ATHERO-FH Study)
-description: 'The goal of this study (interventional clinical research not involving a health product)
-  is to assess the prevalence of subclinical coronary atherosclerosis diagnosed by coronary CT angiography
-  in heart failure patients in primary prevention, across different levels of cardiovascular risk defined
-  by coronary artery calcium (CAC) score percentiles (based on data from the MESA study): low risk (≤25th
-  percentile for age, sex, and ethnicity), intermediate risk (25th \< CAC ≤ 75th percentile), and high
-  risk (\>75th percentile). The Patients will attend an on-site visit at inclusion (and must undergo a
-  coronary CT angiography within 6 months following this visit), will be contacted by phone at 1 year
-  and 2 years, and will return for an on-site visit at 30 months. (NCT NCT06960902; status RECRUITING).'
-hypothesis: The goal of this study (interventional clinical research not involving a health product) is
-  to assess the prevalence of subclinical coronary atherosclerosis diagnosed by coronary CT angiography
-  in hea
+name: NCT06960902 — Study of the Determinants of Coronary Atherosclerosis in Familial
+  Hypercholesterolemia (ATHERO-FH Study)
+description: 'The goal of this study (interventional clinical research not involving
+  a health product) is to assess the prevalence of subclinical coronary atherosclerosis
+  diagnosed by coronary CT angiography in heart failure patients in primary prevention,
+  across different levels of cardiovascular risk defined by coronary artery calcium
+  (CAC) score percentiles (based on data from the MESA study): low risk (≤25th percentile
+  for age, sex, and ethnicity), intermediate risk (25th \< CAC ≤ 75th percentile),
+  and high risk (\>75th percentile). The Patients will attend an on-site visit at
+  inclusion (and must undergo a coronary CT angiography within 6 months following
+  this visit), will be contacted by phone at 1 year and 2 years, and will return for
+  an on-site visit at 30 months. (NCT NCT06960902; status RECRUITING).'
+hypothesis: The goal of this study (interventional clinical research not involving
+  a health product) is to assess the prevalence of subclinical coronary atherosclerosis
+  diagnosed by coronary CT angiography in hea
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT06960902 (ClinicalTrials.gov; status RECRUITING)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT06960902 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - recruiting
 slug: nct06960902-study-of-the-determinants-of-coronar
+assigned_id: dea:experiment-nct06960902-study-of-the-determinants-of-coronar-g8ae9x
+admitted: '2026-11-15'

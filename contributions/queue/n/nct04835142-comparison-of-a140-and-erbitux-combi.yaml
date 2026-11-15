@@ -1,24 +1,28 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT04835142
-name: NCT04835142 — Comparison of A140 and Erbitux Combined With mfolfox6 to Evaluate Efficacy and Safety
-  of First-line Treatment for Ras Wild-type mCRC
-description: Compare the objective remission rate of A140 and Erbitux combined with mfolfox6 regimen in
-  the first-line treatment of Ras wild-type metastatic colorectal cancer for 12 weeks (NCT NCT04835142;
-  status COMPLETED).
-hypothesis: Compare the objective remission rate of A140 and Erbitux combined with mfolfox6 regimen in
-  the first-line treatment of Ras wild-type metastatic colorectal cancer for 12 weeks
+name: NCT04835142 — Comparison of A140 and Erbitux Combined With mfolfox6 to Evaluate
+  Efficacy and Safety of First-line Treatment for Ras Wild-type mCRC
+description: Compare the objective remission rate of A140 and Erbitux combined with
+  mfolfox6 regimen in the first-line treatment of Ras wild-type metastatic colorectal
+  cancer for 12 weeks (NCT NCT04835142; status COMPLETED).
+hypothesis: Compare the objective remission rate of A140 and Erbitux combined with
+  mfolfox6 regimen in the first-line treatment of Ras wild-type metastatic colorectal
+  cancer for 12 weeks
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT04835142 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT04835142 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct04835142-comparison-of-a140-and-erbitux-combi
+assigned_id: dea:experiment-nct04835142-comparison-of-a140-and-erbitux-combi-c4p2wt
+admitted: '2026-11-15'

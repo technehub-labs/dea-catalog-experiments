@@ -1,0 +1,31 @@
+# NCT06990841 — Comparison of Two Different Sperm Processing Methods and Their Effects on Sperm DNA Fragmentation and Embryo Development
+
+> The goal of this clinical trial is to learn if the LensHooke CA0 device lowers DNA fragmentation in sperm samples compared to a gradient/swim-up technique. The main questions it aims to answer are: 1. Does the LensHooke® CA0 device reduce DNA fragmentation compared to the gradient/swim-up technique? 2. Does the LensHooke® CA0 device improve concentration, motility, and morphology compared to the gradient/swim-up technique? 3. Is sibling embryo fertilization and development the same? 4. Are pregnancy rates different between the 2 groups? 1 semen sample will be split between the 2 treatment techniques. Half of the partner's egg cohort will be injected via intra-cytoplasmic sperm using sperm processed by one technique and the other half of the cohort will be injected by the sperm processed by the other technique. Both methods will look at DNA fragmentation, concentration, motility, and morphology of the sperm. Both methods will be compared in the resulting embryos looking at fertilization, embryo development and pregnancy rates. (NCT NCT06990841; status RECRUITING).
+
+## Identity
+
+- **Record id**: `dea:experiment-nct06990841-comparison-of-two-different-sperm-pr-m8zjkg`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT06990841 (ClinicalTrials.gov; status RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).

@@ -1,26 +1,30 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT02613273
-name: 'NCT02613273 — CHAMP: A Randomized Controlled Trial of High-intensity Aerobic and Resistance Exercise
-  for Metastatic Prostate Cancer'
-description: This Phase II, open-label, three-arm randomized controlled trial (RCT) will investigate the
-  effects of 12 weeks of aerobic exercise vs. 12 weeks of resistance exercise vs. usual care in men with
-  metastatic castration resistant prostate cancer to determine the safety, feasibility, and tolerance
-  of exercise; quality of life indicators, and a prognostic score. (NCT NCT02613273; status COMPLETED).
-hypothesis: This Phase II, open-label, three-arm randomized controlled trial (RCT) will investigate the
-  effects of 12 weeks of aerobic exercise vs. 12 weeks of resistance exercise vs. usual care in men with
-  metas
+name: 'NCT02613273 — CHAMP: A Randomized Controlled Trial of High-intensity Aerobic
+  and Resistance Exercise for Metastatic Prostate Cancer'
+description: This Phase II, open-label, three-arm randomized controlled trial (RCT)
+  will investigate the effects of 12 weeks of aerobic exercise vs. 12 weeks of resistance
+  exercise vs. usual care in men with metastatic castration resistant prostate cancer
+  to determine the safety, feasibility, and tolerance of exercise; quality of life
+  indicators, and a prognostic score. (NCT NCT02613273; status COMPLETED).
+hypothesis: This Phase II, open-label, three-arm randomized controlled trial (RCT)
+  will investigate the effects of 12 weeks of aerobic exercise vs. 12 weeks of resistance
+  exercise vs. usual care in men with metas
 outcome: inconclusive
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT02613273 (ClinicalTrials.gov; status COMPLETED)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT02613273 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - completed
 slug: nct02613273-champ-a-randomized-controlled-trial
+assigned_id: dea:experiment-nct02613273-champ-a-randomized-controlled-trial-h89gru
+admitted: '2026-11-15'

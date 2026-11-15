@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: clinical-trials.json
 source_ref: ClinicalTrials.gov NCT01017068
 name: NCT01017068 — Aqueous Mushroom Extract and Intraocular Pressure
-description: The purpose of this study is to determine the effect of Aqueous mushroom extract (AME) on
-  intra ocular pressure (IOP) in humans or as a potential anti glaucoma drug. (NCT NCT01017068; status
-  UNKNOWN).
-hypothesis: The purpose of this study is to determine the effect of Aqueous mushroom extract (AME) on
-  intra ocular pressure (IOP) in humans or as a potential anti glaucoma drug.
+description: The purpose of this study is to determine the effect of Aqueous mushroom
+  extract (AME) on intra ocular pressure (IOP) in humans or as a potential anti glaucoma
+  drug. (NCT NCT01017068; status UNKNOWN).
+hypothesis: The purpose of this study is to determine the effect of Aqueous mushroom
+  extract (AME) on intra ocular pressure (IOP) in humans or as a potential anti glaucoma
+  drug.
 outcome: pending
 evidence:
   sources:
   - kind: published-document
-    reference: https://clinicaltrials.gov/study/NCT01017068 (ClinicalTrials.gov; status UNKNOWN)
-  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
-    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
-    decisions.
+    reference: https://clinicaltrials.gov/study/NCT01017068 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
 tags:
 - clinical-trial
 - unknown
 slug: nct01017068-aqueous-mushroom-extract-and-intraoc
+assigned_id: dea:experiment-nct01017068-aqueous-mushroom-extract-and-intraoc-m5z8rj
+admitted: '2026-11-15'

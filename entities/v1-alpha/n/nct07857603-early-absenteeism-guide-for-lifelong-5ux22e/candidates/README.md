@@ -1,0 +1,31 @@
+# NCT07857603 — Early Absenteeism Guide for Lifelong Education
+
+> School absenteeism is a problem that can be caused by several different factors, such as difficulties within the family, problems in the school environment, or mental health difficulties. Absenteeism can, in turn, lead to negative consequences such as poorer mental health, social isolation, and long-term difficulties later in life. For children, school absenteeism has negative consequences for their education, social relationships, and important daily routines-routines that can otherwise serve as a protective factor against, among other things, mental health difficulties, particularly for children in vulnerable environments (Selman, 2023). It is therefore important that problems are identified at an early stage and that schools, parents, and pupils work together to reduce absenteeism (Kearney, 2008; Gren-Landell, 2021). About EAGLE EAGLE (Earle Absenteeism Guide for Lifelong Education) is a collaborative model between schools and families aimed at preventing school absenteeism at an early stage, before absenteeism becomes extensive and therefore more difficult to address. Primary schools are organisations with limited resources and a need for simple, practically oriented working methods. EAGLE therefore has a simple basic structure, with the aim of being implemented quickly when pupils begin to show problematic absenteeism. Here, problematic absenteeism refers to absenteeism that is caused by something in the child's life that is not functioning well or needs to change-for example, difficulties at school, at home, or in everyday life-and not by a straightforward cause such as a common cold. The target group is children in the early and middle years of primary school. An important component is to strengthen collaboration between parents and school staff, as well as to provide parents with guidance on parenting in relation to the child's difficulties attending school. The Gradual Development of Absenteeism Absenteeism does not begin from one day to the next; rather, i
+
+## Identity
+
+- **Record id**: `dea:experiment-nct07857603-early-absenteeism-guide-for-lifelong-5ux22e`
+- **Type**: Experiment
+- **Version**: 0.1.0
+- **Lifecycle**: proposed (candidate corpus; admitted via the gated intake
+  workflow; canonical admission is a separate evidence-gated step)
+
+## Evidence
+
+Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission decisions.
+
+- kind: `published-document` — reference: https://clinicaltrials.gov/study/NCT07857603 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+
+## Classification-or-relationships
+
+Deferred: relationship assertions are not made at candidate admission;
+bindings land at canonical admission with per-assertion evidence.
+
+## Provenance
+
+Ladder passage: candidate (2026-11-15, Emmanuel A. Otchere).
+
+## Governance
+
+Functional owner: Emmanuel A. Otchere. Steward: Emmanuel A. Otchere. Approval: proposed
+(candidate corpus; the approval decision belongs to canonical admission).
