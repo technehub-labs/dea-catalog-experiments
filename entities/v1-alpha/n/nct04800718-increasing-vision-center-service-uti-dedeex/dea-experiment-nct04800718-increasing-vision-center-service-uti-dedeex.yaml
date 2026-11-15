@@ -1,0 +1,70 @@
+id: dea:experiment-nct04800718-increasing-vision-center-service-uti-dedeex
+type: Experiment
+name: NCT04800718 — Increasing Vision Center Service Utilization
+description: 'Background: Vision Centre (primary eyecare facility): a major eye care
+  service model catering to underserved rural areas. The sustainability of rural Vision
+  Centres (VC) in north India is a major challenge due to the under-utilization of
+  services by the local community and stakeholders. This affects self-sustainability
+  and limits the expansion of services in rural areas. Dr. Shroff''s Charity Eye Hospital
+  is planning an intervention: door-to-door screening in VC''s vicinity areas, to
+  connect with the community. In this operational research, the investigators plan
+  to study if this intervention package, consisting of door-to-door screening and
+  awareness generation in the service area can increase the utilization of VC services
+  to a minimum of 14 out-patient cases per day within the study period and also analyze
+  its cost-effectiveness for scalability. Methodology: The study is a randomized experimental
+  intervention, consisting of 2 VCs (intervention arm and control arm) selected from
+  poor low-performing VCs i.e. walk-in out-patient cases≤ 10 per day, in two operational
+  regions (Vrindavan, Mathura District, and Mohammadi, Kheri District) of Uttar Pradesh.
+  Intervention includes door-to-door screening and awareness generation in 8-12 villages
+  surrounding the VC. The control VC will follow existing practices of awareness generation
+  through community activities and health talks. Data collected from each VC for the
+  4 months of intervention will include, a number of walk-in patients, spectacles
+  advised, and their uptake, referral, and uptake for cataract and specialty surgery
+  as well as operational expenses. Differences across arms in terms of the number
+  of walk-in patients, referrals, uptake of services, and costs involved would be
+  analyzed. Conclusion: Through this study, the investigators would analyze if our
+  intervention package is effective in increasing the VC service utilization and thus,
+  overall sustainability. The investigators would also study the cost-effectiveness
+  o'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'Background: Vision Centre (primary eyecare facility): a major eye care
+  service model catering to underserved rural areas. The sustainability of rural Vision
+  Centres (VC) in north India is a major chal'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04800718 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

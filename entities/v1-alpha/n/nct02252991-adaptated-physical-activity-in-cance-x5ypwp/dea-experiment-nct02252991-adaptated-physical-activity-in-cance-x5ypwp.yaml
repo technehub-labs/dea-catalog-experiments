@@ -1,0 +1,50 @@
+id: dea:experiment-nct02252991-adaptated-physical-activity-in-cance-x5ypwp
+type: Experiment
+name: NCT02252991 — Adaptated Physical Activity in Cancerology
+description: 'This trial will measure the fatigue in breast cancer patients. Two groups
+  of patients will be realised: * Arm A: Physical activity during treatment * Arm
+  B: No physical activity during treatment but after The aim of the study is to decrease
+  fatigue, with adequate physical activity, in primary breast cancer patients who
+  receive a treatment for their pathology. (NCT NCT02252991; status TERMINATED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'This trial will measure the fatigue in breast cancer patients. Two groups
+  of patients will be realised: * Arm A: Physical activity during treatment * Arm
+  B: No physical activity during treatment but a'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02252991 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- terminated

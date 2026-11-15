@@ -1,0 +1,54 @@
+id: dea:experiment-nct06213389-comparison-of-ezvision-videolaryngos-h5dawj
+type: Experiment
+name: NCT06213389 — Comparison of EzVision® Videolaryngoscope and Gum Elastic Bougie-Assisted
+  Machintosh Laryngoscopy
+description: The aim of this study is to compare the EzVision® videoryngoscope with
+  conventional laryngoscopy using a Macintosh blade in patients with suspected difficult
+  intubation. This study primarily aims to test the hypothesis that laryngoscopy image
+  is better with EzVision® videoryngoscopy compared to direct laryngoscopy. The secondary
+  hypothesis is also to test the view that, compared to direct laryngoscopy, EzVision®
+  videolingoscopy will improve intubation success, reduce intubation attempts, shorten
+  intubation time, facilitate intubation, and cause less additional complications
+  such as bleeding or sore throat. (NCT NCT06213389; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The aim of this study is to compare the EzVision® videoryngoscope with
+  conventional laryngoscopy using a Macintosh blade in patients with suspected difficult
+  intubation. This study primarily aims to t
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06213389 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

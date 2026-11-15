@@ -1,0 +1,52 @@
+id: dea:experiment-nct03572062-a-study-to-evaluate-the-safety-and-i-9zz9kk
+type: Experiment
+name: NCT03572062 — A Study to Evaluate the Safety and Immunogenicity of an Adjuvanted
+  RSV Vaccine in Healthy Older Adults
+description: The study will evaluate the safety, tolerability, and immunogenicity
+  of up to 7 different RSV vaccine candidates, some with adjuvant, when administered
+  concomitantly with seasonal inactivated influenza vaccine (SIIV) and may evaluate
+  a second dose of RSV vaccine administered12 months after the initial dose. In addition
+  the study will evaluate a 2-dose regimen administered 2 months apart to 62 subjects.
+  (NCT NCT03572062; status TERMINATED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The study will evaluate the safety, tolerability, and immunogenicity of
+  up to 7 different RSV vaccine candidates, some with adjuvant, when administered
+  concomitantly with seasonal inactivated influenz
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03572062 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- terminated

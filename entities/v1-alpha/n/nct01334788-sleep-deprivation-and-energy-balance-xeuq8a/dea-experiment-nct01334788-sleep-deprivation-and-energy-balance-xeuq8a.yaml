@@ -1,0 +1,62 @@
+id: dea:experiment-nct01334788-sleep-deprivation-and-energy-balance-xeuq8a
+type: Experiment
+name: NCT01334788 — Sleep Deprivation and Energy Balance
+description: 'Chronic sleep deprivation may constitute an important and potentially
+  correctable behavioral factor in the alarming increase in obesity. There are no
+  definitive experimental studies in humans showing whether sleep deprivation indeed
+  contributes to increased energy intake and/or reduced energy expenditure. The investigators
+  propose a series of novel studies to investigate abnormalities in energy homeostasis
+  imparted by sleep deprivation. The investigators will measure food intake, energy
+  expenditure (basal metabolic rate, thermal effect of food, and non-exercise activity
+  thermogenesis), and neurohormone levels in 24 healthy subjects with normal BMI (20-25
+  kg/m2). Twelve subjects (6 men and 6 women) will be randomized to sleep deprivation.
+  Measurements will be compared to those obtained in 12 subjects who are randomized
+  to a control group, and are not sleep deprived. The investigators will test the
+  following hypotheses: 1. That sleep deprivation results in positive energy balance
+  (increased caloric intake and decreased energy expenditure, as reflected by decreased
+  non-exercise activity thermogenesis). 2. That dysregulation of appetite and energy
+  expenditure is associated with changes in molecules controlling appetite and metabolism.
+  3. That changes associated with 8 days of modest sleep deprivation resolve, at least
+  in part, over a 4 day recovery period. (NCT NCT01334788; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'Chronic sleep deprivation may constitute an important and potentially
+  correctable behavioral factor in the alarming increase in obesity. There are no
+  definitive experimental studies in humans showing '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01334788 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

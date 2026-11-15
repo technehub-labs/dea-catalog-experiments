@@ -1,0 +1,53 @@
+id: dea:experiment-nct03830242-diagnostic-significance-of-fdg-pet-c-p2dptm
+type: Experiment
+name: NCT03830242 — Diagnostic Significance of FDG PET/CT Dynamic Imaging in Detecting
+  Metastatic Lymph Nodes With Papillary Thyroid Cancer.
+description: The aim of this study is to make up for the gap by performing a dynamic
+  scan of \<Sup\>18\<Sup\>F-FDG PET/CT on newly diagnosed patients with papillary
+  thyroid carcinoma. Pathological and genomic studies are performed. The differences
+  between metastatic central lymph nodes images and tissues are compared at the same
+  time. \<Sup\>18\<Sup\>F-FDG PET/CT dynamic imaging is explored in metastatic central
+  lymph nodes with papillary thyroid cancer for the diagnostic value. (NCT NCT03830242;
+  status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The aim of this study is to make up for the gap by performing a dynamic
+  scan of \<Sup\>18\<Sup\>F-FDG PET/CT on newly diagnosed patients with papillary
+  thyroid carcinoma. Pathological and genomic stud
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03830242 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

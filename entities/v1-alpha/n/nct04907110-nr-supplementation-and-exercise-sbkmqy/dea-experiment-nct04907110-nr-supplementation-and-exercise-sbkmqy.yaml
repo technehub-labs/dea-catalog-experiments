@@ -1,0 +1,64 @@
+id: dea:experiment-nct04907110-nr-supplementation-and-exercise-sbkmqy
+type: Experiment
+name: NCT04907110 — NR Supplementation and Exercise
+description: The number of age-related chronic diseases (like obesity, type 2 diabetes
+  and cardiovascular diseases) is increasing rapidly worldwide, reaching pandemic
+  proportions. These age-related chronic diseases are associated with metabolic disturbances
+  and mitochondrial dysfunction in humans. Nicotinamide adenosine dinucleotide (NAD)
+  levels play an important role in energy metabolism and mitochondrial functioning
+  and indeed it has been shown that high concentrations of NAD+ as well as a high
+  NAD+/NADH ratio are strongly associated with metabolic and mitochondrial health.
+  In contrast, decreased NAD+ bioavailability is reported in both ageing and obese
+  humans as well as in diabetic mice. These findings fueled the idea of influencing
+  NAD+ bioavailability in order to improve metabolic disturbances and mitochondrial
+  dysfunction in humans. Supplementation with nicotinamide riboside (NR), a naturally
+  occurring form of vitamin B3, may provide a way to boost cellular NAD+ levels. However,
+  in contrast to animal studies, NR supplementation in humans has so far been unsuccessful
+  in improving skeletal muscle mitochondrial function, exercise capacity or insulin
+  sensitivity. Recently, it has been suggested that a situation where NAD+ levels
+  become limited, is needed for NR supplementation to exert beneficial health effects.
+  This situation could be achieved by combining exercise and NR supplementation. However,
+  studies combining NR and exercise are lacking, which is why we would like to perform
+  such a study here. (NCT NCT04907110; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The number of age-related chronic diseases (like obesity, type 2 diabetes
+  and cardiovascular diseases) is increasing rapidly worldwide, reaching pandemic
+  proportions. These age-related chronic disease
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04907110 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

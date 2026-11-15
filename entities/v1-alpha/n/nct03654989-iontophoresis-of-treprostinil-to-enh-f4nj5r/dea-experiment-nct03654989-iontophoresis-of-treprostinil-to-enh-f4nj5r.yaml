@@ -1,0 +1,53 @@
+id: dea:experiment-nct03654989-iontophoresis-of-treprostinil-to-enh-f4nj5r
+type: Experiment
+name: NCT03654989 — Iontophoresis of Treprostinil to Enhance Wound Healing in Diabetic
+  Foot Skin Ulcers
+description: Assess the effect of iontophoresis of treprostinil on wound closure over
+  12 weeks, in patients with DFU. In the present study the investigators aim at establishing
+  the proof-of-concept of iontophoresis of treprostinil as a potential treatment of
+  diabetic foot ulcers in humans. The main hypothesis is that in patients with DFUs,
+  the pharmacodynamic effect of a PGI2 analogue potentiates the effect of low-intensity
+  current on microvascular function, tissue oxygenation and healing. (NCT NCT03654989;
+  status TERMINATED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Assess the effect of iontophoresis of treprostinil on wound closure over
+  12 weeks, in patients with DFU. In the present study the investigators aim at establishing
+  the proof-of-concept of iontophoresi
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03654989 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- terminated

@@ -1,0 +1,56 @@
+id: dea:experiment-nct04722653-a-research-study-looking-at-how-the-kjun3p
+type: Experiment
+name: NCT04722653 — A Research Study Looking at How the Medicine NNC0194-0499 Behaves
+  in Japanese and Non-Asian Men
+description: This study looks at how a new medicine called NNC0194-0499 works in the
+  body of Japanese men and non-Asian men. Japanese participants will either get NNC0194-0499
+  or placebo - which treatment participants get is decided by chance. Non-Asian participants
+  will get NNC0194-0499. Participants will get 1 or 2 injections of the study medicine.
+  It will be injected with a needle into a skin fold on the stomach. The study will
+  last for a maximum of 66 days. Participants will have 8 scheduled visits with the
+  study doctor. For 1 of the visits participants will stay at the clinic for 6 days
+  (5 nights). The study includes blood sampling. Participants will not be able to
+  take part in the study if the study doctor thinks there is a risk for participants
+  health. (NCT NCT04722653; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study looks at how a new medicine called NNC0194-0499 works in the
+  body of Japanese men and non-Asian men. Japanese participants will either get NNC0194-0499
+  or placebo - which treatment particip
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04722653 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

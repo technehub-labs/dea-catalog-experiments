@@ -1,0 +1,59 @@
+id: dea:experiment-nct04772313-pegloticase-and-methotrexate-co-admi-8hf5fs
+type: Experiment
+name: NCT04772313 — Pegloticase and Methotrexate Co-administered in Participants With
+  Uncontrolled Gout Who Previously Failed Pegloticase Monotherapy
+description: 'This is a Phase 4, multicenter, open-label trial of pegloticase with
+  methotrexate (MTX) in adult participants with uncontrolled gout who were previously
+  treated with pegloticase without a concomitant immunomodulator and stopped pegloticase
+  due to failure to maintain serum uric acid (sUA) response and/or a clinically mild
+  infusion reaction (IR). Approximately 30 participants will be enrolled. Pegloticase
+  + MTX will be administered for approximately 24 weeks, with an optional extension
+  up to 48 weeks. The trial design will include 5 distinct components: 1. Screening
+  Period, lasting up to 42 days; 2. 6-week MTX Tolerability Assessment Period (hereafter
+  referred to as the MTX Run-in Period); 3. 24-week Pegloticase + MTX Treatment Period,
+  which will include a Week 24/End of Trial/Early Termination Visit (subjects that
+  end MTX and pegloticase treatment prior to the Week 24 will remain on trial for
+  follow up until the Week 24 visit) 4. Optional Pegloticase + MTX Extension Period
+  up to 24 weeks 5. 30-Day Post Treatment Follow -up (NCT NCT04772313; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'This is a Phase 4, multicenter, open-label trial of pegloticase with
+  methotrexate (MTX) in adult participants with uncontrolled gout who were previously
+  treated with pegloticase without a concomitant '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04772313 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

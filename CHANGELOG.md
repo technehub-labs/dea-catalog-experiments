@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-EXP-CAT-06: Canonical Admission Wave
+
+1200 Experiment records promoted from the candidate slot to the canonical slot (provenance ladder completed per record; evidence citations preserved; ids untouched). Index: canonical 1200, candidates 0. All gates green.
+
 ### CR-EXP-CAT-04: Experiment Candidate Admission Batch 02
 
 Admitted 1200 new `Experiment` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +1200, canonical unchanged; queue entries flipped to `admitted`.

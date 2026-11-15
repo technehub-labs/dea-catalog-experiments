@@ -1,0 +1,53 @@
+id: dea:experiment-nct05199688-a-study-to-evaluate-pharmacokinetics-tqnedc
+type: Experiment
+name: NCT05199688 — A Study to Evaluate Pharmacokinetics, Efficacy, Safety, Tolerability,
+  and Pharmacodynamics of Satralizumab in Pediatric Patients With Aquaporin-4 Antibody
+  Positive Neuromyelitis Optica S
+description: This study will primarily evaluate the pharmacokinetics of satralizumab
+  in pediatric patients aged 2-11 years with anti-aquaporin-4 (AQP4) antibody seropositive
+  neuromyelitis optica spectrum disorder (NMOSD). Efficacy, safety, tolerability,
+  and pharmacodynamics will be evaluated in a descriptive manner, given the small
+  number of patients who will be enrolled in this study. (NCT NCT05199688; status
+  RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'This study will primarily evaluate the pharmacokinetics of satralizumab
+  in pediatric patients aged 2-11 years with anti-aquaporin-4 (AQP4) antibody seropositive
+  neuromyelitis optica spectrum disorder '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05199688 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

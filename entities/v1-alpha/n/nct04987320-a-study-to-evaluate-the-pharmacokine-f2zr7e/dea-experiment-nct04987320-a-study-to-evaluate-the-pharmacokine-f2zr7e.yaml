@@ -1,0 +1,49 @@
+id: dea:experiment-nct04987320-a-study-to-evaluate-the-pharmacokine-f2zr7e
+type: Experiment
+name: NCT04987320 — A Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety
+  and Tolerability of Olpasiran in Chinese Participants With Elevated Serum Lipoprotein(a)
+description: The main objective of this study is to evaluate the pharmacokinetics
+  (PK) of a single dose of Olpasiran in Chinese participants with elevated serum lipoprotein(a)
+  (Lp\[a\]). (NCT NCT04987320; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The main objective of this study is to evaluate the pharmacokinetics (PK)
+  of a single dose of Olpasiran in Chinese participants with elevated serum lipoprotein(a)
+  (Lp\[a\]).
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04987320 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

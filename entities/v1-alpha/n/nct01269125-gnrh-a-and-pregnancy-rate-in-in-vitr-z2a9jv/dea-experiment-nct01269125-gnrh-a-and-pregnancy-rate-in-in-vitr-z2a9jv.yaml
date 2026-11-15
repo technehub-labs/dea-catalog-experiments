@@ -1,0 +1,53 @@
+id: dea:experiment-nct01269125-gnrh-a-and-pregnancy-rate-in-in-vitr-z2a9jv
+type: Experiment
+name: NCT01269125 — GnRH-a and Pregnancy Rate in In Vitro Fertilization (IVF) Cycles.
+description: The investigators attempted to establish a rationale for the Gonadotropin
+  Releasing Hormone-agonist (GnRH-a) administration, post-laparoscopically, in women
+  with mild endometriosis (until stage II, according to AFS) who underwent IVF-ET
+  procedure. Since GnRH-a reduces cytokine's concentration in serum (Iwabe et al.,
+  1998; Iwabe et al., 2003) and peritoneal fluid of women with endometriosis (Taketani
+  et al., 1992) the investigators hypothesized that GnRH-a can reduces also cytokine's
+  concentration in the follicular fluid and this action may improve the oocyte quality
+  and the fertility of these women. (NCT NCT01269125; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The investigators attempted to establish a rationale for the Gonadotropin
+  Releasing Hormone-agonist (GnRH-a) administration, post-laparoscopically, in women
+  with mild endometriosis (until stage II, ac
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01269125 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

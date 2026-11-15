@@ -1,0 +1,53 @@
+id: dea:experiment-nct02814929-incidence-risk-factors-and-severity-4zqssx
+type: Experiment
+name: NCT02814929 — Incidence, Risk Factors and Severity of Retinopathy of Prematurity
+  (ROP) in Turkey
+description: The study includes preterm infants who are being screened for ROP between
+  April 1,2016 and April 30, 2017 in 69 neonatal intensive care units (NICUs) in Turkey.
+  Infants with birth weight (BW) of ≤1500 g or ≤32 weeks' gestation and those with
+  a BW of greater than 1500 g or gestational age (GA) \>32 weeks with an unstable
+  clinical course are included. The incidence of any ROP, severe ROP and treatment
+  modalities will be determined. The risk factors for ROP development will also be
+  evaluated. (NCT NCT02814929; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The study includes preterm infants who are being screened for ROP between
+  April 1,2016 and April 30, 2017 in 69 neonatal intensive care units (NICUs) in Turkey.
+  Infants with birth weight (BW) of ≤1500
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02814929 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

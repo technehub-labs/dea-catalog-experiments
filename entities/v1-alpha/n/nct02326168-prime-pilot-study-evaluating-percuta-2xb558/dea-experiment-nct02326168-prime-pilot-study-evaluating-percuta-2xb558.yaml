@@ -1,0 +1,55 @@
+id: dea:experiment-nct02326168-prime-pilot-study-evaluating-percuta-2xb558
+type: Experiment
+name: 'NCT02326168 — PRIME: Pilot Study Evaluating Percutaneous Vaccination of BCG
+  for Bladder Cancer'
+description: Approximately 25 subjects will be enrolled and receive a standard WHO
+  adult potency BCG immunization (1cc/50mg live mycobacilli) in the deltoid. Following
+  a wait period after BCG vaccination, patients will then receive standard strength
+  BCG intravesical therapy once a week for a total of 6 weeks. The BCG is instilled
+  and held in the bladder for approximately 2 hours. While the BCG is retained in
+  the bladder the patient should be repositioned every 30 minutes to maximize bladder
+  surface exposure to the agent. Patients will undergo a cystoscopy every 3 months
+  following most recent TURBT. Study duration last approximately 6 months. (NCT NCT02326168;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Approximately 25 subjects will be enrolled and receive a standard WHO
+  adult potency BCG immunization (1cc/50mg live mycobacilli) in the deltoid. Following
+  a wait period after BCG vaccination, patients
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02326168 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

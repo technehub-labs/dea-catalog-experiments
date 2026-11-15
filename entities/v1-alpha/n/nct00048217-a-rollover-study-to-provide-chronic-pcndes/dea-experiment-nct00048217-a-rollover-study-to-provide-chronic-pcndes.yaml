@@ -1,0 +1,51 @@
+id: dea:experiment-nct00048217-a-rollover-study-to-provide-chronic-pcndes
+type: Experiment
+name: NCT00048217 — A Rollover Study to Provide Chronic T-1249 to Patients Who Completed
+  Study T1249-102
+description: Patients who complete study T1249-102 (must be currently failing a T-20
+  containing regimen to participate in this study) will receive T-1249 at a dose of
+  200mg daily in combination with a background antiretroviral regimen for 96 weeks.
+  Only patients that participated in study T1249-102 can participate in study T1249-105.
+  (NCT NCT00048217; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Patients who complete study T1249-102 (must be currently failing a T-20
+  containing regimen to participate in this study) will receive T-1249 at a dose of
+  200mg daily in combination with a background a
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00048217 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

@@ -1,0 +1,58 @@
+id: dea:experiment-nct07499310-the-safety-and-effectiveness-of-q-th-jhq3jg
+type: Experiment
+name: NCT07499310 — The Safety and Effectiveness of Q Therapeutic System, Frequency-tuned
+  Electromagnetic Field Treatment in Facilitating the Recovery of Patients With Chronic
+  Stroke.
+description: 'This trial will test a promising new intervention to promote post-stroke
+  neural reorganization and functional recovery. The overall aim is to identify a
+  systematic, methodological approach to system fitting, training protocols, and optimization
+  of collecting outcome measures. Aim 1: Assess the safety of using the Q Therapeutic
+  (BQ 3.0) System, including in-clinic and at- extremity rehabilitation training for
+  individuals with chronic stroke, as determined by the number of adverse events.
+  Device deficiencies will also be recorded to detect operational reliability. Aim
+  2: Evaluate the effectiveness of the Q Therapeutic (BQ 3.0) System for individuals
+  with chronic stroke in improving upper extremity function as determined by change
+  in functional outcome measures after 3-month treatment, including in-clinic and
+  at-home sessions. (NCT NCT07499310; status NOT_YET_RECRUITING).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This trial will test a promising new intervention to promote post-stroke
+  neural reorganization and functional recovery. The overall aim is to identify a
+  systematic, methodological approach to system f
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07499310 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- not-yet-recruiting

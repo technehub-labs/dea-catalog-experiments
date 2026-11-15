@@ -1,0 +1,50 @@
+id: dea:experiment-nct00728637-evaluating-the-effectiveness-of-a-fa-kmzvdu
+type: Experiment
+name: NCT00728637 — Evaluating the Effectiveness of a Family Heart Health Educational
+  Program (The FIT-Heart Study)
+description: The primary objective of the FIT Heart Study was to test the effectiveness
+  of a hospital-based standardized screening and educational intervention targeted
+  to family members of patients hospitalized with CVD, to increase adherence to CVD
+  prevention guidelines. (NCT NCT00728637; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The primary objective of the FIT Heart Study was to test the effectiveness
+  of a hospital-based standardized screening and educational intervention targeted
+  to family members of patients hospitalized w
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00728637 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

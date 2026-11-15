@@ -1,0 +1,69 @@
+id: dea:experiment-nct05344417-low-pressure-pneumoperitoneum-and-po-vy8kpc
+type: Experiment
+name: NCT05344417 — Low Pressure Pneumoperitoneum and Postoperative Ileus
+description: The investigators are testing the hypothesis that lower pressure pneumoperitoneum
+  during laparoscopic large bowel surgery protects the bowel from postoperative ileus
+  and bowel dysfunction leading to faster recovery and discharge from the hospital.
+  Our study will focus on the effects of high or low intraperitoneal pressure as well
+  as pressure variations on the course of postoperative ileus, time to hospital discharge,
+  and postoperative gastrointestinal dysfunction in adult patients undergoing laparoscopic
+  large bowel resection (i.e., sigmoidectomy and right colectomy). A randomized parallel
+  group study will be conducted involving 5 arms of surgical patients to test whether
+  differences on postoperative ileus outcome parameters occur between high (15 mm
+  Hg) and low pressure pneumoperitoneum (8-12 mm Hg), as well as whether there are
+  differences between the 2 insufflation devices that provide constant or variable
+  intrabdominal pressure throughout the laparoscopic surgery. For high pressure pneumoperitoneum,
+  either neostigmine or sugammadex are used for reversal of moderate neuromuscular
+  blockade. For low pressure pneumoperitoneum, sugammadex is used for reversal of
+  deep neuromuscular blockade. The investigators plan to use 2 types of gas insufflation
+  devices, one of which will provide a relatively stable pressure level throughout
+  surgery (AirSeal® device), and the second one will provide a more variable pressure
+  (Olympus standard insufflation device). Using both pressure modalities, the investigators
+  will study the effects of different pressure characteristics on the course of postoperative
+  ileus, duration of in-hospital treatment, pain level, and the stability of hemodynamic
+  and respiratory parameters during surgery. Changes in intrabdominal pressure during
+  the surgery will be monitored and recorded using a custom software for later analysis
+  of fluctuations in pressure to relate them to outcomes. Other parameters will be
+  obtained from EPIC (IHIS) medical charts. In add
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The investigators are testing the hypothesis that lower pressure pneumoperitoneum
+  during laparoscopic large bowel surgery protects the bowel from postoperative ileus
+  and bowel dysfunction leading to f
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05344417 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

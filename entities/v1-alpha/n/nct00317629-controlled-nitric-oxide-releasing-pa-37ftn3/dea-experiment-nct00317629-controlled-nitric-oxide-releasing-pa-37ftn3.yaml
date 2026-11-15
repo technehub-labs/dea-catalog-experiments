@@ -1,0 +1,70 @@
+id: dea:experiment-nct00317629-controlled-nitric-oxide-releasing-pa-37ftn3
+type: Experiment
+name: NCT00317629 — Controlled Nitric Oxide Releasing Patch Versus Meglumine Antimoniate
+  in the Treatment of Cutaneous Leishmaniasis
+description: Cutaneous leishmaniasis is a worldwide disease, endemic in 88 countries,
+  that has shown an increasing incidence over the last two decades. So far, pentavalent
+  antimony compounds have been considered the treatment of choice, with a percentage
+  of cure of about 85%. However, the high efficacy of these drugs is counteracted
+  by their many disadvantages and adverse events. Previous studies have shown nitric
+  oxide to be a potential alternative treatment when administered topically with no
+  serious adverse events. However, due to the unstable nitric oxide release, the topical
+  donors needed to be applied frequently, making the adherence to the treatment difficult.
+  The electrospinning technique has allowed the production of a multilayer transdermal
+  patch that produces a continuous and stable nitric oxide release. The main objective
+  of this study is to evaluate this novel nitric oxide topical donor for the treatment
+  of cutaneous leishmaniasis. A double-blind, randomized, double-masked, placebo-controlled
+  clinical trial, including 620 patients from endemic areas for leishmaniasis in Colombia
+  was designed to investigate whether this patch is as effective as meglumine antimoniate
+  for the treatment of cutaneous leishmaniasis but with less adverse events. Subjects
+  with ulcers characteristic of cutaneous leishmaniasis will be medically evaluated
+  and laboratory tests and parasitological confirmation performed. After checking
+  the inclusion/exclusion criteria, the patients will be randomly assigned to one
+  of two groups. During 20 days Group 1 will receive simultaneously meglumine antimoniate
+  and placebo of nitric oxide patches while Group 2 will receive placebo of meglumine
+  antimoniate and active nitric oxide patches. During the treatment visits, the medications
+  will be administered daily and the presence of adverse events assessed. During the
+  follow-up, the research group will visit the patients at days 21, 45, 90 and 180.
+  The healing process of the ulcer, the health of the participant
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Cutaneous leishmaniasis is a worldwide disease, endemic in 88 countries,
+  that has shown an increasing incidence over the last two decades. So far, pentavalent
+  antimony compounds have been considered t
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00317629 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- terminated

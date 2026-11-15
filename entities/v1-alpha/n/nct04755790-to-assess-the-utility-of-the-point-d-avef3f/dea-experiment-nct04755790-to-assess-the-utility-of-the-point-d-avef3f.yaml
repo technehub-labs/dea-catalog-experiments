@@ -1,0 +1,55 @@
+id: dea:experiment-nct04755790-to-assess-the-utility-of-the-point-d-avef3f
+type: Experiment
+name: NCT04755790 — To Assess the Utility of the Point Digit in a Clinical Take-home
+  Study
+description: This study will allow us to assess whether the Point Digit confers functional
+  and psychological benefit to persons with partial hand amputations in an unconstrained
+  environment. The use of the Point Digit outside of the laboratory will allow for
+  a wider variety of uses and for a more realistic simulation of the product being
+  used in the field. This well-controlled trial (without randomization of subjects)
+  will produce the first Level II-1 medical evidence in our field of partial hand
+  prosthetic design as described by the 1989 U.S. Preventive Services Task Force.
+  Furthermore, this study will provide important data to support providers who are
+  requesting reimbursement from payers. (NCT NCT04755790; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study will allow us to assess whether the Point Digit confers functional
+  and psychological benefit to persons with partial hand amputations in an unconstrained
+  environment. The use of the Point D
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04755790 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

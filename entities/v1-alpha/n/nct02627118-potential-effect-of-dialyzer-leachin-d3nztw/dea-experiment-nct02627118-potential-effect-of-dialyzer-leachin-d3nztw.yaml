@@ -1,0 +1,53 @@
+id: dea:experiment-nct02627118-potential-effect-of-dialyzer-leachin-d3nztw
+type: Experiment
+name: NCT02627118 — Potential Effect of Dialyzer Leaching of BPA From the Fresenius
+  Optiflux 160NR Compared to the Nipro ELISIO-15H
+description: The aim of the study is to identify hepatic enzyme and estrogen-dependent
+  biochemical changes that occur when dialysis patients are treated with dialyzers
+  known to leach BPA (Bisphenol-A) into the blood, such as the commercially available
+  Fresenius F160NR, as compared with the same chemical evaluations in patients being
+  treated with the non BPA containing Nipro Elisio-15H dialyzer. Evaluations of patient's
+  chemistries will be obtained prior to and after 2 months of standard dialysis treatments
+  with each dialyzer. (NCT NCT02627118; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The aim of the study is to identify hepatic enzyme and estrogen-dependent
+  biochemical changes that occur when dialysis patients are treated with dialyzers
+  known to leach BPA (Bisphenol-A) into the blo
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02627118 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

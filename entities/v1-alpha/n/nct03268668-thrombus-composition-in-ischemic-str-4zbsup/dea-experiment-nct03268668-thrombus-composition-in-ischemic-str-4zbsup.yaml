@@ -1,0 +1,62 @@
+id: dea:experiment-nct03268668-thrombus-composition-in-ischemic-str-4zbsup
+type: Experiment
+name: 'NCT03268668 — Thrombus Composition in Ischemic Stroke: Analysis of the Correlation
+  With Plasma Biomarkers, Efficacy of Treatment, Etiology and Prognosis'
+description: The recent validation of thrombectomy in addition to thrombolysis with
+  intravenous administration of alteplase suggests a major revolution in the management
+  of acute strokes. This treatment option also opens up a new field of research, making
+  possible the analysis of the clot responsible for intracranial occlusion. Indeed,
+  in about 30% of the cases, the thrombectomy procedure makes it possible to retrieve
+  either partially or completely the clot. Previous studies have analyzed the correlation
+  between the composition of the thrombus and the etiology of stroke. Their discordant
+  results do not yet make it possible to distinguish a particular profile of thrombus
+  according to etiology. Other studies have shown a correlation between the proportion
+  of red blood cells in a thrombus and the likelihood that it is visible in MRI or
+  cerebral scanning. More recently, one study has demonstrated a correlation between
+  the presence of lymphocytes in the thrombus and an atheromatous etiology. The main
+  limitations of these studies are the small number of patients included, the high
+  variability of conservation protocols and the absence of plasma data, which does
+  not allow for research on the correlation between clot composition and plasma biomarkers.
+  (NCT NCT03268668; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The recent validation of thrombectomy in addition to thrombolysis with
+  intravenous administration of alteplase suggests a major revolution in the management
+  of acute strokes. This treatment option als
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03268668 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

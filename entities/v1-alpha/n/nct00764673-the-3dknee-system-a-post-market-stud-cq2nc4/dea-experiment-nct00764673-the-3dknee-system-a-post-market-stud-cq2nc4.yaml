@@ -1,0 +1,50 @@
+id: dea:experiment-nct00764673-the-3dknee-system-a-post-market-stud-cq2nc4
+type: Experiment
+name: 'NCT00764673 — The 3DKnee™ System: A Post-Market Study'
+description: The purpose of this study is to evaluate the survivorship and efficacy
+  of the Encore 3DKnee™ system in a group of patients who will receive the 3DKnee™
+  as a primary (first) orthopedic implant in the knee. Each knee will be designated
+  as a separate subject and followed for a period of 2 years. (NCT NCT00764673; status
+  COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The purpose of this study is to evaluate the survivorship and efficacy
+  of the Encore 3DKnee™ system in a group of patients who will receive the 3DKnee™
+  as a primary (first) orthopedic implant in the k
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00764673 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

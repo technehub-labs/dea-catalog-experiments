@@ -1,0 +1,52 @@
+id: dea:experiment-nct07572942-laser-based-map-tests-in-motoric-cog-pasg35
+type: Experiment
+name: NCT07572942 — Laser-Based Map Tests in Motoric Cognitive Risk Syndrome
+description: This study aims to evaluate the validity and reliability of neuroscience-based
+  visual laser feedback map tests in individuals with Motoric Cognitive Risk Syndrome
+  (MCRS). The developed assessment protocol integrates visuospatial processing, reaction
+  time, and upper extremity motor control within a single task. Construct validity
+  will be examined through correlations with reaction time and proprioception measurements,
+  and test-retest reliability will be assessed to determine measurement consistency.
+  (NCT NCT07572942; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study aims to evaluate the validity and reliability of neuroscience-based
+  visual laser feedback map tests in individuals with Motoric Cognitive Risk Syndrome
+  (MCRS). The developed assessment prot
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07572942 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

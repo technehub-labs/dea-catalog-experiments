@@ -1,0 +1,50 @@
+id: dea:experiment-nct06522737-a-study-of-duvelisib-versus-gemcitab-srsvtg
+type: Experiment
+name: NCT06522737 — A Study of Duvelisib Versus Gemcitabine or Bendamustine in Participants
+  With Relapsed/Refractory Nodal T Cell Lymphoma With T Follicular Helper (TFH) Phenotype
+description: The study will evaluate the progression-free survival benefit of duvelisib
+  monotherapy as compared to investigator's choice of gemcitabine or bendamustine
+  in participants with relapsed/refractory nodal T cell lymphoma with TFH phenotype.
+  (NCT NCT06522737; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The study will evaluate the progression-free survival benefit of duvelisib
+  monotherapy as compared to investigator's choice of gemcitabine or bendamustine
+  in participants with relapsed/refractory noda
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06522737 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

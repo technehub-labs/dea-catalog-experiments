@@ -1,0 +1,49 @@
+id: dea:experiment-nct07741929-patient-and-provider-perspectives-on-xc6u3e
+type: Experiment
+name: NCT07741929 — Patient and Provider Perspectives on Genetic Risk Profiling
+description: A qualitative interview study exploring the patient and provider perspectives
+  on the clinical utility of genetic risk profiling in routine clinical practice.
+  The findings from the study may contribute towards future research and informing
+  clinical practice. (NCT NCT07741929; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: A qualitative interview study exploring the patient and provider perspectives
+  on the clinical utility of genetic risk profiling in routine clinical practice.
+  The findings from the study may contribute
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07741929 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

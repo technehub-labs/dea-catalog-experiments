@@ -1,0 +1,54 @@
+id: dea:experiment-nct06746337-imagine-pilot-trial-of-a-digital-gro-ba6w76
+type: Experiment
+name: 'NCT06746337 — IMAGINE: Pilot Trial of a Digital Group Intervention to Prevent
+  Perinatal Depression'
+description: 'The goal of this clinical trial is to evaluate if a digital group intervention
+  (named IMAGINE) can prevent depression in perinatal populations. The main questions
+  it aims to answer are: Does IMAGINE engage cognitive behavioral therapy targets?
+  Does IMAGINE lead to lower depression scores? Is IMAGINE acceptable, appropriate,
+  usable and feasible? Participants will be randomized to either participate in an
+  IMAGINE group for 12 weeks or receive standard of care. Participants will respond
+  to questionnaires at enrollment and study visits at 12 and 24 weeks after enrollment.
+  (NCT NCT06746337; status ACTIVE_NOT_RECRUITING).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The goal of this clinical trial is to evaluate if a digital group intervention
+  (named IMAGINE) can prevent depression in perinatal populations. The main questions
+  it aims to answer are: Does IMAGINE e'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06746337 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- active-not-recruitin

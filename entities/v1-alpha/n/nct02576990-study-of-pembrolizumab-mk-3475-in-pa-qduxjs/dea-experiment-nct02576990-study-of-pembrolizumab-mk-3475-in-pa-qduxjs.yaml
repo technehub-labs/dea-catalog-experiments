@@ -1,0 +1,56 @@
+id: dea:experiment-nct02576990-study-of-pembrolizumab-mk-3475-in-pa-qduxjs
+type: Experiment
+name: NCT02576990 — Study of Pembrolizumab (MK-3475) in Participants With Relapsed
+  or Refractory Primary Mediastinal Large B-cell Lymphoma or Relapsed or Refractory
+  Richter Syndrome (MK-3475-170/KEYNOTE-170
+description: In this study, participants with relapsed or refractory primary mediastinal
+  large B-cell lymphoma (rrPMBCL) or relapsed or refractory Richter Syndrome (rrRS)
+  will receive pembrolizumab (MK-3475). The efficacy of pembrolizumab in the treatment
+  of rrPMBCL and rrRS will be evaluated. The primary study hypothesis is that intravenous
+  (IV) administration of single agent pembrolizumab to the rrPMBCL cohort will result
+  in an Objective Response Rate (ORR) of greater than 15% using the International
+  Working Group (IWG) response criteria (Cheson, 2007) by independent central review.
+  Effective with Protocol Amendment 04, enrollment into the rrRS cohort was closed.
+  (NCT NCT02576990; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'In this study, participants with relapsed or refractory primary mediastinal
+  large B-cell lymphoma (rrPMBCL) or relapsed or refractory Richter Syndrome (rrRS)
+  will receive pembrolizumab (MK-3475). The '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02576990 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

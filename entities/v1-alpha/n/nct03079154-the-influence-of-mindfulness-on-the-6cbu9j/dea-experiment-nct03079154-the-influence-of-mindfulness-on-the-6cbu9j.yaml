@@ -1,0 +1,55 @@
+id: dea:experiment-nct03079154-the-influence-of-mindfulness-on-the-6cbu9j
+type: Experiment
+name: NCT03079154 — The Influence of Mindfulness on the Link Between Consumer Culture
+  Values and Well-being
+description: 'The study is a three-arm intervention, where students are randomly assigned
+  to one of three conditions: Teacher-led group-based MBCT, Self-guided MBCT using
+  an audio book, or ''wait list'' control. Pre-intervention, respondents complete
+  a questionnaire assessing self, values, psychological processes related to self,
+  and well-being. Post-intervention, respondents complete the same questionnaire,
+  and then take part in a laboratory-based study which assesses behaviours related
+  to the variables measured in the questionnaires. We are aiming for a sample size
+  of 180 students at Sussex, 60 in each intervention arm. (NCT NCT03079154; status
+  COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The study is a three-arm intervention, where students are randomly assigned
+  to one of three conditions: Teacher-led group-based MBCT, Self-guided MBCT using
+  an audio book, or ''wait list'' control. Pre-'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03079154 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

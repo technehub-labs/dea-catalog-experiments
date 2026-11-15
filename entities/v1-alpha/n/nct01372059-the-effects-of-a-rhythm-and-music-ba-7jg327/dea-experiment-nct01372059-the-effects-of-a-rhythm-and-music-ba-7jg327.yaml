@@ -1,0 +1,71 @@
+id: dea:experiment-nct01372059-the-effects-of-a-rhythm-and-music-ba-7jg327
+type: Experiment
+name: NCT01372059 — The Effects of a Rhythm and Music-based Therapy Program and Therapeutic
+  Riding in Late Recovery Phase Following Stroke
+description: 'The initiative to the study is based on the fact that various forms
+  of enriched environments and multimodal stimulation are found to have positive influences
+  on motivation and psychosocial well-being and have been shown to facilitate multiple
+  processes in the brain leading to structural regeneration and functional recovery.
+  Since there is a lack of rehabilitation programs that encompass all dimensions of
+  a stroke survivor''s life researchers agree upon the need for a rehabilitation program
+  that addresses both the social and physical needs of the patients. The aim with
+  the project is to investigate whether it is possible to improve the life situation
+  among patients with a history of stroke through a rhythm and music method and therapeutic
+  riding. To get insights in the underlying mechanisms our research also focuses on
+  relevant physiological, neurobiological and psychosocial mechanisms induced by the
+  interventions. The hypothesis is that both treatment methods will mainly enhance
+  participants'' degree of participation. The study is a randomized controlled trial
+  where about 123 participants (50-75 years old) who had their stroke incident 1 -
+  5 years ago will be consecutively included and randomly allocated to the following
+  three groups: a) Ronnie Gardiner Rhythm Music Method (RGRM) b) therapeutic riding
+  c) a control group receiving RGRM after 9 months. Treatment proceeds during 12 weeks
+  and evaluation takes place pre- and post intervention, and 12 and 24 weeks after
+  the treatment is finalized. The evaluation consists of a thorough neuropsychological
+  assessment, a physiotherapeutic assessment, sampling of blood and questionnaires
+  covering mental, psychosocial, physical and psychological well-being. Interviews
+  are also conducted in order to map the participants'' experiences from the two treatment
+  programs. Specially designed interviews are also planned to be carried through with
+  participants having aphasia. So far, there is only empirical support suggesting
+  that RGRM has '
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The initiative to the study is based on the fact that various forms of
+  enriched environments and multimodal stimulation are found to have positive influences
+  on motivation and psychosocial well-being '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01372059 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

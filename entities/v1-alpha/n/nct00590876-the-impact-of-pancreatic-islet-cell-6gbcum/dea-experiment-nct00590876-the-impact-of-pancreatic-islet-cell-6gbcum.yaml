@@ -1,0 +1,61 @@
+id: dea:experiment-nct00590876-the-impact-of-pancreatic-islet-cell-6gbcum
+type: Experiment
+name: NCT00590876 — The Impact of Pancreatic Islet Cell Allotransplantation on Cognitive
+  Function in Type 1 Diabetes Mellitus
+description: 'In patients with Type 1 Diabetes Mellitus, hypoglycemia (low blood sugar)
+  is the rate-limiting step to achieve glucose level control. As a result, understanding
+  the body''s responses (including the brain''s response) to hypoglycemia is essential
+  for the effective treatment of patients with T1DM. The purpose of this research
+  is to determine whether pancreatic islet cell allotransplantation to restore normoglycemia
+  (normal blood glucose levels) in Type 1 Diabetic patients with hypoglycemia unawareness
+  alters brain fuel utilization and cognitive performance under euglycemic (blood
+  sugar at 100 mg/dl) and hypoglycemic (blood sugar at 50 mg/dl) conditions. Three
+  groups of subjects will be studied: (1) T1DM patients with a history of severe hypoglycemia
+  and/or hypoglycemia unawareness who have been selected for pancreatic islet cell
+  allotransplantation; (2) T1DM patients who also have a history of severe hypoglycemia
+  and/or hypoglycemia unawareness; (3) nondiabetic subjects. All subjects will undergo
+  identical testing including: (a) screening; (b) neuropsychological testing; (c)
+  and functional magnetic resonance imaging (fMRI) during euglycemic and hypoglycemic
+  conditions. (NCT NCT00590876; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: In patients with Type 1 Diabetes Mellitus, hypoglycemia (low blood sugar)
+  is the rate-limiting step to achieve glucose level control. As a result, understanding
+  the body's responses (including the bra
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00590876 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

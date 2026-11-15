@@ -1,0 +1,58 @@
+id: dea:experiment-nct04489589-midodrine-for-the-early-liberation-o-tpxz9g
+type: Experiment
+name: NCT04489589 — Midodrine for the Early Liberation of Vasopressor Support in the
+  ICU
+description: Vasopressors are medications that are given intravenously to increase
+  the blood pressure of patients with illnesses that cause dangerous blood pressure
+  drops. When a doctor prescribes a vasopressor, they ask that the dose be adjusted
+  to achieve a specific blood pressure. This kind of medical support with intravenous
+  (IV) vasopressors are usual treatments in intensive care unit (ICU) settings. Oral
+  vasopressors, such as midodrine, have been historically used to maintain blood pressure
+  in non-critically ill patients. In this study, the investigators will be using midodrine
+  to reduce the need for IV vasopressors as blood pressure improves during the stay
+  in the ICU The LIBERATE pilot study will evaluate the role of midodrine for patients
+  with low blood pressure in the ICU. The investigators are planning on enrolling
+  up to 20 study participants to evaluate this question in the General Systems ICU
+  at the University of Alberta Hospital. (NCT NCT04489589; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Vasopressors are medications that are given intravenously to increase
+  the blood pressure of patients with illnesses that cause dangerous blood pressure
+  drops. When a doctor prescribes a vasopressor, t
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04489589 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

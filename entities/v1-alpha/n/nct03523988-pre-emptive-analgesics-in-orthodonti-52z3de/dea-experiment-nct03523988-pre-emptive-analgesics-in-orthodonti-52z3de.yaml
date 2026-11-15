@@ -1,0 +1,49 @@
+id: dea:experiment-nct03523988-pre-emptive-analgesics-in-orthodonti-52z3de
+type: Experiment
+name: NCT03523988 — Pre-emptive Analgesics in Orthodontic Treatment
+description: This study is designed to determine if the preemptive use of a combination
+  of acetaminophen and ibuprofen is more effective in reducing pain following orthodontic
+  tooth movement when compared to the use of acetaminophen and ibuprofen alone. (NCT
+  NCT03523988; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study is designed to determine if the preemptive use of a combination
+  of acetaminophen and ibuprofen is more effective in reducing pain following orthodontic
+  tooth movement when compared to the u
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03523988 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

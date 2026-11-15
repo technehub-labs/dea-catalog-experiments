@@ -1,0 +1,60 @@
+id: dea:experiment-nct00507689-truvada-versus-truvada-plus-hepatiti-jnva37
+type: Experiment
+name: NCT00507689 — Truvada Versus Truvada Plus Hepatitis B Immunoglobulin (HBIg)
+  in Prevention of Chronic Hepatitis B Recurrence Post Liver Transplant
+description: The objective of this 96-week study was to evaluate the safety and antiviral
+  efficacy of emtricitabine/tenofovir disoproxil fumarate (FTC/TDF, coformulated;
+  Truvada®) with or without hepatitis B immunoglobulin (HBIg) in preventing the recurrence
+  of chronic hepatitis B following liver transplantation, in participants who were
+  chronically infected with hepatitis B prior to transplantation. Prior to enrollment,
+  participants were required to have received at least 12 weeks of HBIg therapy following
+  liver transplantation. Enrolled participants then received FTC/TDF plus HBIg for
+  an initial 24-week pre-randomization treatment period. Participants who completed
+  the pre-randomization period and who achieved sustained viral suppression were randomized
+  to continue treatment with FTC/TDF with or without HBIg for an additional 72 weeks
+  (randomized period). The antiviral efficacy of treatment was assessed by measuring
+  hepatitis B virus levels in the blood (HBV DNA). Safety and tolerability was monitored
+  by assessing adverse events and various laboratory parameters. (NCT NCT00507689;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The objective of this 96-week study was to evaluate the safety and antiviral
+  efficacy of emtricitabine/tenofovir disoproxil fumarate (FTC/TDF, coformulated;
+  Truvada®) with or without hepatitis B immun
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00507689 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

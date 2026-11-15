@@ -1,0 +1,48 @@
+id: dea:experiment-nct07390617-a-study-of-neuropathy-caused-by-enfo-jcfxgy
+type: Experiment
+name: NCT07390617 — A Study of Neuropathy Caused by Enfortumab Vedotin in People With
+  Urothelial Carcinoma
+description: The purpose of this study is to see how results of nerve tests change
+  in people with urothelial cancer who receive treatment with enfortumab vedotin (EV)
+  (NCT NCT07390617; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The purpose of this study is to see how results of nerve tests change
+  in people with urothelial cancer who receive treatment with enfortumab vedotin (EV)
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07390617 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

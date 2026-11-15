@@ -1,0 +1,58 @@
+id: dea:experiment-nct07064551-evaluation-study-of-medical-social-c-zex438
+type: Experiment
+name: NCT07064551 — Evaluation Study of Medical-Social Collaboration Model for Middle-aged
+  and Older Adults With Depressive Symptoms
+description: 'The goal of this clinical trial is to learn if a medical-social collaboration
+  model works to reduce depressive symptoms in middle-aged and older adults with depressive
+  symptoms who are waiting for their first psychiatric appointment. Secondary outcomes
+  of the study include reduced anxiety symptoms, reduced loneliness, reduced rumination,
+  reduced self-criticism, improved self-reassurance, improved resilience, improved
+  self-efficacy, improved health-related quality of life, as well as improved quality-adjusted
+  life years, and reduced healthcare service utilisation. Researchers will compare
+  a medical-social collaboration model to a self-management booklet. Participants
+  will: * Receive CBT-based stepped-care interventions through the medical-social
+  collaboration model or a self-management booklet. * Complete a survey about their
+  mental health and service use every three months until their first psychiatric appointment.
+  (NCT NCT07064551; status RECRUITING).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The goal of this clinical trial is to learn if a medical-social collaboration
+  model works to reduce depressive symptoms in middle-aged and older adults with depressive
+  symptoms who are waiting for the
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07064551 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

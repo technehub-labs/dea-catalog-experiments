@@ -1,0 +1,50 @@
+id: dea:experiment-nct01080586-bioequivalence-study-of-cyclosporine-9zq5km
+type: Experiment
+name: NCT01080586 — Bioequivalence Study of Cyclosporine 100mg Capsule Under Fed Condition
+description: To demonstrate bioequivalence between Test Product (A):Cyclosporine Soft
+  Gelatin Capsules Modified 100 mg manufactured by Panacea Biotec Ltd, India and the
+  corresponding Reference Product (B):Neoral (Cyclosporine capsules,USP)Modified 100mg
+  manufactured by Novartis Pharmaceuticals Corporation, New Jersey, in 78 healthy
+  adult male subjects under fed condition. (NCT NCT01080586; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: To demonstrate bioequivalence between Test Product (A):Cyclosporine Soft
+  Gelatin Capsules Modified 100 mg manufactured by Panacea Biotec Ltd, India and the
+  corresponding Reference Product (B):Neoral (
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01080586 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

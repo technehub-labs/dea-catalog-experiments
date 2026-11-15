@@ -1,0 +1,62 @@
+id: dea:experiment-nct06535217-explainable-machine-learning-for-the-mw2muz
+type: Experiment
+name: NCT06535217 — Explainable Machine Learning for the Assessment of Donor Grafts
+  in Liver Transplantation
+description: Clinically, organ evaluation generally performed by the senior surgeons
+  based on their experience and the visual and tactual inspection of the graft during
+  procurement. However, it is proved that transplant surgeons intuition in the evaluation
+  of donor risk and the estimation of steatosis is inconsistent and usually inaccurate.
+  Besides, graft assessment is a dynamic process refer to amount of complex factors,
+  which is considered to be an incredibly complicated relationship that is nonlinear
+  in nature. Unfortunately, the classical statistic techniques in vogue such as multiple
+  regression require the statistical assumption of independent and linear relationships
+  between explanatory and outcome variables, and fail to analyse a large number of
+  variables. We attempted to develop liver graft assessment models by predicting postoperative
+  DGF using several ML techniques. Secondly, the best prediction model was selected
+  by comparing the performance of different AI algorithms and logistic regression.
+  Finally, we sought to explain the decision made by AI algorithms using a visualization
+  algorithm based on the best prediction model, helping clinicians evaluate specific
+  organ and whether to receive that may develop DGF postoperatively. (NCT NCT06535217;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Clinically, organ evaluation generally performed by the senior surgeons
+  based on their experience and the visual and tactual inspection of the graft during
+  procurement. However, it is proved that tran
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06535217 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

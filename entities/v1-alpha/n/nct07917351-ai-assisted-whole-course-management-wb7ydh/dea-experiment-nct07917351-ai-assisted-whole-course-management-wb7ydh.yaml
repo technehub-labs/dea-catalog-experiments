@@ -1,0 +1,59 @@
+id: dea:experiment-nct07917351-ai-assisted-whole-course-management-wb7ydh
+type: Experiment
+name: 'NCT07917351 — AI-Assisted Whole-Course Management for Medication Safety and
+  Healthcare Burden in Advanced Solid Tumors: A Prospective Controlled Study'
+description: This is a prospective, single-center, controlled real-world study in
+  patients with advanced solid tumors (stage III-IV) receiving chemotherapy, targeted
+  therapy, immunotherapy, or endocrine therapy. Participants who choose the digital
+  management group use a smartphone-based oncology management application with medication
+  reminders, AI-assisted laboratory report interpretation, adverse event self-reporting,
+  and clinician alerts for critical values. Participants who choose the conventional
+  group receive routine outpatient follow-up and telephone contact without digital
+  tools. The study follows participants for 12 months to compare the incidence of
+  overall and severe (CTCAE grade ≥3) adverse events, emergency department visits,
+  30-day readmission, dose reduction, treatment delay/missed doses, and time to adverse
+  event recovery. The aim is to evaluate whether a digital whole-course management
+  model improves medication safety, reduces healthcare burden, and supports treatment
+  adherence in advanced cancer care. (NCT NCT07917351; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This is a prospective, single-center, controlled real-world study in patients
+  with advanced solid tumors (stage III-IV) receiving chemotherapy, targeted therapy,
+  immunotherapy, or endocrine therapy. P
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07917351 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

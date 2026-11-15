@@ -1,0 +1,51 @@
+id: dea:experiment-nct02746666-pharmacist-s-influence-on-breast-can-pdm4aj
+type: Experiment
+name: NCT02746666 — Pharmacist's Influence on Breast Cancer Patient Quality of Life
+description: 'The purpose of this study is to investigate the impact of pharmacist
+  behavioral intervention''s influence on breast cancer patients'' quality of life.
+  Croatian randomized controlled trial. Targeted population: general population of
+  breast cancer patients under the first adjuvant anthracycline chemotherapy. Primary
+  outcome: difference in EORTC QLQ-BR23 questionnaire result from the baseline to
+  after 3 week cycle. (NCT NCT02746666; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The purpose of this study is to investigate the impact of pharmacist behavioral
+  intervention's influence on breast cancer patients' quality of life. Croatian randomized
+  controlled trial. Targeted popu
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02746666 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

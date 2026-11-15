@@ -1,0 +1,50 @@
+id: dea:experiment-nct05751642-safety-and-tolerability-pharmacokine-a3xayz
+type: Experiment
+name: NCT05751642 — Safety and Tolerability, Pharmacokinetic, and Pharmacodynamic
+  Study of ALXN1920 in Healthy Participants
+description: This study will assess the safety, tolerability, pharmacokinetics (PK),
+  pharmacodynamics (PD), and immunogenicity of single ascending doses (SADs) of ALXN1920
+  subcutaneous (SC) and of a single dose of ALXN1920 intravenous (IV) in healthy adult
+  participants. (NCT NCT05751642; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study will assess the safety, tolerability, pharmacokinetics (PK),
+  pharmacodynamics (PD), and immunogenicity of single ascending doses (SADs) of ALXN1920
+  subcutaneous (SC) and of a single dose of
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05751642 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

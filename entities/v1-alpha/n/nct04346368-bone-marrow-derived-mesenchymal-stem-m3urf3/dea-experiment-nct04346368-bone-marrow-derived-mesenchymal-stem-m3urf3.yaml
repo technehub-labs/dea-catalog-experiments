@@ -1,0 +1,54 @@
+id: dea:experiment-nct04346368-bone-marrow-derived-mesenchymal-stem-m3urf3
+type: Experiment
+name: NCT04346368 — Bone Marrow-Derived Mesenchymal Stem Cell Treatment for Severe
+  Patients With Coronavirus Disease 2019 (COVID-19)
+description: Coronavirus Disease 2019 (COVID-19) is spreading worldwide and has become
+  a public health emergency of major international concern. Currently, no specific
+  drugs or vaccines are available. For severe cases, it was found that aberrant pathogenic
+  T cells and inflammatory monocytes are rapidly activated and then producing a large
+  number of cytokines and inducing an inflammatory storm.Mesenchymal stem cells (MSCs)
+  have been shown to possess a comprehensive powerful immunomodulatory function. This
+  study aims to investigate the safety and efficacy of intravenous infusion of mesenchymal
+  stem cells in severe patients with COVID-19. (NCT NCT04346368; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Coronavirus Disease 2019 (COVID-19) is spreading worldwide and has become
+  a public health emergency of major international concern. Currently, no specific
+  drugs or vaccines are available. For severe c
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04346368 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

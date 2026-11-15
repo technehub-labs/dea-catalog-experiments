@@ -1,0 +1,57 @@
+id: dea:experiment-nct07637435-role-of-vascular-endothelial-markers-2rd4cc
+type: Experiment
+name: NCT07637435 — Role of Vascular Endothelial Markers in Predicting Renal Prognosis
+  and Mortality in Patients Undergoing HD-AKI
+description: 'The aim of this study was to evaluate the role of Activin A, Nostrin,
+  and Angiopoetin-2 levels in predicting the prognosis of renal function and in-hospital
+  and 6-month mortality in patients undergoing emergency hemodialysis treatment for
+  acute kidney injury. The main questions it aims to answer are: Acute renal injury
+  is a clinical entity with very important consequences. Mortality and morbidity are
+  high in patients requiring hemodialysis. This study aims to evaluate the predictive
+  effects of certain biomarkers on outcomes such as short- and long-term monitoring
+  of renal function, weaning or continuation of hemodialysis, in-hospital and 6-month
+  mortality in these patients. In patients with an indication for emergency hemodialysis,
+  the following levels will be measured before hemodialysis: * Serum Activin A, *
+  Serum Nostrin, * Serum Angiopoetin-2 (NCT NCT07637435; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The aim of this study was to evaluate the role of Activin A, Nostrin,
+  and Angiopoetin-2 levels in predicting the prognosis of renal function and in-hospital
+  and 6-month mortality in patients undergoin
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07637435 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed
