@@ -1,0 +1,70 @@
+id: dea:experiment-nct06853041-esketamine-low-dose-vs-ketamine-low-ymwbev
+type: Experiment
+name: NCT06853041 — ESKetamine Low-dose vs Ketamine Low-dose for Severe Acute Pain
+  in Emergency Units, Comparison of PsychodyslEptic Effects
+description: 'Almost 30% of painful patients in emergency departments (ED) describe
+  their pain as severe (i.e. a Verbal Numerical Rating Score VNRS ≥ 6 on a scale ranging
+  from 0 to 10). The management of such severe pain needs to be rapid and safe, and
+  for this purpose intravenous (IV) morphine titration is still the gold-standard.
+  However, morphine titration takes up considerable caregiver time, as patients need
+  to be monitored and treated progressively with small quantities of morphine every
+  5 minutes until analgesia. This is sometimes difficult to reconcile with a saturating
+  flow of patients, and overcrowding in ED is proven to significantly delay time-to-analgesia,
+  and even lead to deleterious under-treatment. Finally, the opioid crisis is a major
+  concern, explaining why strategies are being advocated to develop other ways of
+  managing severe acute pain in the ED and to limit the use of opioids. Recent studies
+  show that ketamine administered in small IV doses ("low-dose" ketamine LDK: 0.2
+  to 0.3 mg/kg) possesses potent analgesic activity as well as interesting anti-hyperalgesic
+  and anti-allodynic properties. Compared with morphine, LDK does not induce respiratory
+  depression, but can sometimes induce disturbing psychodysleptic effects. These may
+  include a sensation of unreality, fatigue, anxiety, dizziness or hallucinations.
+  According to studies, 30-80% of LDK-treated patients experience psychodysleptic
+  effects. However, two recent studies suggest that slow IV injections of LDK (over
+  10 minutes) may improve patient tolerance, although these slow infusions do not
+  totally reduce this discomfort. Pharmacologically, ketamine is a racemic mixture
+  of 2 isomers: esketamine S(+), which is dextrorotatory, and arketamine R(-), which
+  is levorotatory. In recent years, a new formulation containing only esketamine has
+  been made available to hospitals in some northern European countries, and more recently
+  in France. Esketamine appears to have twice the analgesic efficacy of racemic ketamine, '
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Almost 30% of painful patients in emergency departments (ED) describe
+  their pain as severe (i.e. a Verbal Numerical Rating Score VNRS ≥ 6 on a scale ranging
+  from 0 to 10). The management of such sever
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06853041 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

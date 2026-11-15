@@ -1,0 +1,63 @@
+id: dea:experiment-nct04211870-effects-of-photobiomodulation-in-chi-w3d4jp
+type: Experiment
+name: NCT04211870 — Effects of Photobiomodulation in Children With Down Syndrome and
+  Possible Sleep Bruxism
+description: The main characteristic of an individual with Trisomy 21 (T21), commonly
+  known as Down Syndrome (DS), is muscular hypotonia, a characteristic that mainly
+  affects the masticatory and oropharyngeal muscles, resulting in impairments in speech,
+  swallowing, breathing and chewing, in addition to pain, noise and/or degeneration
+  in the temporomandibular joints (TMJ), therefore, developing bruxism. The gold standard
+  for the treatment and control of bruxism is the rigid plate, however, there is difficulty
+  in developing treatment in children and adolescents with T21, therefore, photobiomodulation
+  is a non-invasive intervention alternative already consolidated as an excellent
+  option for modulation in muscle tissues. This study sought to evaluate the efficacy
+  and safety of non-invasive intervention with red LED clusters for the control of
+  bruxism in children and adolescents diagnosed with Down Syndrome. The present study
+  is characterized as a pilot study, composed of individuals of both sexes, aged 4
+  to 17 years old, attended at the UNINOVE integrated health clinic and diagnosed
+  with Down syndrome and bruxism. The treatment was carried out in a total of four
+  sessions, one session per week, where in each session the LED plates were applied
+  and post-application electromyographic collection was carried out. (NCT NCT04211870;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The main characteristic of an individual with Trisomy 21 (T21), commonly
+  known as Down Syndrome (DS), is muscular hypotonia, a characteristic that mainly
+  affects the masticatory and oropharyngeal musc
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04211870 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

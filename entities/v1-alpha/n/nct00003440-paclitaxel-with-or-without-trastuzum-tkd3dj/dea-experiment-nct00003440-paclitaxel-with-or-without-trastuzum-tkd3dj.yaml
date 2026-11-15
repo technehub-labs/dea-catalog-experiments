@@ -1,0 +1,55 @@
+id: dea:experiment-nct00003440-paclitaxel-with-or-without-trastuzum-tkd3dj
+type: Experiment
+name: NCT00003440 — Paclitaxel With or Without Trastuzumab in Treating Patients With
+  or Without HER-2/Neu Breast Cancer That is Inoperable, Recurrent, or Metastatic
+description: This randomized phase III studies how well two different regimens of
+  paclitaxel with or without trastuzumab works in treating patients with or without
+  HER-2/Neu breast cancer that is inoperable, recurrent, or metastatic. Drugs used
+  in chemotherapy, such as paclitaxel, use different ways to stop tumor cells from
+  dividing so they stop growing or die. Monoclonal antibodies, such as trastuzumab,
+  can locate tumor cells and either kill them or deliver tumor-killing substances
+  to them without harming normal cells. It is not yet known what regimen of paclitaxel
+  is more effective with or without trastuzumab in treating patients with breast cancer.
+  (NCT NCT00003440; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This randomized phase III studies how well two different regimens of paclitaxel
+  with or without trastuzumab works in treating patients with or without HER-2/Neu
+  breast cancer that is inoperable, recur
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00003440 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

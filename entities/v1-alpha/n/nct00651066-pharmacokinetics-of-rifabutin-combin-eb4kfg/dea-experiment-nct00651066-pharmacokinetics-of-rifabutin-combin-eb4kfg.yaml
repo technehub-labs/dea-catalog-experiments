@@ -1,0 +1,56 @@
+id: dea:experiment-nct00651066-pharmacokinetics-of-rifabutin-combin-eb4kfg
+type: Experiment
+name: NCT00651066 — Pharmacokinetics of Rifabutin Combined With Antiretroviral Therapy
+  in Patients With TB/HIV Co-infection in Vietnam
+description: The overall aim of the project is to evaluate rifabutin (RBT) as a replacement
+  for rifampicin (RMP), for the combined treatment of tuberculosis and HIV infection.
+  RBT represents an alternative to RMP for HIV infected patients as its half-life
+  is longer and the enzymatic induction effect appears to be less important on the
+  associated antiretroviral therapy (ART) drugs. This phase II trial is to determine
+  precisely the pharmacokinetics parameters of RBT in combination with different ART
+  regimens in Vietnamese HIV infected patients with pulmonary tuberculosis, in order
+  to define optimal doses that will be further tested in a larger phase III trial
+  comparing safety, tolerability and efficacy of RBT and RMP regimens. (NCT NCT00651066;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The overall aim of the project is to evaluate rifabutin (RBT) as a replacement
+  for rifampicin (RMP), for the combined treatment of tuberculosis and HIV infection.
+  RBT represents an alternative to RMP '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00651066 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

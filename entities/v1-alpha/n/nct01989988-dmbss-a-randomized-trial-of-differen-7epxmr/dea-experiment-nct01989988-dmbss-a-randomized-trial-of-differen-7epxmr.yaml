@@ -1,0 +1,50 @@
+id: dea:experiment-nct01989988-dmbss-a-randomized-trial-of-differen-7epxmr
+type: Experiment
+name: NCT01989988 — DMBSS-A Randomized Trial of Different Laparoscopic Gastric Bypass
+  Surgery in Patients With Obesity-related T2DM
+description: The investigators would like to conduct a randomized clinical trial to
+  compare the efficacy of diabetes treatment between different gastric bypass procedures
+  involving type 2 diabetics patients with BMI from 27.5 to 35 kg/m2 (NCT NCT01989988;
+  status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The investigators would like to conduct a randomized clinical trial to
+  compare the efficacy of diabetes treatment between different gastric bypass procedures
+  involving type 2 diabetics patients with B
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01989988 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

@@ -1,0 +1,54 @@
+id: dea:experiment-nct02123290-dsm265-phase-iia-investigation-treat-hcjggs
+type: Experiment
+name: NCT02123290 — DSM265 Phase IIa Investigation Treating Plasmodium Falciparum
+  or Vivax
+description: This will be a Proof-of-concept / Phase IIa, open label study to examine
+  the efficacy of DSM265 in uncomplicated Plasmodium vivax and Plasmodium falciparum
+  blood-stage malaria in adult patients. A minimum of two cohorts (20 patients) and
+  a maximum of 6 cohorts (60 patients, 3 dose levels) will be tested. The starting
+  dose of DSM265 for the first P. vivax and P. falciparum cohorts will be 400 mg.
+  This dose is expected to show complete clearance of parasites by microscopy by Day
+  7 and a decrease in recrudescence rate assessed at Day 14 (success criteria for
+  dose de-escalation and continuation of the study). (NCT NCT02123290; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This will be a Proof-of-concept / Phase IIa, open label study to examine
+  the efficacy of DSM265 in uncomplicated Plasmodium vivax and Plasmodium falciparum
+  blood-stage malaria in adult patients. A min
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02123290 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

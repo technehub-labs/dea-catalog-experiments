@@ -1,0 +1,50 @@
+id: dea:experiment-nct04119713-autoimmunity-after-checkpoint-blocka-kuu6pb
+type: Experiment
+name: NCT04119713 — Autoimmunity After Checkpoint Blockade
+description: The purpose of this study is to better understand how the treatment of
+  cancer with immune checkpoint inhibitors (ICI) leads to the development of autoimmunity.
+  Specifically, we wish to understand the genetics and immune system features that
+  cause a subset of cancer patients treated with checkpoint inhibitor therapy to develop
+  an immune-related adverse event (irAE). (NCT NCT04119713; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The purpose of this study is to better understand how the treatment of
+  cancer with immune checkpoint inhibitors (ICI) leads to the development of autoimmunity.
+  Specifically, we wish to understand the '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04119713 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

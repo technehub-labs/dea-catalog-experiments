@@ -1,0 +1,53 @@
+id: dea:experiment-nct07493902-acupuncture-for-post-stroke-dysphagi-45g7pq
+type: Experiment
+name: 'NCT07493902 — Acupuncture for Post-Stroke Dysphagia: A Clinical Study'
+description: Employing a nested design, a partially randomized preference study (Study
+  II) is embedded within a prospective, multicenter cohort study (Study I). The cohort
+  study, with acupuncture as the exposure factor, explores the clinical efficacy and
+  health economic value of different integrated Chinese and Western medicine treatment
+  protocols. The nested partially randomized preference study of different acupuncture
+  protocols generates high-level evidence through randomized cohorts while supplementing
+  real-world decision-making with preference cohort data. (NCT NCT07493902; status
+  RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Employing a nested design, a partially randomized preference study (Study
+  II) is embedded within a prospective, multicenter cohort study (Study I). The cohort
+  study, with acupuncture as the exposure f
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07493902 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

@@ -1,0 +1,70 @@
+id: dea:experiment-nct07864662-impact-of-trout-fish-cow-milk-with-e-dhpwur
+type: Experiment
+name: NCT07864662 — Impact of Trout Fish, Cow Milk With Egg, Vitamin D Supplementation,
+  and Dietary Education on Vitamin D Status, Undernutrition, and Neurocognitive Outcomes
+  Among School Children in Pakist
+description: Vitamin D deficiency and undernutrition are major public health concerns
+  globally, particularly among children in low-resource and high-altitude settings.
+  In Pakistan, the recent national nutrition survey has reported alarmingly high prevalence
+  rates of vitamin D deficiency, especially in Ghizer District of Gilgit-Baltistan,
+  where 85% of children under five years of age are vitamin D deficient, placing them
+  at heightened risk for rickets, impaired growth, weakened immune function, cognitive
+  impairments, and long-term socio-economic consequences. This survey did not provide
+  any information on the vitamin D deficiency status of school-going children in Pakistan.
+  However, a study conducted in Karachi reported that 65% of children aged 6-12 years
+  were deficient in vitamin D. Despite abundant natural resources, such as trout fish
+  and locally available cow's milk and eggs, these nutrient-rich foods are underutilized
+  due to limited awareness among local communities about the health benefits for children.
+  This issue is particularly urgent for the Aga Khan University (AKU) and the Aga
+  Khan Education Service Pakistan (AKESP) 's schools in the region, where children's
+  health is integral to academic success and long-term community development. Addressing
+  micronutrient deficiencies aligns closely with AKU's and the Aga Khan Development
+  Network's (AKDN) strategic priorities of improving early childhood development,
+  promoting health equity, strengthening food security, and fostering local capacity
+  through evidence-based interventions. Therefore, this proposal aims to assess whether
+  targeted local food and supplementation, including trout fish, whole cow milk with
+  egg, and vitamin D supplements, can significantly reduce vitamin D deficiency and
+  improve nutritional and cognitive outcomes among school children in AKESP schools.
+  (NCT NCT07864662; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Vitamin D deficiency and undernutrition are major public health concerns
+  globally, particularly among children in low-resource and high-altitude settings.
+  In Pakistan, the recent national nutrition su
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07864662 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

@@ -1,0 +1,52 @@
+id: dea:experiment-nct03750786-a-study-to-compare-the-efficacy-of-a-6gcqpk
+type: Experiment
+name: NCT03750786 — A Study to Compare the Efficacy of Arfolitixorin Versus Leucovorin
+  in Combination With 5 Fluorouracil, Oxaliplatin, and Bevacizumab in Patients With
+  Advanced Colorectal Cancer
+description: This is a multicenter, randomized, parallel-group, Phase III study in
+  at least 440 patients with advanced colorectal cancer to compare the efficacy of
+  treatment with arfolitixorin versus Leucovorin in combination with 5-fluorouracil,
+  oxaliplatin, and bevacizumab according to modified FOLFOX-6 until PD according to
+  RECIST 1.1 criteria. (NCT NCT03750786; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This is a multicenter, randomized, parallel-group, Phase III study in
+  at least 440 patients with advanced colorectal cancer to compare the efficacy of
+  treatment with arfolitixorin versus Leucovorin in
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03750786 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

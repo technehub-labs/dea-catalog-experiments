@@ -1,0 +1,59 @@
+id: dea:experiment-nct05035550-effects-of-open-label-placebos-on-co-nnjp97
+type: Experiment
+name: NCT05035550 — Effects of Open-label Placebos on COVID-related Psychological
+  Health
+description: This project aimed to test the efficacy of a telehealth-administered
+  placebo without deception intervention on stress, anxiety, and depression related
+  to the COVID-19 pandemic. Participants were randomized into two groups (open-label
+  placebo vs. no-treatment control). All participants received information on the
+  impact of COVID-19 on psychological health. Participants in the open-label placebo
+  group were instructed to watch an informational video on the beneficial effects
+  of placebos without deception, remotely interact with an experimenter, and take
+  open-label placebo pills twice a day for two weeks. Participants in the no-treatment
+  control group did not receive any intervention. Instead, participants met with an
+  experimenter and reported on their psychological and physical health. The investigators
+  predicted that the placebo without deception group would exhibit substantially reduced
+  stress, depression, and anxiety compared to a no-treatment control group. (NCT NCT05035550;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This project aimed to test the efficacy of a telehealth-administered placebo
+  without deception intervention on stress, anxiety, and depression related to the
+  COVID-19 pandemic. Participants were rando
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05035550 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

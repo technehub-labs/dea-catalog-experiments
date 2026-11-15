@@ -1,0 +1,70 @@
+id: dea:experiment-nct03919760-early-psychosis-intervention-spreadi-3egwcg
+type: Experiment
+name: NCT03919760 — Early Psychosis Intervention - Spreading Evidence-based Treatment
+description: 'Implementation of ''NAVIGATE'' in Ontario aims to help youth and emerging
+  adults suffering from a first episode of psychosis. Although Ontario already has
+  early psychosis intervention programs, the team''s recent work has identified major
+  challenges of delivering coordinated care, particularly those elements of care that
+  enhance recovery. These challenges also exist nationally and internationally. By
+  building on the already existing early psychosis intervention community of practice
+  through the Early Psychosis Intervention Ontario Network, the investigators will
+  implement NAVIGATE with the help of CAMH''s Provincial System Support Program facilitators.
+  The use of tele-videoconferencing through ECHO Mental Health Ontario and ECHO processes
+  and protocols provide us with an opportunity to ensure sustainability. Using health
+  administrative data held at the Institute for Clinical Evaluative Sciences (ICES),
+  the investigators can examine system-level outcomes, including hospitalizations,
+  emergency department visits, and outpatient physician visits of youth and emerging
+  adults suffering from a first episode psychosis who are treated with NAVIGATE compared
+  with those treated in early psychosis intervention programs without NAVIGATE and
+  those who are not treated in early psychosis intervention programs. In addition,
+  the investigators can also evaluate health care costs. Prior to initiating this
+  project, the investigators obtained the input of youth and emerging adults with
+  a first episode psychosis and family members. The investigators will also continue
+  to measure engagement across the study. Hypotheses: 1. Following the implementation
+  of NAVIGATE, program fidelity (i.e. adaptability) to the Ontario early psychosis
+  intervention standard will improve. 2. Compared to patients not receiving NAVIGATE,
+  those who receive NAVIGATE through this implementation study will have fewer days
+  in hospital, fewer emergency department visits, fewer suicide attempts, lower mortality,
+  and lower he'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Implementation of 'NAVIGATE' in Ontario aims to help youth and emerging
+  adults suffering from a first episode of psychosis. Although Ontario already has
+  early psychosis intervention programs, the team
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03919760 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

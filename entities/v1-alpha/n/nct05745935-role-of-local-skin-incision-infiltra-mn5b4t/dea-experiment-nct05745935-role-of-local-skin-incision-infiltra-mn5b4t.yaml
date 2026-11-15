@@ -1,0 +1,52 @@
+id: dea:experiment-nct05745935-role-of-local-skin-incision-infiltra-mn5b4t
+type: Experiment
+name: NCT05745935 — Role of Local Skin Incision Infiltration by Oxytocin On Wound
+  Healing
+description: caesarean section rate in Egypt has reached about 60% between primgravidae.
+  Wound complications are of the most common morbidities following cesarean section.
+  The prevalence of wound infection and disruption after cesarean has been reported
+  as 3-15%, averagely speaking 6% and 2-42% in various studies. These complications
+  affect mother's quality of life due to stress, anxiety, delay in mother's ability
+  and health recovery (NCT NCT05745935; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: caesarean section rate in Egypt has reached about 60% between primgravidae.
+  Wound complications are of the most common morbidities following cesarean section.
+  The prevalence of wound infection and dis
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05745935 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

@@ -1,0 +1,55 @@
+id: dea:experiment-nct01980940-the-single-dose-pharmacokinetics-of-8yy5ca
+type: Experiment
+name: NCT01980940 — The Single Dose Pharmacokinetics of Two and Proof of Efficacy
+  of One New Etoricoxib Gel Formulation in Participants With Osteoarthritis (MK-0663-168)
+description: Study Part 1 is designed to assess the plasma pharmacokinetics of etoricoxib
+  (ETOR) 4% dimethyl sulfoxide (DMSO) and propylene glycol (PG) formulations, each
+  at 2 different doses, upon single-dose topical administration on the knee of osteoarthritis
+  participants. Study Part 2 is designed to evaluate the efficacy of topical etoricoxib
+  vs. placebo in the treatment of osteoarthritis of the knee. The primary hypothesis
+  is that topical etoricoxib will be more effective than placebo in the treatment
+  of osteoarthritis of the knee over 2 weeks of treatment as assessed by time-weighted
+  average change from baseline on the Western Ontario and McMaster Universities Arthritis
+  Index (WOMAC) Visual Analogue (VA) 3.0 pain subscale. (NCT NCT01980940; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Study Part 1 is designed to assess the plasma pharmacokinetics of etoricoxib
+  (ETOR) 4% dimethyl sulfoxide (DMSO) and propylene glycol (PG) formulations, each
+  at 2 different doses, upon single-dose top
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01980940 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

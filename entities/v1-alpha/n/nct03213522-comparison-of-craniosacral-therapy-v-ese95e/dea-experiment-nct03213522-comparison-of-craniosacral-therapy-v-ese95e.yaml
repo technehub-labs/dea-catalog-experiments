@@ -1,0 +1,52 @@
+id: dea:experiment-nct03213522-comparison-of-craniosacral-therapy-v-ese95e
+type: Experiment
+name: NCT03213522 — Comparison of Craniosacral Therapy vs Pelvic Floor Physical Therapy
+description: The purpose of this study is to determine the efficacy of CST for the
+  treatment of LUTS in patients with MS and evaluate the acute effects compared to
+  PFPT. A. Objectives To examine the effect of CST as compared to PFPT on QOL, SEMG
+  resting biofeedback readings, and PVR ultrasonography measures in patients with
+  MS and LUTS. B. Hypotheses / Research Question(s) It is hypothesized that patients
+  who receive CST will demonstrate improved QOL, bladder control and ability to empty
+  bladder as compared to those who receive PFPT. (NCT NCT03213522; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The purpose of this study is to determine the efficacy of CST for the
+  treatment of LUTS in patients with MS and evaluate the acute effects compared to
+  PFPT. A. Objectives To examine the effect of CST '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03213522 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

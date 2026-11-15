@@ -1,0 +1,71 @@
+id: dea:experiment-nct04385862-the-use-of-a-continuous-glucose-moni-8q8rvg
+type: Experiment
+name: NCT04385862 — The Use of a Continuous Glucose Monitoring System (Dexcom G6)
+  in Hospitalized Patients for Acute Care
+description: The state of a coronavirus disease pandemic (COVID-19) was declared by
+  the World Health Organization on March 11, 2020. Hospitalized patients receiving
+  intravenous (IV) insulin therapy have been identified in the hospital setting as
+  a group that places health care workers at high risk of contamination. Indeed, the
+  many capillary blood glucose measurements required to adjust the IV insulin doses
+  involve direct contact with the patient. It is generally recommended to measure
+  blood sugar every 1 to 2 hours with an IV insulin infusion. Ensuring a working method
+  allowing optimal monitoring of patients' blood sugar levels while limiting the risk
+  of contamination of health professionals is therefore to be preferred. Continuous
+  Glucose Monitoring (CGM) systems are minimally invasive devices that allow you to
+  get a blood glucose measurement every 5 to 15 minutes, and some devices allow you
+  to access your blood sugar profile without having to be in contact with the patients.
+  These devices are approved, validated, and widely used in diabetic ambulatory populations.
+  The principle is based on a measurement of glucose in the interstitial fluid under
+  the skin. DEXCOM G6 is the only device currently approved in Canada that does not
+  require calibration using a capillary blood glucose level or contact with the patient
+  for remote data transmission. A sensor installed on the skin makes it possible to
+  measure blood sugar from the interstitial fluid. A transmitter installed on the
+  sensor sends the data to a receiver which can be remote from the patient (up to
+  6 meters). Its use in an acute care setting, however, is not approved in Canada.
+  However, Health Canada issued an emergency order on April 25, 2020 allowing the
+  use of Dexcom G6 in hospitals during the COVID-19 pandemic. The CGM offers several
+  potential advantages compared to the capillary glycemia currently used to ensure
+  the follow-up of insulin-treated patients thanks to the real-time measurement of
+  the glycemia and their transmi
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The state of a coronavirus disease pandemic (COVID-19) was declared by
+  the World Health Organization on March 11, 2020. Hospitalized patients receiving
+  intravenous (IV) insulin therapy have been ident
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04385862 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- withdrawn

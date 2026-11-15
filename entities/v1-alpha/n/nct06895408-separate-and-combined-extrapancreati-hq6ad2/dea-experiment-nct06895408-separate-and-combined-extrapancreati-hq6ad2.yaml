@@ -1,0 +1,56 @@
+id: dea:experiment-nct06895408-separate-and-combined-extrapancreati-hq6ad2
+type: Experiment
+name: NCT06895408 — Separate and Combined Extrapancreatic Effects of GIP and GLP-1
+description: 'The two gut-derived hormones, glucose-dependent insulinotropic polypeptide
+  (GIP) and glucagon-like peptide 1 (GLP-1) are secreted from intestinal cells in
+  relation to a meal and increase insulin secretion from the pancreas. The hormones
+  also exert effects outside the pancreas, but especially for GIP, these are poorly
+  investigated. Because of this, only GLP-1 based drugs (GLP-1 receptor agonists)
+  are on the market for the treatment of type 2 diabetes and obesity. Nonetheless,
+  a new drug is in clinical development: a combined GIP-GLP-1-receptor agonist (tirzepatide),
+  which has shown better results than GLP-1 alone. The mechanism behind these impressive
+  effects are unknown and in this study, the investigators will look into the exptrapancreatic
+  effects of GIP and GLP-1, separate and combined and thus elucidate the mechanisms
+  of action of this new drug class. (NCT NCT06895408; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The two gut-derived hormones, glucose-dependent insulinotropic polypeptide
+  (GIP) and glucagon-like peptide 1 (GLP-1) are secreted from intestinal cells in
+  relation to a meal and increase insulin secre
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06895408 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

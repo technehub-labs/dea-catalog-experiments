@@ -1,0 +1,52 @@
+id: dea:experiment-nct04672954-a-study-in-healthy-men-to-test-how-d-szhec8
+type: Experiment
+name: NCT04672954 — A Study in Healthy Men to Test How Different Doses of BI 474121
+  Are Taken up and How They Influence the Amount of a Molecular Messenger (cGMP) in
+  the Spinal Fluid
+description: 'The main objectives of this trial are: * To evaluate the effect of BI
+  474121 on cyclic guanosine monophosphate (cGMP) levels in cerebrospinal fluid (CSF)
+  * To assess the exposure of BI 474121 in CSF relative to plasma * To determine the
+  exposure effect relationship in CSF with different oral doses of BI 474121 (NCT
+  NCT04672954; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The main objectives of this trial are: * To evaluate the effect of BI
+  474121 on cyclic guanosine monophosphate (cGMP) levels in cerebrospinal fluid (CSF)
+  * To assess the exposure of BI 474121 in CSF r'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04672954 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

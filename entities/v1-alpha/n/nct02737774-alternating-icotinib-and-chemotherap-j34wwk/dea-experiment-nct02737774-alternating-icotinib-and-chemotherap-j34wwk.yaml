@@ -1,0 +1,49 @@
+id: dea:experiment-nct02737774-alternating-icotinib-and-chemotherap-j34wwk
+type: Experiment
+name: NCT02737774 — Alternating Icotinib and Chemotherapy for Advanced Non-small Cell
+  Lung Cancer With EGFR Mutation
+description: This is a prospective, open, single-center, phase Ⅱ study to assess the
+  efficacy and safety of alternating Icotinib and chemotherapy for advanced non-small
+  cell lung cancer with EGFR mutation. (NCT NCT02737774; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This is a prospective, open, single-center, phase Ⅱ study to assess the
+  efficacy and safety of alternating Icotinib and chemotherapy for advanced non-small
+  cell lung cancer with EGFR mutation.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02737774 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

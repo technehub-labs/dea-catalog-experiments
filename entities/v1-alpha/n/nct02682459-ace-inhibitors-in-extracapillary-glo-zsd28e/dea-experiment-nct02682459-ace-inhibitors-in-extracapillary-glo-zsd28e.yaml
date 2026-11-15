@@ -1,0 +1,55 @@
+id: dea:experiment-nct02682459-ace-inhibitors-in-extracapillary-glo-zsd28e
+type: Experiment
+name: NCT02682459 — ACE-inhibitors in Extracapillary Glomerulonephritis
+description: The natural course of extracapillary glomerulonephritis is severe leading
+  to End-Stage Renal Disease (ESRD) or death in most cases. Despite immunosuppressive
+  treatment, long-term renal outcome remains poor since active crescents usually progress
+  to fibrotic scars with glomerular occlusion and disruption.In experimental models
+  Angiotensin Converting Enzyme (ACE)-inhibitor therapy targeting the over-expression
+  of angiotensin type 1 (AT1) receptors, that are responsible for dysregulated proliferation
+  of parietal cell progenitors, blocks the formation of crescents and their fibrotic
+  evolution. Should these drugs have similar effects in humans, ACE-inhibitor therapy
+  on top of standard immunosuppression might be instrumental to prevent ESRD and promote
+  renal function recovery in clinical practice. (NCT NCT02682459; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The natural course of extracapillary glomerulonephritis is severe leading
+  to End-Stage Renal Disease (ESRD) or death in most cases. Despite immunosuppressive
+  treatment, long-term renal outcome remains
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02682459 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

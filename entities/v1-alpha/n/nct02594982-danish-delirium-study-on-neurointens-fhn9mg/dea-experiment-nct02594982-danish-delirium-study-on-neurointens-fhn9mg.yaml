@@ -1,0 +1,66 @@
+id: dea:experiment-nct02594982-danish-delirium-study-on-neurointens-fhn9mg
+type: Experiment
+name: NCT02594982 — DANish DELIrium Study On Neurointensive Care Patients
+description: 'Abstract Background Studies have shown that delirium in medical and
+  surgical intensive care units (ICUs) increases mortality, length of stay (LOS) as
+  well as the risk of dementia symptoms and cerebral atrophy after discharge. Only
+  few studies have investigated delirium in the neurointensive care unit (N-ICU).
+  Delirium is most often assessed by one of two instruments: Intensive Care Delirium
+  Screening Checklist (ICDSC) or the Confusion Assessment Method for the ICU (CAM-ICU).
+  Aims 1. To measure the effect of a systematic intervention (sedation, sleep, mobilization
+  and pain) on delirium symptoms in patients with acute acquired brain injury in N-ICU.
+  2. To validate the ICDSC and CAM-ICU to patients with acute acquired brain injury
+  Method The design of the study is a two-phase interventional trial. Based on a power
+  calculation, 56 patients will be enrolled both in the baseline and the intervention
+  group (n=112). Part 1: A baseline investigation will be conducted to establish prevalence,
+  duration and type of delirium symptoms in patients with acute acquired brain injury
+  before implementing the intervention bundle. Part 2: A systematic Intervention protocol
+  will be implemented in the N-ICU. The Intervention elements consist of a sedation,
+  sleep, mobilization and pain treatment regimen based on the newest available evidence.
+  Enrolled patients will be contacted 12 months after discharge for a follow-up including
+  a quality of life with (EuroQoL-5D) questionnaire, a cognitive test measuring their
+  cognitive end point (Repeatable Battery for Assessment of the Neuropsychological
+  Status) and a short test for dementia symptoms (MMSE, Mini Mental State Examination).
+  (NCT NCT02594982; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Abstract Background Studies have shown that delirium in medical and surgical
+  intensive care units (ICUs) increases mortality, length of stay (LOS) as well as
+  the risk of dementia symptoms and cerebral
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02594982 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

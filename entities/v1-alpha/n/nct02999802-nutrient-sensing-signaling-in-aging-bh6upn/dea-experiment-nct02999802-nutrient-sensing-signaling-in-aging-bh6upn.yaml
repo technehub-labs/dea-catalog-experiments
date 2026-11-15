@@ -1,0 +1,54 @@
+id: dea:experiment-nct02999802-nutrient-sensing-signaling-in-aging-bh6upn
+type: Experiment
+name: NCT02999802 — Nutrient Sensing & Signaling in Aging Muscle
+description: This research seeks to better understand how cellular and molecular bases
+  of changes associated with aging contribute to decreased function and increased
+  incidence of disease. Specific mechanism in muscle responsible for anabolic resistance
+  - a key component of sarcopenia and frailty - will be identified. The proposed research
+  is relevant to public health because the discovery of new targets for interventions
+  and novel therapeutics to improve muscle strength and function, prevent falls, and
+  reduce physical dependency will improve the healthspan and quality of life in older
+  adults by improving their physical function and ability to remain independent and
+  healthy for a longer period of time. (NCT NCT02999802; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This research seeks to better understand how cellular and molecular bases
+  of changes associated with aging contribute to decreased function and increased
+  incidence of disease. Specific mechanism in mu
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02999802 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

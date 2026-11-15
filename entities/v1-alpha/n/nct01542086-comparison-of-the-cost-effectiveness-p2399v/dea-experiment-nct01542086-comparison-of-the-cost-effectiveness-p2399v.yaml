@@ -1,0 +1,51 @@
+id: dea:experiment-nct01542086-comparison-of-the-cost-effectiveness-p2399v
+type: Experiment
+name: NCT01542086 — Comparison of the Cost-Effectiveness of Coronary CT Angiography
+  Versus Myocardial SPECT in Patients With Intermediate Risk of Coronary Heart Disease
+description: The investigators aim to compare the cost-effectiveness of CCTA and myocardial
+  SPECT in patients with intermediate pre-test probability of CHD. To this end, patients
+  with intermediate pre-test probability of CHD will be randomized 1:1 to either CCTA
+  and myocardial SPECT. The patients will be analyzed for cost and also, for outcome.
+  (NCT NCT01542086; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The investigators aim to compare the cost-effectiveness of CCTA and myocardial
+  SPECT in patients with intermediate pre-test probability of CHD. To this end, patients
+  with intermediate pre-test probabi
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01542086 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

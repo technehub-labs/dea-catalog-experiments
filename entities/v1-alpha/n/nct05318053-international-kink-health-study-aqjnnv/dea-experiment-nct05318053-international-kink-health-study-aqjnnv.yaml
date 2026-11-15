@@ -1,0 +1,53 @@
+id: dea:experiment-nct05318053-international-kink-health-study-aqjnnv
+type: Experiment
+name: NCT05318053 — International Kink Health Study
+description: 'The study design is an observational, longitudinal study with data collected
+  online via a computer-assisted survey. Subjects will be recruited through non-probability
+  snowball sampling. Objectives: 1. to document the prevalence of injuries and medical
+  complications arising from kink activities 2. to document how healthcare is utilized
+  by kink-involved people 3. to document the health outcomes particular to a large
+  sample of kink-involved people 4. to test whether the centrality of kink identity
+  and degree of community belongingness affect injuries, health outcomes, and healthcare
+  utilization (NCT NCT05318053; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The study design is an observational, longitudinal study with data collected
+  online via a computer-assisted survey. Subjects will be recruited through non-probability
+  snowball sampling. Objectives: 1.'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05318053 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

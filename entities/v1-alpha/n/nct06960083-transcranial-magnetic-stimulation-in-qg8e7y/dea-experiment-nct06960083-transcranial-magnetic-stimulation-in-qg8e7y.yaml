@@ -1,0 +1,52 @@
+id: dea:experiment-nct06960083-transcranial-magnetic-stimulation-in-qg8e7y
+type: Experiment
+name: NCT06960083 — Transcranial Magnetic Stimulation in Misophonia
+description: 'The purpose of the project is to assess the efficacy of parietal transcranial
+  magnetic stimulation in misophonia. N=60 participants will undergo two transcranial
+  magnetic stimulation sessions: one inhibitory and another excitatory. During both
+  sessions, the parietal region will be stimulated. Participants will perform computerized
+  tasks immediately before and after the stimulation, while EEG, heart rate, and skin
+  temperature will be recorded. These recordings will be used to assess if TMS can
+  be used to improve tolerance to misophonia triggers. (NCT NCT06960083; status RECRUITING).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'The purpose of the project is to assess the efficacy of parietal transcranial
+  magnetic stimulation in misophonia. N=60 participants will undergo two transcranial
+  magnetic stimulation sessions: one inh'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06960083 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

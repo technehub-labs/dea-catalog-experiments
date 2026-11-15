@@ -1,0 +1,53 @@
+id: dea:experiment-nct04219761-national-tunisian-registry-of-percut-m9vm95
+type: Experiment
+name: NCT04219761 — National Tunisian Registry of Percutaneous Coronary Intervention
+description: The National Tunisian Registry of Percutaneous Coronary Intervention
+  is an observational, prospective and multicenter study aiming to assess coronary
+  intervention strategies in tunisian departments of cardiology. Cardiologists from
+  both sectors (public and private) are participating in the study, with 37 investigational
+  centers. Data will be captured electronically by DACIMA Clinical Suite, according
+  to FDA 21 CFR part 11 (Food and Drug Administration 21 Code of Federal Regulations
+  part 11), HIPAA (Health Insurance Portability and Accountability Act) \& ICH (International
+  Conference on Harmonisation) requirements. (NCT NCT04219761; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The National Tunisian Registry of Percutaneous Coronary Intervention is
+  an observational, prospective and multicenter study aiming to assess coronary intervention
+  strategies in tunisian departments of
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04219761 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

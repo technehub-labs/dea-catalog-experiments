@@ -1,0 +1,60 @@
+id: dea:experiment-nct03921905-peripheral-artery-disease-in-patient-pk5kse
+type: Experiment
+name: 'NCT03921905 — Peripheral Artery Disease in Patients With Stable Coronary Artery
+  Disease in General Practice: Prevalence, Management and Clinical Outcomes.'
+description: Patients with lower extremity peripheral artery disease (PAD) are at
+  risk of developing major adverse limb events and have a similar cardiovascular (CV)
+  morbidity and mortality to those with coronary artery disease (CAD) with which is
+  associated in most cases with a more severe prognosis. Because of higher risk conferred
+  by concomitant PAD an early diagnosis is recommended in subjects with CAD. PAD can
+  be diagnosed relatively easily and noninvasively with the ankle-brachial index (ABI)
+  measure. An ABI ≤0.9 is an indicator of the presence of lower extremity PAD, indicating
+  athero-occlusive arterial disease while \>1.3/1.4 indicates an incompressible ankle
+  arteries. However, ABI is not routinely applied in the clinical practice. Data on
+  prevalence of PAD are scanty and in patients with stable CAD are lacking. The under-diagnosis
+  of PAD may be a barrier to the use of treatments to improve prognosis. The primary
+  aim of this study is to assess the coexistence of PAD in subjects with stable CAD
+  and to evaluate the management and the prognosis of these patients in primary care
+  at 12-month after the inclusion in the study. (NCT NCT03921905; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'Patients with lower extremity peripheral artery disease (PAD) are at
+  risk of developing major adverse limb events and have a similar cardiovascular (CV)
+  morbidity and mortality to those with coronary '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03921905 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

@@ -1,0 +1,57 @@
+id: dea:experiment-nct05916586-effect-of-short-term-prednisone-ther-3utzae
+type: Experiment
+name: NCT05916586 — Effect of Short-term Prednisone Therapy on C-reactive Protein
+  in Patients With Acute Heart Failure
+description: This is a multicenter, parallel-group, randomized, open-label, controlled
+  trial. Patients with a diagnosis of acute heart failure (AHF) in the emergency department
+  (ED) or after emergency presentation to hospital will be screened and informed of
+  the study. After signed consent, patients will be randomized into the control group
+  (usual AHF treatment) or intervention group (usual AHF treatment + prednisone).
+  Prednisone will be given for 7 days. Patients will be assessed at days 2, 4 or at
+  discharge if earlier, and at day 7 at hospital visit. If the patient has been discharged
+  before day 7, a follow-up visit will be scheduled at day 7 for endpoints assessment
+  followed by a scheduled hospital visit at day 31 and a telephone follow-up at day
+  91. Study drug will be dispensed for the patient to take home until day 7. (NCT
+  NCT05916586; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This is a multicenter, parallel-group, randomized, open-label, controlled
+  trial. Patients with a diagnosis of acute heart failure (AHF) in the emergency department
+  (ED) or after emergency presentation
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05916586 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

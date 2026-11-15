@@ -1,0 +1,53 @@
+id: dea:experiment-nct07023523-self-regulation-of-real-time-fmri-br-v4uncq
+type: Experiment
+name: NCT07023523 — Self-regulation of Real-time fMRI Brain Activity in Chronic Pain
+description: This study aims to explore the usefulness of self-regulation of brain
+  activity in patients with fibromyalgia. Patients will use real-time functional magnetic
+  resonance imaging (fMRI) neurofeedback to observe and regulate their own brain activity
+  while applying mental strategies to reduce fibromyalgia pain. The study consists
+  of 2 magnetic resonance imaging (MRI) visits that involve brain neuroimaging for
+  fMRI neurofeedback tasks, as well as 8 weekly intervention sessions with a pain
+  psychologist. Patients will be randomized to either Cognitive Behavioral Therapy
+  (CBT) or Fibromyalgia Education groups. (NCT NCT07023523; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'This study aims to explore the usefulness of self-regulation of brain
+  activity in patients with fibromyalgia. Patients will use real-time functional magnetic
+  resonance imaging (fMRI) neurofeedback to '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07023523 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

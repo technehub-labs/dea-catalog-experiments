@@ -1,0 +1,55 @@
+id: dea:experiment-nct07598240-is-a-standard-hand-rehabilitation-pr-kxrhd7
+type: Experiment
+name: NCT07598240 — Is a Standard Hand Rehabilitation Program Sufficient in Rheumatoid
+  Arthritis Patients With Central Sensitization
+description: The presence of central sensitization leads to overestimation of pain
+  sensitivity and disease activity in rheumatoid arthritis (RA) patients. Central
+  sensitization should not be overlooked in RA patients to avoid over-treatment for
+  inflammation and to determine the need for treatment of nociplastic pain. While
+  literature contains no studies comparing alternative programs with the standard
+  hand rehabilitation program in the presence of central sensitization in rheumatoid
+  arthritis patients, the objective of this study is to investigate whether desensitization
+  exercises provide additional benefit in this patient group. (NCT NCT07598240; status
+  ACTIVE_NOT_RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The presence of central sensitization leads to overestimation of pain
+  sensitivity and disease activity in rheumatoid arthritis (RA) patients. Central
+  sensitization should not be overlooked in RA patie
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07598240 (ClinicalTrials.gov; status
+      ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- active-not-recruitin

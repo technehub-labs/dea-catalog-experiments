@@ -1,0 +1,61 @@
+id: dea:experiment-nct02884180-dexrar-dexamethasone-in-revision-art-qk7scr
+type: Experiment
+name: 'NCT02884180 — DEXRAR: DEXamethasone in Revision ARthroplasty'
+description: 'Trial name: DEXRAR: Dexamethasone in revision arthroplasty: A randomised,
+  blinded, 2-group clinical trial Trial acronym: DEXRAR Background: Effective postoperative
+  pain management is essential for the well-being and rehabilitation of the surgical
+  patient. No "gold standard" exists for pain treatment after revision total knee
+  arthroplasty (TKA) and combinations of different medications are used with virtually
+  no evidence for combined analgesic efficacy. Objectives: The objective is to investigate
+  the analgesic effect and safety of dexamethasone as a single dose after revision-TKA
+  in combination with paracetamol, ibuprofen and local infiltration analgesia Intervention:
+  The patients are randomised into to groups: A) 24 mg dexamethasone i.v. B) isotonic
+  saline i.v. Design and trial size: Placebo controlled, parallel 2-group trial with
+  adequate centralised computer-generated allocation sequence and allocation concealment
+  with block size of 12. Blinding of assessor, investigator, caregivers and patients.
+  Sample size: 108 eligible patients are needed to detect a difference of 11,3 mg
+  morphine for the first 24 h postoperatively with a standard deviation of 20 mg,
+  a type 1 error rate of 0,05 and a type 2 error rate of 0,20. (NCT NCT02884180; status
+  TERMINATED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'Trial name: DEXRAR: Dexamethasone in revision arthroplasty: A randomised,
+  blinded, 2-group clinical trial Trial acronym: DEXRAR Background: Effective postoperative
+  pain management is essential for the'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02884180 (ClinicalTrials.gov; status
+      TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- terminated

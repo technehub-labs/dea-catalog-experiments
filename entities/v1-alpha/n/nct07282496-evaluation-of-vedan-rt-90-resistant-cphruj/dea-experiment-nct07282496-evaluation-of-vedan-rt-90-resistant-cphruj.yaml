@@ -1,0 +1,51 @@
+id: dea:experiment-nct07282496-evaluation-of-vedan-rt-90-resistant-cphruj
+type: Experiment
+name: NCT07282496 — Evaluation of VEDAN RT-90 Resistant Cassava Starch for Glycemic
+  Control and Prebiotic Fiber Development in a Human Trial
+description: This study aims to investigate the effects of RT-90 resistant cassava
+  starch on glycemic control using a human dietary trial and to evaluate its potential
+  as a prebiotic fiber supplement. This study will assess the efficacy of RT-90 resistant
+  cassava starch in improving glycemic control, body composition, and gut microbiome
+  in healthy individuals. (NCT NCT07282496; status NOT_YET_RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study aims to investigate the effects of RT-90 resistant cassava
+  starch on glycemic control using a human dietary trial and to evaluate its potential
+  as a prebiotic fiber supplement. This study w
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07282496 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- not-yet-recruiting

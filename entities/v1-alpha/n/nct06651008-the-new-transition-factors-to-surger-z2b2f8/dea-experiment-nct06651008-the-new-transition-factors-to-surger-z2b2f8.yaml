@@ -1,0 +1,55 @@
+id: dea:experiment-nct06651008-the-new-transition-factors-to-surger-z2b2f8
+type: Experiment
+name: NCT06651008 — The New Transition Factors to Surgery of Duodenal Perforation
+description: 'In this study,investigators sought to identify new transition factors
+  in the initial evaluation of cases requiring conversion to surgery for duodenal
+  ulcer perforation. This was a retrospective study performed at investigators'' hospital
+  between January 2012 and July 2023 with upper gastrointestinal perforation. 27 patients,
+  who underwent conservative management for the duodenal ulcer perforation, were extracted.
+  Investigators researched the transition rate to surgery and the following factors:
+  1. Patient background, 2. Time from onset to hospital visit, 3. Vital signs and
+  inflammatory findings on arrival, 4. CT findings of duodenal ulcer perforation and
+  degree / shape of liver coverage for the perforation, and the extent of ascites.
+  (NCT NCT06651008; status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'In this study,investigators sought to identify new transition factors
+  in the initial evaluation of cases requiring conversion to surgery for duodenal
+  ulcer perforation. This was a retrospective study '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06651008 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

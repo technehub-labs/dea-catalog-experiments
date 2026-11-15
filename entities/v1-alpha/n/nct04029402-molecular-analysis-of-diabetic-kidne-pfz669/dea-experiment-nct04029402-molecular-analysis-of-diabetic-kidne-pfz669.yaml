@@ -1,0 +1,51 @@
+id: dea:experiment-nct04029402-molecular-analysis-of-diabetic-kidne-pfz669
+type: Experiment
+name: NCT04029402 — Molecular Analysis of Diabetic Kidney Disease Biopsies
+description: Despite decades of research, the pathogenesis of human diabetic kidney
+  disease remains largely unclear. Our goal is to use archived human kidney biopsy
+  tissue from patients with and with diabetic nephropathy to identify new molecules
+  that drive and/or protect against disease progression. We will use RNA sequencing
+  to identify transcriptomic changes that associate with histologic and functional
+  outcomes. (NCT NCT04029402; status UNKNOWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Despite decades of research, the pathogenesis of human diabetic kidney
+  disease remains largely unclear. Our goal is to use archived human kidney biopsy
+  tissue from patients with and with diabetic neph
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04029402 (ClinicalTrials.gov; status
+      UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- unknown

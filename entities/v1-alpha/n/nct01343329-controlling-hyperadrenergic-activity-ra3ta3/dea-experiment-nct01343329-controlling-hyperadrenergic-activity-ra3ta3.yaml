@@ -1,0 +1,55 @@
+id: dea:experiment-nct01343329-controlling-hyperadrenergic-activity-ra3ta3
+type: Experiment
+name: NCT01343329 — Controlling Hyperadrenergic Activity in Neurologic Injury
+description: Traumatic brain injury (TBI) is frequently associated with a hyperadrenergic
+  state accompanied by elevated levels of plasma catecholamines. In its more severe
+  presentation, the hyperadrenergic state presents as dysautonomia, which is characterized
+  by paroxysmal alteration in vital signs, including tachycardia. The investigators
+  hypothesize that intravenous (IV) esmolol is as effective at controlling heart rate
+  in hyperadrenergic states as oral propranolol, which is the standard of care. Our
+  primary endpoint is efficacy of IV esmolol vs a PRN regimen of intermittent B-blockade
+  in controlling heart rate below a pre-specified level (\< 100 bpm) after Traumatic
+  Brain Injury (TBI) or hemorrhagic neurologic injury. Heart rates will be recorded
+  continuously as well as hourly. (NCT NCT01343329; status WITHDRAWN).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Traumatic brain injury (TBI) is frequently associated with a hyperadrenergic
+  state accompanied by elevated levels of plasma catecholamines. In its more severe
+  presentation, the hyperadrenergic state p
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01343329 (ClinicalTrials.gov; status
+      WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- withdrawn

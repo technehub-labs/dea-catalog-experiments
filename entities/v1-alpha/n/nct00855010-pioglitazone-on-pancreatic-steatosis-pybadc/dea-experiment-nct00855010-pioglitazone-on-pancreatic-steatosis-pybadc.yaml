@@ -1,0 +1,47 @@
+id: dea:experiment-nct00855010-pioglitazone-on-pancreatic-steatosis-pybadc
+type: Experiment
+name: NCT00855010 — Pioglitazone on Pancreatic Steatosis and Bone Health
+description: Randomized, double blind, placebo controlled trial evaluating the effect
+  of pioglitazone on pancreatic fat content and bone turnover markers. (NCT NCT00855010;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: Randomized, double blind, placebo controlled trial evaluating the effect
+  of pioglitazone on pancreatic fat content and bone turnover markers.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00855010 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

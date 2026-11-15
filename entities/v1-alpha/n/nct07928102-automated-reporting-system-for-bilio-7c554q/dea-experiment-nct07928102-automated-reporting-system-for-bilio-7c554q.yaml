@@ -1,0 +1,60 @@
+id: dea:experiment-nct07928102-automated-reporting-system-for-bilio-7c554q
+type: Experiment
+name: NCT07928102 — Automated Reporting System for Biliopancreatic Endoscopic Ultrasound
+description: This study aims to develop and prospectively validate an automated reporting
+  system to generate structured preliminary biliopancreatic EUS reports using information
+  collected before and during EUS examinations. System development will be completed
+  before prospective validation, and patients included in system development will
+  be separate from those enrolled in prospective validation. The prospective multicenter
+  validation will enroll 420 adults undergoing EUS for suspected or confirmed biliopancreatic
+  disease. Each patient will contribute only the first eligible EUS examination. The
+  primary endpoint is the difference in clinical acceptance rates between system-generated
+  preliminary reports and independently prepared manual preliminary reports. Non-inferiority
+  will be assessed using a predefined margin. A nested endosonographer-reporting substudy
+  will also compare completion time and quality between final reports prepared by
+  endosonographers with and without assistance of a system-generated preliminary report.
+  The study will assess the ability of automated reporting to support accurate and
+  efficient EUS reporting while routine clinical care remains unchanged. (NCT NCT07928102;
+  status NOT_YET_RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study aims to develop and prospectively validate an automated reporting
+  system to generate structured preliminary biliopancreatic EUS reports using information
+  collected before and during EUS exa
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07928102 (ClinicalTrials.gov; status
+      NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- not-yet-recruiting

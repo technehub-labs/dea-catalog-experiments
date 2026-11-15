@@ -1,0 +1,51 @@
+id: dea:experiment-nct06338670-clinical-performance-of-the-osia-3-s-rp7f2h
+type: Experiment
+name: NCT06338670 — Clinical Performance of the Osia 3 Sound Processor Compared With
+  the Osia 2 Sound Processor in Adult Osia Implant Users
+description: This study aims to investigate the clinical performance of the Osia 3
+  Sound Processor in comparison to the Osia 2 Sound Processor in adults with mixed
+  or conductive hearing loss or single-sided deafness implanted with an Osia implant.
+  Participants will attend four study visits, where they will complete various hearing
+  assessments using the Osia sound processors. (NCT NCT06338670; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study aims to investigate the clinical performance of the Osia 3
+  Sound Processor in comparison to the Osia 2 Sound Processor in adults with mixed
+  or conductive hearing loss or single-sided deafne
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06338670 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

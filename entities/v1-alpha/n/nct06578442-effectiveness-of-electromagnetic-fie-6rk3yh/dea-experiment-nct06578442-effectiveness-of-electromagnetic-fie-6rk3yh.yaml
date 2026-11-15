@@ -1,0 +1,66 @@
+id: dea:experiment-nct06578442-effectiveness-of-electromagnetic-fie-6rk3yh
+type: Experiment
+name: NCT06578442 — Effectiveness of Electromagnetic Field Therapy in Chronic Constipation
+description: 'This study was, randomise controlled study. The aim of this study was
+  to determine the effect of transabdominal magnetic field therapy on constipation
+  severity in patients with chronic functional constipation. After eligibility assessment
+  and baseline measurements, participants were randomly allocated into three groups:
+  the transabdominal magnetic field therapy group, the sham group, and the standard
+  care group. All groups received Constipation Management Education. The education
+  program, developed based on the literature, covered the definition, causes, risk
+  factors, medication use, and lifestyle-related factors associated with constipation.
+  In addition, behavioral recommendations were provided, including maintaining regular
+  bowel habits, adopting an appropriate defecation posture, avoiding delayed defecation
+  and excessive straining, and optimizing diet, fluid intake, and physical activity.
+  The MFT group received active transabdominal magnetic field therapy twice weekly
+  for 8 weeks. The sham group underwent the same device placement and session protocol;
+  however, the device was used without delivering an active magnetic field. The standard
+  care group received only Constipation Management Education. Participants were followed
+  face to face for 8 weeks, and individual counseling was provided when needed to
+  answer their questions. The primary outcome measure was the Constipation Severity
+  Instrument (CSI). Secondary outcomes were the CSI subscales, the Patient Assessment
+  of Constipation Quality of Life questionnaire (PAC-QOL), the Bristol Stool Form
+  Scale, complete spontaneous bowel movements (CSBM), and defecation time. (NCT NCT06578442;
+  status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: This study was, randomise controlled study. The aim of this study was
+  to determine the effect of transabdominal magnetic field therapy on constipation
+  severity in patients with chronic functional cons
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06578442 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

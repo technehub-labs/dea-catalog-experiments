@@ -1,0 +1,62 @@
+id: dea:experiment-nct01832545-aquatic-exercise-program-for-knee-os-mvu7mx
+type: Experiment
+name: NCT01832545 — Aquatic Exercise Program for Knee Osteoarthritis
+description: 'The aim of PICO study is to design an aquatic exercise program specific
+  for obese individuals with knee osteoarthritis which the main goals are OA symptoms
+  management and the improvement of physical fitness. The author''s opinion is that
+  the musculoskeletal pain is the main constraint for any kind of mobility and its
+  control should be considered as an important goal in the weight management''s programs.
+  Therefore the PICO project proposes an aquatic exercise program to controlling pain
+  and other symptoms management, showing that it is possible to live with the disease,
+  and motivating the change in lifestyle, thus preventing the installation or worsening
+  of KOA. In this way, five hypotheses were formulated: H1. 3 months of aquatic exercise
+  is enough to improve KOA symptoms and functionality in obese individuals; H2. The
+  gait parameters of obese individuals with KOA can be improved by aquatic exercise;
+  H3. Beyond the exercises skills, aquatic exercise group classes can work with an
+  educational component, promoting lifestyles changes. H4: Pain reduction and a better
+  psychological status can lead an increase of functionally, increasing amount of
+  physical activity. H5: Even if the main goal is not weight management, the aquatic
+  exercise program can lead a weight reduction or body composition change. (NCT NCT01832545;
+  status COMPLETED).'
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The aim of PICO study is to design an aquatic exercise program specific
+  for obese individuals with knee osteoarthritis which the main goals are OA symptoms
+  management and the improvement of physical f
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01832545 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

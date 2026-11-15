@@ -1,0 +1,53 @@
+id: dea:experiment-nct05975502-congenital-syphilis-in-switzerland-fvpmz5
+type: Experiment
+name: NCT05975502 — Congenital Syphilis in Switzerland
+description: A retrospective national epidemiological Swiss study was conducted to
+  establish a real prevalence and description of congenital syphilis, and to better
+  classify the reported congenital syphilis. Maternal risk factors to contract syphilis
+  (i.e. socio-demographic, cultural and clinical factors) were also evaluated, in
+  order to focus on prevention of these targeted population. Follow up of the children
+  born from mother with syphilis during pregnancy, until age 6, was recorded to evaluate
+  the risk of congenital syphilis following treatment of maternal syphilis. (NCT NCT05975502;
+  status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: A retrospective national epidemiological Swiss study was conducted to
+  establish a real prevalence and description of congenital syphilis, and to better
+  classify the reported congenital syphilis. Mater
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05975502 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

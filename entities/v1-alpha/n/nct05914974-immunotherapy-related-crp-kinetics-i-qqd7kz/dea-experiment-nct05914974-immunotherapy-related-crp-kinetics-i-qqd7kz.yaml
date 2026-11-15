@@ -1,0 +1,51 @@
+id: dea:experiment-nct05914974-immunotherapy-related-crp-kinetics-i-qqd7kz
+type: Experiment
+name: NCT05914974 — Immunotherapy-related CRP Kinetics in Metastatic Gynecological
+  Malignancies
+description: ICK-Gyn is a prospective, multicentric, non-interventional investigator-initiated
+  trial (IIT) that aims to investigate the prognostic value of CRP kinetics in advanced
+  or metastatic gynecological malignancies under immune checkpoint inhibitor (ICI)
+  therapy on the objective response rate (ORR), progression-free survival (PFS) and
+  overall survival (OS). (NCT NCT05914974; status RECRUITING).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: ICK-Gyn is a prospective, multicentric, non-interventional investigator-initiated
+  trial (IIT) that aims to investigate the prognostic value of CRP kinetics in advanced
+  or metastatic gynecological mali
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05914974 (ClinicalTrials.gov; status
+      RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- recruiting

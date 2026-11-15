@@ -1,0 +1,62 @@
+id: dea:experiment-nct03007979-alternative-dosing-schedule-of-palbo-qk5wyf
+type: Experiment
+name: NCT03007979 — Alternative Dosing Schedule of Palbociclib in Metastatic Hormone
+  Receptor Positive Breast Cancer
+description: The investigators propose to conduct a study to test an alternative dosing
+  schedule of palbociclib. With the current three-week on and one week off schedule,
+  a significant number of patients develop grade 3 or higher degree of neutropenia
+  and require dose reduction and sometimes discontinuation. This potentially compromises
+  the efficacy of the drug. In addition, as the half-life of palbociclib is 27 hours,
+  1 week break with the standard 3 weeks on and 1 week off dosing schedule could potentially
+  lead to recovery of Rb phosphorylation during the off week. Hence, the investigators
+  propose a 5 days on and 2 days off schedule each week without any weeks off drug.
+  Although the cumulative doses each 28-day cycle is roughly the same with this schedule
+  compared to conventional dosing, the bone marrow is not exposed to the drug continuously
+  for 21 days and rather gets frequent breaks from therapy. The investigators hypothesize
+  that the 5 days on and 2 days off schedule is more tolerable with less frequent
+  high grade neutropenia and dose interruption/reduction. In addition, this schedule
+  also provides for a more continuous drug delivery to the patient since there is
+  not a week's break in therapy, which could ultimately prove to be more efficacious.
+  (NCT NCT03007979; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: The investigators propose to conduct a study to test an alternative dosing
+  schedule of palbociclib. With the current three-week on and one week off schedule,
+  a significant number of patients develop g
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03007979 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed

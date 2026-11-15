@@ -1,0 +1,55 @@
+id: dea:experiment-nct01889173-comparative-pharmacokinetics-and-saf-wr9v5f
+type: Experiment
+name: NCT01889173 — Comparative Pharmacokinetics and Safety of 3 Different Formulations
+  of TNX-102 2.8 mg SL Tablets and Cyclobenzaprine 5 mg Oral Tablet in Healthy Adults
+description: Very low dose (VLD) cyclobenzaprine at bedtime has shown promise as a
+  treatment for fibromyalgia, but the chemistry of cyclobenzaprine requires new formulation
+  technology for bedtime use. The present trial is designed to assess the safety and
+  tolerability of 3 different formulations of TNX-102 2.8 mg SL Tablets (a new formulation
+  of cyclobenzaprine designed to result in increased dosage precision and decreased
+  potential for morning grogginess) and to compare the bio-availability of 3 different
+  formulations of TNX-102 2.8 mg SL Tablets (TNX-102 with potassium phosphate, TNX-102-B
+  with sodium phosphate, and TNX-102-C with trisodium citrate) to that of cyclobenzaprine
+  (5 mg tablets). (NCT NCT01889173; status COMPLETED).
+version: 0.1.0
+lifecycle_status: active
+hypothesis: 'Very low dose (VLD) cyclobenzaprine at bedtime has shown promise as a
+  treatment for fibromyalgia, but the chemistry of cyclobenzaprine requires new formulation
+  technology for bedtime use. The present '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01889173 (ClinicalTrials.gov; status
+      COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a
+    provisional programmatic mapping (pending unless the registry shows a final status);
+    per-organization outcome values are canonical-admission decisions.
+provenance:
+  ladder_passage:
+  - stage: candidate
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: corroborated
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: reviewed
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+  - stage: canonical
+    date: '2026-11-15'
+    actor: Emmanuel A. Otchere
+governance:
+  functional_owner: Emmanuel A. Otchere
+  steward: Emmanuel A. Otchere
+  approval_status: approved
+  source_and_evidence: Candidate corpus admission; evidence sources cited per record.
+  review_date: '2026-11-15'
+metadata:
+  created_at: '2026-11-15'
+  updated_at: '2026-11-15'
+  created_by: Emmanuel A. Otchere
+  status: active
+tags:
+- clinical-trial
+- completed
