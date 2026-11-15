@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00764673
+name: 'NCT00764673 — The 3DKnee™ System: A Post-Market Study'
+description: The purpose of this study is to evaluate the survivorship and efficacy of the Encore 3DKnee™
+  system in a group of patients who will receive the 3DKnee™ as a primary (first) orthopedic implant in
+  the knee. Each knee will be designated as a separate subject and followed for a period of 2 years. (NCT
+  NCT00764673; status COMPLETED).
+hypothesis: The purpose of this study is to evaluate the survivorship and efficacy of the Encore 3DKnee™
+  system in a group of patients who will receive the 3DKnee™ as a primary (first) orthopedic implant in
+  the k
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00764673 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00764673-the-3dknee-system-a-post-market-stud

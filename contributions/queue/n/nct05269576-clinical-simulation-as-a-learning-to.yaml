@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05269576
+name: NCT05269576 — Clinical Simulation as a Learning Tool in Medical Students
+description: The hypothesis of our work is that with the simulation techniques applied in the Medical
+  School of the Autonomous University of Barcelona (UAB), students accelerate the learning curve of clinical
+  skills, acquire transversal skills in medicine, and obtain a higher quality learning. (NCT NCT05269576;
+  status UNKNOWN).
+hypothesis: The hypothesis of our work is that with the simulation techniques applied in the Medical School
+  of the Autonomous University of Barcelona (UAB), students accelerate the learning curve of clinical
+  skil
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05269576 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05269576-clinical-simulation-as-a-learning-to

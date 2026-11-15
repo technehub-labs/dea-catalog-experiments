@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01177969
+name: 'NCT01177969 — Cognitive Behavioral Therapy (CBT) for Anxiety Disorders in Autism: Adapting Treatment
+  for Adolescents'
+description: Comorbid anxiety disorders affect as many as 80% of youth with autism spectrum disorders,
+  causing substantial distress and impairment over and above the autism spectrum diagnosis alone. Cognitive
+  behavioral therapy (CBT) is the gold standard treatment among typically developing youth with an anxiety
+  disorder and when adapted, shows promise in children with ASD and comorbid anxiety. However, there is
+  currently no psychotherapy protocol tailored to meet the unique needs of young adolescents with Autism
+  spectrum disorders (ASD) and comorbid anxiety. Given this, the present study seeks to develop and test
+  a new CBT therapy in adolescents with autism and comorbid anxiety. (NCT NCT01177969; status COMPLETED).
+hypothesis: Comorbid anxiety disorders affect as many as 80% of youth with autism spectrum disorders,
+  causing substantial distress and impairment over and above the autism spectrum diagnosis alone. Cognitive
+  beha
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01177969 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01177969-cognitive-behavioral-therapy-cbt-for

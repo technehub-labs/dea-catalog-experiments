@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05660629
+name: NCT05660629 — Mulligan Mobilization in Rheumatoid Hand
+description: 'The goal of this randomized-controlled study is to learn about the effectiveness of the
+  Mulligan mobilization in rheumatoid hands. The main question it aims to answer are: -Does mulligan mobilization
+  reduce effusion in wrist joints with rheumatoid arthritis? Participants will take Mulligan mobilization
+  application and active ROM exercises for their hands. Researcher will compare treatments group ith sham
+  mobilization. (NCT NCT05660629; status COMPLETED).'
+hypothesis: 'The goal of this randomized-controlled study is to learn about the effectiveness of the Mulligan
+  mobilization in rheumatoid hands. The main question it aims to answer are: -Does mulligan mobilization '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05660629 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05660629-mulligan-mobilization-in-rheumatoid

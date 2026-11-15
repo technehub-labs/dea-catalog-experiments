@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06442137
+name: NCT06442137 — A Clinical Trial of Chazhu Xiaozhi Decoction Against Non-alcoholic Fatty Liver Disease
+description: 'The goal of this clinical trial is to learn if drug Chazhu Xiaozhi decoction works to treat
+  non-alcoholic fatty liver disease in adults. It will also learn about the safety of drug Chazhu Xiaozhi
+  decoction. The main questions it aims to answer are: Does drug Chazhu Xiaozhi decoction improve the
+  degree of hepatic steatosis in patients with non-alcoholic fatty liver disease? What medical problems
+  do participants have when taking drug Chazhu Xiaozhi decoction? Researchers will compare drug Chazhu
+  Xiaozhi decoction to a placebo (a look-alike substance that contains no drug) to see if drug Chazhu
+  Xiaozhi decoction works to treat non-alcoholic fatty liver disease. Participants will: Take drug Chazhu
+  Xiaozhi decoction or a placebo every day for eight weeks Keep a record of their symptoms and the degree
+  of hepatic steatosis before and after the treatment (NCT NCT06442137; status COMPLETED).'
+hypothesis: The goal of this clinical trial is to learn if drug Chazhu Xiaozhi decoction works to treat
+  non-alcoholic fatty liver disease in adults. It will also learn about the safety of drug Chazhu Xiaozhi
+  deco
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06442137 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06442137-a-clinical-trial-of-chazhu-xiaozhi-d

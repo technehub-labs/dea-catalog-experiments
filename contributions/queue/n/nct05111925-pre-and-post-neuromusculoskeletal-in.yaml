@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05111925
+name: NCT05111925 — Pre- and Post-neuromusculoskeletal Injury Risk Evaluation for Return-to-Duty Enhancement
+description: The purpose of this study is to develop comprehensive and efficient pre- and post- musculoskeletal
+  injury (MSKI) risk assessments for Service members, incorporating both objective and subjective measures.
+  This is a multi-site observational study to identify the pre- and post-MSKI physical and psychosocial
+  factors contributing to MSKI risks and undesired patient outcomes following MSKI. The study hypothesis
+  is that a set of field-expedient clinical assessments can identify Service member specific MSKI risk
+  factors and post-MSKI deficits that contribute to undesired patient outcomes and provide data to guide
+  patient-specific risk mitigation and rehabilitation programs. (NCT NCT05111925; status RECRUITING).
+hypothesis: The purpose of this study is to develop comprehensive and efficient pre- and post- musculoskeletal
+  injury (MSKI) risk assessments for Service members, incorporating both objective and subjective measu
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05111925 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct05111925-pre-and-post-neuromusculoskeletal-in

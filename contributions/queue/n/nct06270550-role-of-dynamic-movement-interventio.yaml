@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06270550
+name: NCT06270550 — Role of Dynamic Movement Intervention in Children with Spastic Diplegia
+description: The study aims to investigate the effect of dynamic movement intervention approach on static
+  and dynamic balance, quality of step length and cadence of walking pattern of children with spastic
+  diplegic cerebral palsy. (NCT NCT06270550; status RECRUITING).
+hypothesis: The study aims to investigate the effect of dynamic movement intervention approach on static
+  and dynamic balance, quality of step length and cadence of walking pattern of children with spastic
+  diplegi
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06270550 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06270550-role-of-dynamic-movement-interventio

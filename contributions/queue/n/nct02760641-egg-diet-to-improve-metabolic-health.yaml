@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02760641
+name: NCT02760641 — Egg Diet to Improve Metabolic Health and Function
+description: The purpose of this study is to determine the effects of change in diet quality (carbohydrate
+  restriction versus fat restriction) on body composition, fat distribution, cardiometabolic risk factors,
+  physical function, and quality of life in aging adults with obesity. (NCT NCT02760641; status COMPLETED).
+hypothesis: The purpose of this study is to determine the effects of change in diet quality (carbohydrate
+  restriction versus fat restriction) on body composition, fat distribution, cardiometabolic risk factors,
+  p
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02760641 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02760641-egg-diet-to-improve-metabolic-health

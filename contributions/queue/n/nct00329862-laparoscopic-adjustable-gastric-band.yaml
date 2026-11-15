@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00329862
+name: NCT00329862 — Laparoscopic Adjustable Gastric Banding With Truncal Vagotomy
+description: Laparoscopic Adjustable Gastric Banding (LAGB) is a gold standard in the surgical treatment
+  of morbid obesity. We hypothesize that the addition of truncal vagotomy (cutting of nerves to the stomach)
+  will produce greater weight loss and better reduction of co-morbidities (diseases caused by or aggravated
+  by morbid obesity) than LAGB alone. 25 patients will be enrolled and outcomes compared to LAGB historical
+  controls over a post-operative period of 24 months. (NCT NCT00329862; status TERMINATED).
+hypothesis: Laparoscopic Adjustable Gastric Banding (LAGB) is a gold standard in the surgical treatment
+  of morbid obesity. We hypothesize that the addition of truncal vagotomy (cutting of nerves to the stomach)
+  w
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00329862 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct00329862-laparoscopic-adjustable-gastric-band

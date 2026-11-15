@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01169246
+name: NCT01169246 — Efficacy of the ATP Switch Automatic Programming in Implantable Cardioverter Defibrillator
+  (ICD) and Cardiac Resynchronization Therapy Defibrillator (CRT-D) Implanted Patients
+description: Primary objective is to assess the efficacy of the new ATP Autoswitch function in simple,
+  dual or triple chamber ICD. (NCT NCT01169246; status TERMINATED).
+hypothesis: Primary objective is to assess the efficacy of the new ATP Autoswitch function in simple,
+  dual or triple chamber ICD.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01169246 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct01169246-efficacy-of-the-atp-switch-automatic

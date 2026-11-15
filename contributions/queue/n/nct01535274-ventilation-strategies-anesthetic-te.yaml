@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01535274
+name: NCT01535274 — Ventilation Strategies, Anesthetic Techniques and Cerebral Oxygenation in the Beach
+  Chair Position
+description: The seated or "beach chair" position during surgery and general anesthesia decreases brain
+  oxygen levels and can result in stroke. As such, poor neurological outcome following beach chair positioning
+  is a growing concern. In the proposed study the investigators test the hypothesis that changes in ventilation
+  strategy and anesthetic technique can affect cerebral oxygenation in anesthetized patients in the beach
+  chair position. (NCT NCT01535274; status COMPLETED).
+hypothesis: 'The seated or "beach chair" position during surgery and general anesthesia decreases brain
+  oxygen levels and can result in stroke. As such, poor neurological outcome following beach chair positioning '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01535274 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01535274-ventilation-strategies-anesthetic-te

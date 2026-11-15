@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07810725
+name: NCT07810725 — Effect of a Myopia Control Lens on the Astigmatism in Children
+description: 'The goal of this clinical trial is to investigate over a one-year period the effect of myopia
+  control spectacle lenses on astigmatism in children aged 6 to 13 years with myopia and astigmatism.
+  The main question it aims to answer is: \- How does the eye respond at each timepoint to the myopia
+  control lenses? By evaluating: the change in astigmatism (cylinder) after one year? Participants will:
+  Wear the assigned study spectacles daily Visit the Essilor R\&D Centre for scheduled follow-up sessions
+  (NCT NCT07810725; status NOT_YET_RECRUITING).'
+hypothesis: The goal of this clinical trial is to investigate over a one-year period the effect of myopia
+  control spectacle lenses on astigmatism in children aged 6 to 13 years with myopia and astigmatism.
+  The ma
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07810725 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07810725-effect-of-a-myopia-control-lens-on-t

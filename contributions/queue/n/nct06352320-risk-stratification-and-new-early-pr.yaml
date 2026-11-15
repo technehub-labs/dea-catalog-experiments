@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06352320
+name: NCT06352320 — Risk Stratification and New Early Prevention and Treatment Strategies for Patients
+  With Cardiomyopathy (STRENGTH）
+description: This study will include patients with different types of cardiomyopathy from multiple centers
+  were prospectively enrolled in a retrospective study to establish a natural population cohort of cardiomyopathy
+  patients. By collecting clinical data and biological samples from surgical patients, we will construct
+  a prognostic system for cardiomyopathy, optimize risk stratification, explore new strategies for the
+  early prevention and treatment of cardiomyopathy, and improve the efficiency of clinical cardiomyopathy
+  patients' diagnosis and treatment. (NCT NCT06352320; status RECRUITING).
+hypothesis: This study will include patients with different types of cardiomyopathy from multiple centers
+  were prospectively enrolled in a retrospective study to establish a natural population cohort of cardiomyo
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06352320 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06352320-risk-stratification-and-new-early-pr

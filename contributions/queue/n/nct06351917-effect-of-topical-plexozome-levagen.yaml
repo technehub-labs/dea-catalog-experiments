@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06351917
+name: NCT06351917 — Effect of Topical PlexoZome® Levagen® Spray on Relief of Post Exercise Knee Joint
+  Pain
+description: This is a randomised, double-blind, placebo controlled, 2 arm parallel clinical trial to
+  evaluate the effect of topical PlexoZome® Levagen® spray on relief of post exercise knee joint pain
+  in healthy adults compared to placebo over 4 weeks duration. (NCT NCT06351917; status COMPLETED).
+hypothesis: 'This is a randomised, double-blind, placebo controlled, 2 arm parallel clinical trial to
+  evaluate the effect of topical PlexoZome® Levagen® spray on relief of post exercise knee joint pain
+  in healthy '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06351917 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06351917-effect-of-topical-plexozome-levagen

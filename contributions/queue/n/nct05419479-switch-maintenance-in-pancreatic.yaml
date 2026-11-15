@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05419479
+name: NCT05419479 — Switch Maintenance in Pancreatic
+description: 'This study is being done to test the safety and effectiveness of combining domvanalimab
+  (AB154), zimberelimab (AB122), and APX005M with pancreatic cancer that has spread to other parts of
+  body. This research study involves immunotherapy. Immunotherapy triggers the body''s immune system to
+  fight cancer cells. The names of the study drugs involved in this study are: * Domvanalimab (also known
+  as AB154) * Zimberelimab (also known as AB122) * APX005M (NCT NCT05419479; status SUSPENDED).'
+hypothesis: This study is being done to test the safety and effectiveness of combining domvanalimab (AB154),
+  zimberelimab (AB122), and APX005M with pancreatic cancer that has spread to other parts of body. This
+  r
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05419479 (ClinicalTrials.gov; status SUSPENDED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- suspended
+slug: nct05419479-switch-maintenance-in-pancreatic

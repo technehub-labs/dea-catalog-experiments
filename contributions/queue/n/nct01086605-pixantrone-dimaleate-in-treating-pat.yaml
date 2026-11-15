@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01086605
+name: NCT01086605 — Pixantrone Dimaleate in Treating Patients With HER2-Negative Metastatic Breast Cancer
+description: 'RATIONALE: Drugs used in chemotherapy, such as pixantrone dimaleate, work in different ways
+  to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving
+  pixantrone dimaleate in different ways may kill more tumor cells. PURPOSE: This randomized phase II
+  trial is studying how well pixantrone dimaleate works in treating patients with HER2-negative metastatic
+  breast cancer. (NCT NCT01086605; status COMPLETED).'
+hypothesis: 'RATIONALE: Drugs used in chemotherapy, such as pixantrone dimaleate, work in different ways
+  to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving
+  pix'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01086605 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01086605-pixantrone-dimaleate-in-treating-pat

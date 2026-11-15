@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07616102
+name: NCT07616102 — Effect of Bupivacaine Liposome Injection on Muscle Strength After Total Knee Arthroplasty
+description: This study employs a randomized controlled trial to investigate whether bupivacaine liposome
+  injection for adductor canal block can effectively improve lower limb muscle strength after total knee
+  arthroplasty. (NCT NCT07616102; status NOT_YET_RECRUITING).
+hypothesis: This study employs a randomized controlled trial to investigate whether bupivacaine liposome
+  injection for adductor canal block can effectively improve lower limb muscle strength after total knee
+  arth
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07616102 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07616102-effect-of-bupivacaine-liposome-injec

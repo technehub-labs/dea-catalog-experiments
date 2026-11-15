@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01501110
+name: NCT01501110 — Effects of N-acetylcysteine on Low T3 Syndrome
+description: The propose of this study is to determine whether N-acetylcysteine is effective in reversing
+  the changes in thyroid hormones seen in critical illness, known as the low T3 syndrome. (NCT NCT01501110;
+  status COMPLETED).
+hypothesis: The propose of this study is to determine whether N-acetylcysteine is effective in reversing
+  the changes in thyroid hormones seen in critical illness, known as the low T3 syndrome.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01501110 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01501110-effects-of-n-acetylcysteine-on-low-t

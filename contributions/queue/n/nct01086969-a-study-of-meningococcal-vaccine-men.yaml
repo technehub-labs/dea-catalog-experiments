@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01086969
+name: NCT01086969 — A Study of Meningococcal Vaccine, Menactra® in Healthy Subjects in India
+description: 'The purpose of this study is to assess the safety and immunogenicity of a single dose of
+  Menactra® vaccine to support registration. Primary Objectives: * To describe the antibody titers measured
+  by serum bactericidal activity using baby rabbit complement (SBA-BR) before and after Menactra® vaccination.
+  * To describe the safety profile of participants after one dose of Menactra®. (NCT NCT01086969; status
+  COMPLETED).'
+hypothesis: 'The purpose of this study is to assess the safety and immunogenicity of a single dose of
+  Menactra® vaccine to support registration. Primary Objectives: * To describe the antibody titers measured
+  by se'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01086969 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01086969-a-study-of-meningococcal-vaccine-men

@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05887973
+name: NCT05887973 — Addressing Root Causes for Gun Violence Prevention (ARC-GVP)
+description: 'The goal of this study is to help build the evidence base for a locally-relevant youth firearm
+  violence prevention program in Washington D.C., a city experiencing disparities in youth firearm violence
+  outcomes. The main question it aims to answer is: How is youth participation in the summer youth employment
+  program, the True Reasons I Grabbed the Gun Evolved from Risk (The T.R.I.G.G.E.R Project), which is
+  designed to address root causes of gun violence, associated with individual youth behavioral outcomes,
+  including pro-social involvement, aggression, and firearm-related attitudes and behaviors? (NCT NCT05887973;
+  status RECRUITING).'
+hypothesis: The goal of this study is to help build the evidence base for a locally-relevant youth firearm
+  violence prevention program in Washington D.C., a city experiencing disparities in youth firearm violence
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05887973 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct05887973-addressing-root-causes-for-gun-viole

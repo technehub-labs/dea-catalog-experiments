@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03049982
+name: NCT03049982 — A Study for Obstructive Sleep Apnea Using a New At-Home Sleep Test
+description: The purpose of the study is to test the workflow of an auto-titrating mandibular positioner
+  in its intended setting. Participants with obstructive sleep apnea will use the device to determine
+  their eligibility for oral appliance therapy and provide feedback on usability of the device. (NCT NCT03049982;
+  status COMPLETED).
+hypothesis: The purpose of the study is to test the workflow of an auto-titrating mandibular positioner
+  in its intended setting. Participants with obstructive sleep apnea will use the device to determine
+  their el
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03049982 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03049982-a-study-for-obstructive-sleep-apnea

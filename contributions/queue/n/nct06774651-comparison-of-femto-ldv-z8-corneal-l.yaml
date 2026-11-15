@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06774651
+name: NCT06774651 — Comparison of Femto LDV Z8 Corneal Lenticule Extraction for Advanced Refractive Correction
+  (CLEAR) and Visumax Small Incision Lenticule Extraction (SMILE)
+description: 'This observational study aims to compare two laser corrective procedures for treating myopia
+  and myopic astigmatism: a novel refractive technique, the CLEAR procedure, and the established SMILE
+  procedure. Participants will be randomized to undergo CLEAR in one eye and SMILE in the other. The investigators
+  will evaluate and compare the two procedures based on the following aspects: refractive predictability
+  (how accurate the vision correction is) by measuring the proportion of eyes close to the target prescription
+  after surgery, clinical dry eye outcomes, changes in tear proteins, and corneal nerve changes at 1,
+  3, 6, and 12 months after both surgeries. Metabolomic features of the removed corneal tissue and how
+  precisely the laser is centered during surgery will also be examined. Our hypothesis is that CLEAR provides
+  equally good vision results as SMILE, and explore any extra benefits of CLEAR. (NCT NCT06774651; status
+  RECRUITING).'
+hypothesis: 'This observational study aims to compare two laser corrective procedures for treating myopia
+  and myopic astigmatism: a novel refractive technique, the CLEAR procedure, and the established SMILE
+  proced'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06774651 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06774651-comparison-of-femto-ldv-z8-corneal-l

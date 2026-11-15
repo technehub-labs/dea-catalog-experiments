@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02279056
+name: NCT02279056 — Randomized Controlled Trial of a Self-help Book for Insomnia in Patients With Co-morbid
+  OSA and Insomnia
+description: Obstructive sleep apnea (OSA) is a common sleep disorder treated with continuous positive
+  airway pressure (CPAP). Some OSA patients also suffer from co-morbid insomnia. CPAP treatment may be
+  complicated in patients with co-morbid insomnia. This project evaluates the effects of a self-help book
+  for insomnia in patients being treated with CPAP for OSA. (NCT NCT02279056; status COMPLETED).
+hypothesis: Obstructive sleep apnea (OSA) is a common sleep disorder treated with continuous positive
+  airway pressure (CPAP). Some OSA patients also suffer from co-morbid insomnia. CPAP treatment may be
+  complicat
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02279056 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02279056-randomized-controlled-trial-of-a-sel

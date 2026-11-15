@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01806337
+name: NCT01806337 — CHO(E)P-14 Followed by Alemtuzumab Consolidation in Peripheral T Cell Lymphoma
+description: Prospective Phase II Study for Treatment Peripheral T-cell Lymphoma, CHOP-14 Plus PEG-Filgrastim
+  Followed by Alemtuzumab Consolidation (NCT NCT01806337; status COMPLETED).
+hypothesis: Prospective Phase II Study for Treatment Peripheral T-cell Lymphoma, CHOP-14 Plus PEG-Filgrastim
+  Followed by Alemtuzumab Consolidation
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01806337 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01806337-cho-e-p-14-followed-by-alemtuzumab-c

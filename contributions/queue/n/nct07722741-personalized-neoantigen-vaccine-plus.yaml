@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07722741
+name: NCT07722741 — Personalized Neoantigen Vaccine Plus IL-12 (INO-9012) Versus Active Surveillance in
+  Subjects With High-Risk HCC
+description: This is a randomized, open-label, multi-site Phase II study of a personalized neoantigen
+  DNA vaccine (GNOS-PV02) and plasmid encoded IL-12 (INO-9012) in subjects with histologically or cytologically
+  confirmed diagnosis of HCC based on pathology report, who were eligible to undergo definitive resection,
+  have demonstrated laboratory, radiographic and/or pathologic high-risk criteria for recurrence (described
+  under eligibility), have no evidence of disease (NED) as per MRI approximately 28 days post resection,
+  and are able to provide a tissue sample for personalized neoantigen DNA vaccine development. (NCT NCT07722741;
+  status RECRUITING).
+hypothesis: This is a randomized, open-label, multi-site Phase II study of a personalized neoantigen DNA
+  vaccine (GNOS-PV02) and plasmid encoded IL-12 (INO-9012) in subjects with histologically or cytologically
+  c
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07722741 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07722741-personalized-neoantigen-vaccine-plus

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03400189
+name: NCT03400189 — Pharmacokinetics and Tolerability of Sulthiame
+description: This preliminary pilot exploration aims at specifying the pharmacokinetic parameters of sulthiame,
+  formulated as an immediate release tablet, thus helping to design proper clinical trials for the future
+  assessment of new paediatric formulations currently under development. The clinical tolerability to
+  single doses of sulthiame will also be closely monitored to orient future trials. (NCT NCT03400189;
+  status COMPLETED).
+hypothesis: This preliminary pilot exploration aims at specifying the pharmacokinetic parameters of sulthiame,
+  formulated as an immediate release tablet, thus helping to design proper clinical trials for the futu
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03400189 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03400189-pharmacokinetics-and-tolerability-of

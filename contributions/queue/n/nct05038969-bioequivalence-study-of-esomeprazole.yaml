@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05038969
+name: NCT05038969 — Bioequivalence Study of Esomeprazole From Stomopral 40 mg Capsules Contain Enteric
+  Coated Pellets (Future Pharmaceuticals Industries, Egypt) and Nexium 40 mg Delayed Release Capsules
+  (As
+description: Comparative randomized, single dose Bioequivalence Study of Esomeprazole From Stomopral 40
+  mg Capsules Contain Enteric Coated Pellets (Future Pharmaceuticals Industries, Egypt) and Nexium 40
+  mg Delayed Release Capsules (AstraZeneca Sweden, Product of France) in Healthy Human Volunteers Under
+  Fasting Condition. (NCT NCT05038969; status COMPLETED).
+hypothesis: Comparative randomized, single dose Bioequivalence Study of Esomeprazole From Stomopral 40
+  mg Capsules Contain Enteric Coated Pellets (Future Pharmaceuticals Industries, Egypt) and Nexium 40
+  mg Delaye
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05038969 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05038969-bioequivalence-study-of-esomeprazole

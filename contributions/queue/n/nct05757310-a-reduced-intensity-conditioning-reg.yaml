@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05757310
+name: NCT05757310 — A Reduced-Intensity Conditioning Regimen (Cyclophosphamide, Pentostatin, Anti-thymocyte
+  Globulin) Followed by Haploidentical Hematopoietic Stem Cell Transplant for the Treatment of Patie
+description: This phase I trial evaluates the safety and feasibility of using a reduced-intensity regimen
+  of cyclophosphamide, pentostatin, and anti-thymocyte globulin prior to a CD4+ T-cell depleted haploidentical
+  hematopoietic cell transplant (haploHCT) for the treatment of patients with severe aplastic anemia that
+  does not respond to treatment (refractory) or that has come back (recurrent). Cyclophosphamide is in
+  a class of medications called alkylating agents. It works by damaging the cell's deoxyribonucleic acid.
+  It may also lower the body's immune response. Pentostatin blocks a protein needed for cell growth. Anti-thymocyte
+  globulin is an immunosuppressive drug can destroy immune cells known as T-cells. HaploHCT transfers
+  blood-forming stem cells from a healthy partially-matched donor to a patient. Administering a regimen
+  of cyclophosphamide, pentostatin, and anti-thymocyte globulin before haploHCT may help make room for
+  the new, healthy cells and may reduce the risk of graft versus host disease. (NCT NCT05757310; status
+  RECRUITING).
+hypothesis: This phase I trial evaluates the safety and feasibility of using a reduced-intensity regimen
+  of cyclophosphamide, pentostatin, and anti-thymocyte globulin prior to a CD4+ T-cell depleted haploidentica
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05757310 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct05757310-a-reduced-intensity-conditioning-reg

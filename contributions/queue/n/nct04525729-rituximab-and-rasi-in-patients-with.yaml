@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04525729
+name: NCT04525729 — Rituximab and RASi in Patients with IgAN
+description: A study to evaluate safety and activity in treatment of IgAN patients using Rituximab in
+  combination with RASi(ACEI and/or ARB) compared with RASi. (NCT NCT04525729; status COMPLETED).
+hypothesis: A study to evaluate safety and activity in treatment of IgAN patients using Rituximab in combination
+  with RASi(ACEI and/or ARB) compared with RASi.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04525729 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04525729-rituximab-and-rasi-in-patients-with

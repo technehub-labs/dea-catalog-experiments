@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04181645
+name: NCT04181645 — SHR- 1210 Combined With Paclitaxel (Albumin Bound) and Gemcitabine as First-line Therapy
+  in Patients With Metastatic Pancreatic Cancer
+description: This is an open-label, single center, non-randomized, phase I trial to evaluate safety and
+  efficacy of using the combination treatment of SHR-1210 with Paclitaxel-albumin and gemcitabine of metastatic
+  PDAC. (NCT NCT04181645; status COMPLETED).
+hypothesis: This is an open-label, single center, non-randomized, phase I trial to evaluate safety and
+  efficacy of using the combination treatment of SHR-1210 with Paclitaxel-albumin and gemcitabine of metastatic
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04181645 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04181645-shr-1210-combined-with-paclitaxel-al

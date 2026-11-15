@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03938740
+name: NCT03938740 — Comparison of Different Insulin Dosing Algorithms Using Hepatic Directed Vesicle-Insulin
+  Lispro and Insulin Degludec
+description: Multi-center, open-label, multiple dose safety, tolerability and efficacy study (NCT NCT03938740;
+  status COMPLETED).
+hypothesis: Multi-center, open-label, multiple dose safety, tolerability and efficacy study
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03938740 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03938740-comparison-of-different-insulin-dosi

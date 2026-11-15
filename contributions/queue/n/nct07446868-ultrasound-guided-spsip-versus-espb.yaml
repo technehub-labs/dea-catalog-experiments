@@ -1,0 +1,37 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07446868
+name: NCT07446868 — Ultrasound-Guided SPSIP Versus ESPB for Postoperative Pain After Modified Radical
+  Mastectomy
+description: Breast cancer is the most common cancer affecting women worldwide. Modified radical mastectomy
+  is one of the main surgical treatments for breast cancer. However, this surgery is often associated
+  with significant postoperative pain, which may delay recovery and increase the need for opioid medications
+  such as morphine. Regional anesthesia techniques are increasingly used to improve pain control after
+  breast surgery and reduce opioid consumption. The erector spinae plane block (ESPB) is a well-established
+  ultrasound-guided technique that provides effective chest wall analgesia. The serratus posterior superior
+  intercostal plane (SPSIP) block is a newer ultrasound-guided technique that targets intercostal nerves
+  and may provide effective postoperative pain relief. The purpose of this randomized clinical trial is
+  to compare the effectiveness of SPSIP block versus ESPB block in controlling pain after modified radical
+  mastectomy. The primary outcome will be total morphine consumption during the first 24 hours after surgery.
+  Secondary outcomes include pain scores, time to first request for rescue analgesia, hemodynamic stability,
+  recovery profile, patient satisfaction, and postoperative side effects such as nausea and vomiting.
+  This study aims to determine whether the newer SPSIP block provides comparable or superior pain control
+  to ESPB, with the goal of improving postoperative recovery and reducing opioid requirements in breast
+  cancer patients. (NCT NCT07446868; status RECRUITING).
+hypothesis: 'Breast cancer is the most common cancer affecting women worldwide. Modified radical mastectomy
+  is one of the main surgical treatments for breast cancer. However, this surgery is often associated
+  with '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07446868 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07446868-ultrasound-guided-spsip-versus-espb

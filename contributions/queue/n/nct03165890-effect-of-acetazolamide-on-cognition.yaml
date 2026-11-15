@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03165890
+name: NCT03165890 — Effect of Acetazolamide on Cognition in Patients With Respiratory Disease at Altitude
+description: Randomized, placebo controlled trial evaluating the effect of acetazolamide on cognition
+  in lowlanders with chronic obstructive pulmonary disease travelling from 760 m to 3200 m. (NCT NCT03165890;
+  status COMPLETED).
+hypothesis: Randomized, placebo controlled trial evaluating the effect of acetazolamide on cognition in
+  lowlanders with chronic obstructive pulmonary disease travelling from 760 m to 3200 m.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03165890 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03165890-effect-of-acetazolamide-on-cognition

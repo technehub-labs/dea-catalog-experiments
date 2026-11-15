@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07393360
+name: NCT07393360 — Effect of a Food for Special Medical Purposes on Muscle Mass Preservation During GLP-1
+  RAs Weight Loss Treatment
+description: This study evaluates whether a Food for Special Medical Purposes (FSMP) can help to preserve
+  appendicular skeletal muscle mass (ASMM) in adults undergoing weight loss treatment with GLP-1 receptor
+  agonists or dual GIP/GLP-1 receptor agonists. Participants will receive the FSMP or a matching placebo
+  for 24 weeks while continuing standard GLP-1-based therapy. ASMM will be measured using Bioelectrical
+  Impedance Vector Analysis (BIVA). (NCT NCT07393360; status RECRUITING).
+hypothesis: This study evaluates whether a Food for Special Medical Purposes (FSMP) can help to preserve
+  appendicular skeletal muscle mass (ASMM) in adults undergoing weight loss treatment with GLP-1 receptor
+  ago
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07393360 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07393360-effect-of-a-food-for-special-medical

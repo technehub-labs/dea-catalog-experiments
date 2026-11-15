@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03316222
+name: NCT03316222 — Study of GNS561 in Patients With Liver Cancer
+description: This is a first in human, open-label dose escalation study to investigate the safety, tolerability
+  and pharmacokinetics of GNS561 in patients Primary and Secondary liver cancer (NCT NCT03316222; status
+  TERMINATED).
+hypothesis: This is a first in human, open-label dose escalation study to investigate the safety, tolerability
+  and pharmacokinetics of GNS561 in patients Primary and Secondary liver cancer
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03316222 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct03316222-study-of-gns561-in-patients-with-liv

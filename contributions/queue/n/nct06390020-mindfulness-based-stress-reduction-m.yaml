@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06390020
+name: 'NCT06390020 — Mindfulness-Based Stress Reduction (MBSR) for People High on the Personality Trait
+  Sensory Processing Sensitivity: A Mixed Methods Study'
+description: This study investigates the efficacy of MBSR training in alleviating stress-related symptoms
+  among individuals with high sensory processing sensitivity. Participants will be randomly allocated
+  to either the MBSR group or the control group. The primary hypothesis is that participants in the MBSR
+  group, relative to control group, will have lower depression-anxiety-stress scores post-intervention,
+  after controlling for baseline scores. The secondary hypothesis is that in the MBSR group, relative
+  to control group, other mental health, physical health and well-being outcomes, as well as potential
+  mindfulness mechanisms will also improve, after controlling for baseline scores. (NCT NCT06390020; status
+  UNKNOWN).
+hypothesis: This study investigates the efficacy of MBSR training in alleviating stress-related symptoms
+  among individuals with high sensory processing sensitivity. Participants will be randomly allocated
+  to eith
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06390020 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct06390020-mindfulness-based-stress-reduction-m

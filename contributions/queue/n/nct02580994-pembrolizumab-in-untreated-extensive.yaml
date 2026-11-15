@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02580994
+name: NCT02580994 — Pembrolizumab in Untreated Extensive SCLC
+description: This is a multicenter, open-label, two armed, controlled, and randomized phase II trial investigating
+  the activity of pembrolizumab in combination with standard chemotherapy in Extensive Disease (ED)-SCLC.
+  (NCT NCT02580994; status COMPLETED).
+hypothesis: This is a multicenter, open-label, two armed, controlled, and randomized phase II trial investigating
+  the activity of pembrolizumab in combination with standard chemotherapy in Extensive Disease (ED)-
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02580994 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02580994-pembrolizumab-in-untreated-extensive

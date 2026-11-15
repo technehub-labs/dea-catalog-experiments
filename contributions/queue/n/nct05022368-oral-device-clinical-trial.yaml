@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05022368
+name: NCT05022368 — Oral Device Clinical Trial
+description: The investigators are studying the use of a new medical device developed at Nationwide Children's.
+  This technology has been licensed and produced by Zotarix LLC, a medical device company. It is designed
+  to aid in retraction and provide protection of the lips during surgery. The investigators are not recording
+  any of your identifiable personal health information except for the surgery date. This device, called
+  the LabraGuard is a sterile, soft medical grade silicone, and no alternative device with these exact
+  protective properties exists, and the investigators are trying to learn more about how it performs in
+  different age children. (NCT NCT05022368; status UNKNOWN).
+hypothesis: The investigators are studying the use of a new medical device developed at Nationwide Children's.
+  This technology has been licensed and produced by Zotarix LLC, a medical device company. It is design
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05022368 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05022368-oral-device-clinical-trial

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05329623
+name: NCT05329623 — A Phase 1 Study to Evaluate the Pharmacokinetics of JDQ443 in Participants With Hepatic
+  Impairment Compared to Matched Healthy Control Participants.
+description: The purpose of this study is to evaluate the effect of hepatic impairment on the systemic
+  pharmacokinetics (PK), safety, and tolerability of JDQ443 in participants with varying degrees of hepatic
+  impairment. (NCT NCT05329623; status COMPLETED).
+hypothesis: The purpose of this study is to evaluate the effect of hepatic impairment on the systemic
+  pharmacokinetics (PK), safety, and tolerability of JDQ443 in participants with varying degrees of hepatic
+  impa
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05329623 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05329623-a-phase-1-study-to-evaluate-the-phar

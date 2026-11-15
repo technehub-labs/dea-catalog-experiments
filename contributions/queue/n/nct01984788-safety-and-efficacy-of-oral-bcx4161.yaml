@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01984788
+name: NCT01984788 — Safety and Efficacy of Oral BCX4161 as a Prophylactic Treatment for HAE
+description: The purpose of this study is to determine whether BCX4161 given as a daily oral prophylactic
+  treatment is safe and effective in reducing the number of acute attacks in patients with hereditary
+  angioedema. (NCT NCT01984788; status COMPLETED).
+hypothesis: The purpose of this study is to determine whether BCX4161 given as a daily oral prophylactic
+  treatment is safe and effective in reducing the number of acute attacks in patients with hereditary
+  angioed
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01984788 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01984788-safety-and-efficacy-of-oral-bcx4161

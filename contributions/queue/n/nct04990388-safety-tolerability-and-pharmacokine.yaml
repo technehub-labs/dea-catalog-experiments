@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04990388
+name: NCT04990388 — Safety, Tolerability, and Pharmacokinetics of UX053 in Patients With Glycogen Storage
+  Disease Type III (GSD III)
+description: The primary objective of the study is to evaluate the safety of UX053 in adults with Glycogen
+  Storage Disease Type III (GSD III). (NCT NCT04990388; status TERMINATED).
+hypothesis: The primary objective of the study is to evaluate the safety of UX053 in adults with Glycogen
+  Storage Disease Type III (GSD III).
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04990388 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct04990388-safety-tolerability-and-pharmacokine

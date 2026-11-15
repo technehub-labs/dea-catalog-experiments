@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00110591
+name: NCT00110591 — Safety and Tolerability of PRO 140 in HIV Uninfected Male Volunteers
+description: 'The purpose of the study is to determine the safety and tolerability of PRO 140, an investigational
+  anti-HIV drug, administered via intravenous infusion. Study hypothesis: Single intravenous doses of
+  PRO 140 can be safely administered to humans and will result in measurable concentrations of the product
+  in serum. (NCT NCT00110591; status COMPLETED).'
+hypothesis: 'The purpose of the study is to determine the safety and tolerability of PRO 140, an investigational
+  anti-HIV drug, administered via intravenous infusion. Study hypothesis: Single intravenous doses of '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00110591 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00110591-safety-and-tolerability-of-pro-140-i

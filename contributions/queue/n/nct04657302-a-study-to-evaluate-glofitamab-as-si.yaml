@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04657302
+name: NCT04657302 — A Study to Evaluate Glofitamab as Single Agent Administered After Pretreatment With
+  Obinutuzumab in Chinese Patients With Relapsed/Refractory Diffuse Large B-Cell Lymphoma
+description: This study will evaluate the pharmacokinetics, safety, tolerability, and efficacy of glofitamab
+  as a single agent following a fixed single dose of obinutuzumab in Chinese patients with relapsed or
+  refractory (R/R) diffuse large B-cell lymphoma (DLBCL) who have failed two or more lines of systemic
+  therapy. (NCT NCT04657302; status COMPLETED).
+hypothesis: This study will evaluate the pharmacokinetics, safety, tolerability, and efficacy of glofitamab
+  as a single agent following a fixed single dose of obinutuzumab in Chinese patients with relapsed or
+  ref
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04657302 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04657302-a-study-to-evaluate-glofitamab-as-si

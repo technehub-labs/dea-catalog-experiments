@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01154218
+name: NCT01154218 — Bioequivalence And Food Effect Study Comparing The Commercial Formulation Of Crizotinib
+  To Its Clinical Study Formulations And Commercial Formulation With Or Without Food In Healthy Volu
+description: The purpose of this study is to demonstrate bioequivalence of the Commercial Image Capsule
+  (CIC) relative to the Immediate Release Tablet (IRT) of crizotinib, bioequivalence of CIC relative to
+  Powder in Capsule (PIC) of crizotinib, and lack of an effect of high fat meal on the pharmacokinetics
+  (PK) of crizotinib when administered as CIC Formulation in healthy volunteers. (NCT NCT01154218; status
+  COMPLETED).
+hypothesis: 'The purpose of this study is to demonstrate bioequivalence of the Commercial Image Capsule
+  (CIC) relative to the Immediate Release Tablet (IRT) of crizotinib, bioequivalence of CIC relative to
+  Powder '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01154218 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01154218-bioequivalence-and-food-effect-study

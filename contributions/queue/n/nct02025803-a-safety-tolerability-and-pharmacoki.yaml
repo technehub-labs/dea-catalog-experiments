@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02025803
+name: NCT02025803 — A Safety, Tolerability and Pharmacokinetic Study of TAS-114 in Combination With Capecitabine
+  in Patients With Advanced Solid Tumors
+description: The purpose of this exploratory study is to investigate the safety and determine the maximum
+  tolerated dose (MTD) of TAS-114 in combination with capecitabine in patients with advanced solid tumors
+  for which the patients have no available therapy likely to convey clinical benefit. (NCT NCT02025803;
+  status COMPLETED).
+hypothesis: The purpose of this exploratory study is to investigate the safety and determine the maximum
+  tolerated dose (MTD) of TAS-114 in combination with capecitabine in patients with advanced solid tumors
+  for
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02025803 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02025803-a-safety-tolerability-and-pharmacoki

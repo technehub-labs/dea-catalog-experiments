@@ -1,0 +1,41 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05543824
+name: NCT05543824 — Hemodynamic Impact of Epidural Anesthesia in Relation to Age in Pediatric Patients.
+description: 'Epidural analgesia is established as the gold standard in the management of post-surgical
+  pain in multiple modalities, including the pediatric patient. It is a technique that is not without
+  risks, but with multiple benefits such as less response to stress, less incidence of chronic pain after
+  surgery, less incidence of nausea and vomiting and other adverse effects derived from opioids, faster
+  recovery and increased patient and family satisfaction. However, as it has been mentioned, the epidural
+  carries risks both in the technique itself (wet or intravascular puncture) and subsequently after the
+  injection of medication that generates a sympathetic blockade with arterial hypotension and an increase
+  in compensatory heart rate. Unlike in adult patients, in pediatric patients epidural and subarachnoid
+  anesthesia are better tolerated hemodynamically due to less vagal and sympathetic activity and almost
+  no systemic venodilation. This lower activity of the autonomic nervous system is due to its immaturity,
+  which is why, with the growth of the infant, this anesthetic technique increasingly affects its hemodynamics,
+  being similar to the adult at the age of 8-12 years. The study hypothesis does not differ from that
+  stated in physiology books and studies, but the investigators seek to identify the direct correlation
+  of age with the different hemodynamic parameters available with current technology (cardiac output,
+  systemic vascular resistance, blood pressure ) in pediatric patients after epidural anesthesia. The
+  study will be carried out in pediatric patients undergoing major surgery that requires the placement
+  of an epidural catheter and invasive blood pressure, without modifying in any way the usual practice
+  of the responsible anesthesiologist. The patient''s hemodynamic data will be collected at time 0 (prior
+  to catheter placement), one minute, 5 and 10 minutes after the bolus of local anesthetic administered
+  to measure the child''s hemodynamic response and relate it to their '
+hypothesis: Epidural analgesia is established as the gold standard in the management of post-surgical
+  pain in multiple modalities, including the pediatric patient. It is a technique that is not without
+  risks, but
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05543824 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05543824-hemodynamic-impact-of-epidural-anest

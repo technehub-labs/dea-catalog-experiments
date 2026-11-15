@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02737774
+name: NCT02737774 — Alternating Icotinib and Chemotherapy for Advanced Non-small Cell Lung Cancer With
+  EGFR Mutation
+description: This is a prospective, open, single-center, phase Ⅱ study to assess the efficacy and safety
+  of alternating Icotinib and chemotherapy for advanced non-small cell lung cancer with EGFR mutation.
+  (NCT NCT02737774; status UNKNOWN).
+hypothesis: This is a prospective, open, single-center, phase Ⅱ study to assess the efficacy and safety
+  of alternating Icotinib and chemotherapy for advanced non-small cell lung cancer with EGFR mutation.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02737774 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct02737774-alternating-icotinib-and-chemotherap

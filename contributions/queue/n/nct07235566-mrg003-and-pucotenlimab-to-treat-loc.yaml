@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07235566
+name: NCT07235566 — MRG003 and Pucotenlimab to Treat Locally Advanced or Metastatic ATC/PDTC
+description: This study is a single-arm, open-label, multi-cohort, single-center phase II clinical trial
+  designed to observe and evaluate the efficacy and safety of MRG003 (a EGFR-ADC) in combination with
+  pucotenlimab (a PD-1 inhibitor) for the treatment of EGFR-positive unresectable recurrent or metastatic
+  ATC/PDTC. All patients will receive the combination therapy every three weeks until disease progression
+  or other event as defined in the protocol occurs. (NCT NCT07235566; status RECRUITING).
+hypothesis: This study is a single-arm, open-label, multi-cohort, single-center phase II clinical trial
+  designed to observe and evaluate the efficacy and safety of MRG003 (a EGFR-ADC) in combination with
+  pucotenl
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07235566 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07235566-mrg003-and-pucotenlimab-to-treat-loc

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07226466
+name: NCT07226466 — Evaluating Biomarkers of Cognitive Dysfunction in Patients With Cancer
+description: This study investigates the effects of brain radiotherapy on cognitive function by evaluating
+  plasma biomarkers and apolipoprotein E (APOE) genotype in patients with primary or metastatic brain
+  tumors. Standard brain radiotherapy is known to impact cognitive outcomes, yet the underlying biological
+  mechanisms remain unclear. (NCT NCT07226466; status NOT_YET_RECRUITING).
+hypothesis: This study investigates the effects of brain radiotherapy on cognitive function by evaluating
+  plasma biomarkers and apolipoprotein E (APOE) genotype in patients with primary or metastatic brain
+  tumors
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07226466 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07226466-evaluating-biomarkers-of-cognitive-d

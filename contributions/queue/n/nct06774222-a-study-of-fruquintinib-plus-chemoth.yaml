@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06774222
+name: NCT06774222 — A Study of Fruquintinib Plus Chemotherapy for Postoperative Treatment of HER2-Negative
+  Gastric Cancer With Poor TRG
+description: Given that a significant proportion of locally advanced gastric cancer patients still die
+  from tumor recurrence after surgery, with long-term therapeutic outcomes stagnating and difficult to
+  further improve, especially for patients with poor tumor regression grade (TRG) after surgery, this
+  study aims to explore a new model of adjuvant therapy by conducting research on the use of Fruquintinib
+  in combination with standard chemotherapy for postoperative treatment of HER2-negative gastric cancer
+  patients with poor TRG, in order to bring greater survival benefits to patients. (NCT NCT06774222; status
+  RECRUITING).
+hypothesis: Given that a significant proportion of locally advanced gastric cancer patients still die
+  from tumor recurrence after surgery, with long-term therapeutic outcomes stagnating and difficult to
+  further i
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06774222 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06774222-a-study-of-fruquintinib-plus-chemoth

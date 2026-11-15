@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02686151
+name: NCT02686151 — The Letrozole Administration During Luteal Phase
+description: To investigate the effect of letrozole in patients who have high risk of ovarian hyperstimulation
+  syndrome (OHSS) after oocyte retrieval, the incidence of OHSS were calculated between letrozole group
+  and supporting treatment group. (NCT NCT02686151; status UNKNOWN).
+hypothesis: 'To investigate the effect of letrozole in patients who have high risk of ovarian hyperstimulation
+  syndrome (OHSS) after oocyte retrieval, the incidence of OHSS were calculated between letrozole group '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02686151 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct02686151-the-letrozole-administration-during

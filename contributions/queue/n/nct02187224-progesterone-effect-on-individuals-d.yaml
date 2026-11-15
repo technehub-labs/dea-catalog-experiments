@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02187224
+name: NCT02187224 — Progesterone Effect on Individuals Diagnoses With AD and PTSD.
+description: This is a randomized control trial with an anticipated 36 participants diagnosed with post-traumatic
+  stress disorder (PTSD) and comorbid alcohol dependence. Participants will be randomized to receive either
+  progesterone (200 mg. bid) or placebo in identical looking capsules for three days. One goal of this
+  research study is to test if progesterone is more effective than placebo in reducing craving after exposure
+  to trauma cues and alcohol cues in a laboratory paradigm among men and women with AD and PTSD. We hypothesize
+  that progesterone in comparison to placebo will significantly reduce craving for alcohol in response
+  to trauma cues alone and in combination with alcohol cues in individuals with AD and PTSD. A second
+  goal is to examine if there are gender differences in progesterone effects on stress and alcohol cue-induced
+  craving. We hypothesize that the effects of progesterone on stress and craving will be stronger in women
+  than in men. Participants will be recruited primarily through advertisement, but also through the clinical
+  facilities at the VA and from other collaborators. (NCT NCT02187224; status COMPLETED).
+hypothesis: 'This is a randomized control trial with an anticipated 36 participants diagnosed with post-traumatic
+  stress disorder (PTSD) and comorbid alcohol dependence. Participants will be randomized to receive '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02187224 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02187224-progesterone-effect-on-individuals-d

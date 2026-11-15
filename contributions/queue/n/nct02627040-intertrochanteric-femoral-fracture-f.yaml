@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02627040
+name: NCT02627040 — Intertrochanteric Femoral Fracture Fixation Trial
+description: The main goal of the study is to determine which cephalomedullary nail results in a better
+  functional outcome for the patient with an unstable intertrochanteric hip fracture. Subjects will be
+  randomized to fixation with either a Gamma3 cephalomedullary nail or an InterTan cephalomedullary nail.
+  Outcomes will be reviewed over a 12 month follow-up period. (NCT NCT02627040; status UNKNOWN).
+hypothesis: The main goal of the study is to determine which cephalomedullary nail results in a better
+  functional outcome for the patient with an unstable intertrochanteric hip fracture. Subjects will be
+  randomiz
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02627040 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct02627040-intertrochanteric-femoral-fracture-f

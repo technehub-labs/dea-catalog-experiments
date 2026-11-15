@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03719131
+name: NCT03719131 — Rituximab and Hyaluronidase Human in Patients With Advanced Melanoma Undergoing Nivolumab
+  and Ipilimumab Therapy
+description: This phase II trial studies whether rituximab and hyaluronidase human (Rituxan Hycela) can
+  prevent immune related adverse events in participants with stage III-IV melanoma that cannot be removed
+  by surgery who are undergoing nivolumab and ipilimumab therapy. (NCT NCT03719131; status COMPLETED).
+hypothesis: This phase II trial studies whether rituximab and hyaluronidase human (Rituxan Hycela) can
+  prevent immune related adverse events in participants with stage III-IV melanoma that cannot be removed
+  by su
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03719131 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03719131-rituximab-and-hyaluronidase-human-in

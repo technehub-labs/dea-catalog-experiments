@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00188435
+name: NCT00188435 — Comparison of CXR and MnDCT
+description: A comparison of chest x-ray (CXR) and Minimum dose CT (MnDCT) in the acutely ill patient.
+  The hypothesis is that MnDCT is more sensitive than CXR in the detection of acute findings in the acutely
+  ill patient. (NCT NCT00188435; status COMPLETED).
+hypothesis: 'A comparison of chest x-ray (CXR) and Minimum dose CT (MnDCT) in the acutely ill patient.
+  The hypothesis is that MnDCT is more sensitive than CXR in the detection of acute findings in the acutely
+  ill '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00188435 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00188435-comparison-of-cxr-and-mndct

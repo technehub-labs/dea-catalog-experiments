@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00728637
+name: NCT00728637 — Evaluating the Effectiveness of a Family Heart Health Educational Program (The FIT-Heart
+  Study)
+description: The primary objective of the FIT Heart Study was to test the effectiveness of a hospital-based
+  standardized screening and educational intervention targeted to family members of patients hospitalized
+  with CVD, to increase adherence to CVD prevention guidelines. (NCT NCT00728637; status COMPLETED).
+hypothesis: The primary objective of the FIT Heart Study was to test the effectiveness of a hospital-based
+  standardized screening and educational intervention targeted to family members of patients hospitalized
+  w
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00728637 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00728637-evaluating-the-effectiveness-of-a-fa

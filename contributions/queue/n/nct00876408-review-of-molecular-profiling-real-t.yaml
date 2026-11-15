@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00876408
+name: NCT00876408 — Review of Molecular Profiling-Real Time Polymerase Chain Reaction (Rt-Pcr) in Unknown
+  Primary Cancer
+description: This will be a retrospective review of 30 patients with unknown primary cancer who have had
+  commercially available RT-PCR assays performed on biopsied tumors, in order to determine if the assay
+  results are consistent with clinical features and useful for planning initial therapy or changing therapy.
+  (NCT NCT00876408; status COMPLETED).
+hypothesis: This will be a retrospective review of 30 patients with unknown primary cancer who have had
+  commercially available RT-PCR assays performed on biopsied tumors, in order to determine if the assay
+  result
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00876408 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00876408-review-of-molecular-profiling-real-t

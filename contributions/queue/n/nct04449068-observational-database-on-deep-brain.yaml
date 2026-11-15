@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04449068
+name: NCT04449068 — Observational Database on Deep Brain Stimulation in Tourette Syndrome
+description: Within an ongoing deep brain stimulation (DBS) program for Tourette syndrome (TS) at the
+  Department of Neurology, Pitié-Salpêtrière Hospital, Paris/France, the investigator team plans to evaluate
+  patients pre-operatively and then at one year intervals post-operatively until the 5-year mark has been
+  achieved. The investigator team will investigate tic severity, psychiatric co-morbidities, quality of
+  life, and neuropsychological measures. (NCT NCT04449068; status RECRUITING).
+hypothesis: Within an ongoing deep brain stimulation (DBS) program for Tourette syndrome (TS) at the Department
+  of Neurology, Pitié-Salpêtrière Hospital, Paris/France, the investigator team plans to evaluate pati
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04449068 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct04449068-observational-database-on-deep-brain

@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01154335
+name: NCT01154335 — Everolimus and OSI-906 for Patients With Refractory Metastatic Colorectal Cancer
+description: The purpose of this study is to determine the maximum tolerated dose (MTD) of the combination
+  of OSI-906 and everolimus for the treatment of patients with refractory metastatic colorectal cancer.
+  (NCT NCT01154335; status COMPLETED).
+hypothesis: The purpose of this study is to determine the maximum tolerated dose (MTD) of the combination
+  of OSI-906 and everolimus for the treatment of patients with refractory metastatic colorectal cancer.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01154335 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01154335-everolimus-and-osi-906-for-patients

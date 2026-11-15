@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00919646
+name: NCT00919646 — Monitoring Arrhythmia Patients in in Hospital Monitoring
+description: This is a prospective, single center, non-randomized study to evaluate the arrhythmia monitoring
+  performance of the AVIVO™ System in a hospital setting. (NCT NCT00919646; status COMPLETED).
+hypothesis: This is a prospective, single center, non-randomized study to evaluate the arrhythmia monitoring
+  performance of the AVIVO™ System in a hospital setting.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00919646 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00919646-monitoring-arrhythmia-patients-in-in

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04801394
+name: NCT04801394 — Retrospective Analysis on Large Incisional Hernia in High Risk Patients
+description: Large incisional hernia (LIH) is a challenging condition where the abdominal wall is hopelessly
+  compromised. Nowadays the best treatment option in this particularly frail subset of patients is a major
+  issue. The Auhtors proposed the clinical experience with an innovative approach with the composite Free
+  Lateral Polypropylene prosthesis (FLaPp®) mesh fashioned as "neoperitoneum" analyzing its feasibility
+  and short/medium term results. (NCT NCT04801394; status COMPLETED).
+hypothesis: Large incisional hernia (LIH) is a challenging condition where the abdominal wall is hopelessly
+  compromised. Nowadays the best treatment option in this particularly frail subset of patients is a major
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04801394 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04801394-retrospective-analysis-on-large-inci

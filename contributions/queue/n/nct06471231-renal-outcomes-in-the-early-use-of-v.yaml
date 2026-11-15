@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06471231
+name: NCT06471231 — Renal Outcomes in the Early Use of Vasopressin in the Treatment of Septic Shock
+description: The aim of the present study is to verify whether the earlier association of vasopressin
+  and norepinephrine, in patients in septic shock, determines variations in terms of use of renal function
+  replacement techniques in the first 7 days of hospitalization in Intensive Care, compared to patients
+  in whom vasopressin is added only when norepinephrine reaches a higher dose. (NCT NCT06471231; status
+  UNKNOWN).
+hypothesis: The aim of the present study is to verify whether the earlier association of vasopressin and
+  norepinephrine, in patients in septic shock, determines variations in terms of use of renal function
+  replac
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06471231 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct06471231-renal-outcomes-in-the-early-use-of-v

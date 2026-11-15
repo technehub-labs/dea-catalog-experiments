@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00640068
+name: NCT00640068 — Advanced Cardiovascular Imaging Consortium
+description: 'The ACIC is a Collaborative Quality Improvement (CQI) program involving the collection of
+  data related to: indications for Coronary Computed Tomography (CCTA), patient health characteristics,
+  acquisition techniques of CCTA scans, physician interpretation of results and short-term outcomes over
+  a 90 day period. (NCT NCT00640068; status COMPLETED).'
+hypothesis: 'The ACIC is a Collaborative Quality Improvement (CQI) program involving the collection of
+  data related to: indications for Coronary Computed Tomography (CCTA), patient health characteristics,
+  acquisit'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00640068 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00640068-advanced-cardiovascular-imaging-cons

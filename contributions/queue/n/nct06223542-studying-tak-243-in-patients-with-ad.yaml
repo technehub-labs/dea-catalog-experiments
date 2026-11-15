@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06223542
+name: NCT06223542 — Studying TAK-243 in Patients With Advanced Cancer
+description: This phase I trial studies the side effects and best dose of ubiquitin-activating enzyme
+  (UAE) inhibitor TAK-243 (TAK-243) in treating patients with a solid tumor that may have spread from
+  where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced) or that
+  has spread from where it first started (primary site) to other places in the body (metastatic) and in
+  patients with lymphoma. TAK-243 is a drug that binds to and inhibits the ubiquitin-activating enzyme,
+  an enzyme that is more active on cancer cells than healthy cells, inhibiting tumor cell proliferation
+  and survival. (NCT NCT06223542; status RECRUITING).
+hypothesis: This phase I trial studies the side effects and best dose of ubiquitin-activating enzyme (UAE)
+  inhibitor TAK-243 (TAK-243) in treating patients with a solid tumor that may have spread from where
+  it fi
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06223542 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06223542-studying-tak-243-in-patients-with-ad

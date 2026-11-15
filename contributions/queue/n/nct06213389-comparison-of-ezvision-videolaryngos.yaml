@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06213389
+name: NCT06213389 — Comparison of EzVision® Videolaryngoscope and Gum Elastic Bougie-Assisted Machintosh
+  Laryngoscopy
+description: The aim of this study is to compare the EzVision® videoryngoscope with conventional laryngoscopy
+  using a Macintosh blade in patients with suspected difficult intubation. This study primarily aims to
+  test the hypothesis that laryngoscopy image is better with EzVision® videoryngoscopy compared to direct
+  laryngoscopy. The secondary hypothesis is also to test the view that, compared to direct laryngoscopy,
+  EzVision® videolingoscopy will improve intubation success, reduce intubation attempts, shorten intubation
+  time, facilitate intubation, and cause less additional complications such as bleeding or sore throat.
+  (NCT NCT06213389; status COMPLETED).
+hypothesis: The aim of this study is to compare the EzVision® videoryngoscope with conventional laryngoscopy
+  using a Macintosh blade in patients with suspected difficult intubation. This study primarily aims to
+  t
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06213389 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06213389-comparison-of-ezvision-videolaryngos

@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03829982
+name: NCT03829982 — The Effects of Light on Glucose Metabolism
+description: This study evaluates the effect of bright light on postprandial blood glucose metabolism
+  in obese subjects with impaired fasting glucose and/or impaired glucose tolerance. (NCT NCT03829982;
+  status COMPLETED).
+hypothesis: This study evaluates the effect of bright light on postprandial blood glucose metabolism in
+  obese subjects with impaired fasting glucose and/or impaired glucose tolerance.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03829982 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03829982-the-effects-of-light-on-glucose-meta

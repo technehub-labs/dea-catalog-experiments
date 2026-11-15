@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04466774
+name: NCT04466774 — A Comparative, Controlled Study to Evaluate the Lay User Accuracy and Performance
+  of the Dip Home-Based Dipstick Analyzer
+description: The Dip Home-Based Dipstick Analyzer (henceforth HBDA) is composed of a kit and a smartphone
+  application. The device will be provided to the subject in a simulated home-use environment. All subjects
+  will be asked to complete the urine test by following the application guidance, including providing
+  a urine sample and scanning the urine strip after placing it on the Color-Board. The user will also
+  complete a questionnaire to collect information regarding the use of the HBDA device. Following the
+  usability test performed by the lay user, the subject's urine sample will be tested by the professional
+  user using the comparator device. The use of the HBDA device will be evaluated for accuracy and identified
+  risks. Additionally, measurable usability criteria for specific, critical steps will be evaluated. (NCT
+  NCT04466774; status COMPLETED).
+hypothesis: The Dip Home-Based Dipstick Analyzer (henceforth HBDA) is composed of a kit and a smartphone
+  application. The device will be provided to the subject in a simulated home-use environment. All subjects
+  w
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04466774 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04466774-a-comparative-controlled-study-to-ev

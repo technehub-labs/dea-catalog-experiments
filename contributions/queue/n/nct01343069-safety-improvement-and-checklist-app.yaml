@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01343069
+name: NCT01343069 — Safety Improvement and Checklist Application
+description: The study investigates the impact of the introduction of a surgical checklist on the incidence
+  of complications and mortality within 30 days after surgery in patients scheduled for elective non-cardiac
+  surgery. Patients scheduled for elective surgical procedures lasting longer than 20 minutes at are eligible.
+  Surgery is performed in a single tertiary care center. Study design is an open trial before and after
+  intervention (implementation of the checklist "safe surgery saves lifes"). (NCT NCT01343069; status
+  WITHDRAWN).
+hypothesis: The study investigates the impact of the introduction of a surgical checklist on the incidence
+  of complications and mortality within 30 days after surgery in patients scheduled for elective non-cardia
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01343069 (ClinicalTrials.gov; status WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withdrawn
+slug: nct01343069-safety-improvement-and-checklist-app

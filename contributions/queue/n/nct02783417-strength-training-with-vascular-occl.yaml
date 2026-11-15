@@ -1,0 +1,34 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02783417
+name: NCT02783417 — Strength Training With Vascular Occlusion in Patients Harboring With HIV/Aids
+description: The use of antiretroviral therapy (ART) could prevent depression of the immune system of
+  patients harboring with Human Immunodeficiency Virus (HIV), providing increased life expectancy, changing
+  the classification of HIV / AIDS into a chronic illness. However prolonged use of ARTincreases the prevalence
+  of lipodystrophy syndrome (SL), characterized by inadequate distribution of body fat and changes in
+  lipid profile, associated with a significantly increased cardiovascular risk, among others. The practice
+  of strength training (ST) helps in controlling SL, providing improved lipid profile and the quality
+  of life of these patients. However, due to increased cardiovascular risk and physical weakness resulting
+  from SL, the ST with vascular occlusion (STOV) could be a viable alternative training, to use low load
+  (10-30% of maximal work capacity) with similar benefits ST traditional (STT), as already proven in other
+  populations. The STOV is justified by the lower neuromuscular overhead, increasing the number of patients
+  able to participate in this complementary therapy. The objective was to assess the impact of the combined
+  strength training with vascular occlusion on SL and the skeletal muscle tissue in people harboring with
+  HIV/Aids. (NCT NCT02783417; status TERMINATED).
+hypothesis: The use of antiretroviral therapy (ART) could prevent depression of the immune system of patients
+  harboring with Human Immunodeficiency Virus (HIV), providing increased life expectancy, changing the
+  c
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02783417 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct02783417-strength-training-with-vascular-occl

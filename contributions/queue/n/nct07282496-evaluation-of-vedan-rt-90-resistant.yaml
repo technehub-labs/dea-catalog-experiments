@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07282496
+name: NCT07282496 — Evaluation of VEDAN RT-90 Resistant Cassava Starch for Glycemic Control and Prebiotic
+  Fiber Development in a Human Trial
+description: This study aims to investigate the effects of RT-90 resistant cassava starch on glycemic
+  control using a human dietary trial and to evaluate its potential as a prebiotic fiber supplement. This
+  study will assess the efficacy of RT-90 resistant cassava starch in improving glycemic control, body
+  composition, and gut microbiome in healthy individuals. (NCT NCT07282496; status NOT_YET_RECRUITING).
+hypothesis: This study aims to investigate the effects of RT-90 resistant cassava starch on glycemic control
+  using a human dietary trial and to evaluate its potential as a prebiotic fiber supplement. This study
+  w
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07282496 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07282496-evaluation-of-vedan-rt-90-resistant

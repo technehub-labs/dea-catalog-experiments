@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06916351
+name: NCT06916351 — Effect of Acupressure Applied Before CAG on Pain, Anxiety and Vital Signs
+description: This randomized controlled experimental study aimed to determine the effects of acupressure
+  applied before the procedure on pain, anxiety and vital signs in patients who applied to Kocaeli City
+  Hospital Angiography Unit and were to undergo planned radial artery coronary angiography. (NCT NCT06916351;
+  status COMPLETED).
+hypothesis: This randomized controlled experimental study aimed to determine the effects of acupressure
+  applied before the procedure on pain, anxiety and vital signs in patients who applied to Kocaeli City
+  Hospit
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06916351 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06916351-effect-of-acupressure-applied-before

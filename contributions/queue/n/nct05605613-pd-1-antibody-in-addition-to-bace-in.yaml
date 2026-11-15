@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05605613
+name: 'NCT05605613 — PD-1 Antibody in Addition to BACE in Patients With NSCLC: A Randomised Controlled
+  Trial'
+description: This is a randomized controlled trial to determine the efficacy and safety of PD-1 Antibody
+  in addition to Bronchial Arterial Chemoembolization in stage III-Ⅳ NSCLC patients who failed, refused
+  or ineligible to receive standard treatments. (NCT NCT05605613; status UNKNOWN).
+hypothesis: This is a randomized controlled trial to determine the efficacy and safety of PD-1 Antibody
+  in addition to Bronchial Arterial Chemoembolization in stage III-Ⅳ NSCLC patients who failed, refused
+  or ine
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05605613 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05605613-pd-1-antibody-in-addition-to-bace-in

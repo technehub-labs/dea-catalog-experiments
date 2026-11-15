@@ -1,0 +1,34 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01424150
+name: 'NCT01424150 — REstrictive Versus LIbEral Fluid Therapy in Major Abdominal Surgery: RELIEF Study'
+description: 'The optimal fluid regimen, haemodynamic (or other) targets and fluid choice (colloid or
+  crystalloid) for patients undergoing major surgery are based on rationales that are not supported by
+  strong evidence. Practices vary substantially, guidelines are vague, small trials and meta-analyses
+  are contradictory. The strongest and most consistent evidence, and biological plausibility because of
+  tissue edema, supports a restrictive fluid strategy. But other evidence supports goal-directed therapy,
+  requiring additional IV fluid. There is no good evidence that use and choice of colloids improves outcome.
+  RELIEF will study the effects of fluid restriction, and the possible effect-modification of goal-directed
+  therapy and colloids. The first will be randomly assigned; the latter will be measured covariates dictated
+  by local practices and beliefs. Study Hypotheses A restrictive fluid regimen for adults undergoing major
+  abdominal surgery leads to reduced complications and improved disability-free survival when compared
+  with a liberal fluid regimen. Secondary hypothesis: The effects of fluid restriction are similar whether
+  or not goal-directed therapy is used (assessed as a statistical test of interaction). A restrictive
+  fluid regimen will reduce a composite of 30-day septic complications and mortality. (NCT NCT01424150;
+  status COMPLETED).'
+hypothesis: The optimal fluid regimen, haemodynamic (or other) targets and fluid choice (colloid or crystalloid)
+  for patients undergoing major surgery are based on rationales that are not supported by strong evid
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01424150 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01424150-restrictive-versus-liberal-fluid-the

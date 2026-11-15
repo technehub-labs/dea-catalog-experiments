@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03673462
+name: NCT03673462 — Safety of a Quadrivalent Meningococcal Conjugate Vaccine Administered Concomitantly
+  With Routine Pediatric Vaccines in Healthy Infants and Toddlers
+description: The primary objective of this study was to describe the safety profile of Meningococcal Polysaccharide
+  (Serogroups A, C, Y, and W) Tetanus Toxoid (MenACYW) Conjugate Vaccine and Meningococcal (Groups A,
+  C, Y and W 135) Oligosaccharide Diphtheria CRM197 (MENVEO®) Conjugate Vaccine when administered concomitantly
+  with routine pediatric vaccines in healthy infants and toddlers. (NCT NCT03673462; status COMPLETED).
+hypothesis: 'The primary objective of this study was to describe the safety profile of Meningococcal Polysaccharide
+  (Serogroups A, C, Y, and W) Tetanus Toxoid (MenACYW) Conjugate Vaccine and Meningococcal (Groups '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03673462 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03673462-safety-of-a-quadrivalent-meningococc

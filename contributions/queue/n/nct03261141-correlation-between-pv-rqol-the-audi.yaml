@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03261141
+name: NCT03261141 — Correlation Between (PV-RQOL), The Auditory Perceptual Assessment and Acoustic Analysis
+  of Voice in Dysphonic Children
+description: The aim of this study is to assess the Correlation between The Arabic Pediatric Voice Related
+  Quality of Life (PV-RQOL), The Auditory Perceptual Assessment and Acoustic Analysis of voice of dysphonic
+  children. This is important to provide an efficient therapeutic strategy for these children. (NCT NCT03261141;
+  status UNKNOWN).
+hypothesis: 'The aim of this study is to assess the Correlation between The Arabic Pediatric Voice Related
+  Quality of Life (PV-RQOL), The Auditory Perceptual Assessment and Acoustic Analysis of voice of dysphonic '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03261141 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct03261141-correlation-between-pv-rqol-the-audi

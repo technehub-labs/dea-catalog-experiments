@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02906917
+name: NCT02906917 — A 38 Week Trial Comparing Effect and Safety of Insulin Degludec/Insulin Aspart vs.
+  Insulin Glargine Plus Insulin Aspart in Subjects With Type 2 Diabetes Treated With Basal Insulin With
+  o
+description: Trial comparing effect and safety of insulin degludec/insulin aspart vs. insulin glargine
+  plus insulin aspart in subjects with type 2 diabetes treated with basal insulin with or without oral
+  antidiabetic treatment in need of treatment intensification. (NCT NCT02906917; status COMPLETED).
+hypothesis: Trial comparing effect and safety of insulin degludec/insulin aspart vs. insulin glargine
+  plus insulin aspart in subjects with type 2 diabetes treated with basal insulin with or without oral
+  antidiabe
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02906917 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02906917-a-38-week-trial-comparing-effect-and

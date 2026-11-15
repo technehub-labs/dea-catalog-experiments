@@ -1,0 +1,18 @@
+# Ingestion manifest — Experiment candidate corpus (CR-EXP-CAT-03)
+# Records are candidates only (queue status: queued; admitted at
+# lifecycle_status: proposed / version 0.1.0 by the gated workflow).
+
+generated: '2026-11-15'
+generated_by: ingest-kit generate_queue.py (catalog population programme)
+submitted_by: Emmanuel A. Otchere
+record_count: 1200
+sources:
+- bank: clinical-trials.json
+  source: "ClinicalTrials.gov API v2 study registry"
+  url: "https://clinicaltrials.gov/api/v2/studies"
+  published: "https://clinicaltrials.gov/"
+  retrieved: '2026-11-15'
+  sha256: 078dd648f2b1113befb006a4e56a02f8aa1605348384f88138d9a9f7c07b6ce3
+  records: 1200
+queue_layout: contributions/queue/<shard>/<slug>.yaml (entity-storage-layout §4;
+  letter shards; slug prefixes chosen to keep every shard under the 800-entry cap)

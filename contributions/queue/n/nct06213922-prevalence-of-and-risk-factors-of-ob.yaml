@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06213922
+name: NCT06213922 — Prevalence of and Risk Factors of Obesity in School Children and Adolescents in Nag
+  Hammadi City. 300 Participants.
+description: Searching for obese children who's body mass index is above normal range and risk factors
+  in children and adolescents in Nag Hammadi city (NCT NCT06213922; status UNKNOWN).
+hypothesis: Searching for obese children who's body mass index is above normal range and risk factors
+  in children and adolescents in Nag Hammadi city
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06213922 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct06213922-prevalence-of-and-risk-factors-of-ob

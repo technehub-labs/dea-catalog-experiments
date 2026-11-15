@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07754773
+name: NCT07754773 — Motus Nova Foot Device for Patients With Hemiplegia
+description: Individuals with hemiplegia commonly demonstrate gait deviations such as difficulties with
+  heel strike at initial contact, foot drop in swing, asymmetrical limb loading, muscle activation, and
+  balance impairments. This study evaluates whether a therapeutic device (Motus Nova Foot; FDA approved)
+  used in the home setting can increase heel strike, decrease limp, improve foot clearance in swing phase,
+  improve quality of active muscle contraction of the affected limb, and improve balance. The Motus Nova
+  Foot moves the ankle/foot and uses guided computer/video activities to encourage active participation
+  while automatically recording device use and duration. (NCT NCT07754773; status NOT_YET_RECRUITING).
+hypothesis: Individuals with hemiplegia commonly demonstrate gait deviations such as difficulties with
+  heel strike at initial contact, foot drop in swing, asymmetrical limb loading, muscle activation, and
+  balance
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07754773 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07754773-motus-nova-foot-device-for-patients

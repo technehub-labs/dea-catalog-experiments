@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01674894
+name: NCT01674894 — Study of the Cleavage of the Egg in Relation to the Stimulation Treatment
+description: This post-marketing, single-center prospective study will be conducted in an open-label,
+  non-interventional setting, for women seeking fertility treatment and will describe cleavage dynamics
+  in relation to the age of the oocyte and gonadotrophin treatment. (NCT NCT01674894; status COMPLETED).
+hypothesis: This post-marketing, single-center prospective study will be conducted in an open-label, non-interventional
+  setting, for women seeking fertility treatment and will describe cleavage dynamics in relati
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01674894 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01674894-study-of-the-cleavage-of-the-egg-in

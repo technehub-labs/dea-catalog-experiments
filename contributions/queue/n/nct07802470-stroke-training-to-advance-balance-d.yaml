@@ -1,0 +1,36 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07802470
+name: NCT07802470 — Stroke Training to Advance Balance During Locomotor Experiences (STABLE) Trial
+description: 'The goal of this clinical trial is to learn if a treadmill gait training performed with
+  a new robotic device will improve walking balance and everyday participation in walking activities for
+  adults who have had a stroke. The main questions it aims to answer are: 1. Does treadmill gait training
+  performed with a new robotic device that challenges their walking balance improve a person''s balance
+  and steadiness while walking? 2. Does treadmill gait training performed with a new robotic device help
+  people with stroke walk better and take more steps in their daily lives? We will compare the new robotic
+  training (which uses a cable device to gently pull the participant side-to-side to challenge their balance)
+  to standard high-intensity treadmill training (where no extra pulling forces are applied) to see if
+  combination of high intensity treadmill training in a balance challenging environment works better for
+  stroke recovery specifically for walking balance. Participants will: * Complete 20 sessions of high-intensity
+  walking training on a treadmill * Undergo special walking and balance tests at the Human Agility laboratory
+  4 different times: before the training, halfway through the training (after 10 sessions), at the end
+  of the training (after 20 sessions), and 3 months after training is completed. * Have their daily walking
+  activity (steps per day) tracked to measure improvements at home and in the community. (NCT NCT07802470;
+  status NOT_YET_RECRUITING).'
+hypothesis: The goal of this clinical trial is to learn if a treadmill gait training performed with a
+  new robotic device will improve walking balance and everyday participation in walking activities for
+  adults wh
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07802470 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07802470-stroke-training-to-advance-balance-d

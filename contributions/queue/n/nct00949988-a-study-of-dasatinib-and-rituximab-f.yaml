@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00949988
+name: NCT00949988 — A Study of Dasatinib and Rituximab for Relapsed/Refractory Chronic Lymphocytic Leukemia
+description: This is an open-label phase I/II study that will investigate the combination of dasatinib
+  and rituximab therapy in patients with relapsed/refractory CLL. In phase I, eligible subjects will take
+  either 100 mg or 140 mg of dasatinib daily along with rituximab on day 1 of each cycle for 6 cycles.
+  In phase II, eligible subjects will all receive the same dose of dasatinib, as established in the phase
+  I portion, along with rituximab on day 1 of each cycle for 6 cycles. The investigators hypothesize that
+  the combination of dasatinib and rituximab will demonstrate efficacy in the treatment of patients with
+  relapsed/refractory CLL. (NCT NCT00949988; status TERMINATED).
+hypothesis: This is an open-label phase I/II study that will investigate the combination of dasatinib
+  and rituximab therapy in patients with relapsed/refractory CLL. In phase I, eligible subjects will take
+  either
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00949988 (ClinicalTrials.gov; status TERMINATED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- terminated
+slug: nct00949988-a-study-of-dasatinib-and-rituximab-f

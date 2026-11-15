@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06286189
+name: NCT06286189 — Trazodone on OSA Endotypes
+description: Obstructive sleep apnea (OSA) is common and has major health implications but treatment options
+  are limited. Some OSA patients with low arousal threshold wake up prematurely during an obstructive
+  event and do not have time for spontaneous upper airway (UA) dilator muscle recruitment. As a consequence
+  they are exposed to apnea and hypopnea cycling. In this protocol the investigators will test the effect
+  of trazodone administered before sleep on OSA traits and OSA severity during sleep. (NCT NCT06286189;
+  status RECRUITING).
+hypothesis: Obstructive sleep apnea (OSA) is common and has major health implications but treatment options
+  are limited. Some OSA patients with low arousal threshold wake up prematurely during an obstructive
+  even
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06286189 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06286189-trazodone-on-osa-endotypes

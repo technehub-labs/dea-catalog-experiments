@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03801005
+name: NCT03801005 — Immunophenotyping of Blast Cells and Immune Effector Cells in Peripheral Whole Blood
+  and Bone Marrow Samples From AML and MDS Patients (AML)
+description: The objective of this study is to evaluate the immune profile of blast cells and immune effector
+  cells in paired peripheral whole blood and bone marrow samples from AML and MDS patients by standardized
+  flow cytometry. A special emphasis will be focused on monitoring expression of CD200 as well as PGP-170
+  (MDR1) on blasts cells. (NCT NCT03801005; status COMPLETED).
+hypothesis: The objective of this study is to evaluate the immune profile of blast cells and immune effector
+  cells in paired peripheral whole blood and bone marrow samples from AML and MDS patients by standardize
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03801005 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03801005-immunophenotyping-of-blast-cells-and

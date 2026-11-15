@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03329950
+name: NCT03329950 — A Study of CDX-1140 (CD40) as Monotherapy or in Combination in Patients With Advanced
+  Malignancies
+description: This is a study to determine the maximum tolerated dose (MTD) for CDX-1140 (CD40 antibody),
+  either alone or in combination with CDX-301 (FLT3L), pembrolizumab, or chemotherapy and to further evaluate
+  its tolerability and efficacy in expansion cohorts once the MTD is determined. (NCT NCT03329950; status
+  COMPLETED).
+hypothesis: 'This is a study to determine the maximum tolerated dose (MTD) for CDX-1140 (CD40 antibody),
+  either alone or in combination with CDX-301 (FLT3L), pembrolizumab, or chemotherapy and to further evaluate '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03329950 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03329950-a-study-of-cdx-1140-cd40-as-monother

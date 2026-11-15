@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03643731
+name: NCT03643731 — Pain Relief in Patients With Chronic Low Back Pain Using HeatTens vs. Standard Care.
+description: A two-armed randomized controlled clinical trial with blind assessments and a follow-up period
+  of 4 weeks is developed. The aim of this study is to investigate the effects of the combination of heat
+  and TENS (HeatTENS device) on pain in people with chronic low back pain. A sample of 70 patients will
+  be recruited. Following baseline measurements, subjects will be randomly allocated to the experimental
+  or the control group. The experimental group will be asked to use the device on a daily basis, 30 minutes
+  per day. The control group will have no device. After 4 weeks of FU, measurements will be repeated.
+  (NCT NCT03643731; status COMPLETED).
+hypothesis: A two-armed randomized controlled clinical trial with blind assessments and a follow-up period
+  of 4 weeks is developed. The aim of this study is to investigate the effects of the combination of heat
+  a
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03643731 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03643731-pain-relief-in-patients-with-chronic

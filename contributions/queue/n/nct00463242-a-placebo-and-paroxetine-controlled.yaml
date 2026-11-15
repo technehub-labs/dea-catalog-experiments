@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00463242
+name: NCT00463242 — A Placebo- and Paroxetine-controlled Study of the Efficacy, Safety and Tolerability
+  of Agomelatine (25 or 50 mg) in the Treatment of Major Depressive Disorder (MDD)
+description: This study will evaluate the efficacy, safety and tolerability of agomelatine 25 mg or 50
+  mg per day and will compare agomelatine and paroxetine tolerability. Eligible patients will receive
+  double-blind study medication for 8 weeks. One week after completion of the double-blind treatment phase
+  there will be a single follow-up visit. (NCT NCT00463242; status COMPLETED).
+hypothesis: This study will evaluate the efficacy, safety and tolerability of agomelatine 25 mg or 50
+  mg per day and will compare agomelatine and paroxetine tolerability. Eligible patients will receive
+  double-bli
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00463242 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00463242-a-placebo-and-paroxetine-controlled

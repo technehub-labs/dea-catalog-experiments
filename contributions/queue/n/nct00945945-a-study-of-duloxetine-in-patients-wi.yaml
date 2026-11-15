@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00945945
+name: NCT00945945 — A Study of Duloxetine in Patients With Osteoarthritis Knee Pain
+description: The primary purpose of this study is to determine if duloxetine 60 mg once daily (QD) reduces
+  pain severity in patients with osteoarthritis (OA) knee pain compared with placebo. (NCT NCT00945945;
+  status COMPLETED).
+hypothesis: The primary purpose of this study is to determine if duloxetine 60 mg once daily (QD) reduces
+  pain severity in patients with osteoarthritis (OA) knee pain compared with placebo.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00945945 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00945945-a-study-of-duloxetine-in-patients-wi

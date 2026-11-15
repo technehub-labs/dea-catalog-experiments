@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05059366
+name: NCT05059366 — Manual Ventilation Efficacy With MVG Device
+description: The purpose of this research is to investigate the efficacy of the newly designed ventilation
+  grip device (MVG device). (NCT NCT05059366; status COMPLETED).
+hypothesis: The purpose of this research is to investigate the efficacy of the newly designed ventilation
+  grip device (MVG device).
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05059366 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05059366-manual-ventilation-efficacy-with-mvg

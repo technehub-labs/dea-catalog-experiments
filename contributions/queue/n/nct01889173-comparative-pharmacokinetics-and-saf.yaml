@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01889173
+name: NCT01889173 — Comparative Pharmacokinetics and Safety of 3 Different Formulations of TNX-102 2.8
+  mg SL Tablets and Cyclobenzaprine 5 mg Oral Tablet in Healthy Adults
+description: Very low dose (VLD) cyclobenzaprine at bedtime has shown promise as a treatment for fibromyalgia,
+  but the chemistry of cyclobenzaprine requires new formulation technology for bedtime use. The present
+  trial is designed to assess the safety and tolerability of 3 different formulations of TNX-102 2.8 mg
+  SL Tablets (a new formulation of cyclobenzaprine designed to result in increased dosage precision and
+  decreased potential for morning grogginess) and to compare the bio-availability of 3 different formulations
+  of TNX-102 2.8 mg SL Tablets (TNX-102 with potassium phosphate, TNX-102-B with sodium phosphate, and
+  TNX-102-C with trisodium citrate) to that of cyclobenzaprine (5 mg tablets). (NCT NCT01889173; status
+  COMPLETED).
+hypothesis: 'Very low dose (VLD) cyclobenzaprine at bedtime has shown promise as a treatment for fibromyalgia,
+  but the chemistry of cyclobenzaprine requires new formulation technology for bedtime use. The present '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01889173 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01889173-comparative-pharmacokinetics-and-saf

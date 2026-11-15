@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07306754
+name: NCT07306754 — A Phase 1 Study to Evaluate the Safety and Pharmacokinetics of ABBV-243 in Healthy
+  Adults.
+description: The objective of this study is to assess the safety, tolerability, pharmacokinetics and immunogenicity
+  of either single ascending intravenous (IV) doses of ABBV-243 or single ascending subcutaneous (SC)
+  doses of ABBV-243 in healthy adult participants (Part 1), and a single intravenous (IV) dose in healthy
+  Asian adult volunteers (Part 2 There may be higher treatment burden for participants in this trial compared
+  to their standard of care. Participants will attend regular visits during the study at a hospital or
+  clinic. The effect of the treatment will be checked by medical assessments, blood tests, checking for
+  side effects and completing questionnaires. (NCT NCT07306754; status RECRUITING).
+hypothesis: The objective of this study is to assess the safety, tolerability, pharmacokinetics and immunogenicity
+  of either single ascending intravenous (IV) doses of ABBV-243 or single ascending subcutaneous (S
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07306754 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07306754-a-phase-1-study-to-evaluate-the-safe

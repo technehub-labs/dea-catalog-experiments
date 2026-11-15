@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06313853
+name: NCT06313853 — Enhancing Triadic Communication About Cognition for Older Adults With Alzheimer's
+  Disease or Related Dementias Facing a Cancer Management Decision
+description: 'Building upon prior work, the investigator team developed a communication intervention for
+  older adults with ADRD who are considering a decision about cancer management (adapted intervention:
+  COACH-Cog). The investigators hypothesize that for patients with dual diagnoses of ADRD and cancer,
+  COACH-Cog will increase autonomy support of care partners and patients in the decision-making process,
+  leading to greater acknowledgement and support of cognitive concerns and cognitive-related goals, thereby
+  improving goal concordant care. The investigators are conducting a pilot randomized controlled trial
+  (RCT; cluster randomized by physician) including approximately 45 oncology clinicians and 130 patient/care
+  partner dyads evaluating the effect of COACH-Cog on care partner and patient autonomy support, care
+  partner well-being, goal-concordance, and communication. (NCT NCT06313853; status RECRUITING).'
+hypothesis: 'Building upon prior work, the investigator team developed a communication intervention for
+  older adults with ADRD who are considering a decision about cancer management (adapted intervention:
+  COACH-Co'
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06313853 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06313853-enhancing-triadic-communication-abou

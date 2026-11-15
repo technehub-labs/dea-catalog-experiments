@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00898859
+name: NCT00898859 — Role of A Disintegrin and Metalloproteinase (ADAM) in Epithelial Dysfunction
+description: Despite emerging implications for ADAMs (and matrix metalloproteinases (MMPs)) in disease
+  progression, the mechanisms that lead to activation of specific ADAMs (and MMPs) and their actions in
+  chronic obstructive pulmonary disease (COPD) are still incompletely understood. In the current study,
+  the researchers aim to investigate the effects of cigarette smoke on cellular parameters that are relevant
+  for development of COPD and the involvement of ADAM activity in these effects. By studying the effects
+  of ADAM inhibition, the researchers aim to provide novel insights in the role of ADAMs in the development
+  of COPD, which may offer new therapeutic targets for the treatment of COPD. (NCT NCT00898859; status
+  COMPLETED).
+hypothesis: 'Despite emerging implications for ADAMs (and matrix metalloproteinases (MMPs)) in disease
+  progression, the mechanisms that lead to activation of specific ADAMs (and MMPs) and their actions in
+  chronic '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00898859 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00898859-role-of-a-disintegrin-and-metallopro

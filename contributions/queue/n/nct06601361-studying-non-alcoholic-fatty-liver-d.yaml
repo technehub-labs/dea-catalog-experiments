@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06601361
+name: NCT06601361 — Studying Non Alcoholic Fatty Liver Disease and Liver Fibrosis Among Systemic Lupus
+  Erythematosus Patients at Assiut University Hospital
+description: Aim of the study :- 1. to estimate prevalence of non alcoholic fatty liver disease and liver
+  fibrosis among Systemic lupus erythematosus patients 2. to determine risk factors in SLE patients contributing
+  to NAFLD and liver fibrosis (NCT NCT06601361; status UNKNOWN).
+hypothesis: Aim of the study :- 1. to estimate prevalence of non alcoholic fatty liver disease and liver
+  fibrosis among Systemic lupus erythematosus patients 2. to determine risk factors in SLE patients contribut
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06601361 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct06601361-studying-non-alcoholic-fatty-liver-d

@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01523288
+name: NCT01523288 — The Intestinal Function in People With Prader-Willi Syndrome
+description: The projects aim is to investigate the intestinal function of patients suffering from Prader-Willi
+  Syndrome. The methods used are ultrasonographic measurement of the rectal diameter and gastrointestinal
+  transit time (NCT NCT01523288; status COMPLETED).
+hypothesis: The projects aim is to investigate the intestinal function of patients suffering from Prader-Willi
+  Syndrome. The methods used are ultrasonographic measurement of the rectal diameter and gastrointestin
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01523288 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01523288-the-intestinal-function-in-people-wi

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07161310
+name: NCT07161310 — Urolithin A in Patients With Previously Untreated Solid Tumors Receiving Immune Checkpoint
+  Inhibitors
+description: The aim of this clinical study is to learn more about the effects of urolithin A (MitoPure®)
+  on the immune system of cancer patients receiving immune checkpoint inhibitor-based therapies. Any effects
+  will be compared with patients who take a placebo instead of urolithin A (MitoPure®). (NCT NCT07161310;
+  status RECRUITING).
+hypothesis: 'The aim of this clinical study is to learn more about the effects of urolithin A (MitoPure®)
+  on the immune system of cancer patients receiving immune checkpoint inhibitor-based therapies. Any effects '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07161310 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07161310-urolithin-a-in-patients-with-previou

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02234856
+name: NCT02234856 — Evaluation of Laparoscopic Hysterectomy Simulator
+description: This study aims to test the validity of a new educational tool in the form of a computer
+  based video surgical simulator, that may be used to enhance the current teaching method of how to perform
+  a hysterectomy. (NCT NCT02234856; status COMPLETED).
+hypothesis: This study aims to test the validity of a new educational tool in the form of a computer based
+  video surgical simulator, that may be used to enhance the current teaching method of how to perform
+  a hys
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02234856 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02234856-evaluation-of-laparoscopic-hysterect

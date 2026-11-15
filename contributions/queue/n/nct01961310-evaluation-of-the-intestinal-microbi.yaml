@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01961310
+name: NCT01961310 — Evaluation of the Intestinal Microbiota and Bacterial Translocation in Patients With
+  Rheumatoid Arthritis
+description: The main objective of this study is to compare the intestinal microbiota in newly diagnosed
+  rheumatoid arthritis (RA) with that from individuals without RA. The first analysis will compare the
+  proportion of filamentous bacteria in the intestinal microbiota between the two groups. (NCT NCT01961310;
+  status COMPLETED).
+hypothesis: The main objective of this study is to compare the intestinal microbiota in newly diagnosed
+  rheumatoid arthritis (RA) with that from individuals without RA. The first analysis will compare the
+  proport
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01961310 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01961310-evaluation-of-the-intestinal-microbi

@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01237327
+name: NCT01237327 — Multicenter Follow Up Study Of Subjects Who Participated In An Original Protocol Of
+  Exemestane Vs. Megestrol Acetate In Postmenopausal Women With Metastatic Breast Cancer
+description: 'Long term efficacy of exemestane as compared to megestrol acetate in the treatment of women
+  with natural or induced postmenopausal status with advanced breast cancer whose disease has progressed
+  following anti-estrogens or anti-estrogens plus chemotherapy and who had participated on an original
+  study of exemestane vs megestrol : study 971-ONC-0028-080. (NCT NCT01237327; status COMPLETED).'
+hypothesis: Long term efficacy of exemestane as compared to megestrol acetate in the treatment of women
+  with natural or induced postmenopausal status with advanced breast cancer whose disease has progressed
+  follo
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01237327 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01237327-multicenter-follow-up-study-of-subje

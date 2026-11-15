@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01726725
+name: NCT01726725 — Hemifacial Spasm and Desflurane
+description: Patients are chosen to participate in this study because they will undergo a particular type
+  of brain surgery to treat their hemifacial spasm. This surgery is called microvascular decompression
+  (MVD) and involves the facial nerve. The facial nerve is being compressed by one or more blood vessels
+  and this contact produces the facial twitches. The investigators do not know why a blood vessel that
+  touches the facial nerve produces facial twitches. The investigators are interested in investigating
+  this during your surgery. A total of 25 participants are expected to participate in this study. (NCT
+  NCT01726725; status UNKNOWN).
+hypothesis: 'Patients are chosen to participate in this study because they will undergo a particular type
+  of brain surgery to treat their hemifacial spasm. This surgery is called microvascular decompression
+  (MVD) '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01726725 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct01726725-hemifacial-spasm-and-desflurane

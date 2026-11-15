@@ -1,0 +1,30 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06587789
+name: NCT06587789 — Ribociclib in Combination With Adjuvant Endocrine Therapy for Patients With Early
+  High-risk HR+HER2- Breast Cancer
+description: 'The goal of this observational study is to learn about the effects of using ribociclib in
+  combination with physician-selected endocrine therapy as adjuvant therapy for patients with early high-risk
+  HR+HER2- breast cancer. The main question it aims to answer is: Whether it is effective and safe to
+  use ribociclib in combination with physician-selected endocrine therapy as adjuvant therapy for patients
+  with early high-risk HR+HER2- breast cancer? Participants will receive ribociclib (at a dose of 400mg
+  per day for 3 weeks, followed by 1 week off, 4 weeks for 1 cycle) plus physician-selected endocrine
+  therapy for three years. During the follow-up, their relevant clinical data will be recorded. (NCT NCT06587789;
+  status RECRUITING).'
+hypothesis: The goal of this observational study is to learn about the effects of using ribociclib in
+  combination with physician-selected endocrine therapy as adjuvant therapy for patients with early high-risk
+  HR
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06587789 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06587789-ribociclib-in-combination-with-adjuv

@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03473860
+name: NCT03473860 — the Change of CEM and the Prognosis of Coronary Artery Disease in Real Clinical Practice
+description: The purpose of this study is to investigate the change of total cholesterol content of erythrocyte
+  membranes (CEM) in patients with coronary artery disease treated with secondary prevention drugs, and
+  the correlation with the prognosis. (NCT NCT03473860; status UNKNOWN).
+hypothesis: The purpose of this study is to investigate the change of total cholesterol content of erythrocyte
+  membranes (CEM) in patients with coronary artery disease treated with secondary prevention drugs, and
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03473860 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct03473860-the-change-of-cem-and-the-prognosis

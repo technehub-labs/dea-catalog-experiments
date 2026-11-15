@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02252679
+name: NCT02252679 — Study of the Diagnostic Value of Stable Calcium Isotope Profiling in Bone and Calcium
+  Disorders
+description: The purpose of this study is to determine whether mass spectrometry analysis of stable (non-radioactive)
+  calcium isotopes in plasma or urine samples can help in the diagnosis of bone and calcium disorders.
+  (NCT NCT02252679; status COMPLETED).
+hypothesis: The purpose of this study is to determine whether mass spectrometry analysis of stable (non-radioactive)
+  calcium isotopes in plasma or urine samples can help in the diagnosis of bone and calcium disor
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02252679 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02252679-study-of-the-diagnostic-value-of-sta

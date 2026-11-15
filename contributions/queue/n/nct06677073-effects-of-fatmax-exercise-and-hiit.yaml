@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06677073
+name: NCT06677073 — Effects of FATmax Exercise and HIIT on Fat Loss in Overweight Young Women
+description: 'This study investigated the effects of two exercise modalities: high-intensity interval
+  training (HIIT) and maximal fat oxidation (FATmax) exercise on fat loss in overweight young women. Participants
+  were randomly assigned to either the HIIT or FATmax group, underwent an 8-week supervised exercise intervention.
+  (NCT NCT06677073; status COMPLETED).'
+hypothesis: 'This study investigated the effects of two exercise modalities: high-intensity interval training
+  (HIIT) and maximal fat oxidation (FATmax) exercise on fat loss in overweight young women. Participants '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06677073 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06677073-effects-of-fatmax-exercise-and-hiit

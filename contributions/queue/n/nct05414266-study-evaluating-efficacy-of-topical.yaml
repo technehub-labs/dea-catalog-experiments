@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05414266
+name: NCT05414266 — Study Evaluating Efficacy of Topical Squaric Acid Dibutyl Ester in Children and Adolescents
+  With Alopecia Areata
+description: The purpose of this study is to evaluate the efficacy and tolerability of squaric acid dibutylester
+  (SADBE) in children and adolescents with alopecia areata (AA) and to evaluate effect of squaric acid
+  dibutyl ester on patient-centered outcomes and payer relevant measures to assess treatment benefit from
+  the patient perspective and to demonstrate value (NCT NCT05414266; status UNKNOWN).
+hypothesis: The purpose of this study is to evaluate the efficacy and tolerability of squaric acid dibutylester
+  (SADBE) in children and adolescents with alopecia areata (AA) and to evaluate effect of squaric acid
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05414266 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct05414266-study-evaluating-efficacy-of-topical

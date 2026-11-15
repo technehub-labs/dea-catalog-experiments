@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07733596
+name: NCT07733596 — Development of a Digital Acceptance and Commitment Therapy Intervention for Suicide
+  Prevention in Adults Through Co-design
+description: Suicide is a major public health concern and there is a need for accessible and scalable
+  interventions to support individuals experiencing suicidal thoughts. The aim of this study is to develop
+  a digital Acceptance and Commitment Therapy (ACT) intervention for suicide prevention in Chinese adults
+  through co-design. The study will involve literature review, interviews, and co-design activities to
+  identify user needs, preferences, and contextual factors, and to develop the intervention. Following
+  intervention development, a pilot study will be conducted to evaluate the feasibility, usability, acceptability,
+  and user engagement of the intervention. Findings from this study will inform further refinement of
+  the intervention and future evaluation studies. (NCT NCT07733596; status NOT_YET_RECRUITING).
+hypothesis: Suicide is a major public health concern and there is a need for accessible and scalable interventions
+  to support individuals experiencing suicidal thoughts. The aim of this study is to develop a digi
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07733596 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07733596-development-of-a-digital-acceptance

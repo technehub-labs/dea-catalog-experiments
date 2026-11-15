@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02629705
+name: NCT02629705 — Study of Carrageenan's Effect on Insulin Resistance in Humans
+description: The purpose of this study is to determine whether the ingestion of the common food additive
+  carrageenan contributes to insulin resistance and thus to the pathogenesis of type 2 diabetes in humans.
+  (NCT NCT02629705; status COMPLETED).
+hypothesis: The purpose of this study is to determine whether the ingestion of the common food additive
+  carrageenan contributes to insulin resistance and thus to the pathogenesis of type 2 diabetes in humans.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02629705 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02629705-study-of-carrageenan-s-effect-on-ins

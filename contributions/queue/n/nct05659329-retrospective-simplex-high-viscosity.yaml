@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05659329
+name: NCT05659329 — Retrospective Simplex High Viscosity (HV) Bone Cement Study
+description: This study is a retrospective multicenter study to review the use of Simplex High Viscosity
+  Bone Cement in Primary Total Knee Arthroplasty (NCT NCT05659329; status COMPLETED).
+hypothesis: This study is a retrospective multicenter study to review the use of Simplex High Viscosity
+  Bone Cement in Primary Total Knee Arthroplasty
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05659329 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05659329-retrospective-simplex-high-viscosity

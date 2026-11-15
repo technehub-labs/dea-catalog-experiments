@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00724724
+name: NCT00724724 — The Effectiveness and Safety of Butylphthalide Soft Capsules in Secondary Prevention
+  of Ischemic Stroke Trial
+description: The purpose of the study is to evaluate the efficacy and safety of Butylphthalide Soft Capsules
+  (En Bi Pu, NBP) in Secondary Prevention of Ischemic Stroke (NCT NCT00724724; status UNKNOWN).
+hypothesis: The purpose of the study is to evaluate the efficacy and safety of Butylphthalide Soft Capsules
+  (En Bi Pu, NBP) in Secondary Prevention of Ischemic Stroke
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00724724 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct00724724-the-effectiveness-and-safety-of-buty

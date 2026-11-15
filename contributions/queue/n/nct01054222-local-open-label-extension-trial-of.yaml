@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01054222
+name: NCT01054222 — Local, Open-Label, Extension Trial Of The Efficacy And Safety Of Fesoterodine In Elderly
+  Patients With Overactive Bladder
+description: This is an open-label extension study intended for subjects who have previously completed
+  study A0221045 (fesoterodine in elderly OAB patients) and who have been recommended by the investigator
+  as being suitable for the extended use of Fesoterodine. Data from this study will extend the evaluation
+  of efficacy, tolerability and safety of Fesoterodine in older subjects from Portugal. (NCT NCT01054222;
+  status COMPLETED).
+hypothesis: This is an open-label extension study intended for subjects who have previously completed
+  study A0221045 (fesoterodine in elderly OAB patients) and who have been recommended by the investigator
+  as bei
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01054222 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01054222-local-open-label-extension-trial-of

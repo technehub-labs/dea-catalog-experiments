@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03360045
+name: NCT03360045 — Comparing Effectiveness of Merocel and Packing With Tranexamic Acid in the Management
+  of Anterior Epistaxis
+description: Aim of this study is evaluate whether superior nasal compression with tranexamic acid to
+  simple nasal compression and Merocel packing. In this study, patients who presented with non-traumatic
+  anterior epistaxis to emergency departments will be included in this study. Three different therapy
+  option are created; first, nasal compression with tranexamic acid, second, simple nasal compression
+  without any drugs. And third, packing with Merocel. (NCT NCT03360045; status COMPLETED).
+hypothesis: Aim of this study is evaluate whether superior nasal compression with tranexamic acid to simple
+  nasal compression and Merocel packing. In this study, patients who presented with non-traumatic anterior
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03360045 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03360045-comparing-effectiveness-of-merocel-a

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05368129
+name: NCT05368129 — Safety and Efficacy of POT PTCA Balloon Dilatation Catheter for the Optimal Dilation
+  After DES Implantation
+description: The objective of this randomized control trial is to gain clinical insight on the use of
+  POT PTCA balloon dilatation catheter for the optimal dilation after drug-eluting stent implantation.
+  (NCT NCT05368129; status COMPLETED).
+hypothesis: The objective of this randomized control trial is to gain clinical insight on the use of POT
+  PTCA balloon dilatation catheter for the optimal dilation after drug-eluting stent implantation.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05368129 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05368129-safety-and-efficacy-of-pot-ptca-ball

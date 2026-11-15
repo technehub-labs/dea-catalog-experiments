@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04919954
+name: NCT04919954 — Tebipenem (SPR994) Tissue Penetration in Diabetic Patients With Wound Infections and
+  Healthy Volunteers Via In Vivo Microdialysis
+description: This study will determine the tissue penetration of a broad-spectrum orally bioavailable
+  carbapenem, tebipenem pivoxil hydrobromide (SPR994) (Spero Therapeutics, Inc.), into the extracellular,
+  interstitial fluid of soft tissue in diabetic patients with lower limb wound infections. Penetration
+  will be compared with a group of healthy volunteer control participants. (NCT NCT04919954; status COMPLETED).
+hypothesis: This study will determine the tissue penetration of a broad-spectrum orally bioavailable carbapenem,
+  tebipenem pivoxil hydrobromide (SPR994) (Spero Therapeutics, Inc.), into the extracellular, interst
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04919954 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04919954-tebipenem-spr994-tissue-penetration

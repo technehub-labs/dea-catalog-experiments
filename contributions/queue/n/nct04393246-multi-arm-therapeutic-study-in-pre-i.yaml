@@ -1,0 +1,37 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04393246
+name: NCT04393246 — mulTi-Arm Therapeutic Study in Pre-ICu Patients Admitted With Covid-19 - Experimental
+  Drugs and Mechanisms
+description: TACTIC-E is a randomised, parallel arm, open-label platform trial for investigating potential
+  treatments for COVID-19 disease. While SARS-CoV infection evades detection by the immune system in the
+  first 24 hours of infection, it ultimately produces a massive immune system response in the subgroup
+  of people who develop severe complications. Most tissue damage following infection with COVID-19 appears
+  to be due to a later, exaggerated, host immune response (Gralinski and Baric 2015). This leads to lung
+  and sometimes multi-organ damage. Most people who develop these severe complications still have virus
+  present in their respiratory tract at the time-point when the disease starts to evolve. Immune modulation
+  in the presence of active infection has potential to cause more harm than benefit. Safety considerations
+  when studying immune modulation strategies are paramount. This study will assess the efficacy of a novel
+  immunomodulatory agent and a novel combination of approved agents which may protect the patient against
+  end-organ damage and modulate the pulmonary vascular response. This study will compare the novel therapeutic
+  agent EDP1815 and a novel combination of the approved agents dapagliflozin and ambrisentan against Standard
+  of Care. A trial arm (UNI911) with the IMP Niclosamide was added to the protocol with one patient recruited
+  into this arm. Following an AESI and after discussions between the funder and the Sponsor the arm was
+  stopped. (NCT NCT04393246; status COMPLETED).
+hypothesis: TACTIC-E is a randomised, parallel arm, open-label platform trial for investigating potential
+  treatments for COVID-19 disease. While SARS-CoV infection evades detection by the immune system in the
+  fir
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04393246 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04393246-multi-arm-therapeutic-study-in-pre-i

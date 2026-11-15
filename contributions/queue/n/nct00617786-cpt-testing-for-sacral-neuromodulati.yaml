@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00617786
+name: NCT00617786 — CPT Testing for Sacral Neuromodulation Outcomes
+description: This is a prospective study. Subjects will be recruited from the urology practices of Dr.
+  Ken Peters and Dr. Ananias Diokno at William Beaumont Hospital. Subjects will be referred to the study
+  by the clinician recommending Sacral NeuroModulation therapy (SNM). This pilot study is to explore the
+  effect of SNM on sensory pathways by measuring CPT values pre and post SNM treatment. (NCT NCT00617786;
+  status COMPLETED).
+hypothesis: 'This is a prospective study. Subjects will be recruited from the urology practices of Dr.
+  Ken Peters and Dr. Ananias Diokno at William Beaumont Hospital. Subjects will be referred to the study
+  by the '
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00617786 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00617786-cpt-testing-for-sacral-neuromodulati

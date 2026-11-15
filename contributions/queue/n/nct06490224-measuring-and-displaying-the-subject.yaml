@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06490224
+name: NCT06490224 — Measuring and Displaying the Subjective
+description: The investigators developed a brief set of subjective health measures designed to feel more
+  relevant to patients seeking musculoskeletal specialty care, presented the scores to patients and clinicians
+  using an easy-to-understand visual display, and measured whether or not this process harmed patient
+  experience. (NCT NCT06490224; status COMPLETED).
+hypothesis: The investigators developed a brief set of subjective health measures designed to feel more
+  relevant to patients seeking musculoskeletal specialty care, presented the scores to patients and clinicians
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06490224 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06490224-measuring-and-displaying-the-subject

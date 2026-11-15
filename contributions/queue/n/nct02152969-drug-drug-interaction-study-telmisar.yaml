@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02152969
+name: NCT02152969 — Drug-drug Interaction Study (Telmisartan, Amlodipine, Chlorthalidone)
+description: 'Drug-drug Interaction Study (Telmisartan, Amlodipine, Chlorthalidone) — a registered study
+  in the ClinicalTrials.gov registry (status: COMPLETED). (NCT NCT02152969; status COMPLETED).'
+hypothesis: To evaluate Drug-drug interaction
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02152969 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct02152969-drug-drug-interaction-study-telmisar

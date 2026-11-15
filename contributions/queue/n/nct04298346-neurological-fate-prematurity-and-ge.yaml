@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04298346
+name: NCT04298346 — Neurological Fate, Prematurity and Genetic Susceptibility Factors
+description: This study could help identify aggravating or protective genetic polymorphisms associated
+  with cerebral palsy. Populations of premature babies at different risk of cerebral palsy could thus
+  be individualized with an impact on their monitoring and on the pathophysiological understanding of
+  the processes leading to neurological lesions. (NCT NCT04298346; status COMPLETED).
+hypothesis: This study could help identify aggravating or protective genetic polymorphisms associated
+  with cerebral palsy. Populations of premature babies at different risk of cerebral palsy could thus
+  be individ
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04298346 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04298346-neurological-fate-prematurity-and-ge

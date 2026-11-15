@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00213369
+name: NCT00213369 — Neuromodulation of Aspiration Secondary to Stroke
+description: Aspiration could induce major respiratory affection. They are often present after stroke.
+  The aim of this study is to facilitate swallowing recuperation in stroke patients using peripheral laryngeal
+  stimulation and to understand its mechanisms using motor evoked potential and cortical evoked potential.
+  (NCT NCT00213369; status COMPLETED).
+hypothesis: Aspiration could induce major respiratory affection. They are often present after stroke.
+  The aim of this study is to facilitate swallowing recuperation in stroke patients using peripheral laryngeal
+  s
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00213369 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00213369-neuromodulation-of-aspiration-second

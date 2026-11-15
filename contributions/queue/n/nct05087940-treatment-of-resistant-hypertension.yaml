@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05087940
+name: 'NCT05087940 — Treatment of Resistant Hypertension: Cohort Study'
+description: 'This is a multicenter, prospective observational cohort study. It will compare effectiveness
+  and safety of various add-on treatment options in regard to arterial blood pressure control in adult
+  patients with treatment resistant hypertension: an aldosterone receptor blocker (e.g. spironolactone),
+  a loop diuretic, a thiazide in large daily dose, an alpha 1 selective blocker or a beta 1 selective
+  blocker. The add-on therapy will be prescribed to the patients within the scope of their routine medical
+  care, independently from the study investigators. The patients will be followed up for 6 months, with
+  monthly visits and continuous home blood pressure diary kept by the patients themselves. (NCT NCT05087940;
+  status COMPLETED).'
+hypothesis: This is a multicenter, prospective observational cohort study. It will compare effectiveness
+  and safety of various add-on treatment options in regard to arterial blood pressure control in adult
+  patien
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05087940 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05087940-treatment-of-resistant-hypertension

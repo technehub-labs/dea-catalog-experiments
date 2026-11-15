@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01964196
+name: NCT01964196 — ASP1517 Phase 2 Clinical Trial - Double-Blind Study of ASP1517 for the Treatment of
+  Anemia in Chronic Kidney Disease Patients Not on Dialysis-
+description: This study is to evaluate the safety and the dose-response of ASP1517 in the treatment of
+  anemia in non-dialysis Chronic Kidney Disease (CKD) patients when ASP1517 is applied intermittently.
+  (NCT NCT01964196; status COMPLETED).
+hypothesis: This study is to evaluate the safety and the dose-response of ASP1517 in the treatment of
+  anemia in non-dialysis Chronic Kidney Disease (CKD) patients when ASP1517 is applied intermittently.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01964196 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01964196-asp1517-phase-2-clinical-trial-doubl

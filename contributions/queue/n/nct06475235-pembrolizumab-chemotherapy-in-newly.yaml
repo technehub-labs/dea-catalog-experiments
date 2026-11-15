@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06475235
+name: NCT06475235 — Pembrolizumab + Chemotherapy in Newly Diagnosed PCNSL
+description: 'This research study is studying if the investigational drug, Pembrolizumab, in combination
+  with chemotherapy helps primary central nervous system lymphoma with acceptable side effects. This research
+  study involves a combination of the below drugs: * Pembrolizumab (a type of monoclonal antibody) * Methotrexate
+  (a type of anti-metabolite) * Temozolomide (a type of alkylating agent) * Rituximab (a type of antibody)
+  (NCT NCT06475235; status RECRUITING).'
+hypothesis: This research study is studying if the investigational drug, Pembrolizumab, in combination
+  with chemotherapy helps primary central nervous system lymphoma with acceptable side effects. This research
+  s
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06475235 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct06475235-pembrolizumab-chemotherapy-in-newly

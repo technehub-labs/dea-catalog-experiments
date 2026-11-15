@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03930602
+name: NCT03930602 — Study to Characterize the Effects of Cytochrome p450 1A2 Inhibition on Systemic Exposure
+  to BMS-986165
+description: To compare the pharmacokinetic characteristics of BMS-986165 after a single-dose administration
+  alone vs. in combination with fluvoxamine (CYP1A2 inhibitor) (NCT NCT03930602; status COMPLETED).
+hypothesis: To compare the pharmacokinetic characteristics of BMS-986165 after a single-dose administration
+  alone vs. in combination with fluvoxamine (CYP1A2 inhibitor)
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03930602 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03930602-study-to-characterize-the-effects-of

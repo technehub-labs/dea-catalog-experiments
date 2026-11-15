@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05199688
+name: NCT05199688 — A Study to Evaluate Pharmacokinetics, Efficacy, Safety, Tolerability, and Pharmacodynamics
+  of Satralizumab in Pediatric Patients With Aquaporin-4 Antibody Positive Neuromyelitis Optica S
+description: This study will primarily evaluate the pharmacokinetics of satralizumab in pediatric patients
+  aged 2-11 years with anti-aquaporin-4 (AQP4) antibody seropositive neuromyelitis optica spectrum disorder
+  (NMOSD). Efficacy, safety, tolerability, and pharmacodynamics will be evaluated in a descriptive manner,
+  given the small number of patients who will be enrolled in this study. (NCT NCT05199688; status RECRUITING).
+hypothesis: 'This study will primarily evaluate the pharmacokinetics of satralizumab in pediatric patients
+  aged 2-11 years with anti-aquaporin-4 (AQP4) antibody seropositive neuromyelitis optica spectrum disorder '
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05199688 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct05199688-a-study-to-evaluate-pharmacokinetics

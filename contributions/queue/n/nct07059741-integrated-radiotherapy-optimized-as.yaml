@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07059741
+name: NCT07059741 — Integrated Radiotherapy-optimized ASCT Sequential CAR-T Therapy for Patients With
+  Relapsed and Refractory B-NHL
+description: This study aims to investigate a novel therapeutic strategy of integrated radiotherapy before
+  autologous stem cell transplantation (ASCT) sequential chimeric antigen receptor T-cell(CAR-T) therapy
+  for patients with relapsed/refractory(R/R) aggressive B-cell non-Hodgkin lymphoma (B-NHL). By evaluating
+  the efficacy and safety of this multimodal approach, we seek to provide a theoretical foundation and
+  clinical data to optimize outcomes for relapsed/refractory aggressive B-NHL patients. (NCT NCT07059741;
+  status RECRUITING).
+hypothesis: This study aims to investigate a novel therapeutic strategy of integrated radiotherapy before
+  autologous stem cell transplantation (ASCT) sequential chimeric antigen receptor T-cell(CAR-T) therapy
+  for
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07059741 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct07059741-integrated-radiotherapy-optimized-as

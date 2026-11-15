@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03738631
+name: NCT03738631 — Cardiac Biomarkers After Marathon Running and Coronary Atherosclerosis
+description: This study evaluates cardiac biomarkers and their association to coronary artery disease
+  in marathon runners. (NCT NCT03738631; status COMPLETED).
+hypothesis: This study evaluates cardiac biomarkers and their association to coronary artery disease in
+  marathon runners.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03738631 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03738631-cardiac-biomarkers-after-marathon-ru

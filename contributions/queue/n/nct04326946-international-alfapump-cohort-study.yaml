@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04326946
+name: NCT04326946 — International Alfapump Cohort Study
+description: This Registry is designed to follow patients who have been implanted with an alfapump system,
+  which is a newly marketed product from Sequana Medical AG, a Swiss Medical Device company. (NCT NCT04326946;
+  status ACTIVE_NOT_RECRUITING).
+hypothesis: This Registry is designed to follow patients who have been implanted with an alfapump system,
+  which is a newly marketed product from Sequana Medical AG, a Swiss Medical Device company.
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04326946 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct04326946-international-alfapump-cohort-study

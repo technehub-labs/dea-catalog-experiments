@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03126669
+name: NCT03126669 — Oxygen as a Limiting Factor for Performing Multitasking
+description: The aim of the present study was to evaluate whether hyperbaric oxygen (HBO) environment,
+  with increased oxygen supply to the brain, will enable better performance of complex and/or multiple
+  activities. (NCT NCT03126669; status COMPLETED).
+hypothesis: The aim of the present study was to evaluate whether hyperbaric oxygen (HBO) environment,
+  with increased oxygen supply to the brain, will enable better performance of complex and/or multiple
+  activitie
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03126669 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03126669-oxygen-as-a-limiting-factor-for-perf

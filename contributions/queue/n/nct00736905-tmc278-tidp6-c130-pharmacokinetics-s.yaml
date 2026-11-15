@@ -1,0 +1,28 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00736905
+name: 'NCT00736905 — TMC278-TiDP6-C130: Pharmacokinetics, Safety and Tolerability of TMC278 in Subjects
+  With Mildly or Moderately Impaired Hepatic Function.'
+description: The purpose of this study is to investigate the pharmacokinetics (how the drug is absorbed
+  into the bloodstream, distributed in the body and eliminated from the body) after a single dose and
+  after repeated administration of TMC278 administered once daily for 11 days in subjects with mild or
+  moderate hepatic impairment (impaired liver function), compared with healthy control subjects. Furthermore
+  the short-term safety and tolerability (how well the body tolerates the drug) of TMC278 will be assessed.
+  (NCT NCT00736905; status COMPLETED).
+hypothesis: The purpose of this study is to investigate the pharmacokinetics (how the drug is absorbed
+  into the bloodstream, distributed in the body and eliminated from the body) after a single dose and
+  after rep
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00736905 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00736905-tmc278-tidp6-c130-pharmacokinetics-s

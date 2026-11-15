@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04294862
+name: NCT04294862 — Tissue Distribution, Pharmacokinetics, Safety, and Tolerability After a Single Dose
+  of TNP-2092 in Participants Undergoing Primary Total Hip or Knee Arthroplasty
+description: This study will investigate TNP-2092 distribution into joint tissues in participants undergoing
+  a total hip arthroplasty (THA) or a total knee arthroplasty (TKA). Tissue distribution is the primary
+  objective, and plasma pharmacokinetics (PK), safety, and tolerability are secondary objectives. (NCT
+  NCT04294862; status COMPLETED).
+hypothesis: This study will investigate TNP-2092 distribution into joint tissues in participants undergoing
+  a total hip arthroplasty (THA) or a total knee arthroplasty (TKA). Tissue distribution is the primary
+  ob
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04294862 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04294862-tissue-distribution-pharmacokinetics

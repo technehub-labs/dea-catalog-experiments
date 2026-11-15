@@ -1,0 +1,32 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04045522
+name: NCT04045522 — Study on Bisphosphonates Targeting Triple-negative Breast Cancer
+description: Triple-negative breast cancer has a poor prognosis and lacks effective adjuvant treatment.
+  A number of preclinical and clinical trials have shown that bisphosphonates have direct or indirect
+  anti-tumor activity, and early use of bisphosphonate adjuvant therapy can prevent cancer recurrence
+  and metastasis including bone metastasis and greatly improve the prognosis of cancer patients. Bisphosphonates
+  have the advantages of low cost, low toxicity, and strong tolerance and can be used as an auxiliary
+  treatment for triple-negative breast cancer. The preliminary study found that bisphosphonates can be
+  chimeric with erlotinib, an epidermal growth factor receptor tyrosine kinase inhibitor, which can synergistically
+  inhibit the in vitro tumor formation of cancer (such as non-small-cell lung cancer and breast cancer)
+  cells and the growth of transplanted tumors. Therefore, the purpose of this multi-center prospective
+  real-world study was to further investigate the effects of bisphosphonate adjuvant therapy on breast
+  cancer. (NCT NCT04045522; status UNKNOWN).
+hypothesis: Triple-negative breast cancer has a poor prognosis and lacks effective adjuvant treatment.
+  A number of preclinical and clinical trials have shown that bisphosphonates have direct or indirect
+  anti-tumo
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04045522 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct04045522-study-on-bisphosphonates-targeting-t

@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00965705
+name: NCT00965705 — Stepped Care Treatment for Binge-Eating
+description: Temple University is looking for women to participate in a study to evaluate the treatment
+  options available to women living with binge eating disorder. Binge-Eating Disorder is a significant
+  public health problem for women. Despite this, there is limited research on how best to treat this disorder
+  at varying levels of severity. The purpose of this NIMH-funded study is to enroll individuals in a brief
+  form of cognitive-behavior therapy. If more intense treatment is needed, individuals will be randomly
+  assigned to more intensive group and individual treatments (Cognitive-Behavior Therapy or Dialectical
+  Behavior Therapy). Both of these treatments are talking therapies that have been adapted for women living
+  with binge-eating disorder and are free of charge. (NCT NCT00965705; status COMPLETED).
+hypothesis: Temple University is looking for women to participate in a study to evaluate the treatment
+  options available to women living with binge eating disorder. Binge-Eating Disorder is a significant
+  public h
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00965705 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00965705-stepped-care-treatment-for-binge-eat

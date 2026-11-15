@@ -1,0 +1,23 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04720053
+name: NCT04720053 — Evaluating Mindfulness-Based Interventions With New Fibromyalgia Patients
+description: The purpose of this study is to study the feasibility of a wearable brain sensing wellness
+  device to provide mindfulness training to fibromyalgia patients who have failed medical therapy. (NCT
+  NCT04720053; status COMPLETED).
+hypothesis: The purpose of this study is to study the feasibility of a wearable brain sensing wellness
+  device to provide mindfulness training to fibromyalgia patients who have failed medical therapy.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04720053 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04720053-evaluating-mindfulness-based-interve

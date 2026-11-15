@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT07094841
+name: NCT07094841 — Comparative Study Between Two 3D Functional Appliances Herbst and Mandibular Anterior
+  Repositioning Appliance (MARA) on Posterior Airway Space And TMJ in Growing Class II Malocclusion Pa
+description: 'The aim of this study is to evaluate effect of three dimensional printed appliances Herbst
+  appliance and Mandibular Anterior Repositioning Appliance (MARA) on Posterior Airway Space (PAS) and
+  Temporomandibular Joint (TMJ) in growing patients with Class II malocclusion. Primary outcome: Effect
+  of three dimensional printed appliances Herbst appliance and Mandibular Anterior Repositioning Appliance
+  (MARA) on Class II malocclusion in growing patients. Secondary outcome: To evaluate effects of two different
+  three dimensional printed functional appliances on Posterior Airway Space (PAS) and Temporomandibular
+  Joint (TMJ). (NCT NCT07094841; status NOT_YET_RECRUITING).'
+hypothesis: The aim of this study is to evaluate effect of three dimensional printed appliances Herbst
+  appliance and Mandibular Anterior Repositioning Appliance (MARA) on Posterior Airway Space (PAS) and
+  Temporom
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT07094841 (ClinicalTrials.gov; status NOT_YET_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- not-yet-recruiting
+slug: nct07094841-comparative-study-between-two-3d-fun

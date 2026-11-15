@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04565808
+name: NCT04565808 — CHA2DS2-VASc Score as a Predictor of Thrombus Burden and Clinical Outcomes in Patients
+  Undergoing PPCI.
+description: Aim of the work is to evaluate the use CHA2DS2-VASc score in predicting no-reflow phenomenon
+  and its impact on short term primary percutaneous coronary intervention outcomes (in-hospital mortality)
+  and long term (6 months) incidence of MACE ( major adverse cardiac event ) in patients with ST segment
+  elevation Myocardial infarction who underwent primary primary percutaneous coronary intervention (NCT
+  NCT04565808; status UNKNOWN).
+hypothesis: Aim of the work is to evaluate the use CHA2DS2-VASc score in predicting no-reflow phenomenon
+  and its impact on short term primary percutaneous coronary intervention outcomes (in-hospital mortality)
+  an
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04565808 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct04565808-cha2ds2-vasc-score-as-a-predictor-of

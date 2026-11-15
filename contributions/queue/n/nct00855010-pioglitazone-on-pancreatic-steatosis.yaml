@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT00855010
+name: NCT00855010 — Pioglitazone on Pancreatic Steatosis and Bone Health
+description: Randomized, double blind, placebo controlled trial evaluating the effect of pioglitazone
+  on pancreatic fat content and bone turnover markers. (NCT NCT00855010; status COMPLETED).
+hypothesis: Randomized, double blind, placebo controlled trial evaluating the effect of pioglitazone on
+  pancreatic fat content and bone turnover markers.
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT00855010 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct00855010-pioglitazone-on-pancreatic-steatosis

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03491683
+name: NCT03491683 — INO-5401 and INO-9012 Delivered by Electroporation (EP) in Combination With Cemiplimab
+  (REGN2810) in Newly-Diagnosed Glioblastoma (GBM)
+description: Phase 1/2 trial to evaluate safety, immunogenicity and preliminary efficacy of INO-5401 and
+  INO-9012 in combination with cemiplimab (REGN2810), with radiation and chemotherapy, in subjects with
+  newly-diagnosed glioblastoma (GBM). (NCT NCT03491683; status ACTIVE_NOT_RECRUITING).
+hypothesis: Phase 1/2 trial to evaluate safety, immunogenicity and preliminary efficacy of INO-5401 and
+  INO-9012 in combination with cemiplimab (REGN2810), with radiation and chemotherapy, in subjects with
+  newly-
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03491683 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct03491683-ino-5401-and-ino-9012-delivered-by-e

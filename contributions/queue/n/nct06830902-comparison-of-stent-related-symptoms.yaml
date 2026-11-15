@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT06830902
+name: 'NCT06830902 — Comparison of Stent-Related Symptoms: Regular Double J Stent vs. Comfi J Stent'
+description: A prospective, single-blinded, randomized controlled trial conducted at a single center to
+  compare stent related symptoms between two different stents using Ureteral Stent Symptom Questionnaire
+  (USSQ) scores , Visual Analog Scale (VAS) pain scores. (NCT NCT06830902; status COMPLETED).
+hypothesis: A prospective, single-blinded, randomized controlled trial conducted at a single center to
+  compare stent related symptoms between two different stents using Ureteral Stent Symptom Questionnaire
+  (USSQ)
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT06830902 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct06830902-comparison-of-stent-related-symptoms

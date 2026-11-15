@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT01001169
+name: NCT01001169 — Safety and Immunogenocity Study of GSK Biologicals' Pandemic Influenza (H1N1) Candidate
+  Vaccine in Japanese Children
+description: The objective of this study is to evaluate the immunogenicity and safety of GSK Biologicals'
+  investigational influenza vaccine GSK2340274A following one dose and following a second dose, using
+  the same dosage as has been used in the H5N1 development program in Japanese children aged 10-17 years
+  and an alternative dose in children aged 6 months to 9 years. (NCT NCT01001169; status COMPLETED).
+hypothesis: The objective of this study is to evaluate the immunogenicity and safety of GSK Biologicals'
+  investigational influenza vaccine GSK2340274A following one dose and following a second dose, using
+  the sam
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT01001169 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct01001169-safety-and-immunogenocity-study-of-g

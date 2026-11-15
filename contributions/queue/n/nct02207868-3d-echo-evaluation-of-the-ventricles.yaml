@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02207868
+name: NCT02207868 — 3D Echo Evaluation of the Ventricles in Sclero Associated Severe PAH
+description: The aim of the study is to document the left and right ventricular function in patients with
+  sclerodermia associated pulmonal arterial hypertension via 3D echocardiography. The results of this
+  study should help to generate hypothesis for further future studies. The primary hypothesis is that
+  the increased use of modern image guided methods could provide essential aspects for the follow up.
+  (NCT NCT02207868; status UNKNOWN).
+hypothesis: The aim of the study is to document the left and right ventricular function in patients with
+  sclerodermia associated pulmonal arterial hypertension via 3D echocardiography. The results of this
+  study s
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02207868 (ClinicalTrials.gov; status UNKNOWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- unknown
+slug: nct02207868-3d-echo-evaluation-of-the-ventricles

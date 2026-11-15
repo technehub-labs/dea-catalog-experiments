@@ -1,0 +1,27 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT03166722
+name: NCT03166722 — Cerebral Regional Tissue Oxygen Saturation to Guide Oxygen Delivery in Preterm Neonates
+  During Immediate Transition
+description: The aim of the COSGOD Phase III trial is to examine, if it is possible to increase survival
+  without cerebral injury in preterm neonates \<32 weeks of gestation by monitoring the cerebral tissue
+  oxygen saturation in addition to routine monitoring of arterial oxygen saturation and heart rate and
+  specified clinical treatment guidelines during immediate transition period after birth (the first 15
+  minutes). (NCT NCT03166722; status COMPLETED).
+hypothesis: The aim of the COSGOD Phase III trial is to examine, if it is possible to increase survival
+  without cerebral injury in preterm neonates \<32 weeks of gestation by monitoring the cerebral tissue
+  oxygen
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT03166722 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct03166722-cerebral-regional-tissue-oxygen-satu

@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT02303327
+name: NCT02303327 — Comparative Study of Radiotherapy Treatments to Treat High Risk Prostate Cancer Patients
+description: In North America, the number of new cases of prostate cancer increases every year. Many efforts
+  have been made to develop more efficient and safer curative treatments for high risk prostate cancer
+  patients. This phase III clinical trial is designed to compare the safety of a standard pelvic external
+  beam radiation therapy (EBRT) combined with a high dose rate brachytherapy (HDRB) boost (direct insertion
+  of radiation source over a period of minutes via flexible needles temporarily inserted in the prostate)
+  to a shorter course of hypofractionated dose escalation radiotherapy (larger radiation dose per daily
+  treatment) in patients with high risk prostate cancer. The investigators plan to recruit 296 patients
+  across Quebec who will be randomized in either treatment plan. (NCT NCT02303327; status ACTIVE_NOT_RECRUITING).
+hypothesis: In North America, the number of new cases of prostate cancer increases every year. Many efforts
+  have been made to develop more efficient and safer curative treatments for high risk prostate cancer
+  pat
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT02303327 (ClinicalTrials.gov; status ACTIVE_NOT_RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- active-not-recruitin
+slug: nct02303327-comparative-study-of-radiotherapy-tr

@@ -1,0 +1,29 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05670522
+name: NCT05670522 — Transcranial Direct Current Stimulation Versus Virtual Reality on Gait in Children
+  With Spastic Diplegia
+description: Spastic diplegia is the most frequent type of cerebral palsy (CP), and impaired gait is a
+  common sequela of this condition. The investigators compared the effects of two novel research interventions
+  transcranial direct current stimulation (tDCS) and virtual reality (VR) on gait impairments in children
+  with spastic diplegia. Currently, both tDCS and VR require further investigation to determine their
+  clinical effectiveness for children with CP. Thus, the aim of this study was to compare the effects
+  of tDCS and VR training on spatiotemporal and kinetic gait parameters in children with spastic diplegia,
+  as a supplemental intervention to traditional physical therapy. (NCT NCT05670522; status COMPLETED).
+hypothesis: Spastic diplegia is the most frequent type of cerebral palsy (CP), and impaired gait is a
+  common sequela of this condition. The investigators compared the effects of two novel research interventions
+  t
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05670522 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05670522-transcranial-direct-current-stimulat

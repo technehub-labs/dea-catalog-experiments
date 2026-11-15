@@ -1,0 +1,26 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04144361
+name: NCT04144361 — Standard Sleeve Pouch Versus Relatively Wide Pouch With Plication
+description: 'three hundred morbidly obese patients candidate for sleeve gastrectomy will divided into
+  equal two groups, group A : will operated by standard sleeve gastrectomy on bougie 36 without plication
+  of stable line and group B: will operated by sleeve gastrectomy on bougie 42 with plication of stable
+  line. the aim is to test the effect of pilcation on the incidence of leaks and bleeding (NCT NCT04144361;
+  status COMPLETED).'
+hypothesis: 'three hundred morbidly obese patients candidate for sleeve gastrectomy will divided into
+  equal two groups, group A : will operated by standard sleeve gastrectomy on bougie 36 without plication
+  of stab'
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04144361 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct04144361-standard-sleeve-pouch-versus-relativ

@@ -1,0 +1,25 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05015361
+name: NCT05015361 — A Trial of Efficacy and Safety of Remimazolam Tosilate for Injection in Local Anesthesia
+  Assisted Sedation
+description: To evaluate the efficacy and safety of Remimazolam Tosilate for injection in local anesthesia
+  assisted sedation, and to explore the dose range of remazolam toluenesulfonate for injection in local
+  anesthesia assisted sedation. (NCT NCT05015361; status COMPLETED).
+hypothesis: To evaluate the efficacy and safety of Remimazolam Tosilate for injection in local anesthesia
+  assisted sedation, and to explore the dose range of remazolam toluenesulfonate for injection in local
+  anes
+outcome: inconclusive
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05015361 (ClinicalTrials.gov; status COMPLETED)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- completed
+slug: nct05015361-a-trial-of-efficacy-and-safety-of-re

@@ -1,0 +1,24 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT05804331
+name: NCT05804331 — The Australia and New Zealand Multicentre Upper Gastrointestinal Endoscopic Tissue
+  Resection Study
+description: To determine the long term outcomes of Endoscopic Submucosal Dissection (ESD), Endoscopic
+  Full Thickness Resection (EFTR) and Submucosal-Tunnelling Endoscopic Resection (STER) for upper gastrointestinal
+  neoplastic lesions (NCT NCT05804331; status RECRUITING).
+hypothesis: To determine the long term outcomes of Endoscopic Submucosal Dissection (ESD), Endoscopic
+  Full Thickness Resection (EFTR) and Submucosal-Tunnelling Endoscopic Resection (STER) for upper gastrointestin
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT05804331 (ClinicalTrials.gov; status RECRUITING)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- recruiting
+slug: nct05804331-the-australia-and-new-zealand-multic

@@ -1,0 +1,31 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: clinical-trials.json
+source_ref: ClinicalTrials.gov NCT04481451
+name: NCT04481451 — Quadratus Lumborum vs Erector Spinae Supplementary Blocks With Lumbar Plexus Blocks
+  for Hip PAO
+description: This study proposes to evaluate the efficacy of single shot erector spinae block (ESB) versus
+  single shot quadratus lumborum block (QLB) when used in conjunction with continuous lumbar plexus block
+  (LPB) for postoperative analgesia in children and adolescents undergoing unilateral hip surgical procedures.
+  The aim of this study is to compare the efficacy of the QL vs. ESP blocks as supplements to the lumbar
+  plexus block with respect to pain control outcomes after hip PAO surgery. Both blocks are safe and easy
+  to perform. There is currently no comparative, prospective data concerning the use of these two blocks
+  for hip surgery. The investigational hypothesis is that there will be no clinical difference in the
+  amount of opioid consumed or the overall pain control offered by these two block options. (NCT NCT04481451;
+  status WITHDRAWN).
+hypothesis: This study proposes to evaluate the efficacy of single shot erector spinae block (ESB) versus
+  single shot quadratus lumborum block (QLB) when used in conjunction with continuous lumbar plexus block
+  (L
+outcome: pending
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://clinicaltrials.gov/study/NCT04481451 (ClinicalTrials.gov; status WITHDRAWN)
+  rationale: Cited from the ClinicalTrials.gov API v2 study registry. outcome is a provisional programmatic
+    mapping (pending unless the registry shows a final status); per-organization outcome values are canonical-admission
+    decisions.
+tags:
+- clinical-trial
+- withdrawn
+slug: nct04481451-quadratus-lumborum-vs-erector-spinae
